@@ -26,18 +26,20 @@
   <main class="shell">
     <section class="intro">
       <div><div class="section-kicker">THE NUMBERS, OPEN</div><h2>Find your angle.</h2></div>
-      <p>Search names, teams, venues or values. Tap a column heading to sort. Download any tab as CSV for your own analysis.</p>
+      <p>Search across a table, combine column filters, set numeric ranges, and sort any result. Download a tab whenever you need the full data.</p>
     </section>
 
     <div class="toolbar">
       <label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search this table…" autocomplete="off"><kbd>⌘ K</kbd></label>
       <label class="filter-wrap"><span>FORMAT</span><select id="format-filter"><option value="">All formats</option></select></label>
+      <button id="clear-filters" class="clear-filters" type="button" title="Clear search, format and all column filters">Clear filters</button>
       <a id="download" class="download" href="#" download>↓ <span>Download CSV</span></a>
     </div>
 
     <nav id="tabs" class="tabs" aria-label="Stat categories"></nav>
     <section class="table-card" aria-live="polite">
-      <div class="table-heading"><div><div id="table-label" class="table-title">Loading…</div><div id="table-description" class="table-subtitle"></div></div><div id="row-count" class="row-count"></div></div>
+      <div class="table-heading"><div><div id="table-label" class="table-title">Loading…</div><div id="table-description" class="table-subtitle"></div></div><div class="table-counts"><div id="row-count" class="row-count"></div><div id="filter-count" class="filter-count"></div></div></div>
+      <div class="filter-hint"><span class="filter-icon">⌕</span><span><strong>Column filters</strong> · text fields match what you type; numeric fields accept minimum and maximum values. Filters combine with search and format.</span></div>
       <div id="note" class="notice hidden"></div>
       <div class="table-scroll"><table id="stats-table"><thead></thead><tbody></tbody></table></div>
       <div class="empty hidden" id="empty">No rows match those filters.</div>

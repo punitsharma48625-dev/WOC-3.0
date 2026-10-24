@@ -17,6 +17,6 @@ The export aggregates all saved simulated matches across servers. It does not pu
 
 ## Included views
 
-The generated manifest drives the site tabs: match results, team innings and form, player batting and bowling career lines, innings, phases, pace/spin, batter handedness, batting position, teams, opponents, venues, head-to-head records, recent form and top records. Every tab has text search, format filtering where applicable, sortable columns, pagination and direct CSV download.
+The generated manifest drives the site tabs: match results, team innings and form, player batting and bowling career lines, innings, phases, pace/spin, batter handedness, batting position, teams, opponents, venues, head-to-head records, recent form and top records. Every tab has global search, a format filter where applicable, per-column filters, numeric minimum/maximum fields, sortable columns, pagination and direct CSV download. Filters combine, and **Clear filters** resets them together.
 
 The bot stores aggregate innings and split rows, not event-level data. Partnerships, ball-by-ball commentary, toss decisions and exact batter-versus-bowler pairings are therefore not in these exports.
