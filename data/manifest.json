@@ -1,157 +1,157 @@
 {
   "title": "WOC Simulated Cricket Stats",
-  "export_version": 6,
-  "generated_at_utc": "2026-10-24T11:15:56Z",
-  "match_count": 342455,
-  "max_match_id": 342455,
+  "export_version": 5,
+  "generated_at_utc": "2026-10-24T16:50:45Z",
+  "match_count": 367865,
+  "max_match_id": 367865,
   "scope": "Global simulated player stats for the curated country, franchise/domestic, international-veteran, and saved-team pool; no server or user identifiers are exported.",
-  "coverage_note": "Exports cover fields persisted by the simulator. Partnership-by-partnership, ball commentary, toss decisions and exact batter-v-bowler pairs are not stored in the current sim-stat database.",
+  "player_scope": {
+    "version": "curated-country35-franchise-legends-custom-v1",
+    "eligible_players": 9667,
+    "fingerprint": "684857f89e23b1013322b8e087dff05e4cf6f3df1c53f0f9e840a73d3240a889"
+  },
+  "coverage_note": "Players outside the public/coverage pool remain in the simulator database. Partnership-by-partnership, ball commentary, toss decisions and exact batter-v-bowler pairs are not stored in the current sim-stat database.",
   "tabs": [
     {
       "id": "bat_career",
       "label": "Batting career",
       "description": "Global simulated batting career totals by format",
       "file": "batting_career.csv",
-      "rows": 18045
+      "rows": 29233
     },
     {
       "id": "bowl_career",
       "label": "Bowling career",
       "description": "Global simulated bowling career totals by format",
       "file": "bowling_career.csv",
-      "rows": 18045
+      "rows": 29233
     },
     {
       "id": "bat_phase",
       "label": "Batting by phase",
       "description": "Runs, balls, average, strike rate and boundaries by phase",
       "file": "batting_phase.csv",
-      "rows": 108280
+      "rows": 177666
     },
     {
       "id": "bowl_phase",
       "label": "Bowling by phase",
       "description": "Overs, runs, wickets, economy, average and strike rate by phase",
       "file": "bowling_phase.csv",
-      "rows": 87301
+      "rows": 131453
     },
     {
       "id": "bat_phase_type",
       "label": "Phase × pace / spin",
       "description": "Batting split by phase and opposing pace/spin type",
       "file": "batting_phase_vs_bowling_type.csv",
-      "rows": 207840
+      "rows": 350099
     },
     {
       "id": "bat_type",
       "label": "Batting vs pace / spin",
       "description": "Batting splits against pace and spin",
       "file": "batting_vs_bowling_type.csv",
-      "rows": 74305
+      "rows": 119792
     },
     {
       "id": "bowl_hand",
       "label": "Bowling vs handedness",
       "description": "Bowling splits against left- and right-handed batters",
       "file": "bowling_vs_batter_hand.csv",
-      "rows": 67182
+      "rows": 100268
     },
     {
       "id": "bat_position",
       "label": "Batting position",
       "description": "Batting records grouped by lineup position",
       "file": "batting_position.csv",
-      "rows": 295748
+      "rows": 525206
     },
     {
       "id": "bat_team",
       "label": "Batting by team",
       "description": "Player batting record for each team represented in saved matches",
       "file": "batting_by_team.csv",
-      "rows": 37759
+      "rows": 60503
     },
     {
       "id": "bowl_team",
       "label": "Bowling by team",
       "description": "Player bowling record for each team represented in saved matches",
       "file": "bowling_by_team.csv",
-      "rows": 35336
+      "rows": 52741
     },
     {
       "id": "bat_opp",
       "label": "Batting vs opposition",
       "description": "Player batting record against each opponent",
       "file": "batting_vs_opposition.csv",
-      "rows": 68262
+      "rows": 91018
     },
     {
       "id": "bowl_opp",
       "label": "Bowling vs opposition",
       "description": "Player bowling record against each opponent",
       "file": "bowling_vs_opposition.csv",
-      "rows": 54467
+      "rows": 71882
     },
     {
       "id": "bat_venue",
       "label": "Batting by venue",
       "description": "Player batting record at each venue",
-      "file": "batting_by_venue.csv",
-      "rows": 692026
+      "file": "batting_by_venue.csv.gz",
+      "rows": 1661855
     },
     {
       "id": "bowl_venue",
       "label": "Bowling by venue",
       "description": "Player bowling record at each venue",
-      "file": "bowling_by_venue.csv",
-      "rows": 570887
+      "file": "bowling_by_venue.csv.gz",
+      "rows": 1161098
     },
     {
       "id": "bat_pitch",
       "label": "Batting by pitch",
       "description": "Player batting record by the selected pitch profile",
       "file": "batting_by_pitch.csv",
-      "rows": 38046
+      "rows": 60809
     },
     {
       "id": "bowl_pitch",
       "label": "Bowling by pitch",
       "description": "Player bowling record by the selected pitch profile",
       "file": "bowling_by_pitch.csv",
-      "rows": 35506
+      "rows": 52928
     },
     {
       "id": "bat_innings_context",
       "label": "Batting by innings",
       "description": "Player batting record in each innings number",
       "file": "batting_by_innings.csv",
-      "rows": 75456
+      "rows": 158398
     },
     {
       "id": "bowl_innings_context",
       "label": "Bowling by innings",
       "description": "Player bowling record in each innings number",
       "file": "bowling_by_innings.csv",
-      "rows": 67783
+      "rows": 115881
     },
     {
       "id": "bat_form",
       "label": "Recent batting form",
       "description": "Last ten saved batting innings per player and format",
       "file": "recent_batting_form.csv",
-      "rows": 177735
+      "rows": 290280
     },
     {
       "id": "bowl_form",
       "label": "Recent bowling form",
       "description": "Last ten saved bowling innings per player and format",
       "file": "recent_bowling_form.csv",
-      "rows": 155702
+      "rows": 234279
     }
   ],
-  "metadata_version": 1,
-  "player_scope": {
-    "version": "curated-country35-franchise-legends-custom-v1",
-    "eligible_players": 9667,
-    "fingerprint": "684857f89e23b1013322b8e087dff05e4cf6f3df1c53f0f9e840a73d3240a889"
-  }
+  "metadata_version": 1
 }

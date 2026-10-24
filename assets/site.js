@@ -77,7 +77,10 @@
     try {
       const response = await fetch(`./data/${encodeURIComponent(tab.file)}?v=${encodeURIComponent(window.archiveVersion || "")}`);
       if (!response.ok) throw new Error(`Could not load ${tab.file} (${response.status})`);
-      const parsed = parseCSV(await response.text());
+      const csvText = tab.file.endsWith(".gz")
+        ? await new Response(response.body.pipeThrough(new DecompressionStream("gzip"))).text()
+        : await response.text();
+      const parsed = parseCSV(csvText);
       if (state.tab?.id !== tab.id) return;
       // Keep player identity at the left edge and team fields at the far right,
       // including tabs whose export calls the field "team" rather than "teams".
@@ -89,7 +92,9 @@
         ...trailing,
       ];
       state.rows = parsed.records; inferNumericColumns();
-      $("download").href = `./data/${encodeURIComponent(tab.file)}`; $("download").download = tab.file;
+      $("download").href = `./data/${encodeURIComponent(tab.file)}?v=${encodeURIComponent(window.archiveVersion || "")}`;
+      $("download").download = tab.file;
+      $("download").querySelector("span").textContent = tab.file.endsWith(".gz") ? "Download CSV.GZ" : "Download CSV";
       populateFormatFilter(); populateCountryFilter(); renderTable();
     } catch (error) {
       $("row-count").textContent = "Load failed";
