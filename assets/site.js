@@ -73,7 +73,11 @@
       if (!response.ok) throw new Error(`Could not load ${tab.file} (${response.status})`);
       const parsed = parseCSV(await response.text());
       if (state.tab?.id !== tab.id) return;
-      state.columns = parsed.columns; state.rows = parsed.records; inferNumericColumns();
+      // Keep the team field available as a useful filter, but put it after the
+      // numeric career columns so the metrics stay grouped together.
+      state.columns = parsed.columns.filter((column) => column !== "teams");
+      if (parsed.columns.includes("teams")) state.columns.push("teams");
+      state.rows = parsed.records; inferNumericColumns();
       $("download").href = `./data/${encodeURIComponent(tab.file)}`; $("download").download = tab.file;
       populateFormatFilter(); renderTable();
     } catch (error) {
@@ -136,6 +140,7 @@
     const row = document.createElement("tr"); row.className = "column-filters";
     for (const column of state.columns) {
       const cell = document.createElement("th"); cell.scope = "col"; cell.className = "filter-cell";
+      if (state.numeric.has(column)) cell.classList.add("numeric-column");
       const current = state.filters.get(column) || { value: "", min: "", max: "" };
       if (state.numeric.has(column)) {
         const range = document.createElement("div"); range.className = "range-filter";
@@ -187,6 +192,7 @@
     const headRow = document.createElement("tr"); headRow.className = "column-headings";
     for (const column of state.columns) {
       const th = document.createElement("th"); th.scope = "col";
+      if (state.numeric.has(column)) th.classList.add("numeric-column");
       const button = document.createElement("button"); button.type = "button"; button.className = "sort-button";
       button.textContent = column.replaceAll("_", " ");
       button.setAttribute("aria-label", `Sort by ${column.replaceAll("_", " ")}${state.sort === column ? (state.direction > 0 ? ", ascending" : ", descending") : ""}`);
@@ -205,7 +211,7 @@
       for (const column of state.columns) {
         const td = document.createElement("td"), value = text(record[column]);
         td.textContent = value;
-        if (value !== "" && numericValue(value) !== null) td.className = "numeric";
+        if (state.numeric.has(column)) td.className = "numeric";
         tr.append(td);
       }
       tbody.append(tr);

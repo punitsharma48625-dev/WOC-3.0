@@ -117,6 +117,7 @@ th, td { min-width: 118px; }
   text-align: left; text-transform: capitalize; font: 600 10px "DM Mono", ui-monospace, monospace; letter-spacing: .045em; cursor: pointer;
 }
 .sort-button:hover { color: var(--gold); background: rgba(255, 255, 255, .025); }
+.column-headings th.numeric-column .sort-button { text-align: right; padding-right: 16px; }
 .column-filters th {
   position: sticky; top: 35px; z-index: 3; padding: 6px 7px; background: #121e30;
   border-bottom: 1px solid #34445d; box-shadow: 0 5px 10px rgba(0, 0, 0, .12);
@@ -129,13 +130,15 @@ th, td { min-width: 118px; }
 .column-filters input::placeholder { color: #75869e; }
 .column-filters input:focus { border-color: var(--blue); box-shadow: 0 0 0 2px rgba(120, 173, 255, .12); }
 .column-filters input[type="number"] { min-width: 66px; }
+.column-filters th.numeric-column .range-filter { justify-content: flex-end; }
+.column-filters th.numeric-column input { text-align: right; }
 .range-filter { display: flex; gap: 4px; min-width: 132px; }
 .range-filter input { flex: 1; width: 68px; }
 td { padding: 10px 13px; color: #dce5f2; border-bottom: 1px solid rgba(43, 58, 79, .62); font-variant-numeric: tabular-nums; }
 tbody tr { transition: background .12s ease; }
 tbody tr:hover { background: rgba(108, 169, 255, .075); }
 tbody tr:last-child td { border-bottom: 0; }
-td.numeric { color: #dbe5f2; text-align: right; font: 11px "DM Mono", ui-monospace, monospace; }
+td.numeric { color: #dbe5f2; text-align: right; padding-right: 16px; font: 11px "DM Mono", ui-monospace, monospace; }
 .empty { padding: 50px; color: var(--muted); text-align: center; }
 .table-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 13px 18px; color: var(--muted); border-top: 1px solid var(--line); font: 11px "DM Mono", ui-monospace, monospace; }
 .pager { display: flex; gap: 8px; }

@@ -1,0 +1,8 @@
+﻿format,matches,decided_matches,ties,draws,no_results,innings,average_innings_score,average_first_innings_score,average_run_rate,average_wickets,highest_innings_score,lowest_innings_score
+HUNDRED,2,2,0,0,0,4,155.75,155.0,9.76,5.75,159,152
+IPL,6,6,0,0,0,12,176.58,187.83,9.07,7.08,247,116
+ODI,3022,3005,34,0,0,6044,257.3,276.86,5.77,7.96,444,51
+T10,7,5,4,0,0,14,90.29,94.43,9.15,3.86,138,36
+T20,10848,10503,690,0,0,21696,161.68,168.04,8.4,6.75,306,33
+TEST,1887,1404,4,1797,0,7241,276.26,330.22,3.25,8.57,809,0
+TEST20,2,2,0,0,0,8,179.0,207.0,9.2,6.13,226,112
