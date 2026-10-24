@@ -92,12 +92,26 @@ button:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible
 table { width: 100%; border-collapse: separate; border-spacing: 0; white-space: nowrap; font-size: 12px; }
 thead { background: #edf1f2; }
 th, td { min-width: 118px; }
-.column-headings th.name-column, .column-filters th.name-column, td.name-column { min-width: 220px; }
-.column-headings th.sim-name-column, .column-filters th.sim-name-column, td.sim-name-column { min-width: 145px; }
+.column-headings th.name-column, .column-filters th.name-column, td.name-column { width: 220px; min-width: 220px; max-width: 220px; }
+.column-headings th.sim-name-column, .column-filters th.sim-name-column, td.sim-name-column { width: 145px; min-width: 145px; max-width: 145px; }
+.column-headings th.format-column, .column-filters th.format-column, td.format-column { width: 100px; min-width: 100px; max-width: 100px; }
 .column-headings th.name-column .sort-button, .column-headings th.sim-name-column .sort-button { text-align: left; }
 .column-filters th.name-column input, .column-filters th.sim-name-column input { text-align: left; }
-td.name-column { color: #243a45; font-weight: 650; }
-td.sim-name-column { color: #65747b; border-right: 1px solid #d5dde1; }
+td.name-column { color: #243a45; font-weight: 650; overflow: hidden; text-overflow: ellipsis; }
+td.sim-name-column { color: #65747b; }
+td.format-column { border-right: 1px solid #d5dde1; }
+/* Keep player identity visible while wide stat tables scroll sideways. */
+td.name-column, td.sim-name-column, td.format-column { position: sticky; z-index: 2; }
+td.name-column { left: 0; }
+td.sim-name-column { left: 220px; }
+td.format-column { left: 365px; }
+.column-headings th.name-column, .column-headings th.sim-name-column, .column-headings th.format-column,
+.column-filters th.name-column, .column-filters th.sim-name-column, .column-filters th.format-column { position: sticky; }
+.column-headings th.name-column, .column-filters th.name-column { left: 0; }
+.column-headings th.sim-name-column, .column-filters th.sim-name-column { left: 220px; }
+.column-headings th.format-column, .column-filters th.format-column { left: 365px; }
+.column-headings th.name-column, .column-headings th.sim-name-column, .column-headings th.format-column { z-index: 7; }
+.column-filters th.name-column, .column-filters th.sim-name-column, .column-filters th.format-column { z-index: 6; }
 .column-headings th { position: sticky; top: 0; z-index: 4; padding: 0; text-align: left; background: #edf1f2; border-bottom: 1px solid #d5dde1; user-select: none; }
 .sort-button { display: block; width: 100%; padding: 11px 12px; color: #4f5a51; background: transparent; border: 0; text-align: left; text-transform: capitalize; font: 650 10px ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: .025em; cursor: pointer; }
 .sort-button:hover { color: var(--green); background: rgba(49, 91, 67, .045); }

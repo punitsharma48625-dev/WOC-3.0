@@ -147,6 +147,7 @@
       const cell = document.createElement("th"); cell.scope = "col"; cell.className = "filter-cell";
       if (column === "name") cell.classList.add("name-column");
       if (column === "sim_name") cell.classList.add("sim-name-column");
+      if (column === "format") cell.classList.add("format-column");
       if (state.numeric.has(column)) cell.classList.add("numeric-column");
       const current = state.filters.get(column) || { value: "", min: "", max: "" };
       if (state.numeric.has(column)) {
@@ -201,6 +202,7 @@
       const th = document.createElement("th"); th.scope = "col";
       if (column === "name") th.classList.add("name-column");
       if (column === "sim_name") th.classList.add("sim-name-column");
+      if (column === "format") th.classList.add("format-column");
       if (state.numeric.has(column)) th.classList.add("numeric-column");
       const button = document.createElement("button"); button.type = "button"; button.className = "sort-button";
       button.textContent = columnLabel(column);
@@ -222,6 +224,7 @@
         td.textContent = value;
         if (column === "name") td.classList.add("name-column");
         if (column === "sim_name") td.classList.add("sim-name-column");
+        if (column === "format") td.classList.add("format-column");
         if (state.numeric.has(column)) td.className = "numeric";
         tr.append(td);
       }
