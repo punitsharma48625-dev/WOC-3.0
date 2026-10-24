@@ -1,31 +1,10 @@
 {
   "title": "WOC Simulated Cricket Stats",
-  "generated_at_utc": "2026-10-24T00:25:28Z",
+  "generated_at_utc": "2026-10-24T00:41:38Z",
   "match_count": 15774,
   "scope": "Global: all saved matches across servers; no server or user identifiers are exported.",
   "coverage_note": "Exports cover fields persisted by the simulator. Partnership-by-partnership, ball commentary, toss decisions and exact batter-v-bowler pairs are not stored in the current sim-stat database.",
   "tabs": [
-    {
-      "id": "overview",
-      "label": "Overview",
-      "description": "Format-level match and innings scoring summary",
-      "file": "format_summary.csv",
-      "rows": 7
-    },
-    {
-      "id": "matches",
-      "label": "Match results",
-      "description": "Every saved match with teams, ground, result and innings scores",
-      "file": "match_results.csv",
-      "rows": 15774
-    },
-    {
-      "id": "innings",
-      "label": "Team innings",
-      "description": "Every innings total with run rate, opponent, result and match context",
-      "file": "team_innings.csv",
-      "rows": 35019
-    },
     {
       "id": "bat_career",
       "label": "Batting career",
@@ -39,20 +18,6 @@
       "description": "Global simulated bowling career totals by format",
       "file": "bowling_career.csv",
       "rows": 1740
-    },
-    {
-      "id": "bat_innings",
-      "label": "Batting innings",
-      "description": "Every recorded player batting innings",
-      "file": "batting_innings.csv",
-      "rows": 313615
-    },
-    {
-      "id": "bowl_innings",
-      "label": "Bowling innings",
-      "description": "Every recorded player bowling innings",
-      "file": "bowling_innings.csv",
-      "rows": 202101
     },
     {
       "id": "bat_phase",
@@ -167,48 +132,6 @@
       "rows": 5002
     },
     {
-      "id": "bat_result",
-      "label": "Batting by result",
-      "description": "Player batting record in wins, losses, ties and draws",
-      "file": "batting_by_result.csv",
-      "rows": 10015
-    },
-    {
-      "id": "bowl_result",
-      "label": "Bowling by result",
-      "description": "Player bowling record in wins, losses, ties and draws",
-      "file": "bowling_by_result.csv",
-      "rows": 6022
-    },
-    {
-      "id": "team_records",
-      "label": "Team records",
-      "description": "Global wins, ties, draws, no-results and scoring by team",
-      "file": "team_records.csv",
-      "rows": 377
-    },
-    {
-      "id": "venue_records",
-      "label": "Venue records",
-      "description": "Scoring and results summary for each format and venue",
-      "file": "venue_records.csv",
-      "rows": 400
-    },
-    {
-      "id": "head_to_head",
-      "label": "Head to head",
-      "description": "Team-v-team match records and scoring",
-      "file": "head_to_head.csv",
-      "rows": 1085
-    },
-    {
-      "id": "team_form",
-      "label": "Team match form",
-      "description": "Every team's result and score for each saved match",
-      "file": "team_match_form.csv",
-      "rows": 35019
-    },
-    {
       "id": "bat_form",
       "label": "Recent batting form",
       "description": "Last ten saved batting innings per player and format",
@@ -221,20 +144,6 @@
       "description": "Last ten saved bowling innings per player and format",
       "file": "recent_bowling_form.csv",
       "rows": 14975
-    },
-    {
-      "id": "bat_records",
-      "label": "Batting records",
-      "description": "Top innings, highest scores and milestone innings",
-      "file": "batting_records.csv",
-      "rows": 1000
-    },
-    {
-      "id": "bowl_records",
-      "label": "Bowling records",
-      "description": "Top bowling innings and wicket hauls",
-      "file": "bowling_records.csv",
-      "rows": 1000
     }
   ]
 }
