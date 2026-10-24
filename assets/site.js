@@ -10,6 +10,10 @@
   };
   const tabsEl = $("tabs"), table = $("stats-table"), thead = table.querySelector("thead"), tbody = table.querySelector("tbody");
   const text = (value) => String(value ?? "");
+  const columnLabel = (column) => {
+    const labels = { name: "Name", sim_name: "Sim name", teams: "Teams" };
+    return labels[column] || column.replaceAll("_", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
+  };
   const numericValue = (value) => {
     if (value == null || String(value).trim() === "") return null;
     const n = Number(value);
@@ -73,9 +77,10 @@
       if (!response.ok) throw new Error(`Could not load ${tab.file} (${response.status})`);
       const parsed = parseCSV(await response.text());
       if (state.tab?.id !== tab.id) return;
-      // Keep the team field available as a useful filter, but put it after the
-      // numeric career columns so the metrics stay grouped together.
-      state.columns = parsed.columns.filter((column) => column !== "teams");
+      // Keep player identity together at the left edge so both canonical and
+      // simulator names are immediately visible. Teams remains a trailing field.
+      const leading = ["name", "sim_name", "format"].filter((column) => parsed.columns.includes(column));
+      state.columns = [...leading, ...parsed.columns.filter((column) => !leading.includes(column) && column !== "teams")];
       if (parsed.columns.includes("teams")) state.columns.push("teams");
       state.rows = parsed.records; inferNumericColumns();
       $("download").href = `./data/${encodeURIComponent(tab.file)}`; $("download").download = tab.file;
@@ -140,6 +145,8 @@
     const row = document.createElement("tr"); row.className = "column-filters";
     for (const column of state.columns) {
       const cell = document.createElement("th"); cell.scope = "col"; cell.className = "filter-cell";
+      if (column === "name") cell.classList.add("name-column");
+      if (column === "sim_name") cell.classList.add("sim-name-column");
       if (state.numeric.has(column)) cell.classList.add("numeric-column");
       const current = state.filters.get(column) || { value: "", min: "", max: "" };
       if (state.numeric.has(column)) {
@@ -192,10 +199,12 @@
     const headRow = document.createElement("tr"); headRow.className = "column-headings";
     for (const column of state.columns) {
       const th = document.createElement("th"); th.scope = "col";
+      if (column === "name") th.classList.add("name-column");
+      if (column === "sim_name") th.classList.add("sim-name-column");
       if (state.numeric.has(column)) th.classList.add("numeric-column");
       const button = document.createElement("button"); button.type = "button"; button.className = "sort-button";
-      button.textContent = column.replaceAll("_", " ");
-      button.setAttribute("aria-label", `Sort by ${column.replaceAll("_", " ")}${state.sort === column ? (state.direction > 0 ? ", ascending" : ", descending") : ""}`);
+      button.textContent = columnLabel(column);
+      button.setAttribute("aria-label", `Sort by ${columnLabel(column)}${state.sort === column ? (state.direction > 0 ? ", ascending" : ", descending") : ""}`);
       if (state.sort === column) button.insertAdjacentText("beforeend", state.direction > 0 ? " ↑" : " ↓");
       button.addEventListener("click", () => {
         if (state.sort === column) state.direction *= -1;
@@ -211,6 +220,8 @@
       for (const column of state.columns) {
         const td = document.createElement("td"), value = text(record[column]);
         td.textContent = value;
+        if (column === "name") td.classList.add("name-column");
+        if (column === "sim_name") td.classList.add("sim-name-column");
         if (state.numeric.has(column)) td.className = "numeric";
         tr.append(td);
       }
