@@ -1,6 +1,6 @@
 {
   "title": "WOC Simulated Cricket Stats",
-  "generated_at_utc": "2026-10-24T00:52:06Z",
+  "generated_at_utc": "2026-10-24T00:54:59Z",
   "match_count": 15774,
   "scope": "Global: all saved matches across servers; no server or user identifiers are exported.",
   "coverage_note": "Exports cover fields persisted by the simulator. Partnership-by-partnership, ball commentary, toss decisions and exact batter-v-bowler pairs are not stored in the current sim-stat database.",
