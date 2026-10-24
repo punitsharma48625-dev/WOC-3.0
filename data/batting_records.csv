@@ -1,0 +1,1001 @@
+﻿match_id,simulated_at_utc,format,name,team,opposition,venue,innings,batting_position,runs,balls,strike_rate,dismissed,fours,sixes,winner,result_type
+13722,2026-10-20 05:15:36,TEST,R Vasconcelos,Northamptonshire,Gloucestershire,"County Ground, Northampton",2,1,382,494,77.33,0,47,7,,draw
+14478,2026-10-20 05:18:36,TEST,BD Schmulian,Central Stags,Northern Districts,Bay Oval,2,2,359,565,63.54,1,40,0,,draw
+14343,2026-10-20 05:18:02,TEST,RA Mariu,Canterbury,Wellington Firebirds,Hagley Oval,2,1,338,479,70.56,1,45,2,,draw
+13837,2026-10-20 05:16:02,TEST,JM Coles,Sussex,Leicestershire,"County Ground, Hove",2,4,335,382,87.7,1,46,4,,draw
+14685,2026-10-20 05:19:25,TEST,J Weatherald,South Australia,New South Wales,"Karen Rolton Oval, Adelaide",2,3,330,455,72.53,0,42,5,,draw
+14703,2026-10-20 05:19:30,TEST,O Davies,New South Wales,Tasmania,"Cricket Central, Sydney",1,5,329,318,103.46,0,54,3,,draw
+14728,2026-10-20 05:19:36,TEST,JC Silk,Tasmania,Victoria,"Junction Oval, Melbourne",2,4,329,462,71.21,1,36,4,,draw
+14341,2026-10-20 05:18:02,TEST,JM Cumming,Otago Volts,Northern Districts,Molyneux Park,2,1,328,515,63.69,0,38,3,Otago Volts,win
+13754,2026-10-20 05:15:43,TEST,JH Wharton,Yorkshire,Leicestershire,"North Marine Road Ground, Scarborough",2,4,321,521,61.61,0,35,7,,draw
+13602,2026-10-20 05:15:06,TEST,DP Hughes,Sussex,Glamorgan,"County Ground, Hove",2,1,313,441,70.98,1,51,1,,draw
+14903,2026-10-20 05:20:18,TEST,O Davies,New South Wales,Western Australia,"Cricket Central, Sydney",2,5,304,366,83.06,1,46,2,,draw
+13161,2026-10-20 05:13:21,TEST,KS Carlson,Glamorgan,Essex,"Sophia Gardens, Cardiff",1,3,303,410,73.9,1,40,3,Glamorgan,win
+13082,2026-10-20 05:13:09,TEST,CN Ackermann,Durham,Kent,"Kent County Cricket Ground, Beckenham",2,5,303,430,70.47,1,35,2,,draw
+14505,2026-10-20 05:18:43,TEST,JCT Boyle,Otago Volts,Canterbury,University of Otago Oval,2,2,303,544,55.7,1,45,2,,draw
+14318,2026-10-20 05:17:56,TEST,HM Nicholls,Canterbury,Auckland Aces,Mainpower Oval,2,3,302,399,75.69,1,30,1,Canterbury,win
+14370,2026-10-20 05:18:08,TEST,LJ Carter,Canterbury,Auckland Aces,Kennards Hire Community Oval,2,5,301,388,77.58,0,28,8,Canterbury,win
+13347,2026-10-20 05:14:06,TEST,AZ Lees,Durham,Derbyshire,"Riverside Ground, Chester-le-Street",2,1,295,534,55.24,0,36,3,,draw
+14259,2026-10-20 05:17:43,TEST,KS Carlson,Glamorgan,Hampshire,"Sophia Gardens, Cardiff",2,3,286,283,101.06,0,45,3,Glamorgan,win
+14853,2026-10-20 05:20:06,TEST,AM Hardie,Western Australia,South Australia,"Western Australia Cricket Association Ground, Perth",1,5,286,426,67.14,0,37,4,Western Australia,win
+14107,2026-10-20 05:17:07,TEST,TA Lammonby,Somerset,Nottinghamshire,"Trent Bridge, Nottingham",2,2,285,566,50.35,0,28,1,,draw
+14430,2026-10-20 05:18:24,TEST,MWT Boyle,Canterbury,Auckland Aces,Kennards Hire Community Oval,2,4,282,311,90.68,1,39,5,,draw
+13318,2026-10-20 05:13:56,TEST,LM Reece,Derbyshire,Kent,"St Lawrence Ground, Canterbury",2,4,280,415,67.47,0,32,1,,draw
+13482,2026-10-20 05:14:37,TEST,H Hameed,Nottinghamshire,Essex,"County Ground, Chelmsford",2,1,280,519,53.95,1,36,3,Nottinghamshire,win
+14068,2026-10-20 05:16:58,TEST,BS McKinney,Durham,Lancashire,"Riverside Ground, Chester-le-Street",2,2,279,303,92.08,1,48,2,,draw
+13458,2026-10-20 05:14:31,TEST,AM Tribe,Glamorgan,Somerset,"Sophia Gardens, Cardiff",1,2,278,431,64.5,0,40,1,Glamorgan,win
+13044,2026-10-20 05:13:03,TEST,CN Ackermann,Durham,Kent,"Riverside Ground, Chester-le-Street",2,5,277,381,72.7,0,35,1,,draw
+10970,2026-10-19 23:26:32,ODI,Sineth Jayawardena,Tamil Union Cricket and Athletic Club,Moors Sports Club,"P Sara Oval, Colombo",1,2,275,165,166.67,1,24,20,Tamil Union Cricket and Athletic Club,win
+14610,2026-10-20 05:19:07,TEST,CP Jewell,Tasmania,New South Wales,"Cricket Central, Sydney",1,1,275,364,75.55,0,45,1,,draw
+13293,2026-10-20 05:13:50,TEST,BI Kellaway,Glamorgan,Yorkshire,"Sophia Gardens, Cardiff",1,4,274,407,67.32,0,37,1,Glamorgan,win
+13698,2026-10-20 05:15:30,TEST,JL du Plooy,Middlesex,Durham,"Lord's, London",2,5,273,389,70.18,0,33,2,,draw
+14689,2026-10-20 05:19:25,TEST,SM Whiteman,Western Australia,South Australia,Rawalpindi Cricket Stadium,2,3,273,427,63.93,0,31,2,,draw
+13683,2026-10-20 05:15:25,TEST,RS Patel,Surrey,Leicestershire,"Kennington Oval, London",2,3,271,371,73.05,1,33,6,Surrey,win
+13663,2026-10-20 05:15:20,TEST,H Hameed,Nottinghamshire,Yorkshire,Trent Bridge,2,1,271,522,51.92,1,36,1,,draw
+14187,2026-10-20 05:17:25,TEST,NF Kelly,Leicestershire,Surrey,"Kennington Oval, London",2,4,270,457,59.08,0,27,4,,draw
+13174,2026-10-20 05:13:24,TEST,BS McKinney,Durham,Gloucestershire,"County Ground, Bristol",1,2,269,387,69.51,0,31,7,,draw
+13508,2026-10-20 05:14:43,TEST,SD Robson,Middlesex,Lancashire,"Merchant Taylors' School Ground, Northwood",1,1,267,323,82.66,0,38,2,Middlesex,win
+13334,2026-10-20 05:14:01,TEST,WMH Rhodes,Durham,Kent,"Kent County Cricket Ground, Beckenham",2,3,267,405,65.93,0,29,1,,draw
+14687,2026-10-20 05:19:25,TEST,J Weatherald,South Australia,Victoria,"Junction Oval, Melbourne",2,3,266,296,89.86,0,25,7,Victoria,win
+13229,2026-10-20 05:13:36,TEST,LA Procter,Northamptonshire,Durham,"Riverside Ground, Chester-le-Street",2,2,265,450,58.89,1,34,1,,draw
+14160,2026-10-20 05:17:19,TEST,DW Lawrence,Surrey,Glamorgan,The Oval,2,5,263,289,91.0,1,22,13,,draw
+13191,2026-10-20 05:13:26,TEST,KS Carlson,Glamorgan,Leicestershire,"Sophia Gardens, Cardiff",1,3,263,347,75.79,0,29,3,Glamorgan,win
+13625,2026-10-20 05:15:12,TEST,WMH Rhodes,Durham,Gloucestershire,"Riverside Ground, Chester-le-Street",2,3,263,471,55.84,0,23,4,,draw
+13632,2026-10-20 05:15:13,TEST,HJ Cullen,Worcestershire,Kent,"St Lawrence Ground, Canterbury",3,6,262,252,103.97,0,34,3,Worcestershire,win
+13208,2026-10-20 05:13:31,TEST,DG Bedingham,Durham,Kent,"Kent County Cricket Ground, Beckenham",2,4,262,296,88.51,1,34,4,,draw
+13441,2026-10-20 05:14:26,TEST,JM Coles,Sussex,Yorkshire,"Headingley, Leeds",2,4,262,379,69.13,0,30,7,,draw
+14419,2026-10-20 05:18:20,TEST,MWT Boyle,Canterbury,Otago Volts,Hagley Oval,1,4,261,261,100.0,0,25,14,Canterbury,win
+13914,2026-10-20 05:16:20,TEST,NF Kelly,Leicestershire,Warwickshire,Edgbaston,1,4,261,319,81.82,0,38,3,Leicestershire,win
+13945,2026-10-20 05:16:26,TEST,JM Coles,Sussex,Yorkshire,"Headingley, Leeds",1,4,261,363,71.9,1,37,4,,draw
+14874,2026-10-20 05:20:12,TEST,BM Hope,Tasmania,Queensland,"Bellerive Oval, Hobart",2,6,259,388,66.75,1,36,2,Tasmania,win
+12868,2026-10-20 05:09:28,ODI,MC Henriques,New South Wales,Queensland,"North Sydney Oval, Sydney",1,2,258,143,180.42,0,24,15,New South Wales,win
+13718,2026-10-20 05:15:32,TEST,DR Mousley,Warwickshire,Glamorgan,"Edgbaston, Birmingham",1,3,258,295,87.46,0,35,4,Warwickshire,win
+13593,2026-10-20 05:15:02,TEST,SM Whiteman,Yorkshire,Surrey,"Headingley, Leeds",1,2,258,337,76.56,0,36,1,Yorkshire,win
+13884,2026-10-20 05:16:13,TEST,SA Northeast,Kent,Worcestershire,"St Lawrence Ground, Canterbury",2,3,258,431,59.86,1,26,2,,draw
+14247,2026-10-20 05:17:42,TEST,RJ Burns,Surrey,Nottinghamshire,"Kennington Oval, London",2,1,258,434,59.45,1,32,2,,draw
+14720,2026-10-20 05:19:32,TEST,HJ Hunt,South Australia,Western Australia,R Premadasa Stadium,2,2,258,564,45.74,0,27,1,South Australia,win
+11699,2026-10-20 04:43:30,ODI,James Bracey,Gloucestershire,Nottinghamshire,"College Ground, Cheltenham",1,1,257,161,159.63,0,26,11,Gloucestershire,win
+13172,2026-10-20 05:13:24,TEST,MDE Holden,Middlesex,Worcestershire,"Lord's, London",2,2,257,446,57.62,0,34,0,Middlesex,win
+13788,2026-10-20 05:15:50,TEST,DR Mousley,Warwickshire,Leicestershire,Edgbaston,1,3,256,320,80.0,1,28,4,Warwickshire,win
+13932,2026-10-20 05:16:25,TEST,Z Crawley,Kent,Northamptonshire,"St Lawrence Ground, Canterbury",2,1,256,321,79.75,1,30,4,,draw
+14167,2026-10-20 05:17:20,TEST,JM Clarke,Nottinghamshire,Yorkshire,Trent Bridge,2,4,256,408,62.75,0,32,3,Nottinghamshire,win
+14277,2026-10-20 05:17:49,TEST,DW Lawrence,Surrey,Sussex,"County Ground, Hove",2,5,255,297,85.86,0,28,5,,draw
+14454,2026-10-20 05:18:30,TEST,TB Robinson,Wellington Firebirds,Northern Districts,Seddon Park,1,3,255,345,73.91,1,27,5,,draw
+13934,2026-10-20 05:16:25,TEST,KK Jennings,Lancashire,Derbyshire,"Old Trafford, Manchester",2,1,255,360,70.83,0,38,1,,draw
+14604,2026-10-20 05:19:07,TEST,MS Harris,Victoria,Tasmania,"Junction Oval, Melbourne",1,2,255,412,61.89,0,38,0,Victoria,win
+13722,2026-10-20 05:15:36,TEST,JJG Sales,Northamptonshire,Gloucestershire,"County Ground, Northampton",2,6,254,346,73.41,1,31,3,,draw
+13605,2026-10-20 05:15:07,TEST,JJ Bohannon,Lancashire,Derbyshire,"Queen's Park, Chesterfield",2,2,254,372,68.28,1,31,3,Lancashire,win
+13295,2026-10-20 05:13:51,TEST,TJ Haines,Sussex,Leicestershire,"Grace Road, Leicester",2,2,253,357,70.87,1,33,1,Sussex,win
+14149,2026-10-20 05:17:18,TEST,CWJ Allison,Essex,Yorkshire,"Headingley, Leeds",2,4,253,362,69.89,0,31,7,,draw
+13385,2026-10-20 05:14:13,TEST,BT Slater,Nottinghamshire,Leicestershire,"Trent Bridge, Nottingham",2,2,253,365,69.32,1,30,3,Nottinghamshire,win
+14587,2026-10-20 05:19:01,TEST,NF Kelly,Wellington Firebirds,Otago Volts,University of Otago Oval,2,4,253,371,68.19,1,34,2,,draw
+13488,2026-10-20 05:14:38,TEST,DG Bedingham,Durham,Derbyshire,"County Ground, Derby",2,4,252,285,88.42,1,24,9,,draw
+14052,2026-10-20 05:16:56,TEST,DG Bedingham,Durham,Kent,"Riverside Ground, Chester-le-Street",1,4,252,306,82.35,0,29,3,,draw
+13038,2026-10-20 05:13:02,TEST,HJ Cullen,Worcestershire,Derbyshire,"County Ground, Derby",2,6,252,325,77.54,1,22,7,Worcestershire,win
+13112,2026-10-20 05:13:13,TEST,CT Bancroft,Gloucestershire,Worcestershire,"College Ground, Cheltenham",1,1,252,373,67.56,0,29,4,,draw
+14069,2026-10-20 05:16:58,TEST,DR Mousley,Warwickshire,Nottinghamshire,"Trent Bridge, Nottingham",1,3,250,344,72.67,0,32,2,,draw
+14672,2026-10-20 05:19:24,TEST,O Davies,New South Wales,Tasmania,"Cricket Central, Sydney",1,5,248,219,113.24,0,40,0,New South Wales,win
+13804,2026-10-20 05:15:55,TEST,DG Bedingham,Durham,Gloucestershire,"County Ground, Bristol",1,4,248,333,74.47,0,24,8,Durham,win
+13518,2026-10-20 05:14:44,TEST,H Hameed,Nottinghamshire,Hampshire,"Trent Bridge, Nottingham",1,1,248,491,50.51,0,30,1,Nottinghamshire,win
+14581,2026-10-20 05:19:00,TEST,HR Cooper,Northern Districts,Otago Volts,Molyneux Park,1,2,247,378,65.34,1,32,3,Northern Districts,win
+13921,2026-10-20 05:16:21,TEST,D Elgar,Essex,Hampshire,"The Rose Bowl, Southampton",2,1,246,331,74.32,0,35,3,,draw
+14514,2026-10-20 05:18:44,TEST,NF Kelly,Wellington Firebirds,Northern Districts,Seddon Park,1,4,245,325,75.38,0,28,7,Wellington Firebirds,win
+13837,2026-10-20 05:16:02,TEST,NF Kelly,Leicestershire,Sussex,"County Ground, Hove",1,4,245,335,73.13,0,29,4,,draw
+13516,2026-10-20 05:14:44,TEST,BS McKinney,Durham,Middlesex,"Riverside Ground, Chester-le-Street",2,2,245,382,64.14,1,26,4,,draw
+13594,2026-10-20 05:15:02,TEST,JM Coles,Sussex,Somerset,"The Cooper Associates County Ground, Taunton",3,4,245,392,62.5,1,25,7,,draw
+13235,2026-10-20 05:13:37,TEST,TS Muyeye,Kent,Middlesex,"Merchant Taylors' School Ground, Northwood",1,4,244,238,102.52,1,40,2,Kent,win
+13757,2026-10-20 05:15:43,TEST,LM Reece,Derbyshire,Gloucestershire,"County Ground, Bristol",2,4,244,307,79.48,1,30,3,Derbyshire,win
+13080,2026-10-20 05:13:09,TEST,KS Carlson,Glamorgan,Somerset,"Sophia Gardens, Cardiff",2,3,244,440,55.45,1,27,3,,draw
+13442,2026-10-20 05:14:26,TEST,D Elgar,Essex,Surrey,"Kennington Oval, London",1,1,243,398,61.06,1,32,0,,draw
+13696,2026-10-20 05:15:26,TEST,M Montgomery,Derbyshire,Kent,"St Lawrence Ground, Canterbury",2,3,243,414,58.7,0,30,2,Derbyshire,win
+13165,2026-10-20 05:13:21,TEST,TE Albert,Hampshire,Essex,"The Rose Bowl, Southampton",2,2,243,442,54.98,1,34,3,,draw
+13334,2026-10-20 05:14:01,TEST,DG Bedingham,Durham,Kent,"Kent County Cricket Ground, Beckenham",2,4,242,238,101.68,1,31,4,,draw
+13505,2026-10-20 05:14:43,TEST,LM Reece,Derbyshire,Gloucestershire,"County Ground, Bristol",1,4,242,409,59.17,0,25,4,Derbyshire,win
+13711,2026-10-20 05:15:31,TEST,DP Hughes,Sussex,Leicestershire,"County Ground, Hove",1,1,241,351,68.66,0,27,4,Leicestershire,win
+14185,2026-10-20 05:17:25,TEST,A Lyth,Yorkshire,Hampshire,"Headingley, Leeds",2,1,241,351,68.66,0,34,3,Yorkshire,win
+14092,2026-10-20 05:17:02,TEST,JL du Plooy,Middlesex,Derbyshire,"Lord's, London",2,5,241,362,66.57,0,24,2,,draw
+13086,2026-10-20 05:13:09,TEST,T Westley,Essex,Leicestershire,"County Ground, Chelmsford",1,3,241,443,54.4,0,32,1,,draw
+13053,2026-10-20 05:13:05,TEST,IG Holland,Leicestershire,Surrey,"Kennington Oval, London",2,5,241,531,45.39,1,23,1,,draw
+13642,2026-10-20 05:15:14,TEST,SD Robson,Middlesex,Durham,"Riverside Ground, Chester-le-Street",2,1,241,542,44.46,0,22,0,Middlesex,win
+14217,2026-10-20 05:17:32,TEST,CG Harrison,Northamptonshire,Gloucestershire,"County Ground, Bristol",2,3,240,314,76.43,1,35,2,Northamptonshire,win
+13065,2026-10-20 05:13:06,TEST,NF Kelly,Leicestershire,Glamorgan,"Sophia Gardens, Cardiff",2,4,240,325,73.85,1,25,5,,draw
+13602,2026-10-20 05:15:06,TEST,KS Carlson,Glamorgan,Sussex,"County Ground, Hove",1,3,239,294,81.29,0,33,1,,draw
+13365,2026-10-20 05:14:08,TEST,JM Clarke,Nottinghamshire,Surrey,"Kennington Oval, London",1,4,239,331,72.21,0,33,2,Nottinghamshire,win
+13667,2026-10-20 05:15:20,TEST,RJ Burns,Surrey,Warwickshire,"Edgbaston, Birmingham",1,1,239,432,55.32,0,31,2,,draw
+11116,2026-10-20 03:30:44,ODI,RS Fernando,Bloomfield Cricket and Athletic Club,Sinhalese Sports Club,"Bloomfield Cricket and Athletic Club Ground, Colombo",1,4,238,121,196.69,1,19,16,Bloomfield Cricket and Athletic Club,win
+11782,2026-10-20 04:45:07,ODI,JJ Bohannon,Lancashire,Warwickshire,Rugby School Ground,1,2,238,158,150.63,0,22,14,Lancashire,win
+15329,2026-10-22 15:11:44,TEST,SPD Smith,Australia,India,Brabourne Stadium,2,4,238,418,56.94,0,28,2,,draw
+14445,2026-10-20 05:18:26,TEST,JM Cumming,Otago Volts,Canterbury,University of Otago Oval,1,1,238,444,53.6,1,34,3,,draw
+14317,2026-10-20 05:17:56,TEST,NF Kelly,Wellington Firebirds,Otago Volts,University of Otago Oval,2,4,237,255,92.94,1,40,4,,draw
+13686,2026-10-20 05:15:25,TEST,JJ Bohannon,Lancashire,Gloucestershire,"County Ground, Bristol",3,2,237,306,77.45,0,28,6,Lancashire,win
+13613,2026-10-20 05:15:08,TEST,TS Muyeye,Kent,Middlesex,"Merchant Taylors' School Ground, Northwood",2,4,237,335,70.75,1,33,2,Middlesex,win
+14296,2026-10-20 05:17:51,TEST,JF Thomas,Somerset,Surrey,"The County Ground, Taunton",1,1,237,336,70.54,1,35,3,Somerset,win
+14304,2026-10-20 05:17:55,TEST,JA Raval,Northern Districts,Wellington Firebirds,Seddon Park,1,1,237,341,69.5,1,28,3,Northern Districts,win
+13746,2026-10-20 05:15:38,TEST,HM Nicholls,Somerset,Essex,"The Cooper Associates County Ground, Taunton",2,4,236,244,96.72,0,37,1,Somerset,win
+13664,2026-10-20 05:15:20,TEST,JS Lehmann,Hampshire,Sussex,"The Rose Bowl, Southampton",1,3,236,323,73.07,0,30,0,Hampshire,win
+14828,2026-10-20 05:20:00,TEST,JS Lehmann,South Australia,Western Australia,Adelaide Oval,2,5,236,325,72.62,1,27,0,,draw
+13271,2026-10-20 05:13:45,TEST,GH Roderick,Worcestershire,Durham,"Riverside Ground, Chester-le-Street",4,3,236,386,61.14,0,22,3,Worcestershire,win
+12873,2026-10-20 05:09:37,ODI,JR Philippe,Western Australia,New South Wales,"Cricket Central, Sydney",1,1,235,148,158.78,1,26,10,Western Australia,win
+13592,2026-10-20 05:15:02,TEST,DR Mousley,Warwickshire,Glamorgan,"Edgbaston, Birmingham",1,3,235,294,79.93,1,34,1,Warwickshire,win
+13214,2026-10-20 05:13:32,TEST,AL Davies,Warwickshire,Glamorgan,"Edgbaston, Birmingham",1,2,235,305,77.05,1,27,6,Warwickshire,win
+13483,2026-10-20 05:14:37,TEST,A Lyth,Yorkshire,Leicestershire,"Grace Road, Leicester",2,1,235,326,72.09,1,33,1,Yorkshire,win
+13899,2026-10-20 05:16:18,TEST,RJ Burns,Surrey,Sussex,"County Ground, Hove",1,1,235,339,69.32,0,32,0,,draw
+13439,2026-10-20 05:14:26,TEST,JM Clarke,Nottinghamshire,Warwickshire,"Trent Bridge, Nottingham",1,4,235,414,56.76,0,24,3,Nottinghamshire,win
+13371,2026-10-20 05:14:09,TEST,Z Crawley,Kent,Northamptonshire,"County Ground, Northampton",1,1,234,300,78.0,1,30,2,Northamptonshire,win
+14243,2026-10-20 05:17:38,TEST,MDE Holden,Middlesex,Kent,"Merchant Taylors' School Ground, Northwood",2,2,234,300,78.0,1,36,2,Middlesex,win
+13632,2026-10-20 05:15:13,TEST,GH Roderick,Worcestershire,Kent,"St Lawrence Ground, Canterbury",3,3,234,317,73.82,0,25,3,Worcestershire,win
+14160,2026-10-20 05:17:19,TEST,BT Foakes,Surrey,Glamorgan,The Oval,2,6,234,338,69.23,1,28,3,,draw
+14424,2026-10-20 05:18:24,TEST,JF Carter,Northern Districts,Wellington Firebirds,Seddon Park,2,4,234,355,65.92,1,26,6,Northern Districts,win
+14313,2026-10-20 05:17:56,TEST,NA Greenwood,Wellington Firebirds,Canterbury,Hagley Oval,1,1,234,376,62.23,0,28,3,,draw
+13713,2026-10-20 05:15:32,TEST,TW Boorman,Gloucestershire,Northamptonshire,"County Ground, Bristol",2,5,234,546,42.86,0,26,1,,draw
+11413,2026-10-20 04:37:32,ODI,W Luxton,Yorkshire,Glamorgan,"The Gnoll, Neath",1,2,232,147,157.82,1,24,12,Yorkshire,win
+14118,2026-10-20 05:17:09,TEST,BS McKinney,Durham,Derbyshire,"County Ground, Derby",2,2,232,287,80.84,1,35,2,,draw
+13513,2026-10-20 05:14:44,TEST,JS Lehmann,Hampshire,Warwickshire,"The Rose Bowl, Southampton",1,3,232,291,79.73,1,38,1,,draw
+13862,2026-10-20 05:16:07,TEST,KS Carlson,Glamorgan,Surrey,"Sophia Gardens, Cardiff",2,3,232,358,64.8,1,26,1,,draw
+13670,2026-10-20 05:15:20,TEST,CT Bancroft,Gloucestershire,Middlesex,"Lord's, London",1,1,232,360,64.44,1,28,1,,draw
+13539,2026-10-20 05:14:50,TEST,AM Tribe,Glamorgan,Essex,"Sophia Gardens, Cardiff",2,2,232,371,62.53,1,30,1,Glamorgan,win
+12941,2026-10-20 05:11:04,ODI,J Fraser-McGurk,South Australia,Western Australia,"Western Australia Cricket Association Ground, Perth",2,2,231,136,169.85,1,28,9,South Australia,win
+11001,2026-10-19 23:27:12,ODI,Koojana Perera,Badureliya Sports Club,Bloomfield Cricket and Athletic Club,"Surrey Village, Maggona",1,2,231,147,157.14,1,16,17,Badureliya Sports Club,win
+13705,2026-10-20 05:15:31,TEST,DG Bedingham,Durham,Worcestershire,"County Ground, New Road, Worcester",1,4,231,322,71.74,1,25,6,Durham,win
+13702,2026-10-20 05:15:30,TEST,NF Kelly,Leicestershire,Nottinghamshire,"Grace Road, Leicester",3,4,230,317,72.56,1,32,3,Nottinghamshire,win
+13189,2026-10-20 05:13:26,TEST,DP Hughes,Sussex,Yorkshire,"Headingley, Leeds",2,1,230,382,60.21,0,31,5,Sussex,win
+13866,2026-10-20 05:16:08,TEST,CP Jewell,Derbyshire,Durham,"County Ground, Derby",1,2,228,308,74.03,1,34,0,Derbyshire,win
+14840,2026-10-20 05:20:02,TEST,JJS Sangha,South Australia,New South Wales,"Karen Rolton Oval, Adelaide",2,4,228,339,67.26,1,31,1,,draw
+13684,2026-10-20 05:15:25,TEST,JM Clarke,Nottinghamshire,Glamorgan,"Trent Bridge, Nottingham",1,4,227,304,74.67,1,26,5,,draw
+14607,2026-10-20 05:19:07,TEST,JC Silk,Tasmania,South Australia,"Bellerive Oval, Hobart",2,4,227,304,74.67,1,24,3,Tasmania,win
+13375,2026-10-20 05:14:12,TEST,OJ Pope,Surrey,Essex,"County Ground, Chelmsford",2,4,227,313,72.52,1,29,4,,draw
+13364,2026-10-20 05:14:08,TEST,CT Bancroft,Gloucestershire,Worcestershire,"College Ground, Cheltenham",1,1,227,316,71.84,1,32,1,Gloucestershire,win
+13889,2026-10-20 05:16:14,TEST,FW McCann,Nottinghamshire,Leicestershire,"Trent Bridge, Nottingham",2,3,227,376,60.37,0,26,2,,draw
+14323,2026-10-20 05:18:00,TEST,SM Solia,Auckland Aces,Otago Volts,University of Otago Oval,2,2,226,321,70.4,1,28,5,Auckland Aces,win
+14232,2026-10-20 05:17:37,TEST,DP Hughes,Sussex,Glamorgan,"County Ground, Hove",2,1,226,409,55.26,1,32,0,Sussex,win
+14795,2026-10-20 05:19:50,TEST,PSP Handscomb,Victoria,Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",1,3,225,329,68.39,1,28,0,Victoria,win
+13376,2026-10-20 05:14:12,TEST,JM Bairstow,Yorkshire,Leicestershire,"North Marine Road Ground, Scarborough",2,6,224,254,88.19,0,27,6,Yorkshire,win
+14197,2026-10-20 05:17:30,TEST,C Tear,Sussex,Yorkshire,"Headingley, Leeds",1,5,224,334,67.07,0,35,2,Yorkshire,win
+13684,2026-10-20 05:15:25,TEST,AM Tribe,Glamorgan,Nottinghamshire,"Trent Bridge, Nottingham",2,2,224,340,65.88,1,29,3,,draw
+13928,2026-10-20 05:16:24,TEST,AJ Hose,Worcestershire,Middlesex,"Lord's, London",2,4,224,343,65.31,1,26,3,Middlesex,win
+13506,2026-10-20 05:14:43,TEST,AJ Hose,Worcestershire,Kent,"St Lawrence Ground, Canterbury",1,4,223,278,80.22,1,35,2,Worcestershire,win
+14123,2026-10-20 05:17:12,TEST,NF Kelly,Leicestershire,Glamorgan,"Grace Road, Leicester",2,4,223,329,67.78,1,35,1,Leicestershire,win
+14693,2026-10-20 05:19:26,TEST,KR Patterson,New South Wales,Victoria,"Junction Oval, Melbourne",3,2,223,349,63.9,1,19,6,,draw
+14065,2026-10-20 05:16:57,TEST,JS Lehmann,Hampshire,Somerset,"The Rose Bowl, Southampton",2,3,223,350,63.71,1,31,0,,draw
+14132,2026-10-20 05:17:13,TEST,NF Kelly,Leicestershire,Yorkshire,"North Marine Road Ground, Scarborough",1,4,223,356,62.64,1,29,2,Yorkshire,win
+14185,2026-10-20 05:17:25,TEST,NRT Gubbins,Hampshire,Yorkshire,"Headingley, Leeds",1,1,223,372,59.95,1,31,2,Yorkshire,win
+14469,2026-10-20 05:18:32,TEST,JA Raval,Northern Districts,Otago Volts,Cobham Oval,1,1,223,377,59.15,1,28,2,Northern Districts,win
+11994,2026-10-20 04:49:20,ODI,LM Reece,Derbyshire,Sussex,"County Ground, Derby",1,3,222,145,153.1,0,17,12,Derbyshire,win
+11404,2026-10-20 04:37:22,ODI,RS Patel,Surrey,Lancashire,"The Cricket Field, Sedbergh School",1,2,222,153,145.1,1,27,8,Lancashire,win
+14199,2026-10-20 05:17:30,TEST,NF Kelly,Leicestershire,Glamorgan,"Sophia Gardens, Cardiff",2,4,222,270,82.22,1,29,5,,draw
+13044,2026-10-20 05:13:03,TEST,BS McKinney,Durham,Kent,"Riverside Ground, Chester-le-Street",2,2,222,285,77.89,1,34,2,,draw
+14765,2026-10-20 05:19:43,TEST,CP Jewell,Tasmania,New South Wales,"Cricket Central, Sydney",3,1,222,385,57.66,0,31,2,New South Wales,win
+14755,2026-10-20 05:19:42,TEST,MS Harris,Victoria,New South Wales,"Junction Oval, Melbourne",2,2,222,469,47.33,1,30,0,,draw
+12944,2026-10-20 05:11:09,ODI,SD Heazlett,Queensland,Tasmania,"Brisbane Cricket Ground, Woolloongabba, Brisbane",1,1,221,152,145.39,1,20,11,Queensland,win
+13121,2026-10-20 05:13:14,TEST,CN Ackermann,Durham,Gloucestershire,"Riverside Ground, Chester-le-Street",1,5,221,308,71.75,1,30,0,,draw
+13733,2026-10-20 05:15:37,TEST,BS McKinney,Durham,Northamptonshire,"Riverside Ground, Chester-le-Street",3,2,221,308,71.75,0,26,3,Durham,win
+15332,2026-10-22 15:13:54,TEST,Dhruv Jurel,India,Australia Goat,Gaddafi Stadium,1,6,221,351,62.96,0,20,4,India,win
+13386,2026-10-20 05:14:13,TEST,HM Nicholls,Somerset,Glamorgan,"The Cooper Associates County Ground, Taunton",2,4,221,384,57.55,0,23,4,,draw
+14463,2026-10-20 05:18:32,TEST,NA Greenwood,Wellington Firebirds,Canterbury,Hagley Oval,1,1,221,389,56.81,0,27,1,,draw
+14810,2026-10-20 05:19:55,TEST,W Salzmann,New South Wales,Western Australia,"Cricket Central, Sydney",1,3,221,411,53.77,1,26,2,,draw
+14672,2026-10-20 05:19:24,TEST,JC Silk,Tasmania,New South Wales,"Cricket Central, Sydney",3,4,221,457,48.36,0,20,1,New South Wales,win
+13439,2026-10-20 05:14:26,TEST,H Hameed,Nottinghamshire,Warwickshire,"Trent Bridge, Nottingham",1,1,221,508,43.5,1,24,1,Nottinghamshire,win
+14011,2026-10-20 05:16:43,TEST,OG Robinson,Durham,Northamptonshire,"County Ground, Northampton",1,7,220,264,83.33,0,25,4,Durham,win
+14793,2026-10-20 05:19:50,TEST,MW Harvey,South Australia,Tasmania,"Bellerive Oval, Hobart",1,1,220,336,65.48,1,25,0,South Australia,win
+13531,2026-10-20 05:14:49,TEST,JM Coles,Sussex,Nottinghamshire,"The County Ground, Hove",1,4,220,342,64.33,0,29,5,Sussex,win
+13816,2026-10-20 05:15:56,TEST,BS McKinney,Durham,Lancashire,"Riverside Ground, Chester-le-Street",1,2,220,343,64.14,0,27,4,Durham,win
+13726,2026-10-20 05:15:36,TEST,SM Whiteman,Yorkshire,Warwickshire,"North Marine Road Ground, Scarborough",2,2,220,432,50.93,1,30,1,,draw
+14383,2026-10-20 05:18:13,TEST,LN Stackpole,Auckland Aces,Otago Volts,University of Otago Oval,3,4,219,237,92.41,0,19,14,Auckland Aces,win
+14327,2026-10-20 05:18:01,TEST,DN Phillips,Auckland Aces,Wellington Firebirds,Cello Basin Reserve,1,1,219,265,82.64,1,29,6,Auckland Aces,win
+13482,2026-10-20 05:14:37,TEST,JA Haynes,Nottinghamshire,Essex,"County Ground, Chelmsford",2,5,219,296,73.99,1,29,1,Nottinghamshire,win
+13068,2026-10-20 05:13:07,TEST,AZ Lees,Durham,Middlesex,"Lord's, London",2,1,219,339,64.6,1,24,1,,draw
+13921,2026-10-20 05:16:21,TEST,NRT Gubbins,Hampshire,Essex,"The Rose Bowl, Southampton",3,1,219,343,63.85,1,31,1,,draw
+13791,2026-10-20 05:15:50,TEST,T Westley,Essex,Glamorgan,"Sophia Gardens, Cardiff",2,3,219,349,62.75,1,30,2,Essex,win
+13404,2026-10-20 05:14:18,TEST,OJ Pope,Surrey,Glamorgan,The Oval,1,4,218,296,73.65,0,28,3,,draw
+13776,2026-10-20 05:15:48,TEST,M Montgomery,Derbyshire,Northamptonshire,"County Ground, Northampton",1,3,218,306,71.24,1,25,1,,draw
+14003,2026-10-20 05:16:42,TEST,JP Phillips,Gloucestershire,Durham,"Riverside Ground, Chester-le-Street",1,2,218,321,67.91,1,25,1,Gloucestershire,win
+13868,2026-10-20 05:16:08,TEST,TW Boorman,Gloucestershire,Worcestershire,"College Ground, Cheltenham",2,5,218,336,64.88,0,31,2,,draw
+13936,2026-10-20 05:16:25,TEST,AM Tribe,Glamorgan,Nottinghamshire,"Trent Bridge, Nottingham",2,2,218,350,62.29,1,29,2,,draw
+11374,2026-10-20 04:36:47,ODI,James Bracey,Gloucestershire,Lancashire,"Old Trafford, Manchester",1,1,217,132,164.39,1,31,6,Gloucestershire,win
+11758,2026-10-20 04:44:38,ODI,BL D'Oliveira,Worcestershire,Essex,"County Ground, Chelmsford",1,3,217,134,161.94,0,15,13,Worcestershire,win
+14325,2026-10-20 05:18:00,TEST,RA Mariu,Canterbury,Otago Volts,University of Otago Oval,1,1,217,246,88.21,1,33,2,Canterbury,win
+13541,2026-10-20 05:14:50,TEST,SR Hain,Warwickshire,Surrey,"Edgbaston, Birmingham",3,4,217,348,62.36,1,19,5,,draw
+15113,2026-10-20 17:55:48,ODI,AC Gilchrist,Flappy's Taskforce,IndiaODI,Gaddafi Stadium,2,1,216,136,158.82,0,22,11,Flappy's Taskforce,win
+13390,2026-10-20 05:14:14,TEST,BS McKinney,Durham,Middlesex,"Riverside Ground, Chester-le-Street",1,2,216,268,80.6,1,24,5,,draw
+13459,2026-10-20 05:14:31,TEST,NF Kelly,Leicestershire,Sussex,"County Ground, Hove",2,4,216,271,79.7,1,30,2,Leicestershire,win
+14252,2026-10-20 05:17:42,TEST,LM Reece,Derbyshire,Middlesex,"County Ground, Derby",2,4,216,294,73.47,1,25,4,,draw
+13811,2026-10-20 05:15:55,TEST,LBK Hollman,Middlesex,Northamptonshire,"County Ground, Northampton",4,4,216,351,61.54,1,27,1,Middlesex,win
+13409,2026-10-20 05:14:19,TEST,WMH Rhodes,Durham,Lancashire,Old Trafford,1,3,216,370,58.38,0,20,1,,draw
+12927,2026-10-20 05:10:41,ODI,JR Philippe,Western Australia,Queensland,"Allan Border Field, Brisbane",1,1,215,134,160.45,1,19,13,Western Australia,win
+14513,2026-10-20 05:18:44,TEST,RA Mariu,Canterbury,Central Stags,Hagley Oval,1,1,215,277,77.62,1,25,3,,draw
+13259,2026-10-20 05:13:43,TEST,JA Haynes,Nottinghamshire,Leicestershire,"Trent Bridge, Nottingham",3,5,215,306,70.26,1,22,2,,draw
+14722,2026-10-20 05:19:36,TEST,M Gilkes,South Australia,Victoria,Adelaide Oval,3,6,215,307,70.03,0,21,2,South Australia,win
+13355,2026-10-20 05:14:07,TEST,AZ Lees,Durham,Northamptonshire,"Riverside Ground, Chester-le-Street",1,1,215,340,63.24,1,25,1,,draw
+13843,2026-10-20 05:16:02,TEST,H Hameed,Nottinghamshire,Hampshire,"The Rose Bowl, Southampton",2,1,215,355,60.56,1,30,2,Nottinghamshire,win
+14131,2026-10-20 05:17:13,TEST,D Elgar,Essex,Surrey,"County Ground, Chelmsford",3,1,215,357,60.22,1,29,0,Surrey,win
+14883,2026-10-20 05:20:13,TEST,JC Silk,Tasmania,Victoria,"Junction Oval, Melbourne",1,4,215,399,53.88,0,25,1,,draw
+15264,2026-10-21 20:58:08,ODI,AB de Villiers,testing-xi-1,England,Tribhuvan University International Cricket Ground,1,4,214,127,168.5,0,23,10,testing-xi-1,win
+11784,2026-10-20 04:45:09,ODI,James Bracey,Gloucestershire,Northamptonshire,"College Ground, Cheltenham",1,1,214,135,158.52,1,29,7,Gloucestershire,win
+11637,2026-10-20 04:42:14,ODI,DJ Bell-Drummond,Kent,Lancashire,Kingsmead,2,2,214,136,157.35,0,30,6,Kent,win
+14842,2026-10-20 05:20:02,TEST,MW Harvey,South Australia,Victoria,"Junction Oval, Melbourne",1,1,214,262,81.68,1,30,4,,draw
+14294,2026-10-20 05:17:51,TEST,TJ Prest,Hampshire,Sussex,"The Rose Bowl, Southampton",3,4,214,289,74.05,1,28,4,Sussex,win
+13948,2026-10-20 05:16:30,TEST,WL Madsen,Derbyshire,Kent,"St Lawrence Ground, Canterbury",2,5,214,292,73.29,0,26,2,,draw
+13975,2026-10-20 05:16:36,TEST,SA Northeast,Kent,Lancashire,"Stanley Park, Blackpool",3,3,214,325,65.85,0,24,4,Kent,win
+13693,2026-10-20 05:15:26,TEST,SM Whiteman,Yorkshire,Sussex,"Headingley, Leeds",1,2,214,350,61.14,0,21,4,Yorkshire,win
+15282,2026-10-21 21:05:28,ODI,AC Gilchrist,AusODI,testing-xi-1,Lord's,1,1,213,138,154.35,1,31,6,AusODI,win
+14389,2026-10-20 05:18:14,TEST,MWT Boyle,Canterbury,Otago Volts,Hagley Oval,1,4,213,220,96.82,0,30,7,Canterbury,win
+13449,2026-10-20 05:14:30,TEST,JF Thomas,Somerset,Yorkshire,"The Cooper Associates County Ground, Taunton",1,1,213,258,82.56,1,24,4,Somerset,win
+13231,2026-10-20 05:13:37,TEST,SM Whiteman,Yorkshire,Leicestershire,"Grace Road, Leicester",2,2,213,368,57.88,0,27,0,,draw
+14656,2026-10-20 05:19:19,TEST,JJS Sangha,South Australia,Victoria,"Junction Oval, Melbourne",2,4,213,376,56.65,1,22,6,South Australia,win
+11961,2026-10-20 04:48:36,ODI,NRT Gubbins,Hampshire,Yorkshire,"North Marine Road Ground, Scarborough",2,3,212,150,141.33,0,29,7,Hampshire,win
+13151,2026-10-20 05:13:20,TEST,TB Abell,Somerset,Yorkshire,Headingley,1,6,212,257,82.49,0,30,2,Somerset,win
+13678,2026-10-20 05:15:24,TEST,TW Boorman,Gloucestershire,Durham,"County Ground, Bristol",2,5,212,281,75.44,1,32,2,,draw
+14309,2026-10-20 05:17:55,TEST,NF Kelly,Wellington Firebirds,Central Stags,Saxton Oval,1,4,212,301,70.43,0,30,4,,draw
+14840,2026-10-20 05:20:02,TEST,KR Patterson,New South Wales,South Australia,"Karen Rolton Oval, Adelaide",1,2,212,346,61.27,1,31,0,,draw
+13727,2026-10-20 05:15:36,TEST,D Elgar,Essex,Leicestershire,"Grace Road, Leicester",1,1,212,431,49.19,0,23,1,Essex,win
+13607,2026-10-20 05:15:07,TEST,DG Bedingham,Durham,Northamptonshire,"Riverside Ground, Chester-le-Street",2,4,211,310,68.06,0,20,6,Durham,win
+14493,2026-10-20 05:18:38,TEST,LJ Carter,Canterbury,Wellington Firebirds,Hagley Oval,1,5,211,313,67.41,1,17,6,Canterbury,win
+13342,2026-10-20 05:14:02,TEST,TB Abell,Somerset,Sussex,"The Cooper Associates County Ground, Taunton",1,6,211,338,62.43,0,24,1,,draw
+14670,2026-10-20 05:19:20,TEST,SM Whiteman,Western Australia,Queensland,"Western Australia Cricket Association Ground, Perth",2,3,211,422,50.0,1,22,0,Western Australia,win
+13199,2026-10-20 05:13:30,TEST,LA Procter,Northamptonshire,Derbyshire,"County Ground, Derby",1,2,211,489,43.15,0,21,1,,draw
+11589,2026-10-20 04:41:22,ODI,RM Yates,Warwickshire,Surrey,"Edgbaston, Birmingham",1,1,210,147,142.86,0,19,11,Warwickshire,win
+10907,2026-10-19 23:25:07,ODI,ME Bouchier,Hampshire Women,Yorkshire Women,"The Rose Bowl, Southampton",1,2,210,148,141.89,1,28,3,Hampshire Women,win
+11105,2026-10-20 03:30:33,ODI,VR Rubasinghe,Nondescripts Cricket Club,Police Sports Club,"Nondescripts Cricket Club Ground, Colombo",1,3,210,148,141.89,1,20,10,Nondescripts Cricket Club,win
+14063,2026-10-20 05:16:57,TEST,JL du Plooy,Middlesex,Northamptonshire,"County Ground, Northampton",1,5,210,301,69.77,0,23,1,Middlesex,win
+13587,2026-10-20 05:15:02,TEST,NA McSweeney,Northamptonshire,Gloucestershire,"County Ground, Bristol",2,4,210,356,58.99,0,19,4,,draw
+13821,2026-10-20 05:15:57,TEST,KS Carlson,Glamorgan,Leicestershire,"Sophia Gardens, Cardiff",2,3,209,238,87.82,1,31,1,,draw
+13845,2026-10-20 05:16:03,TEST,SM Whiteman,Yorkshire,Surrey,"Headingley, Leeds",1,2,209,249,83.94,1,37,2,,draw
+14244,2026-10-20 05:17:38,TEST,MK Andersson,Derbyshire,Durham,"County Ground, Derby",2,6,209,263,79.47,1,26,3,Durham,win
+13497,2026-10-20 05:14:42,TEST,Z Crawley,Kent,Northamptonshire,"County Ground, Northampton",2,1,209,308,67.86,1,30,0,,draw
+14232,2026-10-20 05:17:37,TEST,JM Coles,Sussex,Glamorgan,"County Ground, Hove",2,4,209,314,66.56,1,22,4,Sussex,win
+15460,2026-10-22 17:15:01,ODI,SR Watson,testing-xi-1,Australia Goat,M Chinnaswamy Stadium,1,1,208,145,143.45,0,25,8,testing-xi-1,win
+11929,2026-10-20 04:47:56,ODI,BJR Martindale,Nottinghamshire,Northamptonshire,"Queen's Park, Chesterfield",1,1,208,155,134.19,0,30,3,Nottinghamshire,win
+11021,2026-10-20 01:28:32,ODI,MMMS Cooray,Colts Cricket Club,Bloomfield Cricket and Athletic Club,"Bloomfield Cricket and Athletic Club Ground, Colombo",1,2,208,159,130.82,0,21,10,Colts Cricket Club,win
+13865,2026-10-20 05:16:08,TEST,BBA Geddes,Middlesex,Kent,"Merchant Taylors' School Ground, Northwood",3,3,208,285,72.98,0,29,1,Middlesex,win
+13113,2026-10-20 05:13:13,TEST,DW Lawrence,Surrey,Nottinghamshire,"Kennington Oval, London",2,5,208,304,68.42,1,19,4,Surrey,win
+14318,2026-10-20 05:17:56,TEST,RA Mariu,Canterbury,Auckland Aces,Mainpower Oval,2,1,208,304,68.42,1,27,2,Canterbury,win
+13306,2026-10-20 05:13:55,TEST,FW McCann,Nottinghamshire,Glamorgan,"Trent Bridge, Nottingham",2,3,208,331,62.84,1,23,2,,draw
+14890,2026-10-20 05:20:13,TEST,HWR Cartwright,Western Australia,South Australia,Adelaide Oval,1,4,208,335,62.09,1,28,2,Western Australia,win
+14416,2026-10-20 05:18:20,TEST,MA Abbas,Wellington Firebirds,Auckland Aces,Kennards Hire Community Oval,1,6,208,339,61.36,0,26,0,Auckland Aces,win
+14586,2026-10-20 05:19:01,TEST,DN Phillips,Auckland Aces,Central Stags,Kennards Hire Community Oval,2,1,208,341,61.0,0,30,2,,draw
+11731,2026-10-20 04:44:06,ODI,AH Miller,Northamptonshire,Kent,"St Lawrence Ground, Canterbury",1,2,207,154,134.42,0,29,4,Northamptonshire,win
+13840,2026-10-20 05:16:02,TEST,WL Madsen,Derbyshire,Middlesex,"Lord's, London",2,5,207,287,72.13,1,22,3,Derbyshire,win
+13701,2026-10-20 05:15:30,TEST,W Luxton,Yorkshire,Somerset,"The Cooper Associates County Ground, Taunton",1,3,207,310,66.77,1,30,2,Yorkshire,win
+14461,2026-10-20 05:18:31,TEST,B Popli,Northern Districts,Otago Volts,Molyneux Park,1,3,207,315,65.71,0,26,1,Northern Districts,win
+13352,2026-10-20 05:14:07,TEST,TS Muyeye,Kent,Middlesex,"St Lawrence Ground, Canterbury",2,4,207,325,63.69,1,27,1,,draw
+11515,2026-10-20 04:39:59,ODI,James Bracey,Gloucestershire,Surrey,"County Ground, Bristol",1,1,206,152,135.53,0,28,4,Gloucestershire,win
+11373,2026-10-20 04:36:47,ODI,T Westley,Essex,Glamorgan,"Sophia Gardens, Cardiff",1,1,206,158,130.38,0,28,5,Essex,win
+14342,2026-10-20 05:18:02,TEST,BJ Jacobs,Auckland Aces,Northern Districts,Kennards Hire Community Oval,2,5,206,224,91.96,0,23,10,Auckland Aces,win
+14111,2026-10-20 05:17:07,TEST,DG Bedingham,Durham,Northamptonshire,"Riverside Ground, Chester-le-Street",2,4,206,244,84.43,1,27,1,Durham,win
+14770,2026-10-20 05:19:44,TEST,J Weatherald,South Australia,New South Wales,Sydney Cricket Ground,1,3,206,258,79.84,1,27,4,South Australia,win
+13405,2026-10-20 05:14:18,TEST,BT Slater,Nottinghamshire,Sussex,"The County Ground, Hove",1,2,206,260,79.23,1,27,3,Nottinghamshire,win
+13644,2026-10-20 05:15:14,TEST,JS Lehmann,Hampshire,Nottinghamshire,"Trent Bridge, Nottingham",2,3,206,348,59.2,1,26,0,Nottinghamshire,win
+14691,2026-10-20 05:19:26,TEST,C Kellaway,Victoria,South Australia,Adelaide Oval,1,1,206,468,44.02,1,15,5,,draw
+12173,2026-10-20 04:53:12,ODI,NJ Maddinson,New South Wales,South Australia,"Cricket Central, Sydney",1,3,205,133,154.14,1,11,16,New South Wales,win
+15277,2026-10-21 21:03:20,ODI,SR Watson,testing-xi-1,IndiaODI,Gaddafi Stadium,1,1,205,147,139.46,0,22,6,testing-xi-1,win
+10751,2026-10-19 23:19:58,ODI,ME Bouchier,Hampshire Women,Lancashire Women,"The Rose Bowl, Southampton",1,2,205,150,136.67,0,29,2,Lancashire Women,win
+14651,2026-10-20 05:19:18,TEST,L Blackford,Victoria,Western Australia,"Western Australia Cricket Association Ground, Perth",2,6,205,273,75.09,1,26,4,,draw
+13568,2026-10-20 05:14:56,TEST,CWJ Allison,Essex,Surrey,"Kennington Oval, London",1,4,205,287,71.43,1,28,3,Essex,win
+14479,2026-10-20 05:18:36,TEST,TC Jones,Otago Volts,Canterbury,Hagley Oval,1,3,205,301,68.11,1,27,2,Canterbury,win
+13289,2026-10-20 05:13:50,TEST,SR Hain,Warwickshire,Surrey,"Edgbaston, Birmingham",2,4,205,315,65.08,1,26,1,Warwickshire,win
+14247,2026-10-20 05:17:42,TEST,H Hameed,Nottinghamshire,Surrey,"Kennington Oval, London",1,1,205,319,64.26,1,28,0,,draw
+13447,2026-10-20 05:14:30,TEST,RS Patel,Surrey,Sussex,"Kennington Oval, London",1,3,205,327,62.69,1,25,1,,draw
+13192,2026-10-20 05:13:26,TEST,CP Jewell,Derbyshire,Kent,"St Lawrence Ground, Canterbury",1,2,205,331,61.93,1,26,1,,draw
+14242,2026-10-20 05:17:38,TEST,JEK Rew,Somerset,Warwickshire,"The Cooper Associates County Ground, Taunton",1,5,205,350,58.57,1,25,1,,draw
+14682,2026-10-20 05:19:25,TEST,S Fanning,Western Australia,Victoria,"Western Australia Cricket Association Ground, Perth",2,2,205,412,49.76,1,21,0,Western Australia,win
+13924,2026-10-20 05:16:24,TEST,KK Jennings,Lancashire,Northamptonshire,"County Ground, Northampton",1,1,205,436,47.02,1,24,2,,draw
+14525,2026-10-20 05:18:48,TEST,HM Nicholls,Canterbury,Northern Districts,Cobham Oval,3,3,204,245,83.27,1,21,2,Canterbury,win
+13206,2026-10-20 05:13:31,TEST,TA Lammonby,Somerset,Glamorgan,"Sophia Gardens, Cardiff",1,2,204,291,70.1,1,27,0,Somerset,win
+14083,2026-10-20 05:17:01,TEST,JD Libby,Worcestershire,Durham,"County Ground, New Road, Worcester",3,2,204,312,65.38,1,27,2,Worcestershire,win
+13647,2026-10-20 05:15:18,TEST,DP Sibley,Surrey,Sussex,"County Ground, Hove",1,2,204,341,59.82,0,23,1,,draw
+14648,2026-10-20 05:19:18,TEST,HWR Cartwright,Western Australia,Tasmania,"Western Australia Cricket Association Ground, Perth",2,4,204,377,54.11,1,32,2,Western Australia,win
+13672,2026-10-20 05:15:24,TEST,LA Procter,Northamptonshire,Lancashire,"County Ground, Northampton",2,2,204,377,54.11,0,25,1,Northamptonshire,win
+14062,2026-10-20 05:16:57,TEST,BT Slater,Nottinghamshire,Glamorgan,"Trent Bridge, Nottingham",2,2,204,381,53.54,1,28,0,Nottinghamshire,win
+13071,2026-10-20 05:13:07,TEST,SM Whiteman,Yorkshire,Somerset,"The Cooper Associates County Ground, Taunton",1,2,204,421,48.46,0,23,0,,draw
+11024,2026-10-20 01:28:35,ODI,L Dawatage,Nugegoda Sports Welfare Club,Tamil Union Cricket and Athletic Club,"P Sara Oval, Colombo",2,2,203,139,146.04,0,20,8,Tamil Union Cricket and Athletic Club,win
+11976,2026-10-20 04:48:54,ODI,TA Lammonby,Somerset,Warwickshire,"The Cooper Associates County Ground, Taunton",1,1,203,145,140.0,1,25,6,Somerset,win
+14519,2026-10-20 05:18:44,TEST,D Foxcroft,Central Stags,Wellington Firebirds,Saxton Oval,2,4,203,261,77.78,1,33,2,Central Stags,win
+13404,2026-10-20 05:14:18,TEST,CA Ingram,Glamorgan,Surrey,The Oval,2,5,203,291,69.76,1,28,0,,draw
+13888,2026-10-20 05:16:14,TEST,W Luxton,Yorkshire,Surrey,"Kennington Oval, London",1,3,203,322,63.04,1,22,2,Yorkshire,win
+10693,2026-10-19 23:18:00,ODI,S Luus,Surrey Women,Somerset Women,"Kennington Oval, London",1,2,202,130,155.38,1,29,3,Surrey Women,win
+11846,2026-10-20 04:46:18,ODI,BS McKinney,Durham,Middlesex,"Riverside Ground, Chester-le-Street",2,2,202,135,149.63,1,21,9,Durham,win
+14340,2026-10-20 05:18:02,TEST,LN Stackpole,Auckland Aces,Canterbury,Kennards Hire Community Oval,2,4,202,228,88.6,1,20,10,Canterbury,win
+14430,2026-10-20 05:18:24,TEST,BJ Jacobs,Auckland Aces,Canterbury,Kennards Hire Community Oval,1,5,202,304,66.45,0,31,2,,draw
+14375,2026-10-20 05:18:12,TEST,JA Raval,Northern Districts,Canterbury,Cobham Oval,1,1,202,327,61.77,0,22,2,,draw
+13133,2026-10-20 05:13:17,TEST,BT Slater,Nottinghamshire,Leicestershire,"Trent Bridge, Nottingham",1,2,202,332,60.84,1,27,1,,draw
+14080,2026-10-20 05:17:01,TEST,FW McCann,Nottinghamshire,Leicestershire,"Grace Road, Leicester",2,3,202,350,57.71,1,22,0,Nottinghamshire,win
+14470,2026-10-20 05:18:32,TEST,TB Robinson,Wellington Firebirds,Central Stags,Cello Basin Reserve,2,3,201,240,83.75,1,29,4,Central Stags,win
+14305,2026-10-20 05:17:55,TEST,BJ Jacobs,Auckland Aces,Otago Volts,Kennards Hire Community Oval,1,5,201,253,79.45,1,27,3,Auckland Aces,win
+13342,2026-10-20 05:14:02,TEST,JEK Rew,Somerset,Sussex,"The Cooper Associates County Ground, Taunton",1,5,201,267,75.28,1,23,4,,draw
+14906,2026-10-20 05:20:19,TEST,AM Hardie,Western Australia,New South Wales,Rajiv Gandhi International Stadium,1,5,201,275,73.09,1,24,4,,draw
+13252,2026-10-20 05:13:42,TEST,JF Thomas,Somerset,Sussex,"County Ground, Hove",2,1,201,288,69.79,0,28,0,Somerset,win
+13597,2026-10-20 05:15:06,TEST,KK Jennings,Lancashire,Kent,"Stanley Park, Blackpool",1,1,201,314,64.01,1,22,3,Lancashire,win
+13305,2026-10-20 05:13:54,TEST,DP Sibley,Surrey,Leicestershire,"Kennington Oval, London",1,2,201,323,62.23,1,24,1,,draw
+13803,2026-10-20 05:15:54,TEST,TA Lammonby,Somerset,Essex,"County Ground, Chelmsford",2,2,201,337,59.64,1,23,1,,draw
+14248,2026-10-20 05:17:42,TEST,TJ Haines,Sussex,Warwickshire,"Edgbaston, Birmingham",3,2,201,397,50.63,1,23,0,Warwickshire,win
+12746,2026-10-20 05:06:43,ODI,L Winfield,Northern Diamonds Women,Thunder Women,"Trafalgar Road Ground, Southport",1,1,200,125,160.0,1,35,1,Northern Diamonds Women,win
+10562,2026-10-19 23:13:44,ODI,R Odgers,Somerset Women,Surrey Women,"The Cooper Associates County Ground, Taunton",1,1,200,136,147.06,1,32,2,Somerset Women,win
+12076,2026-10-20 04:50:46,ODI,HG Munsey,Nottinghamshire,Kent,"Kent County Cricket Ground, Beckenham",1,2,200,144,138.89,0,16,10,Nottinghamshire,win
+10303,2026-10-19 23:04:56,ODI,L Winfield,Yorkshire Women,Warwickshire Women,"Edgbaston, Birmingham",1,1,200,146,136.99,0,26,4,Yorkshire Women,win
+13898,2026-10-20 05:16:18,TEST,EG Barnard,Warwickshire,Glamorgan,"Sophia Gardens, Cardiff",2,7,200,222,90.09,0,25,2,Warwickshire,win
+13211,2026-10-20 05:13:32,TEST,MA Jones,Lancashire,Worcestershire,"Trafalgar Road Ground, Southport",2,4,200,257,77.82,1,18,9,,draw
+13048,2026-10-20 05:13:04,TEST,DG Bedingham,Durham,Gloucestershire,"County Ground, Bristol",2,4,200,271,73.8,1,16,8,,draw
+14020,2026-10-20 05:16:44,TEST,AZ Lees,Durham,Middlesex,"Riverside Ground, Chester-le-Street",2,1,200,285,70.18,1,26,1,Durham,win
+14685,2026-10-20 05:19:25,TEST,KR Patterson,New South Wales,South Australia,"Karen Rolton Oval, Adelaide",1,2,200,311,64.31,1,24,0,,draw
+14376,2026-10-20 05:18:12,TEST,WA Young,Central Stags,Auckland Aces,Kennards Hire Community Oval,1,3,200,318,62.89,0,20,2,Central Stags,win
+13080,2026-10-20 05:13:09,TEST,CB Cooke,Glamorgan,Somerset,"Sophia Gardens, Cardiff",2,7,200,343,58.31,1,23,2,,draw
+14265,2026-10-20 05:17:44,TEST,D Elgar,Essex,Sussex,"County Ground, Chelmsford",2,1,200,386,51.81,1,20,2,,draw
+458,2026-10-19 19:43:21,T20,V Suryavanshi,Rajasthan Royals,Gujarat Titans,Narendra Modi Stadium,1,1,199,67,297.01,1,18,17,Rajasthan Royals,win
+11453,2026-10-20 04:38:31,ODI,James Bracey,Gloucestershire,Lancashire,"Old Trafford, Manchester",1,1,199,126,157.94,1,24,6,Gloucestershire,win
+10911,2026-10-19 23:25:15,ODI,GL Adams,Hampshire Women,The Blaze Women,"The Rose Bowl, Southampton",1,3,199,135,147.41,1,30,3,Hampshire Women,win
+13908,2026-10-20 05:16:19,TEST,OJ Pope,Surrey,Glamorgan,The Oval,2,4,199,220,90.45,1,29,2,,draw
+14458,2026-10-20 05:18:31,TEST,JA Raval,Northern Districts,Auckland Aces,Seddon Park,1,1,199,291,68.38,0,28,0,Northern Districts,win
+13458,2026-10-20 05:14:31,TEST,JF Thomas,Somerset,Glamorgan,"Sophia Gardens, Cardiff",4,1,199,328,60.67,1,29,0,Glamorgan,win
+14537,2026-10-20 05:18:49,TEST,TB Robinson,Wellington Firebirds,Auckland Aces,Cello Basin Reserve,1,3,199,341,58.36,1,19,2,Auckland Aces,win
+14085,2026-10-20 05:17:01,TEST,D Elgar,Essex,Hampshire,"County Ground, Chelmsford",2,1,199,364,54.67,1,28,0,Essex,win
+13292,2026-10-20 05:13:50,TEST,LBK Hollman,Middlesex,Gloucestershire,"Lord's, London",1,4,199,383,51.96,0,23,2,Middlesex,win
+11082,2026-10-20 02:29:57,ODI,WIA Fernando,Sinhalese Sports Club,Colts Cricket Club,"Colts Cricket Club Ground, Colombo",1,3,198,130,152.31,1,23,7,Sinhalese Sports Club,win
+11548,2026-10-20 04:40:40,ODI,HRC Came,Derbyshire,Hampshire,"The Rose Bowl, Southampton",2,1,198,151,131.13,1,19,5,Hampshire,win
+14340,2026-10-20 05:18:02,TEST,RA Mariu,Canterbury,Auckland Aces,Kennards Hire Community Oval,1,1,198,232,85.34,1,30,2,Canterbury,win
+14172,2026-10-20 05:17:24,TEST,DH Lategan,Worcestershire,Derbyshire,"County Ground, Derby",4,1,198,239,82.85,1,33,2,Worcestershire,win
+13271,2026-10-20 05:13:45,TEST,WMH Rhodes,Durham,Worcestershire,"Riverside Ground, Chester-le-Street",1,3,198,256,77.34,1,30,0,Worcestershire,win
+13306,2026-10-20 05:13:55,TEST,JA Haynes,Nottinghamshire,Glamorgan,"Trent Bridge, Nottingham",2,5,198,257,77.04,0,26,1,,draw
+13128,2026-10-20 05:13:16,TEST,GH Roderick,Worcestershire,Kent,"St Lawrence Ground, Canterbury",1,3,198,293,67.58,1,23,3,Worcestershire,win
+13406,2026-10-20 05:14:19,TEST,SA Northeast,Kent,Gloucestershire,"St Lawrence Ground, Canterbury",1,3,198,323,61.3,0,22,1,Gloucestershire,win
+14358,2026-10-20 05:18:07,TEST,JF Carter,Northern Districts,Central Stags,Bay Oval,2,4,198,328,60.37,1,18,4,,draw
+14265,2026-10-20 05:17:44,TEST,JM Coles,Sussex,Essex,"County Ground, Chelmsford",1,4,198,330,60.0,1,30,1,,draw
+14542,2026-10-20 05:18:50,TEST,NA Greenwood,Wellington Firebirds,Otago Volts,Cello Basin Reserve,1,1,198,335,59.1,1,19,6,Wellington Firebirds,win
+13842,2026-10-20 05:16:02,TEST,D Elgar,Essex,Leicestershire,"County Ground, Chelmsford",3,1,198,345,57.39,0,19,2,Essex,win
+14454,2026-10-20 05:18:30,TEST,JA Raval,Northern Districts,Wellington Firebirds,Seddon Park,2,1,198,374,52.94,1,17,5,,draw
+13831,2026-10-20 05:16:01,TEST,BL D'Oliveira,Worcestershire,Durham,"County Ground, New Road, Worcester",1,5,198,391,50.64,0,23,1,Durham,win
+13889,2026-10-20 05:16:14,TEST,SSE Gumbs,Leicestershire,Nottinghamshire,"Trent Bridge, Nottingham",1,2,198,415,47.71,1,18,3,,draw
+13782,2026-10-20 05:15:49,TEST,DW Lawrence,Surrey,Glamorgan,The Oval,2,5,197,271,72.69,1,23,6,Surrey,win
+13043,2026-10-20 05:13:03,TEST,Rehan Ahmed,Leicestershire,Sussex,"Grace Road, Leicester",4,3,197,271,72.69,0,24,3,Leicestershire,win
+13271,2026-10-20 05:13:45,TEST,BL D'Oliveira,Worcestershire,Durham,"Riverside Ground, Chester-le-Street",4,5,197,325,60.62,1,26,2,Worcestershire,win
+14214,2026-10-20 05:17:32,TEST,HM Nicholls,Somerset,Glamorgan,"Sophia Gardens, Cardiff",1,4,197,325,60.62,0,21,2,,draw
+14802,2026-10-20 05:19:54,TEST,MS Harris,Victoria,Queensland,Melbourne Cricket Ground,2,2,197,345,57.1,1,21,0,Victoria,win
+13239,2026-10-20 05:13:38,TEST,BT Slater,Nottinghamshire,Surrey,"Kennington Oval, London",1,2,197,353,55.81,0,23,0,,draw
+13836,2026-10-20 05:16:02,TEST,HM Nicholls,Somerset,Glamorgan,"Sophia Gardens, Cardiff",1,4,197,354,55.65,1,19,3,,draw
+14213,2026-10-20 05:17:32,TEST,DP Sibley,Surrey,Nottinghamshire,"Trent Bridge, Nottingham",3,2,197,386,51.04,1,19,1,,draw
+13595,2026-10-20 05:15:03,TEST,OJ Pope,Surrey,Hampshire,"Kennington Oval, London",2,4,196,206,95.15,0,22,4,,draw
+13990,2026-10-20 05:16:38,TEST,JEK Rew,Somerset,Warwickshire,"The Cooper Associates County Ground, Taunton",3,5,196,230,85.22,0,24,3,Somerset,win
+14422,2026-10-20 05:18:24,TEST,NF Kelly,Wellington Firebirds,Otago Volts,Cello Basin Reserve,1,4,196,234,83.76,1,28,1,Wellington Firebirds,win
+14034,2026-10-20 05:16:50,TEST,CA Ingram,Glamorgan,Surrey,The Oval,2,5,196,238,82.35,1,31,2,Surrey,win
+14101,2026-10-20 05:17:06,TEST,TS Muyeye,Kent,Lancashire,"Stanley Park, Blackpool",1,4,196,245,80.0,1,27,4,Kent,win
+13081,2026-10-20 05:13:09,TEST,RK Patel,Leicestershire,Sussex,"County Ground, Hove",2,1,196,250,78.4,1,20,9,Leicestershire,win
+13863,2026-10-20 05:16:07,TEST,TGR Clark,Sussex,Hampshire,"County Ground, Hove",1,3,196,255,76.86,1,33,1,Sussex,win
+13744,2026-10-20 05:15:38,TEST,Z Malik,Warwickshire,Sussex,"Edgbaston, Birmingham",2,5,196,290,67.59,1,15,9,Warwickshire,win
+13710,2026-10-20 05:15:31,TEST,JEK Rew,Somerset,Glamorgan,"Sophia Gardens, Cardiff",1,5,196,304,64.47,0,20,3,Somerset,win
+13944,2026-10-20 05:16:26,TEST,DJ Bell-Drummond,Kent,Worcestershire,"County Ground, New Road, Worcester",2,5,196,323,60.68,1,18,4,Kent,win
+13813,2026-10-20 05:15:56,TEST,NRT Gubbins,Hampshire,Somerset,"The Rose Bowl, Southampton",2,1,196,432,45.37,1,23,2,Hampshire,win
+14702,2026-10-20 05:19:30,TEST,MS Harris,Victoria,Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",1,2,196,456,42.98,0,21,2,,draw
+12107,2026-10-20 04:51:22,ODI,VL Jani,Warwickshire,Yorkshire,Kennington Oval,1,4,195,118,165.25,1,12,14,Warwickshire,win
+13533,2026-10-20 05:14:49,TEST,CG Harrison,Northamptonshire,Middlesex,Lord's,2,3,195,257,75.88,1,28,3,Northamptonshire,win
+14022,2026-10-20 05:16:48,TEST,JM Clarke,Nottinghamshire,Hampshire,"Trent Bridge, Nottingham",1,4,195,259,75.29,0,19,5,Nottinghamshire,win
+13941,2026-10-20 05:16:26,TEST,OJ Price,Gloucestershire,Derbyshire,"County Ground, Derby",1,3,195,301,64.78,0,29,1,,draw
+11042,2026-10-20 01:28:55,ODI,T Ashel,Burgher Recreation Club,Nondescripts Cricket Club,Panadura Esplanade,1,2,194,122,159.02,1,13,14,Burgher Recreation Club,win
+11678,2026-10-20 04:43:05,ODI,CP Jewell,Derbyshire,Sussex,"County Ground, Derby",1,2,194,130,149.23,1,24,4,Derbyshire,win
+15273,2026-10-21 21:03:17,ODI,SR Watson,testing-xi-1,IndiaODI,Docklands Stadium,2,1,194,135,143.7,0,21,8,testing-xi-1,win
+11954,2026-10-20 04:48:26,ODI,LM Reece,Derbyshire,Worcestershire,Kingsmead,2,3,194,148,131.08,0,24,7,Worcestershire,win
+10974,2026-10-19 23:26:38,ODI,KNM Fernando,Colombo Cricket Club,Ace Capital Cricket Club,"De Zoysa Stadium, Moratuwa",1,1,194,152,127.63,1,21,8,Colombo Cricket Club,win
+13726,2026-10-20 05:15:36,TEST,Z Malik,Warwickshire,Yorkshire,"North Marine Road Ground, Scarborough",1,5,194,199,97.49,1,25,6,,draw
+13238,2026-10-20 05:13:38,TEST,HJ Cullen,Worcestershire,Gloucestershire,"College Ground, Cheltenham",1,6,194,232,83.62,0,24,2,Worcestershire,win
+14571,2026-10-20 05:18:56,TEST,MWT Boyle,Canterbury,Northern Districts,Mainpower Oval,1,4,194,235,82.55,1,23,4,,draw
+14778,2026-10-20 05:19:48,TEST,JS Lehmann,South Australia,New South Wales,"Karen Rolton Oval, Adelaide",1,5,194,272,71.32,0,30,0,New South Wales,win
+14366,2026-10-20 05:18:08,TEST,RA Mariu,Canterbury,Wellington Firebirds,Cello Basin Reserve,1,1,194,279,69.53,1,27,1,Canterbury,win
+13438,2026-10-20 05:14:26,TEST,MS Harris,Lancashire,Durham,"Riverside Ground, Chester-le-Street",1,3,194,291,66.67,1,27,1,Durham,win
+13799,2026-10-20 05:15:54,TEST,DP Hughes,Sussex,Leicestershire,"Grace Road, Leicester",2,1,194,292,66.44,1,29,0,Sussex,win
+14089,2026-10-20 05:17:02,TEST,RK Patel,Leicestershire,Sussex,"County Ground, Hove",1,1,194,300,64.67,1,25,5,,draw
+13564,2026-10-20 05:14:56,TEST,DG Bedingham,Durham,Lancashire,"Riverside Ground, Chester-le-Street",2,4,194,319,60.82,1,21,3,Durham,win
+14639,2026-10-20 05:19:13,TEST,S Fanning,Western Australia,Queensland,"Western Australia Cricket Association Ground, Perth",1,2,194,342,56.73,1,29,1,Western Australia,win
+14006,2026-10-20 05:16:43,TEST,IG Holland,Leicestershire,Yorkshire,"North Marine Road Ground, Scarborough",2,5,194,371,52.29,0,20,2,,draw
+11214,2026-10-20 04:33:36,ODI,PTM Dabare,Tamil Union Cricket and Athletic Club,Moors Sports Club,"P Sara Oval, Colombo",2,1,193,139,138.85,1,16,12,Moors Sports Club,win
+11723,2026-10-20 04:43:56,ODI,HG Munsey,Nottinghamshire,Somerset,"The John Fretwell Sporting Complex, Nettleworth",1,2,193,143,134.97,1,18,10,Nottinghamshire,win
+11951,2026-10-20 04:48:23,ODI,CP Jewell,Derbyshire,Nottinghamshire,Pallekele International Cricket Stadium,1,2,193,143,134.97,1,29,3,Derbyshire,win
+10303,2026-10-19 23:04:56,ODI,KL George,Warwickshire Women,Yorkshire Women,"Edgbaston, Birmingham",2,3,193,146,132.19,1,24,5,Yorkshire Women,win
+11883,2026-10-20 04:47:02,ODI,GW Thomas,Sussex,Glamorgan,"The Gnoll, Neath",1,2,193,150,128.67,0,26,6,Sussex,win
+13523,2026-10-20 05:14:48,TEST,DG Bedingham,Durham,Worcestershire,"Riverside Ground, Chester-le-Street",2,4,193,189,102.12,1,13,7,,draw
+14412,2026-10-20 05:18:19,TEST,RR O'Donnell,Northern Districts,Wellington Firebirds,Cello Basin Reserve,2,5,193,222,86.94,1,16,11,Northern Districts,win
+13397,2026-10-20 05:14:18,TEST,DG Bedingham,Durham,Worcestershire,"Riverside Ground, Chester-le-Street",2,4,193,241,80.08,1,26,2,Durham,win
+14429,2026-10-20 05:18:24,TEST,NA Greenwood,Wellington Firebirds,Central Stags,Saxton Oval,2,1,193,292,66.1,1,24,3,Central Stags,win
+14367,2026-10-20 05:18:08,TEST,BD Schmulian,Central Stags,Otago Volts,University of Otago Oval,1,2,193,305,63.28,0,19,1,Central Stags,win
+14249,2026-10-20 05:17:42,TEST,SR Dickson,Glamorgan,Leicestershire,"Grace Road, Leicester",1,6,193,309,62.46,0,24,1,Glamorgan,win
+13942,2026-10-20 05:16:26,TEST,AZ Lees,Durham,Lancashire,"Riverside Ground, Chester-le-Street",1,1,193,324,59.57,0,22,1,Durham,win
+13065,2026-10-20 05:13:06,TEST,BI Kellaway,Glamorgan,Leicestershire,"Sophia Gardens, Cardiff",1,4,193,350,55.14,0,17,3,,draw
+14114,2026-10-20 05:17:08,TEST,RS Patel,Surrey,Glamorgan,"Sophia Gardens, Cardiff",1,3,193,367,52.59,0,20,2,,draw
+11143,2026-10-20 04:31:24,ODI,KNM Fernando,Colombo Cricket Club,Moors Sports Club,"Moors Sports Club Ground, Colombo",2,1,192,154,124.68,0,18,6,Colombo Cricket Club,win
+13751,2026-10-20 05:15:42,TEST,DG Bedingham,Durham,Gloucestershire,"Riverside Ground, Chester-le-Street",1,4,192,255,75.29,0,18,3,Durham,win
+13383,2026-10-20 05:14:13,TEST,MJJ Critchley,Essex,Sussex,"County Ground, Chelmsford",3,5,192,271,70.85,0,24,3,,draw
+13068,2026-10-20 05:13:07,TEST,SD Robson,Middlesex,Durham,"Lord's, London",1,1,192,324,59.26,1,27,0,,draw
+14453,2026-10-20 05:18:30,TEST,HM Nicholls,Canterbury,Central Stags,Hagley Oval,1,3,192,324,59.26,0,17,1,,draw
+13901,2026-10-20 05:16:18,TEST,JD Libby,Worcestershire,Durham,"Riverside Ground, Chester-le-Street",1,2,192,342,56.14,1,19,1,Durham,win
+14775,2026-10-20 05:19:48,TEST,MS Harris,Victoria,Western Australia,"Western Australia Cricket Association Ground, Perth",2,2,192,364,52.75,1,24,2,Western Australia,win
+14442,2026-10-20 05:18:26,TEST,JA Raval,Northern Districts,Wellington Firebirds,Cello Basin Reserve,2,1,192,376,51.06,0,25,0,Northern Districts,win
+13583,2026-10-20 05:15:01,TEST,BT Slater,Nottinghamshire,Surrey,"Trent Bridge, Nottingham",3,2,192,380,50.53,0,22,2,,draw
+13418,2026-10-20 05:14:20,TEST,SD Robson,Middlesex,Gloucestershire,"Lord's, London",2,1,192,391,49.1,1,22,2,,draw
+11964,2026-10-20 04:48:38,ODI,Z Malik,Warwickshire,Nottinghamshire,"The John Fretwell Sporting Complex, Nettleworth",1,2,191,129,148.06,0,15,11,Warwickshire,win
+12342,2026-10-20 04:57:33,ODI,GL Adams,Southern Vipers Women,The Blaze Women,Arun Jaitley Stadium,1,2,191,130,146.92,1,38,0,Southern Vipers Women,win
+12139,2026-10-20 04:52:14,ODI,JL Curtis,Western Australia,South Australia,"Karen Rolton Oval, Adelaide",1,2,191,136,140.44,1,14,9,Western Australia,win
+11131,2026-10-20 03:31:01,ODI,L Dawatage,Nugegoda Sports Welfare Club,Colombo Cricket Club,Colombo Cricket Club Ground,1,2,191,138,138.41,1,18,8,Colombo Cricket Club,win
+10730,2026-10-19 23:19:18,ODI,SL Kalis,Yorkshire Women,Warwickshire Women,"North Marine Road Ground, Scarborough",1,3,191,143,133.57,0,26,1,Yorkshire Women,win
+14517,2026-10-20 05:18:44,TEST,JA Clarkson,Central Stags,Otago Volts,University of Otago Oval,2,7,191,174,109.77,0,23,7,,draw
+13488,2026-10-20 05:14:38,TEST,G Clark,Durham,Derbyshire,"County Ground, Derby",2,6,191,239,79.92,1,23,2,,draw
+14249,2026-10-20 05:17:42,TEST,CA Ingram,Glamorgan,Leicestershire,"Grace Road, Leicester",1,5,191,254,75.2,0,24,2,Glamorgan,win
+14248,2026-10-20 05:17:42,TEST,VL Jani,Warwickshire,Sussex,"Edgbaston, Birmingham",2,6,191,256,74.61,1,23,3,Warwickshire,win
+13614,2026-10-20 05:15:08,TEST,DG Bedingham,Durham,Derbyshire,"County Ground, Derby",2,4,191,267,71.54,1,23,2,Durham,win
+14615,2026-10-20 05:19:08,TEST,HJ Hunt,South Australia,New South Wales,Sydney Cricket Ground,3,2,191,278,68.71,0,34,1,South Australia,win
+14341,2026-10-20 05:18:02,TEST,TC Jones,Otago Volts,Northern Districts,Molyneux Park,2,3,191,295,64.75,1,26,0,Otago Volts,win
+13774,2026-10-20 05:15:48,TEST,HM Nicholls,Somerset,Leicestershire,"Grace Road, Leicester",1,4,191,303,63.04,0,19,0,Somerset,win
+13552,2026-10-20 05:14:54,TEST,WMH Rhodes,Durham,Gloucestershire,"County Ground, Bristol",2,3,191,317,60.25,1,18,2,Durham,win
+14058,2026-10-20 05:16:56,TEST,CG Benjamin,Kent,Northamptonshire,"St Lawrence Ground, Canterbury",3,7,191,339,56.34,0,20,0,Northamptonshire,win
+13073,2026-10-20 05:13:08,TEST,R Vasconcelos,Northamptonshire,Derbyshire,"County Ground, Derby",4,1,191,346,55.2,0,26,1,Northamptonshire,win
+13317,2026-10-20 05:13:56,TEST,RK Patel,Leicestershire,Glamorgan,"Sophia Gardens, Cardiff",3,1,191,347,55.04,1,25,1,,draw
+14013,2026-10-20 05:16:44,TEST,DP Hughes,Sussex,Essex,"County Ground, Chelmsford",2,1,191,369,51.76,1,22,1,,draw
+13204,2026-10-20 05:13:31,TEST,A Lyth,Yorkshire,Warwickshire,"Edgbaston, Birmingham",3,1,191,396,48.23,1,23,1,Yorkshire,win
+12096,2026-10-20 04:51:09,ODI,JF Thomas,Somerset,Northamptonshire,"County Ground, Northampton",1,6,190,103,184.47,1,27,7,Somerset,win
+11960,2026-10-20 04:48:35,ODI,HG Munsey,Nottinghamshire,Somerset,"The John Fretwell Sporting Complex, Nettleworth",2,2,190,132,143.94,1,24,6,Somerset,win
+10638,2026-10-19 23:16:05,ODI,HJ Armitage,Durham Women,Yorkshire Women,"North Marine Road Ground, Scarborough",1,2,190,149,127.52,0,25,1,Durham Women,win
+12936,2026-10-20 05:10:58,ODI,MS Harris,Victoria,Queensland,"Great Barrier Reef Arena, Mackay",1,2,190,149,127.52,0,22,3,Victoria,win
+14923,2026-10-20 10:35:04,TEST,SC Williams,Zimbabwe,Ireland,"Grace Road, Leicester",2,6,190,194,97.94,1,26,4,Zimbabwe,win
+14475,2026-10-20 05:18:36,TEST,HM Nicholls,Canterbury,Otago Volts,University of Otago Oval,1,3,190,224,84.82,1,21,6,,draw
+13863,2026-10-20 05:16:07,TEST,TJ Haines,Sussex,Hampshire,"County Ground, Hove",1,2,190,230,82.61,1,32,1,Sussex,win
+13300,2026-10-20 05:13:54,TEST,James Bracey,Gloucestershire,Durham,"County Ground, Bristol",2,6,190,277,68.59,1,29,0,Durham,win
+13280,2026-10-20 05:13:49,TEST,Ekansh Singh,Kent,Gloucestershire,"St Lawrence Ground, Canterbury",1,6,190,315,60.32,1,16,4,Kent,win
+14120,2026-10-20 05:17:09,TEST,GH Roderick,Worcestershire,Gloucestershire,"College Ground, Cheltenham",1,3,190,325,58.46,1,25,2,,draw
+13933,2026-10-20 05:16:25,TEST,NRT Gubbins,Hampshire,Yorkshire,"Headingley, Leeds",3,1,190,330,57.58,1,29,0,Hampshire,win
+14062,2026-10-20 05:16:57,TEST,H Hameed,Nottinghamshire,Glamorgan,"Trent Bridge, Nottingham",2,1,190,338,56.21,1,25,1,Nottinghamshire,win
+13610,2026-10-20 05:15:07,TEST,DP Sibley,Surrey,Glamorgan,"Sophia Gardens, Cardiff",1,2,190,402,47.26,0,19,1,Surrey,win
+11510,2026-10-20 04:39:56,ODI,K Smith,Warwickshire,Surrey,"Edgbaston, Birmingham",1,5,189,141,134.04,1,23,5,Warwickshire,win
+10138,2026-10-19 22:59:43,ODI,ST Doheny,Leinster Lightning,Northern Knights,"Pembroke Cricket Club, Sandymount, Dublin",1,2,189,156,121.15,1,20,6,Leinster Lightning,win
+13421,2026-10-20 05:14:20,TEST,Rehan Ahmed,Leicestershire,Sussex,"Grace Road, Leicester",2,3,189,206,91.75,1,25,4,,draw
+13265,2026-10-20 05:13:44,TEST,MA Jones,Lancashire,Gloucestershire,"Old Trafford, Manchester",2,4,189,236,80.08,1,19,7,Lancashire,win
+13264,2026-10-20 05:13:44,TEST,JL du Plooy,Middlesex,Durham,"Riverside Ground, Chester-le-Street",1,5,189,265,71.32,0,26,1,Middlesex,win
+13937,2026-10-20 05:16:25,TEST,BBA Geddes,Middlesex,Northamptonshire,"County Ground, Northampton",2,3,189,267,70.79,1,20,4,Middlesex,win
+13392,2026-10-20 05:14:14,TEST,BC Brown,Hampshire,Nottinghamshire,"Trent Bridge, Nottingham",1,5,189,267,70.79,0,23,1,,draw
+13468,2026-10-20 05:14:32,TEST,JF Thomas,Somerset,Sussex,"The Cooper Associates County Ground, Taunton",3,1,189,274,68.98,0,25,1,Sussex,win
+14039,2026-10-20 05:16:51,TEST,BS McKinney,Durham,Lancashire,Old Trafford,1,2,189,297,63.64,1,20,5,,draw
+14270,2026-10-20 05:17:44,TEST,LM Reece,Derbyshire,Kent,"County Ground, Derby",2,4,189,319,59.25,0,20,1,Derbyshire,win
+13263,2026-10-20 05:13:44,TEST,LA Procter,Northamptonshire,Worcestershire,"County Ground, New Road, Worcester",2,2,189,383,49.35,1,16,1,,draw
+14271,2026-10-20 05:17:44,TEST,LA Procter,Northamptonshire,Worcestershire,"County Ground, New Road, Worcester",2,2,189,419,45.11,1,17,3,,draw
+11360,2026-10-20 04:36:29,ODI,BL D'Oliveira,Worcestershire,Middlesex,"County Ground, New Road, Worcester",1,3,188,125,150.4,1,26,5,Worcestershire,win
+10997,2026-10-19 23:27:08,ODI,A Liyanaarachchi,Kurunegala Youth Cricket Club,Tamil Union Cricket and Athletic Club,"Welagedara Stadium, Kurunegala",1,1,188,129,145.74,0,14,12,Kurunegala Youth Cricket Club,win
+11321,2026-10-20 04:35:40,ODI,P Rathnayake,Colombo Cricket Club,Sinhalese Sports Club,Queens Sports Club,1,4,188,138,136.23,0,20,5,Colombo Cricket Club,win
+13017,2026-10-20 05:12:35,ODI,CT Bancroft,Western Australia,South Australia,"Allan Border Field, Brisbane",1,2,188,141,133.33,0,23,2,Western Australia,win
+12988,2026-10-20 05:12:00,ODI,CP Jewell,Tasmania,Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",2,1,188,146,128.77,0,22,4,Tasmania,win
+10375,2026-10-19 23:07:34,ODI,M Kelly,The Blaze Women,Durham Women,"Trent Bridge, Nottingham",1,2,188,150,125.33,0,25,1,The Blaze Women,win
+11365,2026-10-20 04:36:37,ODI,DJ Bell-Drummond,Kent,Nottinghamshire,"Kent County Cricket Ground, Beckenham",1,2,188,156,120.51,0,22,2,Kent,win
+13231,2026-10-20 05:13:37,TEST,Rehan Ahmed,Leicestershire,Yorkshire,"Grace Road, Leicester",1,3,188,218,86.24,1,27,3,,draw
+13529,2026-10-20 05:14:49,TEST,A Lyth,Yorkshire,Somerset,Headingley,3,1,188,244,77.05,1,29,3,Yorkshire,win
+14393,2026-10-20 05:18:14,TEST,RA Mariu,Canterbury,Central Stags,Hagley Oval,3,1,188,265,70.94,1,24,1,,draw
+14617,2026-10-20 05:19:08,TEST,AM Hardie,Western Australia,Tasmania,"Western Australia Cricket Association Ground, Perth",1,5,188,265,70.94,1,29,0,Western Australia,win
+14041,2026-10-20 05:16:51,TEST,JM Clarke,Nottinghamshire,Yorkshire,Trent Bridge,1,4,188,266,70.68,0,28,1,Yorkshire,win
+13475,2026-10-20 05:14:36,TEST,CWJ Allison,Essex,Leicestershire,"Grace Road, Leicester",1,4,188,271,69.37,1,20,3,Essex,win
+14385,2026-10-20 05:18:13,TEST,TC Jones,Otago Volts,Canterbury,University of Otago Oval,1,3,188,303,62.05,1,19,2,Canterbury,win
+13838,2026-10-20 05:16:02,TEST,WMH Rhodes,Durham,Kent,"Kent County Cricket Ground, Beckenham",1,3,188,312,60.26,0,21,0,Durham,win
+14174,2026-10-20 05:17:24,TEST,James Bracey,Gloucestershire,Middlesex,"Lord's, London",2,6,188,325,57.85,1,20,2,Gloucestershire,win
+13969,2026-10-20 05:16:32,TEST,NRT Gubbins,Hampshire,Nottinghamshire,"The Rose Bowl, Southampton",1,1,188,335,56.12,1,26,0,Nottinghamshire,win
+14738,2026-10-20 05:19:38,TEST,JJS Sangha,South Australia,Tasmania,Adelaide Oval,1,4,188,335,56.12,0,21,1,,draw
+13318,2026-10-20 05:13:56,TEST,BG Compton,Kent,Derbyshire,"St Lawrence Ground, Canterbury",3,2,188,358,52.51,0,20,1,,draw
+14870,2026-10-20 05:20:08,TEST,PSP Handscomb,Victoria,Tasmania,"Bellerive Oval, Hobart",2,3,188,362,51.93,0,21,0,Victoria,win
+13044,2026-10-20 05:13:03,TEST,BG Compton,Kent,Durham,"Riverside Ground, Chester-le-Street",1,2,188,398,47.24,0,25,0,,draw
+11933,2026-10-20 04:47:59,ODI,CP Jewell,Derbyshire,Middlesex,"County Ground, Derby",1,2,187,134,139.55,0,26,3,Derbyshire,win
+10160,2026-10-19 23:00:08,ODI,ST Doheny,Leinster Lightning,North-West Warriors,"Pembroke Cricket Club, Sandymount, Dublin",1,2,187,140,133.57,1,17,11,Leinster Lightning,win
+11851,2026-10-20 04:46:22,ODI,TA Lammonby,Somerset,Surrey,"The Cooper Associates County Ground, Taunton",1,1,187,149,125.5,0,22,1,Somerset,win
+14209,2026-10-20 05:17:31,TEST,DG Bedingham,Durham,Worcestershire,"County Ground, New Road, Worcester",2,4,187,201,93.03,0,19,6,,draw
+14151,2026-10-20 05:17:18,TEST,DW Lawrence,Surrey,Sussex,"County Ground, Hove",3,5,187,225,83.11,0,23,4,Sussex,win
+14103,2026-10-20 05:17:06,TEST,DG Bedingham,Durham,Derbyshire,"Riverside Ground, Chester-le-Street",2,4,187,237,78.9,1,23,2,Durham,win
+13961,2026-10-20 05:16:31,TEST,DP Sibley,Surrey,Nottinghamshire,"Trent Bridge, Nottingham",1,2,187,285,65.61,1,24,1,Surrey,win
+13390,2026-10-20 05:14:14,TEST,JL du Plooy,Middlesex,Durham,"Riverside Ground, Chester-le-Street",4,5,187,297,62.96,0,19,1,,draw
+13412,2026-10-20 05:14:19,TEST,TE Albert,Hampshire,Sussex,"The Rose Bowl, Southampton",2,2,187,315,59.37,1,16,5,Hampshire,win
+13223,2026-10-20 05:13:36,TEST,D Elgar,Essex,Leicestershire,"Grace Road, Leicester",1,1,187,325,57.54,1,23,0,Essex,win
+14257,2026-10-20 05:17:43,TEST,PI Walter,Essex,Surrey,"County Ground, Chelmsford",1,2,187,327,57.19,1,22,1,Essex,win
+14602,2026-10-20 05:19:06,TEST,JJ Peirson,Queensland,South Australia,Adelaide Oval,2,6,187,340,55.0,0,14,5,,draw
+14869,2026-10-20 05:20:08,TEST,HR Burdon,Queensland,Western Australia,"Allan Border Field, Brisbane",2,1,187,348,53.74,1,21,3,Western Australia,win
+14186,2026-10-20 05:17:25,TEST,MA Jones,Lancashire,Derbyshire,"Old Trafford, Manchester",2,4,187,368,50.82,0,16,5,Lancashire,win
+14558,2026-10-20 05:18:55,TEST,HM Nicholls,Canterbury,Auckland Aces,Mainpower Oval,3,3,187,376,49.73,0,15,1,,draw
+10929,2026-10-19 23:25:41,ODI,P Rathnayake,Colombo Cricket Club,Nugegoda Sports Welfare Club,Colombo Cricket Club Ground,1,4,186,120,155.0,1,10,11,Colombo Cricket Club,win
+12300,2026-10-20 04:56:38,ODI,PA Franklin,South East Stars Women,Western Storm Women,"The Cooper Associates County Ground, Taunton",2,4,186,134,138.81,1,32,1,Western Storm Women,win
+11945,2026-10-20 04:48:18,ODI,SD Perera,Somerset,Lancashire,"The Cooper Associates County Ground, Taunton",2,2,186,137,135.77,0,16,8,Somerset,win
+15272,2026-10-21 21:03:17,ODI,SR Watson,testing-xi-1,IndiaODI,SuperSport Park,1,1,186,152,122.37,1,17,9,testing-xi-1,win
+14059,2026-10-20 05:16:56,TEST,GCH Hill,Yorkshire,Hampshire,"Headingley, Leeds",2,7,186,222,83.78,1,30,1,Yorkshire,win
+14513,2026-10-20 05:18:44,TEST,TC Bruce,Central Stags,Canterbury,Hagley Oval,2,5,186,232,80.17,1,27,1,,draw
+13196,2026-10-20 05:13:26,TEST,TJ Prest,Hampshire,Glamorgan,"The Rose Bowl, Southampton",2,4,186,244,76.23,0,21,4,,draw
+14136,2026-10-20 05:17:13,TEST,AJ Hose,Worcestershire,Kent,"St Lawrence Ground, Canterbury",1,4,186,245,75.92,1,25,3,Worcestershire,win
+13885,2026-10-20 05:16:13,TEST,DG Bedingham,Durham,Northamptonshire,"County Ground, Northampton",1,4,186,247,75.3,1,21,1,Durham,win
+14389,2026-10-20 05:18:14,TEST,HM Nicholls,Canterbury,Otago Volts,Hagley Oval,1,3,186,266,69.92,0,19,2,Canterbury,win
+13241,2026-10-20 05:13:38,TEST,AM Tribe,Glamorgan,Leicestershire,"Grace Road, Leicester",1,2,186,270,68.89,1,25,0,Leicestershire,win
+13646,2026-10-20 05:15:15,TEST,AL Davies,Warwickshire,Glamorgan,"Sophia Gardens, Cardiff",1,2,186,284,65.49,1,24,2,Glamorgan,win
+13043,2026-10-20 05:13:03,TEST,DP Hughes,Sussex,Leicestershire,"Grace Road, Leicester",1,1,186,285,65.26,1,25,2,Leicestershire,win
+13385,2026-10-20 05:14:13,TEST,NF Kelly,Leicestershire,Nottinghamshire,"Trent Bridge, Nottingham",1,4,186,292,63.7,1,26,3,Nottinghamshire,win
+13073,2026-10-20 05:13:08,TEST,LM Reece,Derbyshire,Northamptonshire,"County Ground, Derby",1,4,186,313,59.42,0,22,0,Northamptonshire,win
+14608,2026-10-20 05:19:07,TEST,HWR Cartwright,Western Australia,Queensland,"Western Australia Cricket Association Ground, Perth",1,4,186,318,58.49,1,31,0,Western Australia,win
+14422,2026-10-20 05:18:24,TEST,TM Johnson,Otago Volts,Wellington Firebirds,Cello Basin Reserve,4,4,186,358,51.96,1,23,4,Wellington Firebirds,win
+11877,2026-10-20 04:46:56,ODI,DG Bedingham,Durham,Derbyshire,"County Ground, Derby",1,4,185,101,183.17,0,9,15,Durham,win
+11909,2026-10-20 04:47:32,ODI,AGH Orr,Hampshire,Essex,"County Ground, Chelmsford",1,1,185,113,163.72,1,27,7,Hampshire,win
+11240,2026-10-20 04:34:03,ODI,KNM Fernando,Colombo Cricket Club,Police Sports Club,Rajiv Gandhi International Stadium,1,1,185,125,148.0,1,17,7,Colombo Cricket Club,win
+14099,2026-10-20 05:17:06,TEST,OJ Pope,Surrey,Hampshire,"Kennington Oval, London",1,4,185,241,76.76,1,22,2,Surrey,win
+13654,2026-10-20 05:15:18,TEST,RK Patel,Leicestershire,Hampshire,"Grace Road, Leicester",4,1,185,243,76.13,0,26,3,Leicestershire,win
+14430,2026-10-20 05:18:24,TEST,SJG Janett,Canterbury,Auckland Aces,Kennards Hire Community Oval,2,2,185,251,73.71,1,24,1,,draw
+14080,2026-10-20 05:17:01,TEST,JA Haynes,Nottinghamshire,Leicestershire,"Grace Road, Leicester",2,5,185,289,64.01,1,21,0,Nottinghamshire,win
+14439,2026-10-20 05:18:25,TEST,JA Raval,Northern Districts,Otago Volts,Cobham Oval,1,1,185,303,61.06,1,24,1,Northern Districts,win
+14524,2026-10-20 05:18:48,TEST,TM Johnson,Otago Volts,Central Stags,McLean Park,2,4,185,325,56.92,1,20,4,,draw
+14880,2026-10-20 05:20:12,TEST,S Fanning,Western Australia,Tasmania,"Bellerive Oval, Hobart",2,2,185,326,56.75,1,21,1,Western Australia,win
+11753,2026-10-20 04:44:32,ODI,DJ Bell-Drummond,Kent,Somerset,"St Lawrence Ground, Canterbury",1,2,184,118,155.93,1,25,5,Kent,win
+12385,2026-10-20 04:58:29,ODI,AN Davidson-Richards,South East Stars Women,Thunder Women,"Kent County Cricket Ground, Beckenham",2,2,184,125,147.2,0,28,2,South East Stars Women,win
+10155,2026-10-19 23:00:02,ODI,Jake Egan,North-West Warriors,Northern Knights,"Woodvale Road, Eglinton",1,2,184,135,136.3,1,22,5,North-West Warriors,win
+12907,2026-10-20 05:10:19,ODI,HJ Hunt,South Australia,Western Australia,"Allan Border Field, Brisbane",2,1,184,137,134.31,1,21,6,South Australia,win
+10318,2026-10-19 23:05:25,ODI,L Winfield,Yorkshire Women,Essex Women,"County Ground, Chelmsford",1,1,184,140,131.43,0,25,3,Yorkshire Women,win
+10629,2026-10-19 23:15:49,ODI,TT Beaumont,The Blaze Women,Lancashire Women,"Trent Bridge, Nottingham",1,1,184,143,128.67,0,18,2,The Blaze Women,win
+14367,2026-10-20 05:18:08,TEST,D Foxcroft,Central Stags,Otago Volts,University of Otago Oval,1,4,184,213,86.38,1,21,6,Central Stags,win
+13209,2026-10-20 05:13:31,TEST,James Bracey,Gloucestershire,Northamptonshire,"County Ground, Bristol",3,6,184,215,85.58,1,25,2,Northamptonshire,win
+13979,2026-10-20 05:16:36,TEST,D Elgar,Essex,Leicestershire,"Grace Road, Leicester",1,1,184,275,66.91,1,26,1,Leicestershire,win
+13602,2026-10-20 05:15:06,TEST,TGR Clark,Sussex,Glamorgan,"County Ground, Hove",2,3,184,300,61.33,1,21,2,,draw
+14481,2026-10-20 05:18:37,TEST,SJG Janett,Canterbury,Northern Districts,Mainpower Oval,2,2,184,300,61.33,1,16,4,,draw
+14648,2026-10-20 05:19:18,TEST,CT Bancroft,Western Australia,Tasmania,"Western Australia Cricket Association Ground, Perth",2,1,184,319,57.68,1,19,1,Western Australia,win
+13376,2026-10-20 05:14:12,TEST,ML Revis,Yorkshire,Leicestershire,"North Marine Road Ground, Scarborough",2,5,184,323,56.97,1,25,3,Yorkshire,win
+14298,2026-10-20 05:17:54,TEST,B Popli,Northern Districts,Central Stags,Bay Oval,1,3,184,324,56.79,0,23,2,Northern Districts,win
+13563,2026-10-20 05:14:56,TEST,M Montgomery,Derbyshire,Gloucestershire,"County Ground, Derby",2,3,184,329,55.93,1,21,0,,draw
+13662,2026-10-20 05:15:19,TEST,SR Hain,Warwickshire,Leicestershire,Edgbaston,2,4,184,330,55.76,1,18,1,Warwickshire,win
+14225,2026-10-20 05:17:36,TEST,NRT Gubbins,Hampshire,Surrey,"Kennington Oval, London",3,1,184,341,53.96,0,22,1,Hampshire,win
+14874,2026-10-20 05:20:12,TEST,BR McDermott,Tasmania,Queensland,"Bellerive Oval, Hobart",2,5,184,342,53.8,1,21,6,Tasmania,win
+13445,2026-10-20 05:14:26,TEST,NA McSweeney,Northamptonshire,Worcestershire,"County Ground, Northampton",2,4,184,409,44.99,1,14,1,Northamptonshire,win
+10230,2026-10-19 23:02:18,ODI,KE Bryce,The Blaze Women,Warwickshire Women,"Edgbaston, Birmingham",1,3,183,137,133.58,0,30,0,The Blaze Women,win
+10417,2026-10-19 23:09:01,ODI,G Scrivens,Essex Women,Somerset Women,"The Cooper Associates County Ground, Taunton",1,1,183,138,132.61,1,23,3,Essex Women,win
+12399,2026-10-20 04:58:50,ODI,E Corney,Western Storm Women,Thunder Women,"The Cooper Associates County Ground, Taunton",1,1,183,148,123.65,1,24,2,Western Storm Women,win
+13426,2026-10-20 05:14:24,TEST,DG Bedingham,Durham,Gloucestershire,"County Ground, Bristol",1,4,183,207,88.41,1,17,7,Durham,win
+13112,2026-10-20 05:13:13,TEST,MJ Waite,Worcestershire,Gloucestershire,"College Ground, Cheltenham",2,7,183,220,83.18,0,23,4,,draw
+14244,2026-10-20 05:17:38,TEST,DG Bedingham,Durham,Derbyshire,"County Ground, Derby",1,4,183,221,82.81,1,18,6,Durham,win
+14394,2026-10-20 05:18:14,TEST,MA Abbas,Wellington Firebirds,Northern Districts,Seddon Park,1,6,183,246,74.39,0,26,2,Wellington Firebirds,win
+14463,2026-10-20 05:18:32,TEST,TB Robinson,Wellington Firebirds,Canterbury,Hagley Oval,1,3,183,265,69.06,1,27,2,,draw
+14444,2026-10-20 05:18:26,TEST,TC Bruce,Central Stags,Northern Districts,Nelson Park,2,5,183,266,68.8,1,17,2,Northern Districts,win
+13059,2026-10-20 05:13:06,TEST,CP Jewell,Derbyshire,Gloucestershire,"County Ground, Derby",2,2,183,294,62.24,1,17,3,,draw
+13722,2026-10-20 05:15:36,TEST,CT Bancroft,Gloucestershire,Northamptonshire,"County Ground, Northampton",1,1,183,298,61.41,1,26,0,,draw
+14487,2026-10-20 05:18:37,TEST,WA Young,Central Stags,Otago Volts,University of Otago Oval,1,3,183,308,59.42,0,22,3,Central Stags,win
+14020,2026-10-20 05:16:44,TEST,MDE Holden,Middlesex,Durham,"Riverside Ground, Chester-le-Street",1,2,183,312,58.65,1,23,0,Durham,win
+14264,2026-10-20 05:17:44,TEST,JJ Bohannon,Lancashire,Middlesex,"Merchant Taylors' School Ground, Northwood",1,2,183,323,56.66,1,24,1,Middlesex,win
+13552,2026-10-20 05:14:54,TEST,AZ Lees,Durham,Gloucestershire,"County Ground, Bristol",2,1,183,333,54.95,1,15,1,Durham,win
+14488,2026-10-20 05:18:37,TEST,CD Fletcher,Auckland Aces,Northern Districts,Seddon Park,2,6,183,345,53.04,0,25,3,Auckland Aces,win
+11290,2026-10-20 04:35:05,ODI,WIA Fernando,Sinhalese Sports Club,Police Sports Club,"Police Park Ground, Colombo",1,3,182,126,144.44,1,15,8,Sinhalese Sports Club,win
+11803,2026-10-20 04:45:31,ODI,AGH Orr,Hampshire,Yorkshire,"North Marine Road Ground, Scarborough",2,1,182,141,129.08,1,22,8,Hampshire,win
+11243,2026-10-20 04:34:06,ODI,G Weerasinghe,Kurunegala Youth Cricket Club,Tamil Union Cricket and Athletic Club,"Welagedara Stadium, Kurunegala",1,2,182,156,116.67,1,16,6,Kurunegala Youth Cricket Club,win
+14357,2026-10-20 05:18:07,TEST,LN Stackpole,Auckland Aces,Wellington Firebirds,Cello Basin Reserve,1,4,182,185,98.38,1,18,10,Auckland Aces,win
+13632,2026-10-20 05:15:13,TEST,TS Muyeye,Kent,Worcestershire,"St Lawrence Ground, Canterbury",2,4,182,207,87.92,1,20,3,Worcestershire,win
+14430,2026-10-20 05:18:24,TEST,DN Phillips,Auckland Aces,Canterbury,Kennards Hire Community Oval,1,1,182,219,83.11,1,27,2,,draw
+14578,2026-10-20 05:19:00,TEST,RR O'Donnell,Northern Districts,Auckland Aces,Seddon Park,2,5,182,219,83.11,1,15,7,Northern Districts,win
+14578,2026-10-20 05:19:00,TEST,LN Stackpole,Auckland Aces,Northern Districts,Seddon Park,1,4,182,222,81.98,1,24,5,Northern Districts,win
+14043,2026-10-20 05:16:51,TEST,CA Ingram,Glamorgan,Essex,"Sophia Gardens, Cardiff",1,5,182,272,66.91,1,22,2,Glamorgan,win
+13211,2026-10-20 05:13:32,TEST,AJ Hose,Worcestershire,Lancashire,"Trafalgar Road Ground, Southport",1,4,182,274,66.42,1,28,1,,draw
+13918,2026-10-20 05:16:20,TEST,BT Foakes,Surrey,Somerset,"The County Ground, Taunton",2,6,182,285,63.86,1,30,0,Surrey,win
+14824,2026-10-20 05:20:00,TEST,JS Lehmann,South Australia,Tasmania,"Bellerive Oval, Hobart",2,5,182,293,62.12,1,19,1,,draw
+14109,2026-10-20 05:17:07,TEST,JJ Bohannon,Lancashire,Derbyshire,"Queen's Park, Chesterfield",2,2,182,312,58.33,1,30,1,,draw
+13153,2026-10-20 05:13:20,TEST,FW McCann,Nottinghamshire,Sussex,"The County Ground, Hove",1,3,182,326,55.83,0,19,2,Nottinghamshire,win
+13615,2026-10-20 05:15:08,TEST,JJ Bohannon,Lancashire,Northamptonshire,"Old Trafford, Manchester",2,2,182,338,53.85,1,25,0,Lancashire,win
+14171,2026-10-20 05:17:21,TEST,RJ Burns,Surrey,Warwickshire,"Edgbaston, Birmingham",1,1,182,395,46.08,1,21,2,,draw
+11980,2026-10-20 04:49:01,ODI,BJ Dawkins,Kent,Lancashire,"Farington Cricket Ground, Farington",1,1,181,140,129.29,1,23,5,Kent,win
+13720,2026-10-20 05:15:32,TEST,HM Nicholls,Somerset,Sussex,"The Cooper Associates County Ground, Taunton",3,4,181,216,83.8,1,21,3,Sussex,win
+13800,2026-10-20 05:15:54,TEST,Z Crawley,Kent,Durham,"Riverside Ground, Chester-le-Street",1,1,181,222,81.53,1,26,1,Durham,win
+13664,2026-10-20 05:15:20,TEST,TJ Haines,Sussex,Hampshire,"The Rose Bowl, Southampton",2,2,181,235,77.02,1,29,0,Hampshire,win
+13414,2026-10-20 05:14:20,TEST,L Gregory,Somerset,Surrey,"The County Ground, Taunton",2,7,181,259,69.88,1,25,2,Somerset,win
+13732,2026-10-20 05:15:37,TEST,Miles Hammond,Gloucestershire,Worcestershire,"County Ground, New Road, Worcester",1,4,181,266,68.05,1,26,3,Gloucestershire,win
+13256,2026-10-20 05:13:43,TEST,JL du Plooy,Middlesex,Lancashire,"Merchant Taylors' School Ground, Northwood",1,5,181,269,67.29,1,20,3,Lancashire,win
+13801,2026-10-20 05:15:54,TEST,JEK Rew,Somerset,Nottinghamshire,"The Cooper Associates County Ground, Taunton",2,5,181,288,62.85,0,26,0,Somerset,win
+5,2026-10-19 17:58:30,TEST,C Green,Testing1,Testing,Lord's,1,4,181,293,61.77,1,13,3,,draw
+13049,2026-10-20 05:13:04,TEST,SR Hain,Warwickshire,Sussex,"County Ground, Hove",1,4,181,309,58.58,1,20,4,Warwickshire,win
+14213,2026-10-20 05:17:32,TEST,H Hameed,Nottinghamshire,Surrey,"Trent Bridge, Nottingham",4,1,181,314,57.64,1,28,0,,draw
+13670,2026-10-20 05:15:20,TEST,SD Robson,Middlesex,Gloucestershire,"Lord's, London",4,1,181,332,54.52,0,22,0,,draw
+14163,2026-10-20 05:17:20,TEST,SA Zaib,Northamptonshire,Middlesex,Lord's,1,5,181,337,53.71,0,15,1,Middlesex,win
+13073,2026-10-20 05:13:08,TEST,HRC Came,Derbyshire,Northamptonshire,"County Ground, Derby",1,1,181,343,52.77,0,19,1,Northamptonshire,win
+14372,2026-10-20 05:18:12,TEST,HR Cooper,Northern Districts,Auckland Aces,Kennards Hire Community Oval,1,2,181,345,52.46,1,21,2,Northern Districts,win
+13324,2026-10-20 05:14:00,TEST,H Hameed,Nottinghamshire,Leicestershire,"Grace Road, Leicester",2,1,181,346,52.31,1,18,0,Nottinghamshire,win
+14398,2026-10-20 05:18:18,TEST,SM Solia,Auckland Aces,Northern Districts,Seddon Park,1,2,181,405,44.69,1,19,2,,draw
+10427,2026-10-19 23:09:21,ODI,FG Kemp,Hampshire Women,Somerset Women,"The Rose Bowl, Southampton",1,6,180,100,180.0,0,24,6,Hampshire Women,win
+10403,2026-10-19 23:08:31,ODI,ME Bouchier,Hampshire Women,Essex Women,"The Rose Bowl, Southampton",1,2,180,114,157.89,1,28,3,Hampshire Women,win
+11345,2026-10-20 04:36:11,ODI,RS Patel,Surrey,Northamptonshire,"Woodbridge Road, Guildford",1,2,180,129,139.53,1,20,7,Surrey,win
+11814,2026-10-20 04:45:42,ODI,T Westley,Essex,Derbyshire,"County Ground, Chelmsford",2,1,180,136,132.35,1,29,1,Derbyshire,win
+13780,2026-10-20 05:15:49,TEST,JK Fuller,Hampshire,Leicestershire,"Grace Road, Leicester",1,8,180,189,95.24,1,22,4,,draw
+13124,2026-10-20 05:13:16,TEST,NF Kelly,Leicestershire,Yorkshire,"North Marine Road Ground, Scarborough",1,4,180,250,72.0,1,26,2,Leicestershire,win
+13522,2026-10-20 05:14:48,TEST,NF Kelly,Leicestershire,Somerset,"Grace Road, Leicester",1,4,180,263,68.44,1,30,1,Somerset,win
+13654,2026-10-20 05:15:18,TEST,JS Lehmann,Hampshire,Leicestershire,"Grace Road, Leicester",3,3,180,271,66.42,1,19,1,Leicestershire,win
+13075,2026-10-20 05:13:08,TEST,DG Bedingham,Durham,Worcestershire,"County Ground, New Road, Worcester",2,4,180,286,62.94,0,18,5,Durham,win
+14332,2026-10-20 05:18:01,TEST,TM Johnson,Otago Volts,Wellington Firebirds,Cello Basin Reserve,1,4,180,304,59.21,1,23,1,Wellington Firebirds,win
+13354,2026-10-20 05:14:07,TEST,GH Roderick,Worcestershire,Gloucestershire,"County Ground, New Road, Worcester",1,3,180,318,56.6,1,18,5,,draw
+14491,2026-10-20 05:18:38,TEST,TM Johnson,Otago Volts,Northern Districts,Molyneux Park,3,4,180,344,52.33,1,23,1,Otago Volts,win
+12015,2026-10-20 04:49:44,ODI,James Bracey,Gloucestershire,Nottinghamshire,"College Ground, Cheltenham",1,1,179,112,159.82,1,27,4,Gloucestershire,win
+12095,2026-10-20 04:51:05,ODI,SS Eskinazi,Leicestershire,Kent,"Kent County Cricket Ground, Beckenham",1,2,179,139,128.78,0,18,3,Leicestershire,win
+10507,2026-10-19 23:12:04,ODI,S Luus,Surrey Women,Lancashire Women,"Kennington Oval, London",1,2,179,141,126.95,1,27,1,Surrey Women,win
+12153,2026-10-20 04:52:37,ODI,CP Jewell,Tasmania,Western Australia,"Bellerive Oval, Hobart",1,1,179,144,124.31,1,22,2,Tasmania,win
+14286,2026-10-20 05:17:50,TEST,RJ Burns,Surrey,Glamorgan,The Oval,2,1,179,223,80.27,1,27,1,Surrey,win
+14168,2026-10-20 05:17:20,TEST,JA Simpson,Sussex,Hampshire,"The Rose Bowl, Southampton",3,7,179,247,72.47,0,26,2,Sussex,win
+13730,2026-10-20 05:15:37,TEST,DJ Bell-Drummond,Kent,Middlesex,"St Lawrence Ground, Canterbury",1,5,179,265,67.55,1,22,3,,draw
+13171,2026-10-20 05:13:22,TEST,JA Haynes,Nottinghamshire,Somerset,"The Cooper Associates County Ground, Taunton",2,5,179,273,65.57,1,21,0,Somerset,win
+13265,2026-10-20 05:13:44,TEST,JJ Bohannon,Lancashire,Gloucestershire,"Old Trafford, Manchester",2,2,179,296,60.47,1,15,7,Lancashire,win
+14785,2026-10-20 05:19:49,TEST,R Kingsell,New South Wales,Western Australia,"Western Australia Cricket Association Ground, Perth",1,1,179,362,49.45,1,17,3,,draw
+13060,2026-10-20 05:13:06,TEST,CN Ackermann,Durham,Lancashire,"Riverside Ground, Chester-le-Street",2,5,179,370,48.38,1,20,1,Durham,win
+13673,2026-10-20 05:15:24,TEST,TGR Clark,Sussex,Leicestershire,"Grace Road, Leicester",2,3,179,375,47.73,1,24,2,Sussex,win
+12085,2026-10-20 04:50:56,ODI,JMR Taylor,Gloucestershire,Lancashire,"Old Trafford, Manchester",2,4,178,117,152.14,1,29,2,Lancashire,win
+10154,2026-10-19 23:00:01,ODI,ST Doheny,Leinster Lightning,Northern Knights,"Lisburn Cricket Club, Wallace Park, Lisburn",1,2,178,131,135.88,1,16,7,Leinster Lightning,win
+11200,2026-10-20 04:33:22,ODI,S Gimhan,Moors Sports Club,Ace Capital Cricket Club,The Rose Bowl,1,1,178,133,133.83,1,21,5,Moors Sports Club,win
+13407,2026-10-20 05:14:19,TEST,SA Zaib,Northamptonshire,Middlesex,Lord's,2,5,178,201,88.56,1,23,5,Northamptonshire,win
+13918,2026-10-20 05:16:20,TEST,OJ Pope,Surrey,Somerset,"The County Ground, Taunton",2,4,178,260,68.46,1,26,0,Surrey,win
+13980,2026-10-20 05:16:37,TEST,DP Hughes,Sussex,Glamorgan,"County Ground, Hove",3,1,178,271,65.68,1,23,1,,draw
+14579,2026-10-20 05:19:00,TEST,BD Schmulian,Central Stags,Wellington Firebirds,Saxton Oval,2,2,178,273,65.2,1,22,0,Central Stags,win
+13290,2026-10-20 05:13:50,TEST,HRC Came,Derbyshire,Worcestershire,"County Ground, Derby",3,1,178,303,58.75,1,27,1,Derbyshire,win
+13931,2026-10-20 05:16:25,TEST,SR Hain,Warwickshire,Sussex,"County Ground, Hove",1,4,178,332,53.61,0,17,2,Warwickshire,win
+13685,2026-10-20 05:15:25,TEST,BBA Geddes,Middlesex,Northamptonshire,"County Ground, Northampton",1,3,178,364,48.9,0,17,0,Middlesex,win
+13197,2026-10-20 05:13:30,TEST,HM Nicholls,Somerset,Yorkshire,"The Cooper Associates County Ground, Taunton",1,4,178,396,44.95,0,16,2,Somerset,win
+4300,2026-10-19 22:51:45,T20,KL Rahul,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,1,177,74,239.19,0,19,10,Delhi Capitals,win
+15310,2026-10-22 07:13:32,ODI,TM Head,PunitODI,IndiaODI,Eden Gardens,1,3,177,108,163.89,0,19,10,PunitODI,win
+12831,2026-10-20 05:08:41,ODI,C Connolly,Western Australia,South Australia,"Western Australia Cricket Association Ground, Perth",1,4,177,113,156.64,1,20,8,Western Australia,win
+11836,2026-10-20 04:46:06,ODI,CP Jewell,Derbyshire,Sussex,"County Ground, Derby",1,2,177,127,139.37,1,17,6,Derbyshire,win
+12967,2026-10-20 05:11:36,ODI,DR Drew,South Australia,Queensland,"Karen Rolton Oval, Adelaide",2,3,177,128,138.28,0,21,6,Queensland,win
+11768,2026-10-20 04:44:47,ODI,LM Benkenstein,Essex,Glamorgan,"Sophia Gardens, Cardiff",2,2,177,135,131.11,1,24,6,Glamorgan,win
+11548,2026-10-20 04:40:40,ODI,NRT Gubbins,Hampshire,Derbyshire,"The Rose Bowl, Southampton",1,3,177,138,128.26,0,23,2,Hampshire,win
+10354,2026-10-19 23:06:30,ODI,S Luus,Surrey Women,Essex Women,"Kennington Oval, London",2,2,177,148,119.59,1,23,3,Essex Women,win
+14383,2026-10-20 05:18:13,TEST,BJ Jacobs,Auckland Aces,Otago Volts,University of Otago Oval,1,5,177,208,85.1,1,23,5,Auckland Aces,win
+13444,2026-10-20 05:14:26,TEST,WL Madsen,Derbyshire,Kent,"St Lawrence Ground, Canterbury",2,5,177,243,72.84,0,21,1,,draw
+13168,2026-10-20 05:13:22,TEST,MS Harris,Lancashire,Northamptonshire,"County Ground, Northampton",1,3,177,247,71.66,1,28,0,Lancashire,win
+13586,2026-10-20 05:15:01,TEST,WMH Rhodes,Durham,Kent,"Kent County Cricket Ground, Beckenham",1,3,177,253,69.96,1,22,0,Durham,win
+13278,2026-10-20 05:13:48,TEST,RS Patel,Surrey,Glamorgan,The Oval,2,3,177,259,68.34,1,27,2,Glamorgan,win
+14563,2026-10-20 05:18:55,TEST,SM Solia,Auckland Aces,Otago Volts,University of Otago Oval,2,2,177,262,67.56,1,24,2,Auckland Aces,win
+14046,2026-10-20 05:16:51,TEST,WL Madsen,Derbyshire,Worcestershire,"County Ground, Derby",1,5,177,271,65.31,1,18,3,,draw
+14846,2026-10-20 05:20:02,TEST,MW Harvey,South Australia,Victoria,Adelaide Oval,2,1,177,287,61.67,0,20,3,South Australia,win
+14162,2026-10-20 05:17:20,TEST,OJ Price,Gloucestershire,Kent,"St Lawrence Ground, Canterbury",1,3,177,294,60.2,1,24,0,,draw
+13950,2026-10-20 05:16:30,TEST,LBK Hollman,Middlesex,Durham,"Lord's, London",2,4,177,316,56.01,1,24,2,,draw
+14538,2026-10-20 05:18:49,TEST,B Popli,Northern Districts,Central Stags,Bay Oval,1,3,177,374,47.33,0,16,4,,draw
+14478,2026-10-20 05:18:36,TEST,JA Raval,Northern Districts,Central Stags,Bay Oval,1,1,177,393,45.04,1,14,0,,draw
+12085,2026-10-20 04:50:56,ODI,J Moores,Lancashire,Gloucestershire,"Old Trafford, Manchester",1,8,176,93,189.25,0,15,12,Lancashire,win
+12109,2026-10-20 04:51:23,ODI,AS Sawant,Middlesex,Gloucestershire,Rajiv Gandhi International Stadium,1,5,176,109,161.47,0,15,9,Middlesex,win
+11741,2026-10-20 04:44:21,ODI,WJ Bennison,Yorkshire,Sussex,"County Ground, Hove",1,4,176,129,136.43,0,12,9,Yorkshire,win
+10640,2026-10-19 23:16:12,ODI,SJ Bryce,The Blaze Women,Warwickshire Women,"Trent Bridge, Nottingham",2,4,176,133,132.33,0,17,3,Warwickshire Women,win
+12999,2026-10-20 05:12:13,ODI,DR Drew,South Australia,Tasmania,"Karen Rolton Oval, Adelaide",1,3,176,135,130.37,1,16,5,South Australia,win
+13678,2026-10-20 05:15:24,TEST,BS McKinney,Durham,Gloucestershire,"County Ground, Bristol",1,2,176,191,92.15,1,25,4,,draw
+13150,2026-10-20 05:13:19,TEST,Rehan Ahmed,Leicestershire,Hampshire,"Grace Road, Leicester",3,3,176,213,82.63,1,23,1,Leicestershire,win
+13689,2026-10-20 05:15:26,TEST,WL Madsen,Derbyshire,Gloucestershire,"County Ground, Derby",2,5,176,226,77.88,0,20,3,,draw
+14085,2026-10-20 05:17:01,TEST,JS Lehmann,Hampshire,Essex,"County Ground, Chelmsford",1,3,176,227,77.53,1,29,0,Essex,win
+14884,2026-10-20 05:20:13,TEST,JJS Sangha,South Australia,Western Australia,"Western Australia Cricket Association Ground, Perth",2,4,176,229,76.86,1,29,1,,draw
+14363,2026-10-20 05:18:07,TEST,RA Mariu,Canterbury,Central Stags,Hagley Oval,3,1,176,260,67.69,1,22,2,Canterbury,win
+14429,2026-10-20 05:18:24,TEST,D Cleaver,Central Stags,Wellington Firebirds,Saxton Oval,1,6,176,264,66.67,0,20,4,Central Stags,win
+13378,2026-10-20 05:14:12,TEST,JA Simpson,Sussex,Somerset,"County Ground, Hove",2,7,176,270,65.19,1,22,5,,draw
+13180,2026-10-20 05:13:24,TEST,FW McCann,Nottinghamshire,Glamorgan,"Trent Bridge, Nottingham",1,3,176,273,64.47,1,28,0,Nottinghamshire,win
+13570,2026-10-20 05:14:56,TEST,CG Benjamin,Kent,Derbyshire,"St Lawrence Ground, Canterbury",2,7,176,284,61.97,0,22,1,,draw
+13510,2026-10-20 05:14:43,TEST,SM Whiteman,Yorkshire,Surrey,"Kennington Oval, London",1,2,176,297,59.26,1,21,1,Yorkshire,win
+13306,2026-10-20 05:13:55,TEST,CB Cooke,Glamorgan,Nottinghamshire,"Trent Bridge, Nottingham",1,7,176,310,56.77,0,22,1,,draw
+13279,2026-10-20 05:13:49,TEST,JM Coles,Sussex,Nottinghamshire,"The County Ground, Hove",4,4,176,345,51.01,0,18,2,Sussex,win
+10273,2026-10-19 23:04:01,ODI,ME Bouchier,Hampshire Women,Lancashire Women,"Old Trafford, Manchester",1,2,175,110,159.09,1,27,2,Hampshire Women,win
+11660,2026-10-20 04:42:43,ODI,K Smith,Warwickshire,Somerset,"The Cooper Associates County Ground, Taunton",1,5,175,111,157.66,1,20,6,Warwickshire,win
+10112,2026-10-19 22:59:14,ODI,C Carmichael,Northern Knights,Leinster Lightning,"Lisburn Cricket Club, Wallace Park, Lisburn",1,2,175,121,144.63,1,23,3,Northern Knights,win
+15257,2026-10-21 20:45:24,ODI,TM Head,PunitODI,Flappy's Taskforce,Sydney Cricket Ground,1,3,175,122,143.44,1,16,8,PunitODI,win
+11900,2026-10-20 04:47:23,ODI,B Swanepoel,Worcestershire,Hampshire,"County Ground, New Road, Worcester",1,6,175,127,137.8,0,17,8,Worcestershire,win
+10918,2026-10-19 23:25:30,ODI,M Bhanuka,Tamil Union Cricket and Athletic Club,Kurunegala Youth Cricket Club,"Welagedara Stadium, Kurunegala",1,4,175,134,130.6,0,26,2,Tamil Union Cricket and Athletic Club,win
+15192,2026-10-21 09:51:46,ODI,Shubman Gill,India,BSDK GRenin,Wankhede Stadium,1,2,175,136,128.68,1,18,7,India,win
+11854,2026-10-20 04:46:24,ODI,HRC Came,Derbyshire,Middlesex,"County Ground, Derby",1,1,175,142,123.24,1,18,6,Derbyshire,win
+11470,2026-10-20 04:39:00,ODI,N Fernandes,Middlesex,Sussex,"Brunton Memorial Ground, Radlett",1,3,175,144,121.53,0,19,6,Middlesex,win
+12164,2026-10-20 04:52:58,ODI,JR Doran,Tasmania,Western Australia,"Bellerive Oval, Hobart",1,3,175,146,119.86,0,17,3,Tasmania,win
+12844,2026-10-20 05:08:56,ODI,TF Rogers,Victoria,New South Wales,"Junction Oval, Melbourne",1,1,175,147,119.05,0,11,11,Victoria,win
+12781,2026-10-20 05:07:31,ODI,M Kelly,The Blaze Women,Western Storm Women,"Trent Bridge, Nottingham",2,1,175,150,116.67,0,21,1,Western Storm Women,win
+14836,2026-10-20 05:20:01,TEST,W Salzmann,New South Wales,Tasmania,"Bellerive Oval, Hobart",1,3,175,198,88.38,1,25,1,New South Wales,win
+14805,2026-10-20 05:19:54,TEST,W Salzmann,New South Wales,Tasmania,"Bellerive Oval, Hobart",1,3,175,222,78.83,1,23,1,New South Wales,win
+13283,2026-10-20 05:13:49,TEST,GP Balderson,Lancashire,Durham,Old Trafford,3,8,175,223,78.48,0,23,2,Durham,win
+13894,2026-10-20 05:16:14,TEST,DG Bedingham,Durham,Middlesex,"Riverside Ground, Chester-le-Street",2,4,175,242,72.31,1,17,3,,draw
+14102,2026-10-20 05:17:06,TEST,JL du Plooy,Middlesex,Worcestershire,"County Ground, New Road, Worcester",3,5,175,256,68.36,1,18,0,Middlesex,win
+13446,2026-10-20 05:14:27,TEST,HG Duke,Middlesex,Durham,"Lord's, London",2,7,175,279,62.72,0,23,4,,draw
+14716,2026-10-20 05:19:32,TEST,JS Lehmann,South Australia,New South Wales,"Karen Rolton Oval, Adelaide",2,5,175,283,61.84,1,24,1,South Australia,win
+13554,2026-10-20 05:14:54,TEST,CG Harrison,Northamptonshire,Kent,"St Lawrence Ground, Canterbury",1,3,175,314,55.73,0,18,2,,draw
+13708,2026-10-20 05:15:31,TEST,ML Revis,Yorkshire,Warwickshire,"Edgbaston, Birmingham",1,5,175,316,55.38,1,24,0,,draw
+13572,2026-10-20 05:15:00,TEST,JL du Plooy,Middlesex,Durham,"Lord's, London",1,5,175,318,55.03,1,20,0,,draw
+14640,2026-10-20 05:19:13,TEST,J Clayton,Queensland,Victoria,"Brisbane Cricket Ground, Woolloongabba, Brisbane",3,3,175,349,50.14,0,17,1,,draw
+13243,2026-10-20 05:13:39,TEST,TE Albert,Hampshire,Yorkshire,"The Rose Bowl, Southampton",1,2,175,382,45.81,1,25,2,Yorkshire,win
+11234,2026-10-20 04:33:59,ODI,P Rathnayake,Colombo Cricket Club,Tamil Union Cricket and Athletic Club,"P Sara Oval, Colombo",2,4,174,116,150.0,0,15,12,Colombo Cricket Club,win
+10166,2026-10-19 23:00:16,ODI,C Carmichael,Northern Knights,Leinster Lightning,"Pembroke Cricket Club, Sandymount, Dublin",1,2,174,121,143.8,1,29,2,Northern Knights,win
+11319,2026-10-20 04:35:39,ODI,WIA Fernando,Sinhalese Sports Club,Bloomfield Cricket and Athletic Club,"Bloomfield Cricket and Athletic Club Ground, Colombo",1,3,174,131,132.82,1,17,7,Sinhalese Sports Club,win
+10347,2026-10-19 23:06:17,ODI,EL Lamb,Lancashire Women,Hampshire Women,"Old Trafford, Manchester",1,2,174,131,132.82,0,21,2,Lancashire Women,win
+10649,2026-10-19 23:16:28,ODI,R Odgers,Somerset Women,Hampshire Women,"The Rose Bowl, Southampton",1,1,174,140,124.29,0,23,1,Hampshire Women,win
+11740,2026-10-20 04:44:21,ODI,NA McSweeney,Northamptonshire,Surrey,"Woodbridge Road, Guildford",1,1,174,149,116.78,0,23,3,Northamptonshire,win
+10217,2026-10-19 23:01:53,ODI,GL Adams,Hampshire Women,Somerset Women,"The Cooper Associates County Ground, Taunton",1,3,174,151,115.23,0,20,2,Hampshire Women,win
+13952,2026-10-20 05:16:30,TEST,TJ Prest,Hampshire,Glamorgan,"The Rose Bowl, Southampton",2,4,174,217,80.18,1,24,1,,draw
+13097,2026-10-20 05:13:11,TEST,MS Pepper,Essex,Leicestershire,"Grace Road, Leicester",1,6,174,222,78.38,0,19,0,Essex,win
+14584,2026-10-20 05:19:01,TEST,TC Bruce,Central Stags,Otago Volts,McLean Park,1,5,174,232,75.0,1,23,3,Central Stags,win
+13655,2026-10-20 05:15:19,TEST,HM Nicholls,Somerset,Yorkshire,Headingley,1,4,174,242,71.9,1,23,1,,draw
+13961,2026-10-20 05:16:31,TEST,JM Clarke,Nottinghamshire,Surrey,"Trent Bridge, Nottingham",3,4,174,302,57.62,1,15,2,Surrey,win
+13797,2026-10-20 05:15:54,TEST,A Lyth,Yorkshire,Glamorgan,"Sophia Gardens, Cardiff",2,1,174,303,57.43,1,21,2,,draw
+13375,2026-10-20 05:14:12,TEST,CWJ Allison,Essex,Surrey,"County Ground, Chelmsford",1,4,174,308,56.49,0,22,2,,draw
+13460,2026-10-20 05:14:31,TEST,AZ Lees,Durham,Kent,"Kent County Cricket Ground, Beckenham",2,1,174,312,55.77,1,18,1,Durham,win
+13888,2026-10-20 05:16:14,TEST,ML Revis,Yorkshire,Surrey,"Kennington Oval, London",1,5,174,326,53.37,0,21,0,Yorkshire,win
+14581,2026-10-20 05:19:00,TEST,B Popli,Northern Districts,Otago Volts,Molyneux Park,1,3,174,328,53.05,0,17,2,Northern Districts,win
+13752,2026-10-20 05:15:42,TEST,H Hameed,Nottinghamshire,Warwickshire,"Edgbaston, Birmingham",2,1,174,356,48.88,1,19,0,,draw
+15256,2026-10-21 20:45:24,ODI,AC Gilchrist,Flappy's Taskforce,PunitODI,Sir Vivian Richards Stadium,1,1,173,107,161.68,1,28,4,Flappy's Taskforce,win
+11896,2026-10-20 04:47:19,ODI,BBA Geddes,Middlesex,Glamorgan,"Brunton Memorial Ground, Radlett",1,4,173,111,155.86,1,16,9,Middlesex,win
+12919,2026-10-20 05:10:32,ODI,C Connolly,Western Australia,South Australia,"Western Australia Cricket Association Ground, Perth",1,4,173,118,146.61,1,14,11,Western Australia,win
+10756,2026-10-19 23:20:08,ODI,AN Davidson-Richards,Surrey Women,Essex Women,"County Ground, Chelmsford",1,4,173,124,139.52,0,22,2,Surrey Women,win
+12115,2026-10-20 04:51:35,ODI,JL Curtis,Western Australia,South Australia,"Karen Rolton Oval, Adelaide",1,2,173,140,123.57,1,12,8,Western Australia,win
+11866,2026-10-20 04:46:39,ODI,SD Perera,Somerset,Lancashire,"The Cooper Associates County Ground, Taunton",1,2,173,144,120.14,1,24,2,Somerset,win
+11984,2026-10-20 04:49:06,ODI,AL Davies,Warwickshire,Surrey,"Edgbaston, Birmingham",1,3,173,145,119.31,0,20,3,Surrey,win
+11998,2026-10-20 04:49:25,ODI,SS Eskinazi,Leicestershire,Somerset,"Grace Road, Leicester",2,2,173,148,116.89,0,22,2,Leicestershire,win
+13845,2026-10-20 05:16:03,TEST,OJ Pope,Surrey,Yorkshire,"Headingley, Leeds",2,4,173,191,90.58,1,27,2,,draw
+13321,2026-10-20 05:13:56,TEST,OJ Pope,Surrey,Sussex,"Kennington Oval, London",3,4,173,199,86.93,1,23,3,Surrey,win
+14328,2026-10-20 05:18:01,TEST,TC Bruce,Central Stags,Northern Districts,Bay Oval,4,5,173,199,86.93,0,25,2,Central Stags,win
+13284,2026-10-20 05:13:49,TEST,Z Malik,Warwickshire,Leicestershire,Edgbaston,2,5,173,207,83.57,0,20,3,Warwickshire,win
+13352,2026-10-20 05:14:07,TEST,RF Higgins,Middlesex,Kent,"St Lawrence Ground, Canterbury",1,6,173,212,81.6,0,26,2,,draw
+13366,2026-10-20 05:14:08,TEST,AL Davies,Warwickshire,Sussex,"Edgbaston, Birmingham",2,2,173,213,81.22,1,27,1,Warwickshire,win
+13182,2026-10-20 05:13:25,TEST,Miles Hammond,Gloucestershire,Lancashire,"County Ground, Bristol",3,4,173,243,71.19,0,29,1,Gloucestershire,win
+13508,2026-10-20 05:14:43,TEST,LBK Hollman,Middlesex,Lancashire,"Merchant Taylors' School Ground, Northwood",1,4,173,251,68.92,0,28,1,Middlesex,win
+13631,2026-10-20 05:15:13,TEST,JP Phillips,Gloucestershire,Derbyshire,"County Ground, Bristol",1,2,173,260,66.54,1,23,0,Gloucestershire,win
+13141,2026-10-20 05:13:18,TEST,PI Walter,Essex,Yorkshire,"Headingley, Leeds",1,2,173,274,63.14,1,20,2,Essex,win
+13303,2026-10-20 05:13:54,TEST,ML Revis,Yorkshire,Hampshire,"Headingley, Leeds",1,5,173,275,62.91,1,22,2,Yorkshire,win
+14273,2026-10-20 05:17:48,TEST,James Bracey,Gloucestershire,Lancashire,"Old Trafford, Manchester",1,6,173,276,62.68,1,23,0,Gloucestershire,win
+13128,2026-10-20 05:13:16,TEST,SA Northeast,Kent,Worcestershire,"St Lawrence Ground, Canterbury",2,3,173,280,61.79,0,18,1,Worcestershire,win
+13663,2026-10-20 05:15:20,TEST,FW McCann,Nottinghamshire,Yorkshire,Trent Bridge,2,3,173,282,61.35,1,23,1,,draw
+14259,2026-10-20 05:17:43,TEST,NRT Gubbins,Hampshire,Glamorgan,"Sophia Gardens, Cardiff",1,1,173,294,58.84,1,24,0,Glamorgan,win
+13796,2026-10-20 05:15:51,TEST,TW Boorman,Gloucestershire,Middlesex,"Lord's, London",3,5,173,296,58.45,0,20,2,Gloucestershire,win
+14135,2026-10-20 05:17:13,TEST,LM Reece,Derbyshire,Gloucestershire,"County Ground, Bristol",1,4,173,309,55.99,1,15,4,,draw
+13300,2026-10-20 05:13:54,TEST,AZ Lees,Durham,Gloucestershire,"County Ground, Bristol",3,1,173,314,55.1,0,16,3,Durham,win
+14111,2026-10-20 05:17:07,TEST,JJG Sales,Northamptonshire,Durham,"Riverside Ground, Chester-le-Street",3,6,173,316,54.75,1,18,2,Durham,win
+14458,2026-10-20 05:18:31,TEST,B Popli,Northern Districts,Auckland Aces,Seddon Park,3,3,173,322,53.73,0,19,2,Northern Districts,win
+13970,2026-10-20 05:16:32,TEST,CA Ingram,Glamorgan,Warwickshire,"Edgbaston, Birmingham",1,5,173,341,50.73,0,23,1,,draw
+12921,2026-10-20 05:10:34,ODI,SB Harper,Victoria,South Australia,"Junction Oval, Melbourne",1,3,172,131,131.3,1,10,11,Victoria,win
+10350,2026-10-19 23:06:23,ODI,KE Bryce,The Blaze Women,Surrey Women,"Trent Bridge, Nottingham",1,3,172,132,130.3,0,20,2,The Blaze Women,win
+15256,2026-10-21 20:45:24,ODI,SR Watson,Flappy's Taskforce,PunitODI,Sir Vivian Richards Stadium,1,2,172,151,113.91,0,15,5,Flappy's Taskforce,win
+14573,2026-10-20 05:19:00,TEST,MWT Boyle,Canterbury,Central Stags,Hagley Oval,1,4,172,191,90.05,0,23,4,Canterbury,win
+14545,2026-10-20 05:18:50,TEST,BJ Jacobs,Auckland Aces,Otago Volts,Kennards Hire Community Oval,2,5,172,212,81.13,1,29,3,Auckland Aces,win
+13101,2026-10-20 05:13:12,TEST,AR Shetty,Lancashire,Derbyshire,"Queen's Park, Chesterfield",1,7,172,216,79.63,0,24,3,Lancashire,win
+14160,2026-10-20 05:17:19,TEST,BI Kellaway,Glamorgan,Surrey,The Oval,3,4,172,257,66.93,1,22,2,,draw
+13177,2026-10-20 05:13:24,TEST,BC Brown,Hampshire,Yorkshire,"Headingley, Leeds",2,5,172,268,64.18,1,24,1,,draw
+13881,2026-10-20 05:16:13,TEST,TE Albert,Hampshire,Glamorgan,"Sophia Gardens, Cardiff",3,2,172,269,63.94,1,17,6,Hampshire,win
+14834,2026-10-20 05:20:01,TEST,AM Hardie,Western Australia,Tasmania,"Western Australia Cricket Association Ground, Perth",2,5,172,271,63.47,0,26,0,,draw
+13933,2026-10-20 05:16:25,TEST,SM Whiteman,Yorkshire,Hampshire,"Headingley, Leeds",4,2,172,279,61.65,1,25,1,Hampshire,win
+14086,2026-10-20 05:17:01,TEST,EG Barnard,Warwickshire,Yorkshire,"Edgbaston, Birmingham",1,7,172,280,61.43,1,18,1,Warwickshire,win
+13654,2026-10-20 05:15:18,TEST,NRT Gubbins,Hampshire,Leicestershire,"Grace Road, Leicester",3,1,172,324,53.09,1,15,2,Leicestershire,win
+14693,2026-10-20 05:19:26,TEST,RR Hicks,New South Wales,Victoria,"Junction Oval, Melbourne",3,4,172,332,51.81,1,18,1,,draw
+13578,2026-10-20 05:15:00,TEST,BG Compton,Kent,Gloucestershire,"County Ground, Bristol",1,2,172,346,49.71,0,18,0,Kent,win
+13872,2026-10-20 05:16:12,TEST,D Elgar,Essex,Somerset,"The Cooper Associates County Ground, Taunton",2,1,172,387,44.44,1,18,1,,draw
+11160,2026-10-20 04:31:42,ODI,RK Chandraguptha,Sinhalese Sports Club,Colombo Cricket Club,Riverside Ground,2,2,171,128,133.59,1,20,5,Colombo Cricket Club,win
+12924,2026-10-20 05:10:38,ODI,DJM Short,Western Australia,Tasmania,"Bellerive Oval, Hobart",2,3,171,131,130.53,1,19,4,Tasmania,win
+11719,2026-10-20 04:43:51,ODI,CP Jewell,Derbyshire,Durham,"County Ground, Derby",2,2,171,134,127.61,1,19,3,Durham,win
+14905,2026-10-20 05:20:18,TEST,LD Hearne,Queensland,Tasmania,"Bellerive Oval, Hobart",2,5,171,141,121.28,1,27,3,,draw
+12399,2026-10-20 04:58:50,ODI,SN Luff,Western Storm Women,Thunder Women,"The Cooper Associates County Ground, Taunton",1,2,171,143,119.58,0,25,1,Western Storm Women,win
+13773,2026-10-20 05:15:48,TEST,TJ Haines,Sussex,Surrey,"County Ground, Hove",1,2,171,209,81.82,1,23,1,Sussex,win
+14457,2026-10-20 05:18:31,TEST,D Cleaver,Central Stags,Otago Volts,University of Otago Oval,2,6,171,220,77.73,0,20,3,,draw
+13710,2026-10-20 05:15:31,TEST,HM Nicholls,Somerset,Glamorgan,"Sophia Gardens, Cardiff",1,4,171,242,70.66,1,19,1,Somerset,win
+13130,2026-10-20 05:13:17,TEST,RF Higgins,Middlesex,Lancashire,"Merchant Taylors' School Ground, Northwood",1,6,171,244,70.08,1,21,3,Middlesex,win
+13080,2026-10-20 05:13:09,TEST,JEK Rew,Somerset,Glamorgan,"Sophia Gardens, Cardiff",1,5,171,249,68.67,1,23,0,,draw
+13647,2026-10-20 05:15:18,TEST,DP Hughes,Sussex,Surrey,"County Ground, Hove",2,1,171,259,66.02,1,25,0,,draw
+14698,2026-10-20 05:19:30,TEST,AM Hardie,Western Australia,South Australia,"Western Australia Cricket Association Ground, Perth",1,5,171,271,63.1,1,22,1,Western Australia,win
+13699,2026-10-20 05:15:30,TEST,JM Coles,Sussex,Surrey,"Kennington Oval, London",3,4,171,272,62.87,0,16,3,Sussex,win
+14461,2026-10-20 05:18:31,TEST,JF Carter,Northern Districts,Otago Volts,Molyneux Park,1,4,171,282,60.64,0,20,3,Northern Districts,win
+14277,2026-10-20 05:17:49,TEST,TJ Haines,Sussex,Surrey,"County Ground, Hove",1,2,171,284,60.21,1,21,1,,draw
+14252,2026-10-20 05:17:42,TEST,BBA Geddes,Middlesex,Derbyshire,"County Ground, Derby",3,3,171,295,57.97,1,21,1,,draw
+14257,2026-10-20 05:17:43,TEST,OJ Pope,Surrey,Essex,"County Ground, Chelmsford",2,4,171,295,57.97,1,19,4,Essex,win
+13462,2026-10-20 05:14:31,TEST,LM Reece,Derbyshire,Middlesex,"Lord's, London",1,4,171,296,57.77,0,18,1,,draw
+13312,2026-10-20 05:13:55,TEST,MS Harris,Lancashire,Durham,"Riverside Ground, Chester-le-Street",3,3,171,303,56.44,0,19,4,Durham,win
+13153,2026-10-20 05:13:20,TEST,H Hameed,Nottinghamshire,Sussex,"The County Ground, Hove",1,1,171,311,54.98,1,16,1,Nottinghamshire,win
+14330,2026-10-20 05:18:01,TEST,WA Young,Central Stags,Auckland Aces,Saxton Oval,2,3,171,328,52.13,1,17,1,,draw
+12160,2026-10-20 04:52:50,ODI,L Blackford,Victoria,Tasmania,"Allan Border Field, Brisbane",2,6,170,121,140.5,0,21,4,Tasmania,win
+10475,2026-10-19 23:11:04,ODI,S Luus,Surrey Women,Warwickshire Women,"Edgbaston, Birmingham",1,2,170,123,138.21,1,21,2,Surrey Women,win
+12263,2026-10-20 04:55:41,ODI,KM Chathli,South East Stars Women,Southern Vipers Women,"Enborne Lodge, Newbury",1,3,170,128,132.81,0,23,0,South East Stars Women,win
+12066,2026-10-20 04:50:32,ODI,WT Smale,Glamorgan,Derbyshire,Repton School Ground,1,2,170,131,129.77,0,19,5,Glamorgan,win
+12266,2026-10-20 04:55:46,ODI,AN Davidson-Richards,South East Stars Women,Sunrisers Women,"Kent County Cricket Ground, Beckenham",1,2,170,135,125.93,1,26,0,South East Stars Women,win
+11615,2026-10-20 04:41:51,ODI,Isaac Mohammed,Worcestershire,Sussex,"County Ground, Hove",2,1,170,143,118.88,1,16,7,Worcestershire,win
+12906,2026-10-20 05:10:16,ODI,J Weatherald,Tasmania,Victoria,"Junction Oval, Melbourne",2,2,170,148,114.86,1,20,3,Victoria,win
+13417,2026-10-20 05:14:20,TEST,T Westley,Essex,Hampshire,"The Rose Bowl, Southampton",3,3,170,178,95.51,1,30,0,Essex,win
+13633,2026-10-20 05:15:13,TEST,DG Bedingham,Durham,Northamptonshire,"County Ground, Northampton",2,4,170,203,83.74,0,20,4,Durham,win
+15330,2026-10-22 15:11:44,TEST,Shubman Gill,India,Australia,The Wanderers Stadium,3,4,170,224,75.89,1,25,2,Australia,win
+13415,2026-10-20 05:14:20,TEST,OJ Pope,Surrey,Warwickshire,"Edgbaston, Birmingham",1,4,170,224,75.89,0,25,3,Surrey,win
+13180,2026-10-20 05:13:24,TEST,H Hameed,Nottinghamshire,Glamorgan,"Trent Bridge, Nottingham",3,1,170,232,73.28,0,29,0,Nottinghamshire,win
+14308,2026-10-20 05:17:55,TEST,JF Carter,Northern Districts,Auckland Aces,Seddon Park,2,4,170,244,69.67,1,27,1,Northern Districts,win
+13400,2026-10-20 05:14:18,TEST,SA Northeast,Kent,Lancashire,"St Lawrence Ground, Canterbury",3,3,170,266,63.91,1,20,2,Kent,win
+14057,2026-10-20 05:16:56,TEST,RM Yates,Warwickshire,Sussex,"County Ground, Hove",4,1,170,278,61.15,0,20,2,Warwickshire,win
+13636,2026-10-20 05:15:13,TEST,RS Patel,Surrey,Yorkshire,"Kennington Oval, London",1,3,170,281,60.5,0,20,4,Yorkshire,win
+13667,2026-10-20 05:15:20,TEST,RS Patel,Surrey,Warwickshire,"Edgbaston, Birmingham",1,3,170,283,60.07,1,19,3,,draw
+14672,2026-10-20 05:19:24,TEST,KR Patterson,New South Wales,Tasmania,"Cricket Central, Sydney",1,2,170,294,57.82,0,22,0,New South Wales,win
+13802,2026-10-20 05:15:54,TEST,BBA Geddes,Middlesex,Worcestershire,"Lord's, London",1,3,170,351,48.43,0,14,4,Worcestershire,win
+10341,2026-10-19 23:06:08,ODI,ME Bouchier,Hampshire Women,Durham Women,"The Rose Bowl, Southampton",2,2,169,121,139.67,0,25,0,Hampshire Women,win
+11490,2026-10-20 04:39:30,ODI,GHS Garton,Warwickshire,Nottinghamshire,"The John Fretwell Sporting Complex, Nettleworth",2,6,169,122,138.52,1,16,6,Nottinghamshire,win
+12995,2026-10-20 05:12:09,ODI,NA McSweeney,South Australia,Western Australia,"Allan Border Field, Brisbane",2,4,169,127,133.07,1,20,2,Western Australia,win
+10147,2026-10-19 22:59:53,ODI,ST Doheny,Leinster Lightning,Northern Knights,"Lisburn Cricket Club, Wallace Park, Lisburn",2,2,169,146,115.75,0,15,8,Leinster Lightning,win
+12950,2026-10-20 05:11:16,ODI,MS Harris,Victoria,Tasmania,"Junction Oval, Melbourne",1,2,169,147,114.97,1,19,4,Tasmania,win
+10726,2026-10-19 23:19:10,ODI,SN Luff,Somerset Women,The Blaze Women,"The Maer Ground, Exmouth",1,3,169,148,114.19,0,24,0,Somerset Women,win
+14316,2026-10-20 05:17:56,TEST,SB Keene,Auckland Aces,Central Stags,Kennards Hire Community Oval,3,7,169,172,98.26,0,29,2,Auckland Aces,win
+13400,2026-10-20 05:14:18,TEST,TS Muyeye,Kent,Lancashire,"St Lawrence Ground, Canterbury",3,4,169,188,89.89,1,27,1,Kent,win
+13647,2026-10-20 05:15:18,TEST,DW Lawrence,Surrey,Sussex,"County Ground, Hove",1,5,169,188,89.89,1,18,6,,draw
+13629,2026-10-20 05:15:12,TEST,KS Carlson,Glamorgan,Hampshire,"Sophia Gardens, Cardiff",3,3,169,207,81.64,0,24,3,Glamorgan,win
+13678,2026-10-20 05:15:24,TEST,Miles Hammond,Gloucestershire,Durham,"County Ground, Bristol",2,4,169,216,78.24,1,22,5,,draw
+13665,2026-10-20 05:15:20,TEST,MJJ Critchley,Essex,Glamorgan,"Sophia Gardens, Cardiff",1,5,169,230,73.48,0,24,1,Essex,win
+14233,2026-10-20 05:17:37,TEST,HM Nicholls,Somerset,Nottinghamshire,"Trent Bridge, Nottingham",2,4,169,254,66.54,1,22,1,,draw
+13104,2026-10-20 05:13:12,TEST,D Elgar,Essex,Nottinghamshire,"County Ground, Chelmsford",2,1,169,258,65.5,1,21,2,,draw
+14583,2026-10-20 05:19:01,TEST,HM Nicholls,Canterbury,Wellington Firebirds,Hagley Oval,1,3,169,258,65.5,1,17,1,Wellington Firebirds,win
+13954,2026-10-20 05:16:30,TEST,JM Clarke,Nottinghamshire,Leicestershire,"Grace Road, Leicester",1,4,169,264,64.02,1,20,2,,draw
+14046,2026-10-20 05:16:51,TEST,HJ Cullen,Worcestershire,Derbyshire,"County Ground, Derby",2,6,169,281,60.14,1,18,2,,draw
+14473,2026-10-20 05:18:36,TEST,SM Solia,Auckland Aces,Otago Volts,University of Otago Oval,1,2,169,283,59.72,1,28,2,Auckland Aces,win
+13944,2026-10-20 05:16:26,TEST,SA Northeast,Kent,Worcestershire,"County Ground, New Road, Worcester",2,3,169,290,58.28,1,23,1,Kent,win
+14110,2026-10-20 05:17:07,TEST,BL D'Oliveira,Worcestershire,Gloucestershire,"County Ground, New Road, Worcester",1,5,169,294,57.48,0,17,3,Worcestershire,win
+14118,2026-10-20 05:17:09,TEST,LM Reece,Derbyshire,Durham,"County Ground, Derby",1,4,169,310,54.52,1,21,2,,draw
+13665,2026-10-20 05:15:20,TEST,T Westley,Essex,Glamorgan,"Sophia Gardens, Cardiff",1,3,169,323,52.32,1,23,0,Essex,win
+14902,2026-10-20 05:20:18,TEST,JJS Sangha,South Australia,New South Wales,"Karen Rolton Oval, Adelaide",1,4,169,376,44.95,0,19,2,,draw
+308,2026-10-19 19:20:22,T20,Ishan Kishan,Sunrisers Hyderabad,Rajasthan Royals,Rajiv Gandhi International Stadium,1,3,168,66,254.55,1,19,10,Sunrisers Hyderabad,win
+12924,2026-10-20 05:10:38,ODI,MJ Owen,Tasmania,Western Australia,"Bellerive Oval, Hobart",1,3,168,108,155.56,1,13,11,Tasmania,win
+11956,2026-10-20 04:48:30,ODI,DG Bedingham,Durham,Derbyshire,"County Ground, Derby",1,4,168,110,152.73,0,13,9,Durham,win
+11852,2026-10-20 04:46:23,ODI,GH Roderick,Worcestershire,Sussex,"County Ground, Hove",1,2,168,116,144.83,1,21,5,Worcestershire,win
+11024,2026-10-20 01:28:35,ODI,Sineth Jayawardena,Tamil Union Cricket and Athletic Club,Nugegoda Sports Welfare Club,"P Sara Oval, Colombo",1,2,168,124,135.48,1,19,6,Tamil Union Cricket and Athletic Club,win
+12415,2026-10-20 04:59:09,ODI,GL Adams,Southern Vipers Women,Northern Diamonds Women,"The Rose Bowl, Southampton",1,2,168,128,131.25,1,23,3,Southern Vipers Women,win
+11684,2026-10-20 04:43:14,ODI,GA Bartlett,Northamptonshire,Lancashire,"County Ground, Northampton",1,3,168,132,127.27,1,20,5,Northamptonshire,win
+10500,2026-10-19 23:11:52,ODI,KL George,Warwickshire Women,Durham Women,"Edgbaston, Birmingham",2,3,168,134,125.37,0,21,0,Warwickshire Women,win
+10130,2026-10-19 22:59:34,ODI,Jake Egan,North-West Warriors,Northern Knights,"Civil Service Cricket Club, Stormont, Belfast",2,2,168,138,121.74,0,15,5,North-West Warriors,win
+15460,2026-10-22 17:15:01,ODI,KC Sangakkara,testing-xi-1,Australia Goat,M Chinnaswamy Stadium,1,2,168,156,107.69,0,15,4,testing-xi-1,win
+13493,2026-10-20 05:14:38,TEST,Rehan Ahmed,Leicestershire,Glamorgan,"Grace Road, Leicester",1,3,168,201,83.58,1,22,1,Leicestershire,win
+13800,2026-10-20 05:15:54,TEST,BS McKinney,Durham,Kent,"Riverside Ground, Chester-le-Street",4,2,168,207,81.16,0,20,4,Durham,win
+13695,2026-10-20 05:15:26,TEST,RK Patel,Leicestershire,Glamorgan,"Sophia Gardens, Cardiff",3,1,168,221,76.02,1,18,5,,draw
+13740,2026-10-20 05:15:38,TEST,CN Ackermann,Durham,Derbyshire,"County Ground, Derby",2,5,168,232,72.41,1,25,2,,draw
+14335,2026-10-20 05:18:02,TEST,TK Parkes,Otago Volts,Auckland Aces,Kennards Hire Community Oval,3,5,168,234,71.79,1,19,2,Otago Volts,win
+13586,2026-10-20 05:15:01,TEST,Z Crawley,Kent,Durham,"Kent County Cricket Ground, Beckenham",2,1,168,246,68.29,1,25,1,Durham,win
+13743,2026-10-20 05:15:38,TEST,OJ Pope,Surrey,Nottinghamshire,"Kennington Oval, London",1,4,168,247,68.02,0,18,2,Surrey,win
+14328,2026-10-20 05:18:01,TEST,JF Carter,Northern Districts,Central Stags,Bay Oval,1,4,168,280,60.0,1,20,2,Central Stags,win
+14728,2026-10-20 05:19:36,TEST,BR McDermott,Tasmania,Victoria,"Junction Oval, Melbourne",2,5,168,313,53.67,1,19,2,,draw
+13987,2026-10-20 05:16:37,TEST,JH Wharton,Yorkshire,Leicestershire,"Grace Road, Leicester",2,4,168,315,53.33,1,20,2,,draw
+14046,2026-10-20 05:16:51,TEST,BL D'Oliveira,Worcestershire,Derbyshire,"County Ground, Derby",2,5,168,320,52.5,1,21,1,,draw
+14780,2026-10-20 05:19:48,TEST,PSP Handscomb,Victoria,South Australia,"Junction Oval, Melbourne",3,3,168,323,52.01,1,16,0,,draw
+14759,2026-10-20 05:19:43,TEST,C Kellaway,Victoria,Tasmania,"Junction Oval, Melbourne",2,1,168,329,51.06,1,20,2,Victoria,win
+14571,2026-10-20 05:18:56,TEST,JF Carter,Northern Districts,Canterbury,Mainpower Oval,2,4,168,405,41.48,1,15,3,,draw
+10326,2026-10-19 23:05:42,ODI,MK Villiers,Durham Women,Lancashire Women,"Riverside Ground, Chester-le-Street",1,4,167,115,145.22,0,23,2,Durham Women,win
+12109,2026-10-20 04:51:23,ODI,JB Cracknell,Middlesex,Gloucestershire,Rajiv Gandhi International Stadium,1,1,167,128,130.47,1,18,5,Middlesex,win
+10432,2026-10-19 23:09:32,ODI,GL Adams,Hampshire Women,The Blaze Women,"Trent Bridge, Nottingham",1,3,167,133,125.56,0,23,1,Hampshire Women,win
+10181,2026-10-19 23:00:36,ODI,ME Bouchier,Hampshire Women,Essex Women,"The Rose Bowl, Southampton",2,2,167,137,121.9,0,22,2,Hampshire Women,win
+10138,2026-10-19 22:59:43,ODI,C De Freitas,Leinster Lightning,Northern Knights,"Pembroke Cricket Club, Sandymount, Dublin",1,3,167,139,120.14,0,18,6,Leinster Lightning,win
+14178,2026-10-20 05:17:24,TEST,DG Bedingham,Durham,Kent,"Riverside Ground, Chester-le-Street",1,4,167,141,118.44,0,27,1,Kent,win
+10707,2026-10-19 23:18:33,ODI,TN Kesteven,Lancashire Women,Somerset Women,"Trafalgar Road Ground, Southport",2,3,167,153,109.15,0,25,0,Somerset Women,win
+14443,2026-10-20 05:18:26,TEST,LN Stackpole,Auckland Aces,Otago Volts,University of Otago Oval,1,4,167,154,108.44,1,14,11,Auckland Aces,win
+12374,2026-10-20 04:58:12,ODI,KE Bryce,The Blaze Women,Southern Vipers Women,"Queen's Park, Chesterfield",1,2,167,155,107.74,1,22,1,The Blaze Women,win
+14162,2026-10-20 05:17:20,TEST,TS Muyeye,Kent,Gloucestershire,"St Lawrence Ground, Canterbury",2,4,167,188,88.83,1,26,2,,draw
+14726,2026-10-20 05:19:36,TEST,J Weatherald,South Australia,Queensland,Adelaide Oval,2,3,167,206,81.07,1,23,3,,draw
+14108,2026-10-20 05:17:07,TEST,SD Robson,Middlesex,Kent,"St Lawrence Ground, Canterbury",3,1,167,216,77.31,1,25,1,Middlesex,win
+13934,2026-10-20 05:16:25,TEST,WL Madsen,Derbyshire,Lancashire,"Old Trafford, Manchester",1,5,167,234,71.37,1,26,0,,draw
+13112,2026-10-20 05:13:13,TEST,AJ Hose,Worcestershire,Gloucestershire,"College Ground, Cheltenham",2,4,167,241,69.29,1,23,3,,draw
+13810,2026-10-20 05:15:55,TEST,Zain-ul-Hassan,Glamorgan,Nottinghamshire,"Trent Bridge, Nottingham",2,1,167,268,62.31,1,25,0,,draw
+13548,2026-10-20 05:14:54,TEST,DG Bedingham,Durham,Kent,"Riverside Ground, Chester-le-Street",2,4,167,270,61.85,1,17,3,,draw
+13861,2026-10-20 05:16:07,TEST,W Luxton,Yorkshire,Leicestershire,"Grace Road, Leicester",1,3,167,273,61.17,1,19,1,Yorkshire,win
+14722,2026-10-20 05:19:36,TEST,C Kellaway,Victoria,South Australia,Adelaide Oval,4,1,167,348,47.99,1,22,0,South Australia,win
+14655,2026-10-20 05:19:19,TEST,HWR Cartwright,Western Australia,New South Wales,"Cricket Central, Sydney",1,4,167,353,47.31,0,22,1,,draw
+13185,2026-10-20 05:13:25,TEST,LM Reece,Derbyshire,Gloucestershire,"County Ground, Derby",2,4,167,382,43.72,0,8,3,,draw
+241,2026-10-19 19:17:24,T20,V Suryavanshi,Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,1,1,166,65,255.38,0,12,16,Rajasthan Royals,win
+391,2026-10-19 19:40:51,T20,HK Matthews,Mumbai Indians Women,Delhi Capitals Women,"Dr DY Patil Sports Academy, Navi Mumbai",1,1,166,76,218.42,0,28,4,Mumbai Indians Women,win
+10522,2026-10-19 23:12:30,ODI,ME Bouchier,Hampshire Women,Surrey Women,"Woodbridge Road, Guildford",1,2,166,111,149.55,1,22,4,Hampshire Women,win
+10940,2026-10-19 23:25:55,ODI,Pulindu Perera,Nugegoda Sports Welfare Club,Kurunegala Youth Cricket Club,"Thurstan College Ground, Colombo",1,1,166,112,148.21,1,15,10,Nugegoda Sports Welfare Club,win
+11133,2026-10-20 03:31:03,ODI,S Gimhan,Moors Sports Club,Tamil Union Cricket and Athletic Club,"P Sara Oval, Colombo",2,1,166,113,146.9,0,21,6,Moors Sports Club,win
+12962,2026-10-20 05:11:29,ODI,PSP Handscomb,Victoria,Tasmania,"University of Tasmania Stadium, Launceston",2,4,166,118,140.68,0,23,2,Victoria,win
+10327,2026-10-19 23:05:43,ODI,S Luus,Surrey Women,Warwickshire Women,"Edgbaston, Birmingham",2,2,166,124,133.87,1,22,3,Surrey Women,win
+11111,2026-10-20 03:30:39,ODI,Koojana Perera,Badureliya Sports Club,Nondescripts Cricket Club,"Surrey Village, Maggona",1,2,166,145,114.48,1,10,11,Badureliya Sports Club,win
+10819,2026-10-19 23:22:23,ODI,TT Beaumont,The Blaze Women,Durham Women,"Trent Bridge, Nottingham",2,1,166,145,114.48,0,20,0,The Blaze Women,win
+10627,2026-10-19 23:15:46,ODI,EM McCaughan,Hampshire Women,Warwickshire Women,"Edgbaston, Birmingham",1,1,166,153,108.5,1,22,2,Warwickshire Women,win
+13438,2026-10-20 05:14:26,TEST,DG Bedingham,Durham,Lancashire,"Riverside Ground, Chester-le-Street",2,4,166,199,83.42,1,27,1,Durham,win
+13595,2026-10-20 05:15:03,TEST,JS Lehmann,Hampshire,Surrey,"Kennington Oval, London",3,3,166,214,77.57,1,24,0,,draw
+14168,2026-10-20 05:17:20,TEST,JA Leaning,Sussex,Hampshire,"The Rose Bowl, Southampton",3,6,166,227,73.13,1,23,2,Sussex,win
+14587,2026-10-20 05:19:01,TEST,TC Jones,Otago Volts,Wellington Firebirds,University of Otago Oval,1,3,166,231,71.86,1,22,1,,draw
+13871,2026-10-20 05:16:08,TEST,CA Ingram,Glamorgan,Leicestershire,"Grace Road, Leicester",1,5,166,253,65.61,1,19,4,,draw
+14590,2026-10-20 05:19:01,TEST,TC Bruce,Central Stags,Wellington Firebirds,Cello Basin Reserve,2,5,166,260,63.85,1,20,3,Central Stags,win
+13709,2026-10-20 05:15:31,TEST,DP Sibley,Surrey,Nottinghamshire,"Trent Bridge, Nottingham",4,2,166,265,62.64,0,19,2,,draw
+13348,2026-10-20 05:14:06,TEST,JH Wharton,Yorkshire,Warwickshire,"North Marine Road Ground, Scarborough",1,4,166,295,56.27,1,19,2,Yorkshire,win
+13896,2026-10-20 05:16:15,TEST,NRT Gubbins,Hampshire,Nottinghamshire,"Trent Bridge, Nottingham",1,1,166,310,53.55,1,20,1,,draw
+14564,2026-10-20 05:18:55,TEST,B Popli,Northern Districts,Central Stags,Nelson Park,1,3,166,312,53.21,0,14,1,,draw
+13120,2026-10-20 05:13:14,TEST,KK Jennings,Lancashire,Worcestershire,"County Ground, New Road, Worcester",2,1,166,313,53.04,0,18,1,Lancashire,win
+13995,2026-10-20 05:16:38,TEST,DP Sibley,Surrey,Nottinghamshire,"Kennington Oval, London",1,2,166,348,47.7,1,14,1,Surrey,win
+14613,2026-10-20 05:19:08,TEST,J Clayton,Queensland,New South Wales,Sydney Cricket Ground,4,3,166,358,46.37,1,18,0,,draw
+12889,2026-10-20 05:09:58,ODI,J Fraser-McGurk,South Australia,Tasmania,"Karen Rolton Oval, Adelaide",1,2,165,77,214.29,1,9,17,Tasmania,win
+10316,2026-10-19 23:05:22,ODI,AZ Monaghan,Surrey Women,Warwickshire Women,"Kennington Oval, London",2,3,165,120,137.5,0,14,7,Warwickshire Women,win
+12008,2026-10-20 04:49:36,ODI,HG Munsey,Nottinghamshire,Northamptonshire,"Queen's Park, Chesterfield",1,2,165,128,128.91,1,17,9,Nottinghamshire,win
+13713,2026-10-20 05:15:32,TEST,SA Zaib,Northamptonshire,Gloucestershire,"County Ground, Bristol",1,5,165,195,84.62,0,23,3,,draw
+14260,2026-10-20 05:17:43,TEST,DP Hughes,Sussex,Somerset,"County Ground, Hove",2,1,165,222,74.32,1,24,2,Somerset,win
+14457,2026-10-20 05:18:31,TEST,WA Young,Central Stags,Otago Volts,University of Otago Oval,2,3,165,222,74.32,1,25,1,,draw
+13055,2026-10-20 05:13:05,TEST,R Vasconcelos,Northamptonshire,Middlesex,"County Ground, Northampton",2,1,165,247,66.8,1,22,2,,draw
+13961,2026-10-20 05:16:31,TEST,RJ Burns,Surrey,Nottinghamshire,"Trent Bridge, Nottingham",1,1,165,248,66.53,1,21,1,Surrey,win
+14473,2026-10-20 05:18:36,TEST,BJ Jacobs,Auckland Aces,Otago Volts,University of Otago Oval,1,5,165,256,64.45,0,21,4,Auckland Aces,win
+13448,2026-10-20 05:14:30,TEST,JS Lehmann,Hampshire,Glamorgan,"The Rose Bowl, Southampton",2,3,165,260,63.46,1,21,0,Hampshire,win
+13151,2026-10-20 05:13:20,TEST,JEK Rew,Somerset,Yorkshire,Headingley,1,5,165,264,62.5,1,26,0,Somerset,win
+13644,2026-10-20 05:15:14,TEST,BT Slater,Nottinghamshire,Hampshire,"Trent Bridge, Nottingham",1,2,165,268,61.57,1,22,1,Nottinghamshire,win
+13570,2026-10-20 05:14:56,TEST,Z Crawley,Kent,Derbyshire,"St Lawrence Ground, Canterbury",2,1,165,273,60.44,1,23,0,,draw
+13922,2026-10-20 05:16:24,TEST,BBA Geddes,Middlesex,Gloucestershire,"Lord's, London",2,3,165,278,59.35,1,20,3,Middlesex,win
+13861,2026-10-20 05:16:07,TEST,JH Wharton,Yorkshire,Leicestershire,"Grace Road, Leicester",1,4,165,296,55.74,1,18,0,Yorkshire,win
+14734,2026-10-20 05:19:37,TEST,KR Patterson,New South Wales,Tasmania,"Cricket Central, Sydney",2,2,165,296,55.74,1,19,1,,draw
+14112,2026-10-20 05:17:08,TEST,JM Clarke,Nottinghamshire,Essex,"County Ground, Chelmsford",1,4,165,305,54.1,0,22,1,,draw
+13194,2026-10-20 05:13:26,TEST,BS McKinney,Durham,Middlesex,"Lord's, London",1,2,165,309,53.4,1,16,2,,draw
+13111,2026-10-20 05:13:13,TEST,R Vasconcelos,Northamptonshire,Lancashire,"Old Trafford, Manchester",4,1,165,317,52.05,1,24,0,Northamptonshire,win
+13841,2026-10-20 05:16:02,TEST,AJ Hose,Worcestershire,Lancashire,"Trafalgar Road Ground, Southport",2,4,165,318,51.89,1,26,1,Worcestershire,win
+13754,2026-10-20 05:15:43,TEST,IG Holland,Leicestershire,Yorkshire,"North Marine Road Ground, Scarborough",1,5,165,355,46.48,1,22,1,,draw
+13554,2026-10-20 05:14:54,TEST,LA Procter,Northamptonshire,Kent,"St Lawrence Ground, Canterbury",1,2,165,378,43.65,1,17,0,,draw
+12906,2026-10-20 05:10:16,ODI,SB Harper,Victoria,Tasmania,"Junction Oval, Melbourne",1,3,164,111,147.75,1,22,4,Victoria,win
+11405,2026-10-20 04:37:23,ODI,LM Benkenstein,Essex,Middlesex,"Brunton Memorial Ground, Radlett",1,2,164,123,133.33,1,16,8,Essex,win
+10459,2026-10-19 23:10:31,ODI,KL George,Warwickshire Women,Essex Women,"Edgbaston, Birmingham",2,3,164,136,120.59,0,21,1,Warwickshire Women,win
+13369,2026-10-20 05:14:09,TEST,JM Bairstow,Yorkshire,Hampshire,"The Rose Bowl, Southampton",2,6,164,210,78.1,1,24,3,Hampshire,win
+13585,2026-10-20 05:15:01,TEST,NF Kelly,Leicestershire,Sussex,"County Ground, Hove",2,4,164,210,78.1,1,14,6,Leicestershire,win
+13838,2026-10-20 05:16:02,TEST,BS McKinney,Durham,Kent,"Kent County Cricket Ground, Beckenham",1,2,164,211,77.73,1,26,2,Durham,win
+13434,2026-10-20 05:14:25,TEST,MS Harris,Lancashire,Gloucestershire,"County Ground, Bristol",1,3,164,214,76.64,1,17,4,Lancashire,win
+13740,2026-10-20 05:15:38,TEST,DG Bedingham,Durham,Derbyshire,"County Ground, Derby",2,4,164,230,71.3,1,21,0,,draw
+14058,2026-10-20 05:16:56,TEST,CG Harrison,Northamptonshire,Kent,"St Lawrence Ground, Canterbury",4,3,164,238,68.91,1,24,2,Northamptonshire,win
+14151,2026-10-20 05:17:18,TEST,DP Hughes,Sussex,Surrey,"County Ground, Hove",2,1,164,239,68.62,1,24,0,Sussex,win
+13687,2026-10-20 05:15:25,TEST,JEK Rew,Somerset,Hampshire,"The Rose Bowl, Southampton",2,5,164,245,66.94,1,25,0,,draw
+13202,2026-10-20 05:13:31,TEST,JJ Bohannon,Lancashire,Middlesex,"Old Trafford, Manchester",2,2,164,253,64.82,1,28,1,Middlesex,win
+13286,2026-10-20 05:13:49,TEST,TJ Haines,Sussex,Hampshire,"The Rose Bowl, Southampton",2,2,164,260,63.08,1,23,0,Sussex,win
+14104,2026-10-20 05:17:07,TEST,Z Malik,Warwickshire,Yorkshire,"North Marine Road Ground, Scarborough",3,5,164,263,62.36,1,18,5,Warwickshire,win
+14206,2026-10-20 05:17:31,TEST,NF Kelly,Leicestershire,Nottinghamshire,"Grace Road, Leicester",1,4,164,267,61.42,1,18,3,Nottinghamshire,win
+14740,2026-10-20 05:19:38,TEST,MS Harris,Victoria,Queensland,Melbourne Cricket Ground,2,2,164,271,60.52,1,21,0,,draw
+13562,2026-10-20 05:14:55,TEST,T Westley,Essex,Warwickshire,"Edgbaston, Birmingham",3,3,164,281,58.36,0,25,1,Essex,win
+13202,2026-10-20 05:13:31,TEST,BBA Geddes,Middlesex,Lancashire,"Old Trafford, Manchester",1,3,164,296,55.41,1,22,0,Middlesex,win
+14303,2026-10-20 05:17:54,TEST,CG Heaphy,Central Stags,Canterbury,Hagley Oval,1,1,164,301,54.49,1,19,0,,draw
+13579,2026-10-20 05:15:01,TEST,CN Ackermann,Durham,Worcestershire,"County Ground, New Road, Worcester",2,5,164,315,52.06,0,20,1,,draw
+11225,2026-10-20 04:33:49,ODI,PBB Rajapaksa,Police Sports Club,Nondescripts Cricket Club,"Nondescripts Cricket Club Ground, Colombo",1,5,163,67,243.28,0,13,15,Police Sports Club,win
+8869,2026-10-19 22:57:32,T20,L Lee,Hobart Hurricanes Women,Melbourne Renegades Women,North Sydney Oval,1,1,163,68,239.71,0,17,11,Hobart Hurricanes Women,win
+12062,2026-10-20 04:50:29,ODI,JA Leaning,Sussex,Essex,Arundel Castle Cricket Club Ground,2,3,163,129,126.36,1,20,4,Essex,win
+12048,2026-10-20 04:50:15,ODI,CT Bancroft,Gloucestershire,Somerset,"The Cooper Associates County Ground, Taunton",1,2,163,132,123.48,1,18,3,Gloucestershire,win
+13029,2026-10-20 05:12:55,ODI,JR Philippe,Western Australia,South Australia,"Western Australia Cricket Association Ground, Perth",1,1,163,134,121.64,1,16,5,Western Australia,win
+12124,2026-10-20 04:51:50,ODI,CP Jewell,Tasmania,Victoria,"Allan Border Field, Brisbane",1,1,163,141,115.6,0,13,4,Tasmania,win
+14137,2026-10-20 05:17:13,TEST,DG Bedingham,Durham,Northamptonshire,"County Ground, Northampton",2,4,163,180,90.56,1,12,7,,draw
+13360,2026-10-20 05:14:08,TEST,JF Thomas,Somerset,Warwickshire,"The Cooper Associates County Ground, Taunton",1,1,163,209,77.99,1,25,1,,draw
+13948,2026-10-20 05:16:30,TEST,BD Guest,Derbyshire,Kent,"St Lawrence Ground, Canterbury",2,7,163,215,75.81,0,22,0,,draw
+14370,2026-10-20 05:18:08,TEST,LN Stackpole,Auckland Aces,Canterbury,Kennards Hire Community Oval,1,4,163,219,74.43,1,20,5,Canterbury,win
+14802,2026-10-20 05:19:54,TEST,MW Short,Victoria,Queensland,Melbourne Cricket Ground,2,4,163,220,74.09,1,24,1,Victoria,win
+13300,2026-10-20 05:13:54,TEST,AZ Lees,Durham,Gloucestershire,"County Ground, Bristol",1,1,163,227,71.81,1,18,3,Durham,win
+13549,2026-10-20 05:14:54,TEST,JM Clarke,Nottinghamshire,Somerset,"The Cooper Associates County Ground, Taunton",2,4,163,249,65.46,1,19,1,Nottinghamshire,win
+13144,2026-10-20 05:13:18,TEST,Rehan Ahmed,Leicestershire,Somerset,"Grace Road, Leicester",1,3,163,253,64.43,1,20,2,Leicestershire,win
+13882,2026-10-20 05:16:13,TEST,JEK Rew,Somerset,Sussex,"County Ground, Hove",2,5,163,255,63.92,1,23,0,Somerset,win
+13930,2026-10-20 05:16:25,TEST,Miles Hammond,Gloucestershire,Durham,"County Ground, Bristol",4,4,163,255,63.92,1,19,2,Durham,win
+13276,2026-10-20 05:13:48,TEST,NRT Gubbins,Hampshire,Leicestershire,"Grace Road, Leicester",3,1,163,255,63.92,0,24,0,Hampshire,win
+14463,2026-10-20 05:18:32,TEST,SJG Janett,Canterbury,Wellington Firebirds,Hagley Oval,2,2,163,272,59.93,1,20,2,,draw
+14699,2026-10-20 05:19:30,TEST,KR Patterson,New South Wales,Victoria,Sydney Cricket Ground,2,2,163,280,58.21,1,16,1,New South Wales,win
+13928,2026-10-20 05:16:24,TEST,BBA Geddes,Middlesex,Worcestershire,"Lord's, London",3,3,163,280,58.21,0,21,1,Middlesex,win
+13792,2026-10-20 05:15:50,TEST,HM Nicholls,Somerset,Surrey,"The County Ground, Taunton",2,4,163,281,58.01,1,22,0,,draw
+13530,2026-10-20 05:14:49,TEST,AM Tribe,Glamorgan,Surrey,The Oval,2,2,163,287,56.79,1,22,0,Glamorgan,win
+14906,2026-10-20 05:20:19,TEST,RR Hicks,New South Wales,Western Australia,Rajiv Gandhi International Stadium,2,4,163,305,53.44,1,18,1,,draw
+13789,2026-10-20 05:15:50,TEST,ML Revis,Yorkshire,Nottinghamshire,Trent Bridge,1,5,163,311,52.41,1,19,1,Yorkshire,win
+14161,2026-10-20 05:17:19,TEST,BT Slater,Nottinghamshire,Sussex,"The County Ground, Hove",1,2,163,319,51.1,1,23,0,Sussex,win
+4062,2026-10-19 22:51:30,T20,TH David,Royal Challengers Bengaluru,Delhi Capitals,Arun Jaitley Stadium,2,4,162,68,238.24,0,14,13,Delhi Capitals,win
+7854,2026-10-19 22:56:15,T20,G Clark,Durham,Derbyshire,"Riverside Ground, Chester-le-Street",1,1,162,69,234.78,1,25,5,Durham,win
+11497,2026-10-20 04:39:40,ODI,TAI Taylor,Worcestershire,Derbyshire,"County Ground, New Road, Worcester",1,8,162,78,207.69,0,19,9,Worcestershire,win
+13031,2026-10-20 05:12:58,ODI,SB Harper,Victoria,South Australia,"Junction Oval, Melbourne",1,3,162,97,167.01,1,19,7,Victoria,win
+11085,2026-10-20 02:30:00,ODI,P Rathnayake,Colombo Cricket Club,Kurunegala Youth Cricket Club,"Welagedara Stadium, Kurunegala",1,4,162,98,165.31,1,12,10,Colombo Cricket Club,win
+11159,2026-10-20 04:31:42,ODI,S Daniel,Sinhalese Sports Club,Moors Sports Club,Pallekele International Cricket Stadium,2,1,162,113,143.36,0,20,6,Sinhalese Sports Club,win
+11330,2026-10-20 04:35:53,ODI,FJ Hudson-Prentice,Sussex,Glamorgan,"The Gnoll, Neath",1,5,162,115,140.87,1,18,5,Sussex,win
+11490,2026-10-20 04:39:30,ODI,HG Munsey,Nottinghamshire,Warwickshire,"The John Fretwell Sporting Complex, Nettleworth",1,2,162,116,139.66,1,19,6,Nottinghamshire,win
+11158,2026-10-20 04:31:41,ODI,A Bandara,Colombo Cricket Club,Police Sports Club,Lord's,1,3,162,124,130.65,0,15,4,Colombo Cricket Club,win
+11925,2026-10-20 04:47:52,ODI,JB Cracknell,Middlesex,Durham,"Riverside Ground, Chester-le-Street",1,1,162,126,128.57,0,25,1,Middlesex,win
+15252,2026-10-21 20:44:46,ODI,RG Sharma,PunitODI,Flappy's Taskforce,Trent Bridge,1,2,162,129,125.58,0,15,5,PunitODI,win
+10507,2026-10-19 23:12:04,ODI,E Threlkeld,Lancashire Women,Surrey Women,"Kennington Oval, London",2,5,162,138,117.39,0,21,1,Surrey Women,win
+11403,2026-10-20 04:37:21,ODI,HRC Came,Derbyshire,Durham,"County Ground, Derby",2,1,162,149,108.72,0,17,4,Derbyshire,win
+13666,2026-10-20 05:15:20,TEST,DW Lawrence,Surrey,Somerset,"The County Ground, Taunton",3,5,162,181,89.5,0,26,2,Somerset,win
+13960,2026-10-20 05:16:31,TEST,EG Barnard,Warwickshire,Yorkshire,"Edgbaston, Birmingham",1,7,162,197,82.23,1,23,1,Warwickshire,win
+13313,2026-10-20 05:13:55,TEST,Z Malik,Warwickshire,Nottinghamshire,"Trent Bridge, Nottingham",1,5,162,204,79.41,0,21,1,,draw
+14793,2026-10-20 05:19:50,TEST,J Weatherald,South Australia,Tasmania,"Bellerive Oval, Hobart",1,3,162,224,72.32,1,21,0,South Australia,win
+13739,2026-10-20 05:15:38,TEST,RF Higgins,Middlesex,Kent,"Merchant Taylors' School Ground, Northwood",1,6,162,231,70.13,1,23,0,Kent,win
+14478,2026-10-20 05:18:36,TEST,JA Clarkson,Central Stags,Northern Districts,Bay Oval,2,7,162,242,66.94,0,15,5,,draw
+14155,2026-10-20 05:17:19,TEST,JL du Plooy,Middlesex,Gloucestershire,"County Ground, Bristol",2,5,162,247,65.59,1,17,0,Gloucestershire,win
+14413,2026-10-20 05:18:19,TEST,CD Fletcher,Auckland Aces,Otago Volts,University of Otago Oval,2,6,162,249,65.06,1,21,4,Auckland Aces,win
+14328,2026-10-20 05:18:01,TEST,BD Schmulian,Central Stags,Northern Districts,Bay Oval,2,2,162,258,62.79,1,22,1,Central Stags,win
+14251,2026-10-20 05:17:42,TEST,JH Wharton,Yorkshire,Hampshire,"The Rose Bowl, Southampton",1,4,162,265,61.13,0,23,1,Yorkshire,win
+13387,2026-10-20 05:14:13,TEST,SR Hain,Warwickshire,Hampshire,"The Rose Bowl, Southampton",1,4,162,272,59.56,1,25,0,Warwickshire,win
+13429,2026-10-20 05:14:24,TEST,JS Lehmann,Hampshire,Yorkshire,"Headingley, Leeds",1,3,162,276,58.7,1,18,0,Hampshire,win
+14052,2026-10-20 05:16:56,TEST,SA Northeast,Kent,Durham,"Riverside Ground, Chester-le-Street",2,3,162,292,55.48,1,21,0,,draw
+14354,2026-10-20 05:18:06,TEST,WA Young,Central Stags,Northern Districts,Nelson Park,3,3,162,303,53.47,1,19,2,,draw
+14811,2026-10-20 05:19:55,TEST,MS Harris,Victoria,South Australia,"Junction Oval, Melbourne",2,2,162,339,47.79,1,17,0,,draw
+14897,2026-10-20 05:20:18,TEST,HJ Hunt,South Australia,Queensland,"Brisbane Cricket Ground, Woolloongabba, Brisbane",2,2,162,364,44.51,1,19,1,Queensland,win
+14717,2026-10-20 05:19:32,TEST,SM Whiteman,Western Australia,New South Wales,"Cricket Central, Sydney",1,3,162,365,44.38,1,22,0,Western Australia,win
+3775,2026-10-19 22:51:12,T20,SV Samson,Chennai Super Kings,Delhi Capitals,Arun Jaitley Stadium,1,2,161,67,240.3,0,17,11,Chennai Super Kings,win
+10336,2026-10-19 23:05:58,ODI,MK Villiers,Durham Women,Surrey Women,"Kennington Oval, London",2,4,161,109,147.71,0,26,3,Durham Women,win
+11992,2026-10-20 04:49:17,ODI,GH Roderick,Worcestershire,Middlesex,"County Ground, New Road, Worcester",1,2,161,122,131.97,1,24,1,Worcestershire,win
+12110,2026-10-20 04:51:24,ODI,JA Tattersall,Leicestershire,Hampshire,Sophia Gardens,1,6,161,123,130.89,0,21,2,Leicestershire,win
+11946,2026-10-20 04:48:18,ODI,DP Sibley,Surrey,Nottinghamshire,"Kennington Oval, London",1,1,161,128,125.78,1,16,5,Surrey,win
+15125,2026-10-20 17:57:54,ODI,AC Gilchrist,testing-xi-1,Flappy's Taskforce,Headingley,2,1,161,128,125.78,1,10,9,Flappy's Taskforce,win
+11247,2026-10-20 04:34:10,ODI,Yashodha Lanka,Badureliya Sports Club,Bloomfield Cricket and Athletic Club,"Surrey Village, Maggona",1,1,161,138,116.67,0,9,10,Badureliya Sports Club,win
+10416,2026-10-19 23:09:00,ODI,HJ Armitage,Durham Women,Yorkshire Women,"North Marine Road Ground, Scarborough",1,2,161,143,112.59,1,24,0,Durham Women,win
+12079,2026-10-20 04:50:50,ODI,KK Jennings,Lancashire,Northamptonshire,"County Ground, Northampton",1,1,161,145,111.03,0,21,2,Lancashire,win
+14027,2026-10-20 05:16:49,TEST,BS McKinney,Durham,Worcestershire,"Riverside Ground, Chester-le-Street",2,2,161,205,78.54,1,26,1,Durham,win
+14104,2026-10-20 05:17:07,TEST,JM Bairstow,Yorkshire,Warwickshire,"North Marine Road Ground, Scarborough",2,6,161,210,76.67,1,17,5,Warwickshire,win
+13205,2026-10-20 05:13:31,TEST,OJ Pope,Surrey,Nottinghamshire,"Trent Bridge, Nottingham",3,4,161,211,76.3,1,21,1,Surrey,win
+13601,2026-10-20 05:15:06,TEST,Rehan Ahmed,Leicestershire,Essex,"Grace Road, Leicester",2,3,161,214,75.23,1,24,1,Essex,win
+14041,2026-10-20 05:16:51,TEST,JM Bairstow,Yorkshire,Nottinghamshire,Trent Bridge,4,6,161,218,73.85,0,15,6,Yorkshire,win
+13753,2026-10-20 05:15:42,TEST,OJ Pope,Surrey,Essex,"County Ground, Chelmsford",2,4,161,228,70.61,1,17,4,Surrey,win
+14564,2026-10-20 05:18:55,TEST,RR O'Donnell,Northern Districts,Central Stags,Nelson Park,1,5,161,243,66.26,1,20,3,,draw
+13301,2026-10-20 05:13:54,TEST,DP Hughes,Sussex,Warwickshire,"County Ground, Hove",2,1,161,244,65.98,1,24,1,Sussex,win
+15331,2026-10-22 15:11:45,TEST,M Labuschagne,Australia,India,MA Chidambaram Stadium,2,2,161,249,64.66,1,18,5,Australia,win
+14484,2026-10-20 05:18:37,TEST,NF Kelly,Wellington Firebirds,Northern Districts,Seddon Park,2,4,161,249,64.66,0,20,2,Northern Districts,win
+13227,2026-10-20 05:13:36,TEST,LM Reece,Derbyshire,Lancashire,"Queen's Park, Chesterfield",1,4,161,273,58.97,1,25,0,Derbyshire,win
+13750,2026-10-20 05:15:42,TEST,KK Jennings,Lancashire,Worcestershire,"County Ground, New Road, Worcester",3,1,161,285,56.49,0,20,3,Lancashire,win
+14388,2026-10-20 05:18:13,TEST,BD Schmulian,Central Stags,Northern Districts,Bay Oval,1,2,161,288,55.9,1,21,0,Central Stags,win
+13618,2026-10-20 05:15:08,TEST,TGR Clark,Sussex,Warwickshire,"Edgbaston, Birmingham",3,3,161,291,55.33,0,19,3,Sussex,win
+13940,2026-10-20 05:16:26,TEST,SR Hain,Warwickshire,Essex,"Edgbaston, Birmingham",1,4,161,302,53.31,0,21,1,Warwickshire,win
+14862,2026-10-20 05:20:07,TEST,TP Ward,Tasmania,South Australia,Adelaide Oval,3,2,161,326,49.39,1,11,2,South Australia,win
+13519,2026-10-20 05:14:44,TEST,D Elgar,Essex,Yorkshire,"Headingley, Leeds",3,1,161,376,42.82,1,22,0,Essex,win
+11745,2026-10-20 04:44:24,ODI,DG Bedingham,Durham,Glamorgan,"Roseworth Terrace, Gosforth",1,4,160,90,177.78,0,8,13,Durham,win
+12828,2026-10-20 05:08:38,ODI,M Bryant,Queensland,Tasmania,"Bellerive Oval, Hobart",1,4,160,110,145.45,0,19,4,Tasmania,win
+10479,2026-10-19 23:11:08,ODI,KL George,Warwickshire Women,Hampshire Women,"Edgbaston, Birmingham",1,3,160,121,132.23,1,23,1,Warwickshire Women,win

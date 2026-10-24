@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1220">
+  <title>WOC · Simulation Stats</title>
+  <link rel="stylesheet" href="./assets/site.css">
+  <script src="./assets/site.js" defer></script>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="eyebrow"><span class="live-dot"></span> WORLD OF CRICKET · SIM ARCHIVE</div>
+      <div class="hero-row">
+        <div>
+          <h1>Simulation <em>Stats</em></h1>
+          <p class="lede">Explore every saved match, player line and phase split.</p>
+        </div>
+        <div class="match-count"><span id="match-count">—</span><small>SIMULATED MATCHES</small></div>
+      </div>
+      <div class="hero-foot"><span id="updated-at">Loading archive…</span><span>GLOBAL DATA · ALL FORMATS</span></div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="intro">
+      <div><div class="section-kicker">THE NUMBERS, OPEN</div><h2>Find your angle.</h2></div>
+      <p>Search names, teams, venues or values. Tap a column heading to sort. Download any tab as CSV for your own analysis.</p>
+    </section>
+
+    <div class="toolbar">
+      <label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search this table…" autocomplete="off"><kbd>⌘ K</kbd></label>
+      <label class="filter-wrap"><span>FORMAT</span><select id="format-filter"><option value="">All formats</option></select></label>
+      <a id="download" class="download" href="#" download>↓ <span>Download CSV</span></a>
+    </div>
+
+    <nav id="tabs" class="tabs" aria-label="Stat categories"></nav>
+    <section class="table-card" aria-live="polite">
+      <div class="table-heading"><div><div id="table-label" class="table-title">Loading…</div><div id="table-description" class="table-subtitle"></div></div><div id="row-count" class="row-count"></div></div>
+      <div id="note" class="notice hidden"></div>
+      <div class="table-scroll"><table id="stats-table"><thead></thead><tbody></tbody></table></div>
+      <div class="empty hidden" id="empty">No rows match those filters.</div>
+      <footer class="table-footer"><span id="page-label"></span><div class="pager"><button id="prev" type="button">← Previous</button><button id="next" type="button">Next →</button></div></footer>
+    </section>
+    <div class="disclaimer"><span>ⓘ</span><span id="coverage-note">These are simulated career figures, not real-world career records.</span></div>
+  </main>
+  <footer class="site-footer"><span>WOC · CRICKET SIM</span><span>Built from saved simulation records</span></footer>
+</body>
+</html>
