@@ -155,7 +155,7 @@
         if (n === null) return false;
         if (filter.min !== "" && n < Number(filter.min)) return false;
         if (filter.max !== "" && n > Number(filter.max)) return false;
-      } else if (filter.value && !value.toLocaleLowerCase().includes(filter.value.toLocaleLowerCase())) return false;
+      } else if (filter.value && (column === "format" ? value !== filter.value : !value.toLocaleLowerCase().includes(filter.value.toLocaleLowerCase()))) return false;
     }
     return true;
   }
@@ -207,6 +207,20 @@
           range.append(input);
         }
         cell.append(range);
+      } else if (column === "format") {
+        const select = document.createElement("select"); select.className = "column-filter-select";
+        select.dataset.filterColumn = column; select.dataset.filterBound = "value";
+        select.setAttribute("aria-label", "Filter by format");
+        const any = document.createElement("option"); any.value = ""; any.textContent = "All formats"; select.append(any);
+        const formats = [...new Set(state.rows.map((record) => text(record.format).trim()).filter(Boolean))]
+          .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }));
+        for (const format of formats) { const option = document.createElement("option"); option.value = format; option.textContent = format; select.append(option); }
+        select.value = current.value;
+        select.addEventListener("change", () => {
+          const value = state.filters.get(column) || { value: "", min: "", max: "" };
+          value.value = select.value; state.filters.set(column, value); state.page = 0; renderTable();
+        });
+        cell.append(select);
       } else {
         const input = document.createElement("input"); input.type = "search"; input.value = current.value;
         input.dataset.filterColumn = column; input.dataset.filterBound = "value";
