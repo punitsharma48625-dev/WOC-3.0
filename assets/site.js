@@ -249,6 +249,9 @@
       const response = await fetch("./data/manifest.json", { cache: "no-store" });
       if (!response.ok) throw new Error("No exported data found");
       const manifest = await response.json(); state.tabs = manifest.tabs || [];
+      // Use the export timestamp to bust stale browser/CDN caches whenever
+      // !update publishes a new set of CSVs.
+      window.archiveVersion = manifest.generated_at_utc || String(Date.now());
       if (!state.tabs.length) throw new Error("The export manifest has no data tabs");
       await selectTab(state.tabs[0]);
     } catch (error) {
