@@ -14,6 +14,7 @@
     const labels = { name: "Name", sim_name: "Sim name", teams: "Teams" };
     return labels[column] || column.replaceAll("_", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
   };
+  const isTeamColumn = (column) => /^(teams?|team(?:_[a-z0-9]+)+|[a-z0-9]+_team|opposition)$/i.test(column);
   const numericValue = (value) => {
     if (value == null || String(value).trim() === "") return null;
     const n = Number(value);
@@ -77,11 +78,15 @@
       if (!response.ok) throw new Error(`Could not load ${tab.file} (${response.status})`);
       const parsed = parseCSV(await response.text());
       if (state.tab?.id !== tab.id) return;
-      // Keep player identity together at the left edge so both canonical and
-      // simulator names are immediately visible. Teams remains a trailing field.
+      // Keep player identity at the left edge and team fields at the far right,
+      // including tabs whose export calls the field "team" rather than "teams".
       const leading = ["name", "sim_name", "format"].filter((column) => parsed.columns.includes(column));
-      state.columns = [...leading, ...parsed.columns.filter((column) => !leading.includes(column) && column !== "teams")];
-      if (parsed.columns.includes("teams")) state.columns.push("teams");
+      const trailing = parsed.columns.filter((column) => isTeamColumn(column) && !leading.includes(column));
+      state.columns = [
+        ...leading,
+        ...parsed.columns.filter((column) => !leading.includes(column) && !trailing.includes(column)),
+        ...trailing,
+      ];
       state.rows = parsed.records; inferNumericColumns();
       $("download").href = `./data/${encodeURIComponent(tab.file)}`; $("download").download = tab.file;
       populateFormatFilter(); renderTable();
