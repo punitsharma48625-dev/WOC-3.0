@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#253944">
   <title>WOC · Simulation Stats</title>
-  <link rel="stylesheet" href="./assets/site.css?v=20261024-mobile">
-  <script src="./assets/site.js?v=20261024-mobile" defer></script>
+  <link rel="stylesheet" href="./assets/site.css?v=20261024-player-filters">
+  <script src="./assets/site.js?v=20261024-player-filters" defer></script>
 </head>
 <body>
   <header class="hero">
@@ -17,6 +17,15 @@
     <div class="toolbar">
       <label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search this table…" autocomplete="off"><kbd>⌘ K</kbd></label>
       <label class="filter-wrap"><span>FORMAT</span><select id="format-filter"><option value="">All formats</option></select></label>
+      <details class="country-filter" id="country-filter">
+        <summary><span class="filter-caption">COUNTRY</span><span id="country-summary">All countries</span><span aria-hidden="true">⌄</span></summary>
+        <div class="country-menu">
+          <input id="country-search" type="search" placeholder="Find a country…" autocomplete="off" aria-label="Find a country">
+          <div class="country-options" id="country-options"></div>
+        </div>
+      </details>
+      <label class="filter-wrap"><span>GENDER</span><select id="gender-filter"><option value="">All genders</option><option value="Male">Male</option><option value="Female">Female</option></select></label>
+      <label class="filter-wrap"><span>CAREER STATUS</span><select id="status-filter"><option value="">All statuses</option><option value="Active">Active</option><option value="Retired">Retired</option><option value="Unknown">Unknown</option></select></label>
       <button id="clear-filters" class="clear-filters" type="button" title="Clear search, format and all column filters">Clear filters</button>
       <a id="download" class="download" href="#" download>↓ <span>Download CSV</span></a>
     </div>

@@ -6,7 +6,8 @@
   const $ = (id) => document.getElementById(id);
   const state = {
     tabs: [], tab: null, rows: [], columns: [], numeric: new Set(), sort: null,
-    direction: 1, page: 0, query: "", format: "", filters: new Map(), loading: false,
+    direction: 1, page: 0, query: "", format: "", countries: new Set(), gender: "", careerStatus: "",
+    filters: new Map(), loading: false,
   };
   const tabsEl = $("tabs"), table = $("stats-table"), thead = table.querySelector("thead"), tbody = table.querySelector("tbody");
   const text = (value) => String(value ?? "");
@@ -89,7 +90,7 @@
       ];
       state.rows = parsed.records; inferNumericColumns();
       $("download").href = `./data/${encodeURIComponent(tab.file)}`; $("download").download = tab.file;
-      populateFormatFilter(); renderTable();
+      populateFormatFilter(); populateCountryFilter(); renderTable();
     } catch (error) {
       $("row-count").textContent = "Load failed";
       $("empty").textContent = `${error.message}. Try refreshing the page.`; $("empty").classList.remove("hidden");
@@ -107,8 +108,44 @@
     if (![...filter.options].some((option) => option.value === state.format)) state.format = "";
   }
 
+  function populateCountryFilter() {
+    const options = $("country-options"), selected = state.countries;
+    options.replaceChildren();
+    const countries = [...new Set(state.rows.map((row) => text(row.country).trim()).filter(Boolean))]
+      .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }));
+    for (const country of countries) {
+      const label = document.createElement("label"); label.className = "country-option";
+      label.dataset.country = country.toLocaleLowerCase();
+      const checkbox = document.createElement("input"); checkbox.type = "checkbox";
+      checkbox.value = country; checkbox.checked = selected.has(country);
+      checkbox.addEventListener("change", () => {
+        if (checkbox.checked) state.countries.add(country); else state.countries.delete(country);
+        updateCountrySummary(); state.page = 0; renderTable();
+      });
+      const name = document.createElement("span"); name.textContent = country;
+      label.append(checkbox, name); options.append(label);
+    }
+    for (const country of [...selected]) if (!countries.includes(country)) selected.delete(country);
+    updateCountrySummary();
+    filterCountryOptions();
+  }
+
+  function updateCountrySummary() {
+    const count = state.countries.size;
+    $("country-summary").textContent = count ? `${count} selected` : "All countries";
+  }
+
+  function filterCountryOptions() {
+    const query = $("country-search").value.trim().toLocaleLowerCase();
+    for (const option of $("country-options").children)
+      option.hidden = !option.dataset.country.includes(query);
+  }
+
   function matchesFilters(row, query) {
     if (state.format && row.format !== state.format) return false;
+    if (state.countries.size && !state.countries.has(text(row.country))) return false;
+    if (state.gender && text(row.gender).toLocaleLowerCase() !== state.gender.toLocaleLowerCase()) return false;
+    if (state.careerStatus && text(row.career_status) !== state.careerStatus) return false;
     if (query && !state.columns.some((column) => text(row[column]).toLocaleLowerCase().includes(query))) return false;
     for (const [column, filter] of state.filters) {
       if (state.numeric.has(column) && filter.min === "" && filter.max === "") continue;
@@ -143,7 +180,8 @@
 
   function activeFilterCount() {
     return [...state.filters.values()].filter((filter) => filter.value || filter.min !== "" || filter.max !== "").length +
-      Number(Boolean(state.query.trim())) + Number(Boolean(state.format));
+      Number(Boolean(state.query.trim())) + Number(Boolean(state.format)) + Number(state.countries.size > 0) +
+      Number(Boolean(state.gender)) + Number(Boolean(state.careerStatus));
   }
 
   function renderFilterRow() {
@@ -256,8 +294,11 @@
   let renderTimer;
   function scheduleRender() { clearTimeout(renderTimer); renderTimer = setTimeout(renderTable, 180); }
   function clearFilters() {
-    state.query = ""; state.format = ""; state.filters.clear(); state.page = 0;
-    $("search").value = ""; $("format-filter").value = ""; renderTable();
+    state.query = ""; state.format = ""; state.countries.clear(); state.gender = ""; state.careerStatus = "";
+    state.filters.clear(); state.page = 0;
+    $("search").value = ""; $("format-filter").value = ""; $("gender-filter").value = "";
+    $("status-filter").value = ""; $("country-search").value = ""; updateCountrySummary();
+    populateCountryFilter(); renderTable();
   }
 
   async function init() {
@@ -282,6 +323,9 @@
     searchTimer = setTimeout(renderTable, 180);
   });
   $("format-filter").addEventListener("change", (event) => { state.format = event.target.value; state.page = 0; renderTable(); });
+  $("gender-filter").addEventListener("change", (event) => { state.gender = event.target.value; state.page = 0; renderTable(); });
+  $("status-filter").addEventListener("change", (event) => { state.careerStatus = event.target.value; state.page = 0; renderTable(); });
+  $("country-search").addEventListener("input", filterCountryOptions);
   $("clear-filters").addEventListener("click", clearFilters);
   $("prev").addEventListener("click", () => { state.page--; renderTable(); });
   $("next").addEventListener("click", () => { state.page++; renderTable(); });

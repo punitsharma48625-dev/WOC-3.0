@@ -66,6 +66,19 @@ button:focus-visible, input:focus-visible, select:focus-visible, a:focus-visible
 .filter-wrap > span { color: var(--muted); font-size: 8px; }
 .filter-wrap select { color: var(--text); background: transparent; border: 0; outline: 0; font-size: 12px; font-weight: 600; }
 .filter-wrap option { color: var(--text); background: var(--panel); }
+.country-filter { position: relative; flex: 0 0 156px; height: 43px; background: var(--panel); border: 1px solid var(--line); border-radius: 7px; z-index: 5; }
+.country-filter > summary { display: flex; height: 100%; padding: 3px 10px; align-items: center; justify-content: space-between; gap: 6px; list-style: none; cursor: pointer; color: var(--text); font-size: 12px; font-weight: 600; }
+.country-filter > summary::-webkit-details-marker { display: none; }
+.filter-caption { align-self: flex-start; color: var(--muted); font-size: 8px; font-weight: 500; }
+.country-filter > summary { flex-wrap: wrap; align-content: center; }
+.country-filter > summary > span:nth-child(2) { flex: 1 0 100%; margin-top: -4px; }
+.country-menu { position: absolute; top: calc(100% + 6px); left: 0; width: 240px; padding: 9px; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 12px 28px rgba(20, 32, 29, .18); }
+.country-menu > input { width: 100%; height: 34px; padding: 0 9px; color: var(--text); background: var(--panel-soft); border: 1px solid var(--line); border-radius: 5px; }
+.country-options { max-height: 245px; overflow: auto; margin-top: 6px; }
+.country-option { display: flex; align-items: center; gap: 8px; min-height: 30px; padding: 3px 5px; color: var(--text); border-radius: 4px; font-size: 12px; cursor: pointer; }
+.country-option:hover { background: var(--panel-soft); }
+.country-option input { accent-color: var(--green); }
+.country-option[hidden] { display: none; }
 .clear-filters, .download {
   display: inline-flex; align-items: center; justify-content: center; gap: 7px; height: 43px;
   padding: 0 13px; border-radius: 7px; white-space: nowrap; text-decoration: none; font-size: 12px; font-weight: 650; cursor: pointer; transition: background .14s ease, border-color .14s ease;
@@ -149,6 +162,7 @@ td.numeric { color: #30372f; text-align: center; padding-left: 8px; padding-righ
   .toolbar { flex-wrap: wrap; }
   .search-box { flex-basis: 100%; }
   .filter-wrap { flex: 1; }
+  .country-filter { flex: 1; }
   .clear-filters, .download { flex: 1; }
   .table-heading { padding: 14px; }
   .table-footer { padding: 11px; }
