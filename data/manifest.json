@@ -1,8 +1,10 @@
 {
   "title": "WOC Simulated Cricket Stats",
-  "generated_at_utc": "2026-10-24T07:08:14Z",
-  "match_count": 15774,
-  "scope": "Global: all saved matches across servers; no server or user identifiers are exported.",
+  "export_version": 6,
+  "generated_at_utc": "2026-10-24T11:15:56Z",
+  "match_count": 342455,
+  "max_match_id": 342455,
+  "scope": "Global simulated player stats for the curated country, franchise/domestic, international-veteran, and saved-team pool; no server or user identifiers are exported.",
   "coverage_note": "Exports cover fields persisted by the simulator. Partnership-by-partnership, ball commentary, toss decisions and exact batter-v-bowler pairs are not stored in the current sim-stat database.",
   "tabs": [
     {
@@ -10,142 +12,146 @@
       "label": "Batting career",
       "description": "Global simulated batting career totals by format",
       "file": "batting_career.csv",
-      "rows": 2898
+      "rows": 18045
     },
     {
       "id": "bowl_career",
       "label": "Bowling career",
       "description": "Global simulated bowling career totals by format",
       "file": "bowling_career.csv",
-      "rows": 1740
+      "rows": 18045
     },
     {
       "id": "bat_phase",
       "label": "Batting by phase",
       "description": "Runs, balls, average, strike rate and boundaries by phase",
       "file": "batting_phase.csv",
-      "rows": 8551
+      "rows": 108280
     },
     {
       "id": "bowl_phase",
       "label": "Bowling by phase",
       "description": "Overs, runs, wickets, economy, average and strike rate by phase",
       "file": "bowling_phase.csv",
-      "rows": 5791
+      "rows": 87301
     },
     {
       "id": "bat_phase_type",
       "label": "Phase × pace / spin",
       "description": "Batting split by phase and opposing pace/spin type",
       "file": "batting_phase_vs_bowling_type.csv",
-      "rows": 16271
+      "rows": 207840
     },
     {
       "id": "bat_type",
       "label": "Batting vs pace / spin",
       "description": "Batting splits against pace and spin",
       "file": "batting_vs_bowling_type.csv",
-      "rows": 6915
+      "rows": 74305
     },
     {
       "id": "bowl_hand",
       "label": "Bowling vs handedness",
       "description": "Bowling splits against left- and right-handed batters",
       "file": "bowling_vs_batter_hand.csv",
-      "rows": 4139
+      "rows": 67182
     },
     {
       "id": "bat_position",
       "label": "Batting position",
       "description": "Batting records grouped by lineup position",
       "file": "batting_position.csv",
-      "rows": 4243
+      "rows": 295748
     },
     {
       "id": "bat_team",
       "label": "Batting by team",
       "description": "Player batting record for each team represented in saved matches",
       "file": "batting_by_team.csv",
-      "rows": 4118
+      "rows": 37759
     },
     {
       "id": "bowl_team",
       "label": "Bowling by team",
       "description": "Player bowling record for each team represented in saved matches",
       "file": "bowling_by_team.csv",
-      "rows": 2463
+      "rows": 35336
     },
     {
       "id": "bat_opp",
       "label": "Batting vs opposition",
       "description": "Player batting record against each opponent",
       "file": "batting_vs_opposition.csv",
-      "rows": 23388
+      "rows": 68262
     },
     {
       "id": "bowl_opp",
       "label": "Bowling vs opposition",
       "description": "Player bowling record against each opponent",
       "file": "bowling_vs_opposition.csv",
-      "rows": 13922
+      "rows": 54467
     },
     {
       "id": "bat_venue",
       "label": "Batting by venue",
       "description": "Player batting record at each venue",
       "file": "batting_by_venue.csv",
-      "rows": 40334
+      "rows": 692026
     },
     {
       "id": "bowl_venue",
       "label": "Bowling by venue",
       "description": "Player bowling record at each venue",
       "file": "bowling_by_venue.csv",
-      "rows": 25465
+      "rows": 570887
     },
     {
       "id": "bat_pitch",
       "label": "Batting by pitch",
       "description": "Player batting record by the selected pitch profile",
       "file": "batting_by_pitch.csv",
-      "rows": 4405
+      "rows": 38046
     },
     {
       "id": "bowl_pitch",
       "label": "Bowling by pitch",
       "description": "Player bowling record by the selected pitch profile",
       "file": "bowling_by_pitch.csv",
-      "rows": 2633
+      "rows": 35506
     },
     {
       "id": "bat_innings_context",
       "label": "Batting by innings",
       "description": "Player batting record in each innings number",
       "file": "batting_by_innings.csv",
-      "rows": 8537
+      "rows": 75456
     },
     {
       "id": "bowl_innings_context",
       "label": "Bowling by innings",
       "description": "Player bowling record in each innings number",
       "file": "bowling_by_innings.csv",
-      "rows": 5002
+      "rows": 67783
     },
     {
       "id": "bat_form",
       "label": "Recent batting form",
       "description": "Last ten saved batting innings per player and format",
       "file": "recent_batting_form.csv",
-      "rows": 25475
+      "rows": 177735
     },
     {
       "id": "bowl_form",
       "label": "Recent bowling form",
       "description": "Last ten saved bowling innings per player and format",
       "file": "recent_bowling_form.csv",
-      "rows": 14975
+      "rows": 155702
     }
   ],
-  "export_version": 3,
-  "metadata_version": 1
+  "metadata_version": 1,
+  "player_scope": {
+    "version": "curated-country35-franchise-legends-custom-v1",
+    "eligible_players": 9667,
+    "fingerprint": "684857f89e23b1013322b8e087dff05e4cf6f3df1c53f0f9e840a73d3240a889"
+  }
 }
