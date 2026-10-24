@@ -126,6 +126,7 @@ td.format-column { left: 365px; }
 .column-filters th.numeric-column input { text-align: center; }
 .range-filter { display: flex; gap: 4px; min-width: 124px; }
 .range-filter input { flex: 1; width: 62px; }
+.mobile-sim-name { display: none; }
 td { padding: 10px 12px; color: #30372f; border-bottom: 1px solid #eceae2; font-variant-numeric: tabular-nums; }
 tbody tr:nth-child(even) { background: #faf9f5; }
 tbody tr:hover { background: #eff2e9; }
@@ -160,4 +161,23 @@ td.numeric { color: #30372f; text-align: center; padding-left: 8px; padding-righ
   .filter-count { max-width: 120px; white-space: normal; }
   .table-footer { align-items: start; flex-direction: column; }
   .table-scroll { max-height: calc(100vh - 280px); }
+}
+
+@media (max-width: 600px) {
+  /* On phones, fold the alias under the full name and keep Format beside it.
+     This leaves useful width for the stat columns while preserving identity. */
+  .column-headings th.sim-name-column, .column-filters th.sim-name-column, td.sim-name-column { display: none; }
+  .column-headings th.name-column, .column-filters th.name-column, td.name-column {
+    width: 150px; min-width: 150px; max-width: 150px;
+  }
+  .column-headings th.format-column, .column-filters th.format-column, td.format-column {
+    width: 74px; min-width: 74px; max-width: 74px;
+  }
+  .column-headings th.format-column, .column-filters th.format-column { left: 150px; }
+  td.format-column { left: 150px; }
+  td.name-column { white-space: normal; line-height: 1.3; }
+  .mobile-sim-name {
+    display: block; margin-top: 2px; overflow: hidden; color: var(--muted);
+    font-size: 10px; font-weight: 450; line-height: 1.2; text-overflow: ellipsis; white-space: nowrap;
+  }
 }

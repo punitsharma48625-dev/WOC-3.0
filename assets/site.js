@@ -227,7 +227,15 @@
       for (const column of state.columns) {
         const td = document.createElement("td"), value = text(record[column]);
         td.textContent = value;
-        if (column === "name") td.classList.add("name-column");
+        if (column === "name") {
+          td.classList.add("name-column");
+          if (record.sim_name) {
+            const alias = document.createElement("span");
+            alias.className = "mobile-sim-name";
+            alias.textContent = text(record.sim_name);
+            td.append(alias);
+          }
+        }
         if (column === "sim_name") td.classList.add("sim-name-column");
         if (column === "format") td.classList.add("format-column");
         if (state.numeric.has(column)) td.className = "numeric";
