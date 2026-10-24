@@ -69,7 +69,7 @@
     if (state.loading && state.tab?.id === tab.id) return;
     state.tab = tab; state.page = 0; state.sort = null; state.direction = 1;
     state.filters.clear(); state.loading = true; renderTabs();
-    $("table-label").textContent = tab.label; $("table-description").textContent = tab.description;
+    $("table-label").textContent = tab.label;
     $("row-count").textContent = "Loading table…"; $("filter-count").textContent = "";
     $("empty").classList.add("hidden"); thead.replaceChildren(); tbody.replaceChildren();
     try {
@@ -249,15 +249,10 @@
       const response = await fetch("./data/manifest.json", { cache: "no-store" });
       if (!response.ok) throw new Error("No exported data found");
       const manifest = await response.json(); state.tabs = manifest.tabs || [];
-      $("match-count").textContent = Number(manifest.match_count || 0).toLocaleString();
-      $("updated-at").textContent = `Updated ${new Date(manifest.generated_at_utc).toLocaleString()}`;
-      $("coverage-note").textContent = manifest.coverage_note || manifest.scope || "Simulated stats only.";
-      if (manifest.coverage_note) { $("note").textContent = manifest.coverage_note; $("note").classList.remove("hidden"); }
       if (!state.tabs.length) throw new Error("The export manifest has no data tabs");
       await selectTab(state.tabs[0]);
     } catch (error) {
       $("table-label").textContent = "Stats archive is not published yet";
-      $("table-description").textContent = "Run !update in the bot, then publish the generated data files.";
       $("row-count").textContent = "Awaiting data"; $("empty").textContent = error.message; $("empty").classList.remove("hidden");
     }
   }

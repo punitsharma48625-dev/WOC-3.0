@@ -3,24 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#233f50">
+  <meta name="theme-color" content="#253944">
   <title>WOC · Simulation Stats</title>
-  <link rel="stylesheet" href="./assets/site.css?v=20261024-scorebook">
-  <script src="./assets/site.js?v=20261024-scorebook" defer></script>
+  <link rel="stylesheet" href="./assets/site.css?v=20261024-compact">
+  <script src="./assets/site.js?v=20261024-compact" defer></script>
 </head>
 <body>
   <header class="hero">
-    <div class="hero-inner">
-      <div class="eyebrow"><span class="live-dot"></span> WORLD OF CRICKET · SIM ARCHIVE</div>
-      <div class="hero-row">
-        <div>
-          <h1>Simulation <em>Stats</em></h1>
-          <p class="lede">Explore every saved match, player line and phase split.</p>
-        </div>
-        <div class="match-count"><span id="match-count">—</span><small>SIMULATED MATCHES</small></div>
-      </div>
-      <div class="hero-foot"><span id="updated-at">Loading archive…</span><span>GLOBAL DATA · ALL FORMATS</span></div>
-    </div>
+    <div class="hero-inner"><div class="brand">WOC 3.0</div></div>
   </header>
 
   <main class="shell">
@@ -33,15 +23,11 @@
 
     <nav id="tabs" class="tabs" aria-label="Stat categories"></nav>
     <section class="table-card" aria-live="polite">
-      <div class="table-heading"><div><div id="table-label" class="table-title">Loading…</div><div id="table-description" class="table-subtitle"></div></div><div class="table-counts"><div id="row-count" class="row-count"></div><div id="filter-count" class="filter-count"></div></div></div>
-      <div class="filter-hint"><span class="filter-icon">⌕</span><span><strong>Column filters</strong> · text fields match what you type; numeric fields accept minimum and maximum values. Filters combine with search and format.</span></div>
-      <div id="note" class="notice hidden"></div>
+      <div class="table-heading"><div id="table-label" class="table-title">Loading…</div><div class="table-counts"><div id="row-count" class="row-count"></div><div id="filter-count" class="filter-count"></div></div></div>
       <div class="table-scroll"><table id="stats-table"><thead></thead><tbody></tbody></table></div>
       <div class="empty hidden" id="empty">No rows match those filters.</div>
       <footer class="table-footer"><span id="page-label"></span><div class="pager"><button id="prev" type="button">← Previous</button><button id="next" type="button">Next →</button></div></footer>
     </section>
-    <div class="disclaimer"><span>ⓘ</span><span id="coverage-note">These are simulated career figures, not real-world career records.</span></div>
   </main>
-  <footer class="site-footer"><span>WOC · CRICKET SIM</span><span>Built from saved simulation records</span></footer>
 </body>
 </html>
