@@ -27,43 +27,68 @@ HUNDRED,William Jacks,WG Jacks,MI London,auto,1,1,10,2.0,23,0,13.8,,,England,Mal
 HUNDRED,Xavier Bartlett,XC Bartlett,Australia,green,1,1,15,3.0,17,2,6.8,8.5,7.5,Australia,Male,Active
 IPL,Anshul Kamboj,A Kamboj,Chennai Super Kings,auto,3,3,72,12.0,141,3,11.75,47.0,24.0,India,Male,Active
 IPL,Anil Kumble,A Kumble,Royal Challengers Bengaluru All-time,auto,1,1,24,4.0,25,0,6.25,,,India,Male,Retired
+IPL,Andre Russell,AD Russell,Thalaivar's XI,auto,5,5,60,10.0,93,1,9.3,93.0,60.0,West Indies,Male,Active
 IPL,AM Ghazanfar,AM Ghazanfar,Mumbai Indians,auto,2,2,37,6.17,63,5,10.22,12.6,7.4,Afghanistan,Male,Active
 IPL,Alpesh Ramjani,AR Ramjani,Punit,auto,1,1,24,4.0,22,0,5.5,,,Uganda,Male,Active
 IPL,Abhishek Sharma,Abhishek Sharma,Punit,auto,1,1,12,2.0,15,0,7.5,,,India,Male,Active
+IPL,Aqib Sulehri,Aqib Ilyas,Nurul Huda Sourov's XI,auto,5,5,90,15.0,121,3,8.07,40.33,30.0,Oman,Male,Active
 IPL,Bhuvneshwar Singh,B Kumar,Royal Challengers Bengaluru,auto,1,1,18,3.0,53,0,17.67,,,India,Male,Active
+IPL,Bilal Khan,Bilal Khan,Nurul Huda Sourov's XI,auto,5,5,114,19.0,173,8,9.11,21.63,14.25,Oman,Male,Retired
 IPL,Corbin Bosch,C Bosch,Mumbai Indians,auto,2,2,36,6.0,55,5,9.17,11.0,7.2,South Africa,Male,Active
+IPL,Corbin Bosch,C Bosch,Nurul Huda Sourov's XI,auto,10,10,220,36.67,385,9,10.5,42.78,24.44,South Africa,Male,Active
 IPL,Dhruvkumar Maisuria,D Maisuria,Punit,auto,1,1,18,3.0,14,2,4.67,7.0,9.0,Botswana,Male,Active
 IPL,Dwayne Bravo,DJ Bravo,Chennai Super Kings All-time,auto,1,1,24,4.0,26,1,6.5,26.0,24.0,West Indies,Male,Retired
 IPL,Deepak Chahar,DL Chahar,Chennai Super Kings All-time,auto,1,1,18,3.0,30,0,10.0,,,India,Male,Active
 IPL,Deepak Chahar,DL Chahar,Mumbai Indians,auto,2,2,42,7.0,30,4,4.29,7.5,10.5,India,Male,Active
+IPL,Dinesh Nakrani,DM Nakrani,Thalaivar's XI,auto,5,5,114,19.0,153,8,8.05,19.13,14.25,Uganda,Male,Active
+IPL,Delray Rawlins,DMW Rawlins,Nurul Huda Sourov's XI,auto,4,4,48,8.0,79,3,9.88,26.33,16.0,Bermuda,Male,Active
+IPL,Ehsan Khan,Ehsan Khan,Punit's XI,auto,10,10,222,37.0,208,17,5.62,12.24,13.06,Hong Kong,Male,Active
+IPL,Gareth Delany,GJ Delany,Nurul Huda Sourov's XI,auto,5,5,87,14.5,155,2,10.69,77.5,43.5,Ireland,Male,Active
+IPL,Glenn Maxwell,GJ Maxwell,Punit's XI,auto,10,10,173,28.83,236,11,8.18,21.45,15.73,Australia,Male,Active
 IPL,Gurjapneet Singh,Gurjapneet Singh,Chennai Super Kings,auto,3,3,54,9.0,96,2,10.67,48.0,27.0,India,Male,Active
 IPL,Hardik Pandya,HH Pandya,Mumbai Indians,auto,1,1,6,1.0,12,0,12.0,,,India,Male,Active
 IPL,Hardik Pandya,HH Pandya,Mumbai Indians All-time,auto,1,1,12,2.0,12,0,6.0,,,India,Male,Active
+IPL,Hardik Pandya,HH Pandya,Thalaivar's XI,auto,5,5,91,15.17,124,3,8.18,41.33,30.33,India,Male,Active
 IPL,Harshal Patel,HV Patel,Royal Challengers Bengaluru All-time,auto,1,1,24,4.0,48,2,12.0,24.0,12.0,India,Male,Active
 IPL,Harbhajan Singh,Harbhajan Singh,Mumbai Indians All-time,auto,1,1,24,4.0,16,1,4.0,16.0,24.0,India,Male,Retired
 IPL,Jandre Coetzee,J Coetzee,Punit,auto,1,1,24,4.0,39,2,9.75,19.5,12.0,Thailand,Male,Active
 IPL,Jamie Overton,J Overton,Chennai Super Kings,auto,3,3,66,11.0,98,6,8.91,16.33,11.0,England,Male,Active
 IPL,Jacob Duffy,JA Duffy,Royal Challengers Bengaluru,auto,1,1,18,3.0,29,1,9.67,29.0,18.0,New Zealand,Male,Active
 IPL,Johannes Morkel,JA Morkel,Chennai Super Kings All-time,auto,1,1,24,4.0,33,1,8.25,33.0,24.0,South Africa,Male,Retired
+IPL,Jofra Archer,JC Archer,Punit's XI,auto,10,10,216,36.0,268,16,7.44,16.75,13.5,England,Male,Active
 IPL,Jofra Archer,JC Archer,Rajasthan Royals All-time,auto,1,1,24,4.0,25,1,6.25,25.0,24.0,England,Male,Active
 IPL,Jasprit Bumrah,JJ Bumrah,Mumbai Indians,auto,2,2,34,5.67,28,3,4.94,9.33,11.33,India,Male,Active
 IPL,Jasprit Bumrah,JJ Bumrah,Mumbai Indians All-time,auto,1,1,21,3.5,23,1,6.57,23.0,21.0,India,Male,Active
+IPL,Josh Hazlewood,JR Hazlewood,Nurul Huda Sourov's XI,auto,5,5,119,19.83,175,9,8.82,19.44,13.22,Australia,Male,Active
 IPL,Josh Hazlewood,JR Hazlewood,Royal Challengers Bengaluru,auto,1,1,24,4.0,33,2,8.25,16.5,12.0,Australia,Male,Active
 IPL,Kieron Pollard,KA Pollard,Mumbai Indians All-time,auto,1,1,18,3.0,49,0,16.33,,,West Indies,Male,Active
+IPL,Kieron Pollard,KA Pollard,Nurul Huda Sourov's XI,auto,2,2,18,3.0,33,2,11.0,16.5,9.0,West Indies,Male,Active
 IPL,Kyle Mills,KD Mills,PunitODI,auto,1,1,24,4.0,52,1,13.0,52.0,24.0,New Zealand,Male,Retired
 IPL,Krunal Pandya,KH Pandya,Mumbai Indians All-time,auto,1,1,18,3.0,28,1,9.33,28.0,18.0,India,Male,Active
 IPL,Krunal Pandya,KH Pandya,Royal Challengers Bengaluru,auto,1,1,18,3.0,45,0,15.0,,,India,Male,Active
+IPL,Khushdil Shah,Khushdil Shah,Nurul Huda Sourov's XI,auto,6,6,108,18.0,127,7,7.06,18.14,15.43,Pakistan,Male,Active
+IPL,Lungisani Ngidi,L Ngidi,Thalaivar's XI,auto,5,5,90,15.0,178,2,11.87,89.0,45.0,South Africa,Male,Active
+IPL,Lachlan Ferguson,LH Ferguson,Nurul Huda Sourov's XI,auto,10,10,234,39.0,320,13,8.21,24.62,18.0,New Zealand,Male,Active
 IPL,Luka Woods,Luka Woods,Punit,auto,1,1,18,3.0,24,0,8.0,,,Serbia,Male,Active
+IPL,Michael Leask,MA Leask,Nurul Huda Sourov's XI,auto,9,9,162,27.0,269,7,9.96,38.43,23.14,Scotland,Male,Active
+IPL,Madagamagamage Shanaka,MD Shanaka,Punit's XI,auto,10,10,137,22.83,231,6,10.12,38.5,22.83,Sri Lanka,Male,Active
 IPL,Mitchell Johnson,MG Johnson,PunitODI,auto,1,1,24,4.0,17,2,4.25,8.5,12.0,Australia,Male,Retired
 IPL,Moeen Ali,MM Ali,Chennai Super Kings All-time,auto,1,1,18,3.0,15,2,5.0,7.5,9.0,England,Male,Active
 IPL,Mukesh Choudhary,Mukesh Choudhary,Chennai Super Kings,auto,3,3,60,10.0,129,1,12.9,129.0,60.0,India,Male,Active
+IPL,Nathan Ellis,NT Ellis,Thalaivar's XI,auto,5,5,120,20.0,182,8,9.1,22.75,15.0,Australia,Male,Active
 IPL,Noor Lakanwal,Noor Ahmad,Chennai Super Kings,auto,3,3,72,12.0,108,3,9.0,36.0,24.0,Afghanistan,Male,Active
+IPL,Oliver Robinson,OE Robinson,Nurul Huda Sourov's XI,auto,10,10,204,34.0,264,13,7.76,20.31,15.69,England,Male,Active
+IPL,Paul van Meekeren,PA van Meekeren,Nurul Huda Sourov's XI,auto,10,10,165,27.5,235,9,8.55,26.11,18.33,Netherlands,Male,Active
 IPL,Patrick Cummins,PJ Cummins,PunitODI,auto,1,1,22,3.67,27,1,7.36,27.0,22.0,Australia,Male,Active
 IPL,P Dabare,PTM Dabare,PunitODI,auto,1,1,24,4.0,30,1,7.5,30.0,24.0,Sri Lanka,Male,Active
+IPL,Pinnaduwage de Silva,PWH de Silva,Thalaivar's XI,auto,5,5,120,20.0,197,5,9.85,39.4,24.0,Sri Lanka,Male,Active
 IPL,Ravichandran Ashwin,R Ashwin,Chennai Super Kings All-time,auto,1,1,18,3.0,18,2,6.0,9.0,9.0,India,Male,Active
 IPL,Ravichandran Ashwin,R Ashwin,Punit,auto,1,1,24,4.0,48,0,12.0,,,India,Male,Active
+IPL,Richard Ngarava,R Ngarava,Punit's XI,auto,10,10,204,34.0,263,14,7.74,18.79,14.57,Zimbabwe,Male,Active
+IPL,Romario Shepherd,R Shepherd,Punit's XI,auto,10,10,162,27.0,260,9,9.63,28.89,18.0,West Indies,Male,Active
 IPL,Ranganath Kumar,R Vinay Kumar,Royal Challengers Bengaluru All-time,auto,1,1,24,4.0,32,4,8.0,8.0,6.0,India,Male,Retired
 IPL,Ravindrasinh Jadeja,RA Jadeja,Chennai Super Kings All-time,auto,1,1,18,3.0,20,1,6.67,20.0,18.0,India,Male,Active
+IPL,Rahkeem Cornwall,RRS Cornwall,Nurul Huda Sourov's XI,auto,5,5,72,12.0,71,5,5.92,14.2,14.4,West Indies,Male,Active
 IPL,Raghu Sharma,Raghu Sharma,Mumbai Indians,auto,2,2,30,5.0,64,0,12.8,,,India,Male,Active
 IPL,Rasikh Dar,Rasikh Salam,Royal Challengers Bengaluru,auto,1,1,18,3.0,36,3,12.0,12.0,6.0,India,Male,Active
 IPL,Shivam Dube,S Dube,Chennai Super Kings,auto,2,2,36,6.0,79,2,13.17,39.5,18.0,India,Male,Active
@@ -72,6 +97,7 @@ IPL,Shane Warne,SK Warne,Rajasthan Royals All-time,auto,1,1,24,4.0,31,2,7.75,15.
 IPL,Separamadu Malinga,SL Malinga,Mumbai Indians All-time,auto,1,1,18,3.0,25,1,8.33,25.0,18.0,Sri Lanka,Male,Retired
 IPL,Shane Watson,SR Watson,Rajasthan Royals All-time,auto,1,1,24,4.0,26,1,6.5,26.0,24.0,Australia,Male,Retired
 IPL,Stuart Binny,STR Binny,Rajasthan Royals All-time,auto,1,1,24,4.0,23,1,5.75,23.0,24.0,India,Male,Retired
+IPL,Shadab Khan,Shadab Khan,Nurul Huda Sourov's XI,auto,5,5,108,18.0,176,4,9.78,44.0,27.0,Pakistan,Male,Active
 IPL,Sahibzada Afridi,Shahid Afridi,PunitODI,auto,1,1,24,4.0,28,2,7.0,14.0,12.0,Pakistan,Male,Retired
 IPL,Suyash Sharma,Suyash Sharma,Royal Challengers Bengaluru,auto,1,1,24,4.0,35,2,8.75,17.5,12.0,India,Male,Active
 IPL,William Jacks,WG Jacks,Mumbai Indians,auto,2,2,24,4.0,34,3,8.5,11.33,8.0,England,Male,Active
@@ -18841,7 +18867,7 @@ T20,A Kajan,A Kajan,Player coverage A · T20,auto,72,72,898,149.67,1279,52,8.55,
 T20,A Kajan,A Kajan,Player coverage B · T20,auto,82,82,975,162.5,1323,69,8.14,19.17,14.13,,Male,Active
 T20,Anucha Kalasi,A Kalasi,Player coverage A · T20,auto,306,306,6966,1161.0,7963,401,6.86,19.86,17.37,Thailand,Male,Active
 T20,Anucha Kalasi,A Kalasi,Player coverage B · T20,auto,297,297,6767,1127.83,7601,350,6.74,21.72,19.33,Thailand,Male,Active
-T20,Anshul Kamboj,A Kamboj,Chennai Super Kings,auto,289,289,5946,991.0,10014,335,10.1,29.89,17.75,India,Male,Active
+T20,Anshul Kamboj,A Kamboj,Chennai Super Kings,auto,303,303,6258,1043.0,10563,351,10.13,30.09,17.83,India,Male,Active
 T20,Anshul Kamboj,A Kamboj,Chennai Super Kings,flat,1,1,24,4.0,37,1,9.25,37.0,24.0,India,Male,Active
 T20,Anshul Kamboj,A Kamboj,Chennai Super Kings,green,1,1,24,4.0,30,1,7.5,30.0,24.0,India,Male,Active
 T20,Anshul Kamboj,A Kamboj,Chennai Super Kings,slow,2,2,48,8.0,88,3,11.0,29.33,16.0,India,Male,Active
@@ -19222,7 +19248,7 @@ T20,A Yadav,A Yadav,Player coverage A · T20,auto,243,243,5251,875.17,6518,319,7
 T20,A Yadav,A Yadav,Player coverage B · T20,auto,253,253,5329,888.17,6584,259,7.41,25.42,20.58,Nepal,Male,Active
 T20,Amy Yates,A Yates,Player coverage A · T20,auto,79,79,937,156.17,1329,68,8.51,19.54,13.78,Australia,Male,Retired
 T20,Amy Yates,A Yates,Player coverage B · T20,auto,96,96,1225,204.17,1630,82,7.98,19.88,14.94,Australia,Male,Retired
-T20,Adam Zampa,A Zampa,Australia,auto,10,10,232,38.67,308,13,7.97,23.69,17.85,Australia,Male,Active
+T20,Adam Zampa,A Zampa,Australia,auto,11,11,256,42.67,347,13,8.13,26.69,19.69,Australia,Male,Active
 T20,Adam Zampa,A Zampa,Australia,slow,1,1,24,4.0,22,2,5.5,11.0,12.0,Australia,Male,Active
 T20,Adam Zampa,A Zampa,Australia Goat,auto,12,12,260,43.33,285,18,6.58,15.83,14.44,Australia,Male,Active
 T20,Adam Zampa,A Zampa,Australia Goat,slow,1,1,19,3.17,24,1,7.58,24.0,19.0,Australia,Male,Active
@@ -19232,6 +19258,7 @@ T20,Adam Zampa,A Zampa,Nurul wala team,auto,5,5,110,18.33,168,8,9.16,21.0,13.75,
 T20,Adam Zampa,A Zampa,Nurul wala team,turner,4,4,78,13.0,67,6,5.15,11.17,13.0,Australia,Male,Active
 T20,Adam Zampa,A Zampa,Player coverage A · T20,auto,184,184,4318,719.67,4901,279,6.81,17.57,15.48,Australia,Male,Active
 T20,Adam Zampa,A Zampa,Player coverage B · T20,auto,174,174,4105,684.17,4506,263,6.59,17.13,15.61,Australia,Male,Active
+T20,Adam Zampa,A Zampa,blue moon1,auto,3,3,60,10.0,96,4,9.6,24.0,15.0,Australia,Male,Active
 T20,A Zeb,A Zeb,Player coverage A · T20,auto,92,92,1143,190.5,1543,89,8.1,17.34,12.84,,Male,Active
 T20,A Zeb,A Zeb,Player coverage B · T20,auto,83,83,1033,172.17,1290,75,7.49,17.2,13.77,,Male,Active
 T20,Adel Zimunu,A Zimunu,Player coverage A · T20,auto,143,143,3335,555.83,3930,146,7.07,26.92,22.84,Zimbabwe,Female,Active
@@ -19444,6 +19471,7 @@ T20,Andre Russell,AD Russell,Los Angeles Knight Riders,auto,105,105,2422,403.67,
 T20,Andre Russell,AD Russell,Player coverage A · T20,auto,80,80,1836,306.0,2597,110,8.49,23.61,16.69,West Indies,Male,Active
 T20,Andre Russell,AD Russell,Player coverage B · T20,auto,105,105,2407,401.17,3283,124,8.18,26.48,19.41,West Indies,Male,Active
 T20,Andre Russell,AD Russell,alltime nurul,auto,25,25,421,70.17,712,21,10.15,33.9,20.05,West Indies,Male,Active
+T20,Andre Russell,AD Russell,blue moon1,auto,3,3,54,9.0,109,5,12.11,21.8,10.8,West Indies,Male,Active
 T20,AD Thomason,AD Thomason,Player coverage A · T20,auto,308,308,6998,1166.33,10612,395,9.1,26.87,17.72,England,Male,Retired
 T20,AD Thomason,AD Thomason,Player coverage B · T20,auto,295,295,6804,1134.0,10071,401,8.88,25.11,16.97,England,Male,Retired
 T20,AD de Lange,AD de Lange,Player coverage A · T20,auto,58,58,718,119.67,938,59,7.84,15.9,12.17,South Africa,Male,Retired
@@ -19587,7 +19615,7 @@ T20,Akeal Hosein,AJ Hosein,Joburg Super Kings,auto,118,118,2598,433.0,3404,123,7
 T20,Akeal Hosein,AJ Hosein,Player coverage A · T20,auto,174,174,4128,688.0,4547,193,6.61,23.56,21.39,West Indies,Male,Active
 T20,Akeal Hosein,AJ Hosein,Player coverage B · T20,auto,185,185,4395,732.5,4794,233,6.54,20.58,18.86,West Indies,Male,Active
 T20,Akeal Hosein,AJ Hosein,Trinbago Knight Riders,auto,133,133,2955,492.5,3715,170,7.54,21.85,17.38,West Indies,Male,Active
-T20,Akeal Hosein,AJ Hosein,West Indies,auto,1,1,24,4.0,49,1,12.25,49.0,24.0,West Indies,Male,Active
+T20,Akeal Hosein,AJ Hosein,West Indies,auto,2,2,48,8.0,75,2,9.38,37.5,24.0,West Indies,Male,Active
 T20,Akeal Hosein,AJ Hosein,vamps,auto,9,9,196,32.67,302,8,9.24,37.75,24.5,West Indies,Male,Active
 T20,Anthony Ireland,AJ Ireland,Player coverage A · T20,auto,264,264,5652,942.0,7750,386,8.23,20.08,14.64,Zimbabwe,Male,Retired
 T20,Anthony Ireland,AJ Ireland,Player coverage B · T20,auto,285,285,6074,1012.33,8517,414,8.41,20.57,14.67,Zimbabwe,Male,Retired
@@ -19655,7 +19683,7 @@ T20,Aimee Maguire,AK Maguire,Player coverage A · T20,auto,157,157,3554,592.33,3
 T20,Aimee Maguire,AK Maguire,Player coverage B · T20,auto,143,143,3287,547.83,3490,219,6.37,15.94,15.01,Ireland,Female,Active
 T20,Anil Mandal,AK Mandal,Player coverage A · T20,auto,61,61,764,127.33,890,68,6.99,13.09,11.24,Nepal,Male,Retired
 T20,Anil Mandal,AK Mandal,Player coverage B · T20,auto,71,71,907,151.17,1210,65,8.0,18.62,13.95,Nepal,Male,Retired
-T20,Aiden Markram,AK Markram,Lucknow Super Giants,auto,266,266,6305,1050.83,10987,218,10.46,50.4,28.92,South Africa,Male,Active
+T20,Aiden Markram,AK Markram,Lucknow Super Giants,auto,280,280,6641,1106.83,11551,231,10.44,50.0,28.75,South Africa,Male,Active
 T20,Aiden Markram,AK Markram,Player coverage A · T20,auto,79,79,1394,232.33,1881,62,8.1,30.34,22.48,South Africa,Male,Active
 T20,Aiden Markram,AK Markram,Player coverage B · T20,auto,79,79,1556,259.33,2085,67,8.04,31.12,23.22,South Africa,Male,Active
 T20,Angelo Perera,AK Perera,Player coverage A · T20,auto,99,99,1288,214.67,1474,88,6.87,16.75,14.64,Sri Lanka,Male,Active
@@ -19738,7 +19766,7 @@ T20,AM French,AM French,Player coverage B · T20,auto,127,127,1560,260.0,2170,93
 T20,AM Gaging,AM Gaging,Player coverage A · T20,auto,22,22,218,36.33,267,10,7.35,26.7,21.8,New Zealand,Female,Retired
 T20,AM Gaging,AM Gaging,Player coverage B · T20,auto,8,8,85,14.17,116,8,8.19,14.5,10.63,New Zealand,Female,Retired
 T20,AM Ghazanfar,AM Ghazanfar,MI Emirates,auto,131,131,3064,510.67,3991,169,7.82,23.62,18.13,Afghanistan,Male,Active
-T20,AM Ghazanfar,AM Ghazanfar,Mumbai Indians,auto,302,302,7099,1183.17,10942,354,9.25,30.91,20.05,Afghanistan,Male,Active
+T20,AM Ghazanfar,AM Ghazanfar,Mumbai Indians,auto,320,320,7513,1252.17,11631,370,9.29,31.44,20.31,Afghanistan,Male,Active
 T20,AM Ghazanfar,AM Ghazanfar,Mumbai Indians,green,1,1,24,4.0,38,0,9.5,,,Afghanistan,Male,Active
 T20,AM Ghazanfar,AM Ghazanfar,Mumbai Indians,slow,1,1,24,4.0,16,1,4.0,16.0,24.0,Afghanistan,Male,Active
 T20,AM Ghazanfar,AM Ghazanfar,Player coverage A · T20,auto,90,90,2136,356.0,2480,132,6.97,18.79,16.18,Afghanistan,Male,Active
@@ -19923,8 +19951,8 @@ T20,Ashish Odedara,AR Odedara,Player coverage B · T20,auto,75,75,897,149.5,1130
 T20,AR Pandey,AR Pandey,Player coverage A · T20,auto,293,293,6207,1034.5,8445,284,8.16,29.74,21.86,India,Male,Retired
 T20,AR Pandey,AR Pandey,Player coverage B · T20,auto,310,310,6687,1114.5,9532,315,8.55,30.26,21.23,India,Male,Retired
 T20,AR Pandey,AR Pandey,Railways,auto,37,37,830,138.33,1301,28,9.4,46.46,29.64,India,Male,Retired
-T20,Axar Patel,AR Patel,Delhi Capitals,auto,282,282,6729,1121.5,9406,230,8.39,40.9,29.26,India,Male,Active
-T20,Axar Patel,AR Patel,India,auto,59,59,1295,215.83,1575,77,7.3,20.45,16.82,India,Male,Active
+T20,Axar Patel,AR Patel,Delhi Capitals,auto,299,299,7137,1189.5,10048,238,8.45,42.22,29.99,India,Male,Active
+T20,Axar Patel,AR Patel,India,auto,60,60,1319,219.83,1601,77,7.28,20.79,17.13,India,Male,Active
 T20,Axar Patel,AR Patel,India,flat,9,9,204,34.0,296,9,8.71,32.89,22.67,India,Male,Active
 T20,Axar Patel,AR Patel,Player coverage A · T20,auto,119,119,2795,465.83,2964,123,6.36,24.1,22.72,India,Male,Active
 T20,Axar Patel,AR Patel,Player coverage B · T20,auto,120,120,2827,471.17,3062,139,6.5,22.03,20.34,India,Male,Active
@@ -19932,6 +19960,7 @@ T20,Axar Patel,AR Patel,SUPER CONQUERORS,auto,8,8,178,29.67,204,3,6.88,68.0,59.3
 T20,Axar Patel,AR Patel,SUPER CONQUERORS,slow,1,1,24,4.0,25,1,6.25,25.0,24.0,India,Male,Active
 T20,Axar Patel,AR Patel,Testing,auto,3,3,72,12.0,61,5,5.08,12.2,14.4,India,Male,Active
 T20,Axar Patel,AR Patel,Testing,flat,1,1,24,4.0,28,1,7.0,28.0,24.0,India,Male,Active
+T20,Axar Patel,AR Patel,dev1,auto,6,6,108,18.0,150,5,8.33,30.0,21.6,India,Male,Active
 T20,Axar Patel,AR Patel,grenin bkl,auto,30,30,564,94.0,738,21,7.85,35.14,26.86,India,Male,Active
 T20,Abhik Patwa,AR Patwa,Player coverage A · T20,auto,20,20,198,33.0,244,18,7.39,13.56,11.0,Tanzania,Male,Active
 T20,Abhik Patwa,AR Patwa,Player coverage B · T20,auto,23,23,305,50.83,356,27,7.0,13.19,11.3,Tanzania,Male,Active
@@ -19941,9 +19970,11 @@ T20,Akshay Puri,AR Puri,Player coverage A · T20,auto,297,297,6878,1146.33,8322,
 T20,Akshay Puri,AR Puri,Player coverage B · T20,auto,311,311,7172,1195.33,8421,292,7.04,28.84,24.56,Singapore,Male,Active
 T20,Alpesh Ramjani,AR Ramjani,Player coverage A · T20,auto,265,265,6291,1048.5,5566,429,5.31,12.97,14.66,Uganda,Male,Active
 T20,Alpesh Ramjani,AR Ramjani,Player coverage B · T20,auto,227,227,5431,905.17,4727,355,5.22,13.32,15.3,Uganda,Male,Active
-T20,Alpesh Ramjani,AR Ramjani,Punit,auto,106,106,2493,415.5,2836,163,6.83,17.4,15.29,Uganda,Male,Active
-T20,Alpesh Ramjani,AR Ramjani,Punit,flat,1,1,24,4.0,41,1,10.25,41.0,24.0,Uganda,Male,Active
-T20,Alpesh Ramjani,AR Ramjani,Punit,slow,1,1,24,4.0,25,1,6.25,25.0,24.0,Uganda,Male,Active
+T20,Alpesh Ramjani,AR Ramjani,Punit,auto,116,116,2727,454.5,3089,180,6.8,17.16,15.15,Uganda,Male,Active
+T20,Alpesh Ramjani,AR Ramjani,Punit,flat,10,10,237,39.5,317,6,8.03,52.83,39.5,Uganda,Male,Active
+T20,Alpesh Ramjani,AR Ramjani,Punit,green,1,1,24,4.0,31,0,7.75,,,Uganda,Male,Active
+T20,Alpesh Ramjani,AR Ramjani,Punit,slow,3,3,72,12.0,90,6,7.5,15.0,12.0,Uganda,Male,Active
+T20,Alpesh Ramjani,AR Ramjani,Punit,turner,1,1,24,4.0,16,1,4.0,16.0,24.0,Uganda,Male,Active
 T20,Alpesh Ramjani,AR Ramjani,SUPER CONQUERORS,auto,8,8,192,32.0,167,10,5.22,16.7,19.2,Uganda,Male,Active
 T20,Alpesh Ramjani,AR Ramjani,SUPER CONQUERORS,slow,1,1,24,4.0,26,0,6.5,,,Uganda,Male,Active
 T20,Angela Reakes,AR Reakes,Player coverage A · T20,auto,102,102,1977,329.5,2162,104,6.56,20.79,19.01,Australia,Female,Retired
@@ -20028,7 +20059,7 @@ T20,AS Routela,AS Routela,Chitwan Rhinos,auto,12,12,186,31.0,247,9,7.97,27.44,20
 T20,AS Routela,AS Routela,Player coverage A · T20,auto,262,262,5249,874.83,6738,282,7.7,23.89,18.61,Nepal,Male,Active
 T20,AS Routela,AS Routela,Player coverage B · T20,auto,248,248,4938,823.0,6509,276,7.91,23.58,17.89,Nepal,Male,Active
 T20,Anukul Roy,AS Roy,Jharkhand,auto,37,37,881,146.83,1184,52,8.06,22.77,16.94,India,Male,Active
-T20,Anukul Roy,AS Roy,Kolkata Knight Riders,auto,278,278,4015,669.17,6407,148,9.57,43.29,27.13,India,Male,Active
+T20,Anukul Roy,AS Roy,Kolkata Knight Riders,auto,292,292,4219,703.17,6736,155,9.58,43.46,27.22,India,Male,Active
 T20,Anukul Roy,AS Roy,Player coverage A · T20,auto,142,142,2812,468.67,3437,128,7.33,26.85,21.97,India,Male,Active
 T20,Anukul Roy,AS Roy,Player coverage B · T20,auto,162,162,3226,537.67,4054,177,7.54,22.9,18.23,India,Male,Active
 T20,AS Sawant,AS Sawant,Player coverage A · T20,auto,35,35,314,52.33,408,24,7.8,17.0,13.08,,Male,Active
@@ -20185,8 +20216,8 @@ T20,Aayan Khan,Aayan Afzal Khan,Player coverage B · T20,auto,237,237,5665,944.1
 T20,Muhammad Afridi,Abbas Afridi,Karachi Kings,auto,118,118,2554,425.67,3950,197,9.28,20.05,12.96,Pakistan,Male,Active
 T20,Muhammad Afridi,Abbas Afridi,Player coverage A · T20,auto,242,242,5485,914.17,6994,396,7.65,17.66,13.85,Pakistan,Male,Active
 T20,Muhammad Afridi,Abbas Afridi,Player coverage B · T20,auto,249,249,5720,953.33,7448,400,7.81,18.62,14.3,Pakistan,Male,Active
-T20,Abbas Ghani,Abbas Ghani,Grenin,auto,3,3,54,9.0,76,4,8.44,19.0,13.5,Hungary,Male,Active
-T20,Abbas Ghani,Abbas Ghani,Grenin is lodi bodhi,auto,28,28,466,77.67,825,17,10.62,48.53,27.41,Hungary,Male,Active
+T20,Abbas Ghani,Abbas Ghani,Grenin,auto,4,4,72,12.0,112,6,9.33,18.67,12.0,Hungary,Male,Active
+T20,Abbas Ghani,Abbas Ghani,Grenin is lodi bodhi,auto,36,36,610,101.67,1111,24,10.93,46.29,25.42,Hungary,Male,Active
 T20,Abbas Ghani,Abbas Ghani,Player coverage A · T20,auto,264,264,5780,963.33,8271,330,8.59,25.06,17.52,Hungary,Male,Active
 T20,Abbas Ghani,Abbas Ghani,Player coverage B · T20,auto,294,294,6364,1060.67,8917,398,8.41,22.4,15.99,Hungary,Male,Active
 T20,Abdalah Lubega,Abdalah Lubega,Player coverage A · T20,auto,46,46,451,75.17,506,36,6.73,14.06,12.53,Uganda,Male,Retired
@@ -20316,13 +20347,15 @@ T20,Abhishek Raman,Abhishek Raman,Player coverage A · T20,auto,48,48,561,93.5,6
 T20,Abhishek Raman,Abhishek Raman,Player coverage B · T20,auto,47,47,477,79.5,579,30,7.28,19.3,15.9,India,Male,Retired
 T20,Abhishek Sakuja,Abhishek Sakuja,Player coverage A · T20,auto,28,28,291,48.5,352,20,7.26,17.6,14.55,India,Male,Retired
 T20,Abhishek Sakuja,Abhishek Sakuja,Player coverage B · T20,auto,31,31,303,50.5,353,22,6.99,16.05,13.77,India,Male,Retired
-T20,Abhishek Sharma,Abhishek Sharma,India,auto,57,57,690,115.0,1169,21,10.17,55.67,32.86,India,Male,Active
+T20,Abhishek Sharma,Abhishek Sharma,Amrit,flat,2,2,12,2.0,26,0,13.0,,,India,Male,Active
+T20,Abhishek Sharma,Abhishek Sharma,India,auto,58,58,702,117.0,1198,21,10.24,57.05,33.43,India,Male,Active
 T20,Abhishek Sharma,Abhishek Sharma,India,flat,9,9,102,17.0,171,8,10.06,21.38,12.75,India,Male,Active
 T20,Abhishek Sharma,Abhishek Sharma,Player coverage A · T20,auto,51,51,927,154.5,1191,33,7.71,36.09,28.09,India,Male,Active
 T20,Abhishek Sharma,Abhishek Sharma,Player coverage B · T20,auto,46,46,798,133.0,985,27,7.41,36.48,29.56,India,Male,Active
 T20,Abhishek Sharma,Abhishek Sharma,Punit,auto,3,3,30,5.0,55,0,11.0,,,India,Male,Active
+T20,Abhishek Sharma,Abhishek Sharma,Punit,flat,2,2,24,4.0,42,1,10.5,42.0,24.0,India,Male,Active
 T20,Abhishek Sharma,Abhishek Sharma,Punjab,auto,44,44,1015,169.17,1305,38,7.71,34.34,26.71,India,Male,Active
-T20,Abhishek Sharma,Abhishek Sharma,Sunrisers Hyderabad,auto,269,269,3502,583.67,5484,117,9.4,46.87,29.93,India,Male,Active
+T20,Abhishek Sharma,Abhishek Sharma,Sunrisers Hyderabad,auto,283,283,3694,615.67,5838,119,9.48,49.06,31.04,India,Male,Active
 T20,Abhishek Sharma,Abhishek Sharma,grenin bkl,auto,3,3,27,4.5,23,1,5.11,23.0,27.0,India,Male,Active
 T20,Abhishek Tanwar,Abhishek Tanwar,Player coverage A · T20,auto,321,321,7509,1251.5,9637,375,7.7,25.7,20.02,India,Male,Retired
 T20,Abhishek Tanwar,Abhishek Tanwar,Player coverage B · T20,auto,286,286,6657,1109.5,8641,335,7.79,25.79,19.87,India,Male,Retired
@@ -20387,9 +20420,10 @@ T20,Adil Bhatti,Adil Bhatti,Player coverage A · T20,auto,235,235,4302,717.0,581
 T20,Adil Bhatti,Adil Bhatti,Player coverage B · T20,auto,220,220,3979,663.17,5205,188,7.85,27.69,21.16,United States of America,Male,Retired
 T20,Adil Butt,Adil Butt,Player coverage A · T20,auto,259,259,5950,991.67,8648,325,8.72,26.61,18.31,Eswatini,Male,Active
 T20,Adil Butt,Adil Butt,Player coverage B · T20,auto,238,238,5513,918.83,7834,341,8.53,22.97,16.17,Eswatini,Male,Active
-T20,Adil Butt,Adil Butt,Punit,auto,79,79,1129,188.17,1953,76,10.38,25.7,14.86,Eswatini,Male,Active
-T20,Adil Butt,Adil Butt,Punit,flat,1,1,7,1.17,10,1,8.57,10.0,7.0,Eswatini,Male,Active
-T20,Adil Butt,Adil Butt,Punit,slow,1,1,18,3.0,39,1,13.0,39.0,18.0,Eswatini,Male,Active
+T20,Adil Butt,Adil Butt,Punit,auto,86,86,1231,205.17,2187,79,10.66,27.68,15.58,Eswatini,Male,Active
+T20,Adil Butt,Adil Butt,Punit,flat,6,6,73,12.17,147,5,12.08,29.4,14.6,Eswatini,Male,Active
+T20,Adil Butt,Adil Butt,Punit,slow,3,3,54,9.0,95,2,10.56,47.5,27.0,Eswatini,Male,Active
+T20,Adil Butt,Adil Butt,Punit,turner,1,1,18,3.0,31,1,10.33,31.0,18.0,Eswatini,Male,Active
 T20,Adil Hanif,Adil Hanif,Player coverage A · T20,auto,32,32,300,50.0,323,28,6.46,11.54,10.71,Bahrain,Male,Retired
 T20,Adil Hanif,Adil Hanif,Player coverage B · T20,auto,20,20,179,29.83,187,20,6.27,9.35,8.95,Bahrain,Male,Retired
 T20,Adil Reshi,Adil Reshi,Player coverage A · T20,auto,18,18,158,26.33,187,13,7.1,14.38,12.15,India,Male,Retired
@@ -20911,8 +20945,8 @@ T20,Apsari Begam,Apsari Begam,Player coverage B · T20,auto,5,5,36,6.0,52,1,8.67
 T20,Aqib Sulehri,Aqib Ilyas,Player coverage A · T20,auto,299,299,7157,1192.83,7827,454,6.56,17.24,15.76,Oman,Male,Active
 T20,Aqib Sulehri,Aqib Ilyas,Player coverage B · T20,auto,308,308,7354,1225.67,8132,444,6.63,18.32,16.56,Oman,Male,Active
 T20,Aqib Iqbal,Aqib Iqbal,Austria,auto,7,7,168,28.0,189,2,6.75,94.5,84.0,Austria,Male,Active
-T20,Aqib Iqbal,Aqib Iqbal,Grenin,auto,3,3,70,11.67,122,5,10.46,24.4,14.0,Austria,Male,Active
-T20,Aqib Iqbal,Aqib Iqbal,Grenin is lodi bodhi,auto,29,29,656,109.33,1028,40,9.4,25.7,16.4,Austria,Male,Active
+T20,Aqib Iqbal,Aqib Iqbal,Grenin,auto,4,4,94,15.67,174,5,11.11,34.8,18.8,Austria,Male,Active
+T20,Aqib Iqbal,Aqib Iqbal,Grenin is lodi bodhi,auto,37,37,836,139.33,1333,48,9.57,27.77,17.42,Austria,Male,Active
 T20,Aqib Iqbal,Aqib Iqbal,Player coverage A · T20,auto,273,273,6290,1048.33,8481,327,8.09,25.94,19.24,Austria,Male,Active
 T20,Aqib Iqbal,Aqib Iqbal,Player coverage B · T20,auto,296,296,6925,1154.17,9034,373,7.83,24.22,18.57,Austria,Male,Active
 T20,Muhammad Farooq,Aqif Farooq,Player coverage A · T20,auto,287,287,6633,1105.5,9582,385,8.67,24.89,17.23,Kuwait,Male,Active
@@ -20987,12 +21021,18 @@ T20,Arshad Khan,Arshad Khan,Player coverage B · T20,auto,327,327,7256,1209.33,8
 T20,Mohd Khan,Arshad Khan,Player coverage A · T20,auto,320,320,7197,1199.5,11276,379,9.4,29.75,18.99,India,Male,Active
 T20,Mohd Khan,Arshad Khan,Player coverage B · T20,auto,279,279,6395,1065.83,10328,301,9.69,34.31,21.25,India,Male,Active
 T20,Arshdeep Singh,Arshdeep Singh,GreninDraft1,auto,47,47,856,142.67,1357,34,9.51,39.91,25.18,India,Male,Active
-T20,Arshdeep Singh,Arshdeep Singh,India,auto,59,59,1272,212.0,1937,82,9.14,23.62,15.51,India,Male,Active
+T20,Arshdeep Singh,Arshdeep Singh,GreninDraft1,flat,1,1,18,3.0,29,1,9.67,29.0,18.0,India,Male,Active
+T20,Arshdeep Singh,Arshdeep Singh,GreninDraft1,turner,1,1,18,3.0,40,0,13.33,,,India,Male,Active
+T20,Arshdeep Singh,Arshdeep Singh,India,auto,60,60,1296,216.0,1981,85,9.17,23.31,15.25,India,Male,Active
 T20,Arshdeep Singh,Arshdeep Singh,India,flat,9,9,209,34.83,327,16,9.39,20.44,13.06,India,Male,Active
 T20,Arshdeep Singh,Arshdeep Singh,Player coverage A · T20,auto,119,119,2763,460.5,3999,135,8.68,29.62,20.47,India,Male,Active
 T20,Arshdeep Singh,Arshdeep Singh,Player coverage B · T20,auto,109,109,2562,427.0,3720,124,8.71,30.0,20.66,India,Male,Active
 T20,Arshdeep Singh,Arshdeep Singh,Punjab,auto,44,44,1003,167.17,1523,55,9.11,27.69,18.24,India,Male,Active
-T20,Arshdeep Singh,Arshdeep Singh,Punjab Kings,auto,278,278,5885,980.83,9918,285,10.11,34.8,20.65,India,Male,Active
+T20,Arshdeep Singh,Arshdeep Singh,Punjab Kings,auto,292,292,6185,1030.83,10441,298,10.13,35.04,20.76,India,Male,Active
+T20,Arshdeep Singh,Arshdeep Singh,SatkarXI,auto,6,6,132,22.0,239,7,10.86,34.14,18.86,India,Male,Active
+T20,Arshdeep Singh,Arshdeep Singh,SatkarXI,flat,2,2,47,7.83,69,3,8.81,23.0,15.67,India,Male,Active
+T20,Arshdeep Singh,Arshdeep Singh,SatkarXI,green,1,1,24,4.0,49,2,12.25,24.5,12.0,India,Male,Active
+T20,Arshdeep Singh,Arshdeep Singh,dev1,auto,5,5,96,16.0,198,5,12.38,39.6,19.2,India,Male,Active
 T20,Arslan Anwar,Arslan Anwar,Player coverage A · T20,auto,115,115,1568,261.33,2122,113,8.12,18.78,13.88,Ireland,Male,Retired
 T20,Arslan Anwar,Arslan Anwar,Player coverage B · T20,auto,106,106,1344,224.0,1756,106,7.84,16.57,12.68,Ireland,Male,Retired
 T20,Arslan Khan,Arslan Khan,Chandigarh,auto,13,13,115,19.17,135,8,7.04,16.88,14.38,India,Male,Active
@@ -21187,6 +21227,7 @@ T20,Azmatullah Nazeer,Azmatullah Nazeer,Player coverage B · T20,auto,228,228,42
 T20,Azmatullah Omarzai,Azmatullah Omarzai,Gulf Giants,auto,113,113,2033,338.83,3265,105,9.64,31.1,19.36,Afghanistan,Male,Active
 T20,Azmatullah Omarzai,Azmatullah Omarzai,Player coverage A · T20,auto,233,233,5291,881.83,7056,342,8.0,20.63,15.47,Afghanistan,Male,Active
 T20,Azmatullah Omarzai,Azmatullah Omarzai,Player coverage B · T20,auto,241,241,5502,917.0,7367,331,8.03,22.26,16.62,Afghanistan,Male,Active
+T20,Azmatullah Omarzai,Azmatullah Omarzai,blue moon1,auto,3,3,54,9.0,93,2,10.33,46.5,27.0,Afghanistan,Male,Active
 T20,Azmatullah Omarzai,Azmatullah Omarzai,vamps,auto,9,9,162,27.0,291,7,10.78,41.57,23.14,Afghanistan,Male,Active
 T20,Muhammad Zaman,Azri Azhar,Player coverage A · T20,auto,298,298,6071,1011.83,8447,303,8.35,27.88,20.04,Malaysia,Male,Active
 T20,Muhammad Zaman,Azri Azhar,Player coverage B · T20,auto,292,292,5935,989.17,8341,304,8.43,27.44,19.52,Malaysia,Male,Active
@@ -21264,13 +21305,18 @@ T20,B Khatri,B Khatri,Player coverage A · T20,auto,70,70,837,139.5,1036,66,7.43
 T20,B Khatri,B Khatri,Player coverage B · T20,auto,64,64,735,122.5,971,59,7.93,16.46,12.46,Nepal,Male,Active
 T20,B Kruger,B Kruger,Player coverage A · T20,auto,229,229,4796,799.33,5915,214,7.4,27.64,22.41,Ireland,Male,Retired
 T20,B Kruger,B Kruger,Player coverage B · T20,auto,262,262,5449,908.17,6942,249,7.64,27.88,21.88,Ireland,Male,Retired
-T20,Bhuvneshwar Singh,B Kumar,BSDK GRenin,auto,12,12,235,39.17,348,9,8.89,38.67,26.11,India,Male,Active
+T20,Bhuvneshwar Singh,B Kumar,BSDK GRenin,auto,13,13,259,43.17,370,10,8.57,37.0,25.9,India,Male,Active
+T20,Bhuvneshwar Singh,B Kumar,BSDK GRenin,flat,5,5,101,16.83,164,2,9.74,82.0,50.5,India,Male,Active
+T20,Bhuvneshwar Singh,B Kumar,BSDK GRenin,green,1,1,24,4.0,34,2,8.5,17.0,12.0,India,Male,Active
+T20,Bhuvneshwar Singh,B Kumar,BSDK GRenin,slow,2,2,42,7.0,66,2,9.43,33.0,21.0,India,Male,Active
+T20,Bhuvneshwar Singh,B Kumar,BSDK GRenin,turner,2,2,36,6.0,82,0,13.67,,,India,Male,Active
 T20,Bhuvneshwar Singh,B Kumar,IndiaODI,auto,10,10,231,38.5,311,3,8.08,103.67,77.0,India,Male,Active
 T20,Bhuvneshwar Singh,B Kumar,Player coverage A · T20,auto,149,149,3430,571.67,4239,151,7.42,28.07,22.72,India,Male,Active
 T20,Bhuvneshwar Singh,B Kumar,Player coverage B · T20,auto,133,133,3055,509.17,3806,143,7.47,26.62,21.36,India,Male,Active
-T20,Bhuvneshwar Singh,B Kumar,Royal Challengers Bengaluru,auto,302,302,6629,1104.83,9651,311,8.74,31.03,21.32,India,Male,Active
+T20,Bhuvneshwar Singh,B Kumar,Royal Challengers Bengaluru,auto,318,318,6994,1165.67,10282,327,8.82,31.44,21.39,India,Male,Active
 T20,Bhuvneshwar Singh,B Kumar,Royal Challengers Bengaluru,flat,2,2,48,8.0,65,4,8.13,16.25,12.0,India,Male,Active
 T20,Bhuvneshwar Singh,B Kumar,Royal Challengers Bengaluru,slow,1,1,24,4.0,31,0,7.75,,,India,Male,Active
+T20,Bhuvneshwar Singh,B Kumar,Shillong Dragons,auto,3,3,72,12.0,114,4,9.5,28.5,18.0,India,Male,Active
 T20,Bhuvneshwar Singh,B Kumar,Uttar Pradesh,auto,37,37,844,140.67,988,46,7.02,21.48,18.35,India,Male,Active
 T20,B Lalnunfela,B Lalnunfela,Player coverage A · T20,auto,76,76,896,149.33,1103,54,7.39,20.43,16.59,India,Male,Retired
 T20,B Lalnunfela,B Lalnunfela,Player coverage B · T20,auto,92,92,1116,186.0,1438,81,7.73,17.75,13.78,India,Male,Retired
@@ -21304,7 +21350,10 @@ T20,Belise Murekatete,B Murekatete,Player coverage A · T20,auto,162,162,3469,57
 T20,Belise Murekatete,B Murekatete,Player coverage B · T20,auto,138,138,2960,493.33,3198,178,6.48,17.97,16.63,Rwanda,Female,Active
 T20,B Musoke,B Musoke,Player coverage A · T20,auto,89,89,979,163.17,1319,68,8.08,19.4,14.4,Uganda,Male,Retired
 T20,B Musoke,B Musoke,Player coverage B · T20,auto,106,106,1109,184.83,1567,91,8.48,17.22,12.19,Uganda,Male,Retired
+T20,Blessing Muzarabani,B Muzarabani,Amrit,flat,4,4,96,16.0,121,6,7.56,20.17,16.0,Zimbabwe,Male,Active
 T20,Blessing Muzarabani,B Muzarabani,GreninDraft1,auto,47,47,1012,168.67,1397,64,8.28,21.83,15.81,Zimbabwe,Male,Active
+T20,Blessing Muzarabani,B Muzarabani,GreninDraft1,flat,1,1,19,3.17,40,0,12.63,,,Zimbabwe,Male,Active
+T20,Blessing Muzarabani,B Muzarabani,GreninDraft1,turner,1,1,24,4.0,26,0,6.5,,,Zimbabwe,Male,Active
 T20,Blessing Muzarabani,B Muzarabani,Player coverage A · T20,auto,292,292,6809,1134.83,7447,418,6.56,17.82,16.29,Zimbabwe,Male,Active
 T20,Blessing Muzarabani,B Muzarabani,Player coverage B · T20,auto,270,270,6334,1055.67,7174,394,6.8,18.21,16.08,Zimbabwe,Male,Active
 T20,B Mwita,B Mwita,Player coverage A · T20,auto,19,19,193,32.17,245,18,7.62,13.61,10.72,Tanzania,Male,Retired
@@ -21460,7 +21509,7 @@ T20,BC Floros,BC Floros,Player coverage B · T20,auto,295,295,6557,1092.83,8906,
 T20,Bjorn Fortuin,BC Fortuin,Paarl Royals,auto,120,120,2636,439.33,3061,98,6.97,31.23,26.9,South Africa,Male,Active
 T20,Bjorn Fortuin,BC Fortuin,Player coverage A · T20,auto,257,257,6084,1014.0,6647,315,6.56,21.1,19.31,South Africa,Male,Active
 T20,Bjorn Fortuin,BC Fortuin,Player coverage B · T20,auto,241,241,5699,949.83,6468,277,6.81,23.35,20.57,South Africa,Male,Active
-T20,Bjorn Fortuin,BC Fortuin,South Africa,balanced,1,1,24,4.0,22,0,5.5,,,South Africa,Male,Active
+T20,Bjorn Fortuin,BC Fortuin,South Africa,balanced,2,2,48,8.0,43,1,5.38,43.0,48.0,South Africa,Male,Active
 T20,Brian Lara,BC Lara,Player coverage A · T20,auto,180,180,3001,500.17,3614,196,7.23,18.44,15.31,West Indies,Male,Retired
 T20,Brian Lara,BC Lara,Player coverage B · T20,auto,170,170,2853,475.5,3344,191,7.03,17.51,14.94,West Indies,Male,Retired
 T20,BC Molony,BC Molony,Player coverage A · T20,auto,17,17,224,37.33,222,16,5.95,13.88,14.0,New Zealand,Female,Retired
@@ -21779,7 +21828,7 @@ T20,BV Kneebone,BV Kneebone,Player coverage B · T20,auto,94,94,1121,186.83,1504
 T20,Bhushan Save,BV Save,Player coverage A · T20,auto,88,88,1006,167.67,1259,74,7.51,17.01,13.59,Malaysia,Male,Retired
 T20,Bhushan Save,BV Save,Player coverage B · T20,auto,73,73,846,141.0,1090,58,7.73,18.79,14.59,Malaysia,Male,Retired
 T20,Benjamin Sears,BV Sears,New Zealand,auto,1,1,24,4.0,59,2,14.75,29.5,12.0,New Zealand,Male,Active
-T20,Benjamin Sears,BV Sears,New Zealand,balanced,1,1,12,2.0,17,2,8.5,8.5,6.0,New Zealand,Male,Active
+T20,Benjamin Sears,BV Sears,New Zealand,balanced,2,2,30,5.0,36,3,7.2,12.0,10.0,New Zealand,Male,Active
 T20,Benjamin Sears,BV Sears,Player coverage A · T20,auto,206,206,4793,798.83,6503,288,8.14,22.58,16.64,New Zealand,Male,Active
 T20,Benjamin Sears,BV Sears,Player coverage B · T20,auto,195,195,4535,755.83,5807,281,7.68,20.67,16.14,New Zealand,Male,Active
 T20,Benjamin Sears,BV Sears,Rawalpindiz,auto,100,100,2187,364.5,3650,116,10.01,31.47,18.85,New Zealand,Male,Active
@@ -21902,8 +21951,8 @@ T20,Mohammad Shah,Bilal Shah,Player coverage B · T20,auto,87,87,970,161.67,1331
 T20,Bilal Hussain,Bilal Tahir,Player coverage A · T20,auto,159,159,2334,389.0,2960,178,7.61,16.63,13.11,Kuwait,Male,Active
 T20,Bilal Hussain,Bilal Tahir,Player coverage B · T20,auto,156,156,2210,368.33,2856,142,7.75,20.11,15.56,Kuwait,Male,Active
 T20,Mahammad Zalmai,Bilal Zalmai,Austria,auto,7,7,168,28.0,177,9,6.32,19.67,18.67,Austria,Male,Active
-T20,Mahammad Zalmai,Bilal Zalmai,Grenin,auto,3,3,72,12.0,97,2,8.08,48.5,36.0,Austria,Male,Active
-T20,Mahammad Zalmai,Bilal Zalmai,Grenin is lodi bodhi,auto,29,29,693,115.5,957,29,8.29,33.0,23.9,Austria,Male,Active
+T20,Mahammad Zalmai,Bilal Zalmai,Grenin,auto,4,4,78,13.0,107,2,8.23,53.5,39.0,Austria,Male,Active
+T20,Mahammad Zalmai,Bilal Zalmai,Grenin is lodi bodhi,auto,37,37,878,146.33,1191,38,8.14,31.34,23.11,Austria,Male,Active
 T20,Mahammad Zalmai,Bilal Zalmai,Player coverage A · T20,auto,307,307,7222,1203.67,8762,365,7.28,24.01,19.79,Austria,Male,Active
 T20,Mahammad Zalmai,Bilal Zalmai,Player coverage B · T20,auto,262,262,6145,1024.17,7539,300,7.36,25.13,20.48,Austria,Male,Active
 T20,Bilawal Bhatti,Bilawal Bhatti,Player coverage A · T20,auto,314,314,6950,1158.33,9732,297,8.4,32.77,23.4,Pakistan,Male,Retired
@@ -21942,9 +21991,12 @@ T20,Bosco Tuyizere,Bosco Tuyizere,Player coverage A · T20,auto,53,53,474,79.0,6
 T20,Bosco Tuyizere,Bosco Tuyizere,Player coverage B · T20,auto,41,41,482,80.33,746,36,9.29,20.72,13.39,Rwanda,Male,Retired
 T20,Bravish Shetty,Bravish Shetty,Player coverage A · T20,auto,43,43,499,83.17,549,41,6.6,13.39,12.17,India,Male,Retired
 T20,Bravish Shetty,Bravish Shetty,Player coverage B · T20,auto,43,43,536,89.33,677,36,7.58,18.81,14.89,India,Male,Retired
+T20,Brijesh Sharma,Brijesh Sharma,Kasii CC,auto,8,8,180,30.0,285,10,9.5,28.5,18.0,India,Male,Active
+T20,Brijesh Sharma,Brijesh Sharma,Kasii CC,flat,3,3,48,8.0,68,2,8.5,34.0,24.0,India,Male,Active
 T20,Brijesh Sharma,Brijesh Sharma,Player coverage A · T20,auto,162,162,3696,616.0,5252,200,8.53,26.26,18.48,India,Male,Active
 T20,Brijesh Sharma,Brijesh Sharma,Player coverage B · T20,auto,160,160,3720,620.0,5031,201,8.11,25.03,18.51,India,Male,Active
-T20,Brijesh Sharma,Brijesh Sharma,Rajasthan Royals,auto,287,287,6300,1050.0,10275,275,9.79,37.36,22.91,India,Male,Active
+T20,Brijesh Sharma,Brijesh Sharma,Rajasthan Royals,auto,302,302,6619,1103.17,10836,296,9.82,36.61,22.36,India,Male,Active
+T20,Brijesh Sharma,Brijesh Sharma,kasi1,flat,2,2,42,7.0,50,1,7.14,50.0,42.0,India,Male,Active
 T20,Bukhar Munchummal,Bukhar Illikkal,Player coverage A · T20,auto,301,301,7036,1172.67,8412,314,7.17,26.79,22.41,Qatar,Male,Active
 T20,Bukhar Munchummal,Bukhar Illikkal,Player coverage B · T20,auto,305,305,7139,1189.83,8552,349,7.19,24.5,20.46,Qatar,Male,Active
 T20,Chloe Abel,C Abel,Player coverage A · T20,auto,135,135,2986,497.67,3451,182,6.93,18.96,16.41,Scotland,Female,Active
@@ -22006,12 +22058,12 @@ T20,Christabel Chukwuonye,C Chukwuonye,Player coverage A · T20,auto,121,121,257
 T20,Christabel Chukwuonye,C Chukwuonye,Player coverage B · T20,auto,132,132,2828,471.33,3020,197,6.41,15.33,14.36,Nigeria,Female,Active
 T20,C Classen,C Classen,Player coverage A · T20,auto,300,300,5783,963.83,7528,284,7.81,26.51,20.36,South Africa,Male,Retired
 T20,C Classen,C Classen,Player coverage B · T20,auto,296,296,5696,949.33,7400,263,7.79,28.14,21.66,South Africa,Male,Retired
-T20,Cooper Connolly,C Connolly,Australia,auto,9,9,154,25.67,249,11,9.7,22.64,14.0,Australia,Male,Active
+T20,Cooper Connolly,C Connolly,Australia,auto,10,10,172,28.67,272,11,9.49,24.73,15.64,Australia,Male,Active
 T20,Cooper Connolly,C Connolly,Perth Scorchers,auto,143,143,2481,413.5,3020,122,7.3,24.75,20.34,Australia,Male,Active
 T20,Cooper Connolly,C Connolly,Perth Scorchers All-time,auto,5,5,90,15.0,108,5,7.2,21.6,18.0,Australia,Male,Active
 T20,Cooper Connolly,C Connolly,Player coverage A · T20,auto,88,88,1934,322.33,2316,103,7.19,22.49,18.78,Australia,Male,Active
 T20,Cooper Connolly,C Connolly,Player coverage B · T20,auto,69,69,1577,262.83,1903,70,7.24,27.19,22.53,Australia,Male,Active
-T20,Cooper Connolly,C Connolly,Punjab Kings,auto,211,211,3466,577.67,4907,150,8.49,32.71,23.11,Australia,Male,Active
+T20,Cooper Connolly,C Connolly,Punjab Kings,auto,222,222,3658,609.67,5219,156,8.56,33.46,23.45,Australia,Male,Active
 T20,Christopher De Freitas,C De Freitas,Player coverage A · T20,auto,40,40,436,72.67,637,32,8.77,19.91,13.63,Portugal,Male,Active
 T20,Christopher De Freitas,C De Freitas,Player coverage B · T20,auto,44,44,476,79.33,670,40,8.45,16.75,11.9,Portugal,Male,Active
 T20,C Dissanayake,C Dissanayake,Player coverage A · T20,auto,303,303,6795,1132.5,8998,392,7.95,22.95,17.33,,Male,Active
@@ -22033,13 +22085,14 @@ T20,Chandrasekar Ganapathy,C Ganapathy,Player coverage B · T20,auto,12,12,132,2
 T20,Chamath Gomez,C Gomez,Player coverage A · T20,auto,259,259,5927,987.83,7656,323,7.75,23.7,18.35,Sri Lanka,Male,Active
 T20,Chamath Gomez,C Gomez,Player coverage B · T20,auto,275,275,6309,1051.5,8309,402,7.9,20.67,15.69,Sri Lanka,Male,Active
 T20,Chamath Gomez,C Gomez,Police Sports Club,auto,69,69,1271,211.83,1829,84,8.63,21.77,15.13,Sri Lanka,Male,Active
-T20,Cameron Green,C Green,Australia,auto,10,10,162,27.0,262,10,9.7,26.2,16.2,Australia,Male,Active
+T20,Cameron Green,C Green,Australia,auto,11,11,174,29.0,290,10,10.0,29.0,17.4,Australia,Male,Active
 T20,Cameron Green,C Green,Australia,slow,1,1,18,3.0,24,1,8.0,24.0,18.0,Australia,Male,Active
-T20,Cameron Green,C Green,Kolkata Knight Riders,auto,278,278,3960,660.0,7174,155,10.87,46.28,25.55,Australia,Male,Active
+T20,Cameron Green,C Green,Kolkata Knight Riders,auto,292,292,4182,697.0,7567,167,10.86,45.31,25.04,Australia,Male,Active
 T20,Cameron Green,C Green,Nurul wala team,auto,1,1,24,4.0,41,1,10.25,41.0,24.0,Australia,Male,Active
 T20,Cameron Green,C Green,Nurul wala team,turner,1,1,12,2.0,18,0,9.0,,,Australia,Male,Active
 T20,Cameron Green,C Green,Player coverage A · T20,auto,154,154,3389,564.83,5297,154,9.38,34.4,22.01,Australia,Male,Active
 T20,Cameron Green,C Green,Player coverage B · T20,auto,147,147,3201,533.5,4967,162,9.31,30.66,19.76,Australia,Male,Active
+T20,Cameron Green,C Green,kasi1,flat,2,2,36,6.0,74,2,12.33,37.0,18.0,Australia,Male,Active
 T20,Cameron Green,C Green,vamps,auto,9,9,138,23.0,236,8,10.26,29.5,17.25,Australia,Male,Active
 T20,Chamika Gunasekara,C Gunasekara,Nondescripts Cricket Club,auto,79,79,1689,281.5,2129,136,7.56,15.65,12.42,Sri Lanka,Male,Active
 T20,Chamika Gunasekara,C Gunasekara,Player coverage A · T20,auto,279,279,6423,1070.5,8373,424,7.82,19.75,15.15,Sri Lanka,Male,Active
@@ -22393,7 +22446,7 @@ T20,Christeena Jacob,CE Jacob,Player coverage A · T20,auto,42,42,536,89.33,606,
 T20,Christeena Jacob,CE Jacob,Player coverage B · T20,auto,34,34,447,74.5,430,40,5.77,10.75,11.18,Qatar,Female,Active
 T20,Cole McConchie,CE McConchie,Canterbury,auto,109,109,2175,362.5,2926,95,8.07,30.8,22.89,New Zealand,Male,Active
 T20,Cole McConchie,CE McConchie,New Zealand,auto,1,1,18,3.0,29,1,9.67,29.0,18.0,New Zealand,Male,Active
-T20,Cole McConchie,CE McConchie,New Zealand,balanced,1,1,18,3.0,13,2,4.33,6.5,9.0,New Zealand,Male,Active
+T20,Cole McConchie,CE McConchie,New Zealand,balanced,2,2,30,5.0,29,2,5.8,14.5,15.0,New Zealand,Male,Active
 T20,Cole McConchie,CE McConchie,Player coverage A · T20,auto,243,243,5237,872.83,6808,231,7.8,29.47,22.67,New Zealand,Male,Active
 T20,Cole McConchie,CE McConchie,Player coverage B · T20,auto,244,244,5288,881.33,6969,214,7.91,32.57,24.71,New Zealand,Male,Active
 T20,Carla Rudd,CE Rudd,Player coverage A · T20,auto,15,15,141,23.5,123,15,5.23,8.2,9.4,England,Female,Retired
@@ -22703,7 +22756,7 @@ T20,Christopher Wood,CP Wood,Player coverage A · T20,auto,177,177,4179,696.5,49
 T20,Christopher Wood,CP Wood,Player coverage B · T20,auto,195,195,4573,762.17,5567,262,7.3,21.25,17.45,England,Male,Active
 T20,CPH O'Riordan,CPH O'Riordan,Player coverage A · T20,auto,57,57,682,113.67,920,54,8.09,17.04,12.63,,Male,Active
 T20,CPH O'Riordan,CPH O'Riordan,Player coverage B · T20,auto,50,50,608,101.33,870,41,8.59,21.22,14.83,,Male,Active
-T20,Chamal Sadun,CPPM Sadun,Grenin,auto,3,3,66,11.0,91,4,8.27,22.75,16.5,Cyprus,Male,Active
+T20,Chamal Sadun,CPPM Sadun,Grenin,auto,4,4,90,15.0,130,5,8.67,26.0,18.0,Cyprus,Male,Active
 T20,Chamal Sadun,CPPM Sadun,Player coverage A · T20,auto,289,289,6259,1043.17,7721,270,7.4,28.6,23.18,Cyprus,Male,Active
 T20,Chamal Sadun,CPPM Sadun,Player coverage B · T20,auto,305,305,6545,1090.83,8064,287,7.39,28.1,22.8,Cyprus,Male,Active
 T20,CR Amini,CR Amini,Player coverage A · T20,auto,201,201,3297,549.5,4711,179,8.57,26.32,18.42,Papua New Guinea,Male,Retired
@@ -22798,8 +22851,13 @@ T20,Clinto Anto,CV Anto,Player coverage B · T20,auto,24,24,249,41.5,330,20,7.95
 T20,CV Milind,CV Milind,Hyderabad (India),auto,37,37,888,148.0,1106,43,7.47,25.72,20.65,India,Male,Retired
 T20,CV Milind,CV Milind,Player coverage A · T20,auto,292,292,6875,1145.83,7979,390,6.96,20.46,17.63,India,Male,Retired
 T20,CV Milind,CV Milind,Player coverage B · T20,auto,316,316,7496,1249.33,9347,400,7.48,23.37,18.74,India,Male,Retired
-T20,Varun Vinod,CV Varun,BSDK GRenin,auto,12,12,282,47.0,524,17,11.15,30.82,16.59,India,Male,Active
-T20,Varun Vinod,CV Varun,Kolkata Knight Riders,auto,278,278,6569,1094.83,9622,346,8.79,27.81,18.99,India,Male,Active
+T20,Varun Vinod,CV Varun,Amrit,flat,3,3,60,10.0,115,1,11.5,115.0,60.0,India,Male,Active
+T20,Varun Vinod,CV Varun,BSDK GRenin,auto,13,13,306,51.0,574,18,11.25,31.89,17.0,India,Male,Active
+T20,Varun Vinod,CV Varun,BSDK GRenin,flat,5,5,120,20.0,174,8,8.7,21.75,15.0,India,Male,Active
+T20,Varun Vinod,CV Varun,BSDK GRenin,green,1,1,24,4.0,32,2,8.0,16.0,12.0,India,Male,Active
+T20,Varun Vinod,CV Varun,BSDK GRenin,slow,2,2,42,7.0,53,3,7.57,17.67,14.0,India,Male,Active
+T20,Varun Vinod,CV Varun,BSDK GRenin,turner,2,2,48,8.0,96,3,12.0,32.0,16.0,India,Male,Active
+T20,Varun Vinod,CV Varun,Kolkata Knight Riders,auto,292,292,6892,1148.67,10194,358,8.87,28.47,19.25,India,Male,Active
 T20,Varun Vinod,CV Varun,Nurul wala team,auto,4,4,96,16.0,114,9,7.13,12.67,10.67,India,Male,Active
 T20,Varun Vinod,CV Varun,Nurul wala team,turner,4,4,84,14.0,89,7,6.36,12.71,12.0,India,Male,Active
 T20,Varun Vinod,CV Varun,Player coverage A · T20,auto,173,173,4053,675.5,4819,255,7.13,18.9,15.89,India,Male,Active
@@ -22809,6 +22867,7 @@ T20,Varun Vinod,CV Varun,SUPER CONQUERORS,slow,1,1,24,4.0,16,3,4.0,5.33,8.0,Indi
 T20,Varun Vinod,CV Varun,Tamil Nadu,auto,37,37,888,148.0,1013,62,6.84,16.34,14.32,India,Male,Active
 T20,Varun Vinod,CV Varun,Testing,auto,6,6,143,23.83,178,10,7.47,17.8,14.3,India,Male,Active
 T20,Varun Vinod,CV Varun,Testing,flat,1,1,24,4.0,24,0,6.0,,,India,Male,Active
+T20,Varun Vinod,CV Varun,blue moon1,auto,3,3,66,11.0,115,3,10.45,38.33,22.0,India,Male,Active
 T20,CW Andrews,CW Andrews,Player coverage A · T20,auto,151,151,2381,396.83,3232,144,8.14,22.44,16.53,New Zealand,Male,Retired
 T20,CW Andrews,CW Andrews,Player coverage B · T20,auto,154,154,2394,399.0,3336,145,8.36,23.01,16.51,New Zealand,Male,Retired
 T20,CW Coombe,CW Coombe,Player coverage A · T20,auto,224,224,3819,636.5,5395,204,8.48,26.45,18.72,Namibia,Male,Retired
@@ -22966,6 +23025,8 @@ T20,Donovan Ferreira,D Ferreira,Texas Super Kings,auto,5,5,78,13.0,106,3,8.15,35
 T20,Dietlind Foerster,D Foerster,Player coverage A · T20,auto,110,110,2172,362.0,2195,102,6.06,21.52,21.29,Namibia,Female,Retired
 T20,Dietlind Foerster,D Foerster,Player coverage B · T20,auto,124,124,2434,405.67,2568,97,6.33,26.47,25.09,Namibia,Female,Retired
 T20,Dian Forrester,D Forrester,Joburg Super Kings,auto,85,85,1161,193.5,1622,57,8.38,28.46,20.37,South Africa,Male,Active
+T20,Dian Forrester,D Forrester,Kasii CC,auto,7,7,94,15.67,138,1,8.81,138.0,94.0,South Africa,Male,Active
+T20,Dian Forrester,D Forrester,Kasii CC,flat,2,2,30,5.0,38,3,7.6,12.67,10.0,South Africa,Male,Active
 T20,Dian Forrester,D Forrester,Player coverage A · T20,auto,151,151,3275,545.83,4335,183,7.94,23.69,17.9,South Africa,Male,Active
 T20,Dian Forrester,D Forrester,Player coverage B · T20,auto,138,138,3019,503.17,3918,182,7.79,21.53,16.59,South Africa,Male,Active
 T20,Dian Forrester,D Forrester,Rawalpindiz,auto,100,100,1488,248.0,2366,63,9.54,37.56,23.62,South Africa,Male,Active
@@ -23010,7 +23071,7 @@ T20,D Induwara,D Induwara,Player coverage B · T20,auto,47,47,604,100.67,847,35,
 T20,Duan Jansen,D Jansen,Joburg Super Kings,auto,118,118,2508,418.0,4024,161,9.63,24.99,15.58,South Africa,Male,Active
 T20,Duan Jansen,D Jansen,Player coverage A · T20,auto,238,238,5675,945.83,8002,337,8.46,23.74,16.84,South Africa,Male,Active
 T20,Duan Jansen,D Jansen,Player coverage B · T20,auto,261,261,6183,1030.5,8636,376,8.38,22.97,16.44,South Africa,Male,Active
-T20,Duan Jansen,D Jansen,South Africa,balanced,1,1,18,3.0,21,0,7.0,,,South Africa,Male,Active
+T20,Duan Jansen,D Jansen,South Africa,balanced,2,2,42,7.0,61,3,8.71,20.33,14.0,South Africa,Male,Active
 T20,D Jayalath,D Jayalath,Player coverage A · T20,auto,77,77,1043,173.83,1299,64,7.47,20.3,16.3,,Male,Active
 T20,D Jayalath,D Jayalath,Player coverage B · T20,auto,74,74,889,148.17,1112,63,7.51,17.65,14.11,,Male,Active
 T20,D Jayatunga,D Jayatunga,Player coverage A · T20,auto,49,49,574,95.67,848,34,8.86,24.94,16.88,,Male,Active
@@ -23063,9 +23124,11 @@ T20,D Mahavithana,D Mahavithana,Player coverage A · T20,auto,39,39,431,71.83,44
 T20,D Mahavithana,D Mahavithana,Player coverage B · T20,auto,36,36,424,70.67,549,29,7.77,18.93,14.62,,Male,Active
 T20,Dhruvkumar Maisuria,D Maisuria,Player coverage A · T20,auto,232,232,5340,890.0,6016,449,6.76,13.4,11.89,Botswana,Male,Active
 T20,Dhruvkumar Maisuria,D Maisuria,Player coverage B · T20,auto,267,267,6074,1012.33,6705,518,6.62,12.94,11.73,Botswana,Male,Active
-T20,Dhruvkumar Maisuria,D Maisuria,Punit,auto,106,106,1936,322.67,2598,154,8.05,16.87,12.57,Botswana,Male,Active
-T20,Dhruvkumar Maisuria,D Maisuria,Punit,flat,1,1,18,3.0,33,2,11.0,16.5,9.0,Botswana,Male,Active
-T20,Dhruvkumar Maisuria,D Maisuria,Punit,slow,1,1,18,3.0,11,0,3.67,,,Botswana,Male,Active
+T20,Dhruvkumar Maisuria,D Maisuria,Punit,auto,116,116,2108,351.33,2822,171,8.03,16.5,12.33,Botswana,Male,Active
+T20,Dhruvkumar Maisuria,D Maisuria,Punit,flat,10,10,186,31.0,273,16,8.81,17.06,11.63,Botswana,Male,Active
+T20,Dhruvkumar Maisuria,D Maisuria,Punit,green,1,1,18,3.0,36,0,12.0,,,Botswana,Male,Active
+T20,Dhruvkumar Maisuria,D Maisuria,Punit,slow,3,3,54,9.0,67,0,7.44,,,Botswana,Male,Active
+T20,Dhruvkumar Maisuria,D Maisuria,Punit,turner,1,1,18,3.0,16,1,5.33,16.0,18.0,Botswana,Male,Active
 T20,D Malan,D Malan,Player coverage A · T20,auto,307,307,7144,1190.67,8748,384,7.35,22.78,18.6,,Male,Active
 T20,D Malan,D Malan,Player coverage B · T20,auto,302,302,6970,1161.67,8237,355,7.09,23.2,19.63,,Male,Active
 T20,D Manchanayake,D Manchanayake,Player coverage A · T20,auto,78,78,1044,174.0,1305,69,7.5,18.91,15.13,,Male,Active
@@ -23213,8 +23276,10 @@ T20,Dewmi Arachchige,D Vihanga,Player coverage A · T20,auto,128,128,2848,474.67
 T20,Dewmi Arachchige,D Vihanga,Player coverage B · T20,auto,138,138,2995,499.17,3071,171,6.15,17.96,17.51,Sri Lanka,Female,Active
 T20,Darius Visser,D Visser,Player coverage A · T20,auto,242,242,5370,895.0,6400,333,7.15,19.22,16.13,Samoa,Male,Active
 T20,Darius Visser,D Visser,Player coverage B · T20,auto,243,243,5460,910.0,6374,342,7.0,18.64,15.96,Samoa,Male,Active
-T20,Darius Visser,D Visser,Punit,auto,36,36,612,102.0,968,25,9.49,38.72,24.48,Samoa,Male,Active
-T20,Darius Visser,D Visser,Punit,flat,1,1,6,1.0,6,1,6.0,6.0,6.0,Samoa,Male,Active
+T20,Darius Visser,D Visser,Punit,auto,38,38,636,106.0,991,27,9.35,36.7,23.56,Samoa,Male,Active
+T20,Darius Visser,D Visser,Punit,flat,4,4,60,10.0,76,3,7.6,25.33,20.0,Samoa,Male,Active
+T20,Darius Visser,D Visser,Punit,green,1,1,18,3.0,26,3,8.67,8.67,6.0,Samoa,Male,Active
+T20,Darius Visser,D Visser,Punit,turner,1,1,18,3.0,24,1,8.0,24.0,18.0,Samoa,Male,Active
 T20,Darsh Vora,D Vora,Player coverage A · T20,auto,304,304,7015,1169.17,9322,382,7.97,24.4,18.36,Hong Kong,Male,Active
 T20,Darsh Vora,D Vora,Player coverage B · T20,auto,292,292,6579,1096.5,8539,373,7.79,22.89,17.64,Hong Kong,Male,Active
 T20,Dinesh Vrinda,D Vrinda,Player coverage A · T20,auto,22,22,297,49.5,302,19,6.1,15.89,15.63,India,Female,Active
@@ -23373,6 +23438,7 @@ T20,DG Kumar,DG Kumar,Player coverage B · T20,auto,12,12,130,21.67,147,9,6.78,1
 T20,Darshan Nalkande,DG Nalkande,Player coverage A · T20,auto,300,300,6648,1108.0,8116,588,7.32,13.8,11.31,India,Male,Active
 T20,Darshan Nalkande,DG Nalkande,Player coverage B · T20,auto,306,306,6777,1129.5,8601,522,7.61,16.48,12.98,India,Male,Active
 T20,Darshan Nalkande,DG Nalkande,Vidarbha,auto,37,37,888,148.0,1056,65,7.14,16.25,13.66,India,Male,Active
+T20,Darshan Nalkande,DG Nalkande,kasi1,flat,2,2,48,8.0,66,6,8.25,11.0,8.0,India,Male,Active
 T20,Dewa Wiswi,DGAPD Wiswi,Player coverage A · T20,auto,295,295,6137,1022.83,7688,285,7.52,26.98,21.53,Indonesia,Male,Active
 T20,Dewa Wiswi,DGAPD Wiswi,Player coverage B · T20,auto,296,296,6214,1035.67,7899,319,7.63,24.76,19.48,Indonesia,Male,Active
 T20,DGD Maduwantha,DGD Maduwantha,Player coverage A · T20,auto,49,49,555,92.5,669,48,7.23,13.94,11.56,,Male,Active
@@ -23520,7 +23586,7 @@ T20,Donovan Blake,DL Blake,Player coverage B · T20,auto,49,49,498,83.0,737,32,8
 T20,Derrick Brangman,DL Brangman,Player coverage A · T20,auto,317,317,7427,1237.83,9039,388,7.3,23.3,19.14,Bermuda,Male,Active
 T20,Derrick Brangman,DL Brangman,Player coverage B · T20,auto,289,289,6804,1134.0,8100,383,7.14,21.15,17.77,Bermuda,Male,Active
 T20,Deepak Chahar,DL Chahar,Chennai Super Kings All-time,auto,2,2,36,6.0,22,2,3.67,11.0,18.0,India,Male,Active
-T20,Deepak Chahar,DL Chahar,Mumbai Indians,auto,302,302,5478,913.0,9289,342,10.17,27.16,16.02,India,Male,Active
+T20,Deepak Chahar,DL Chahar,Mumbai Indians,auto,320,320,5815,969.17,9886,364,10.2,27.16,15.98,India,Male,Active
 T20,Deepak Chahar,DL Chahar,Mumbai Indians,green,1,1,24,4.0,28,3,7.0,9.33,8.0,India,Male,Active
 T20,Deepak Chahar,DL Chahar,Mumbai Indians,slow,1,1,18,3.0,13,2,4.33,6.5,9.0,India,Male,Active
 T20,Deepak Chahar,DL Chahar,Player coverage A · T20,auto,166,166,3863,643.83,5097,277,7.92,18.4,13.95,India,Male,Active
@@ -23573,6 +23639,7 @@ T20,DM Mistry,DM Mistry,Player coverage A · T20,auto,63,63,743,123.83,1080,45,8
 T20,DM Mistry,DM Mistry,Player coverage B · T20,auto,37,37,411,68.5,532,39,7.77,13.64,10.54,India,Male,Retired
 T20,Dinesh Nakrani,DM Nakrani,Player coverage A · T20,auto,330,330,7687,1281.17,7703,491,6.01,15.69,15.66,Uganda,Male,Active
 T20,Dinesh Nakrani,DM Nakrani,Player coverage B · T20,auto,279,279,6536,1089.33,7225,384,6.63,18.82,17.02,Uganda,Male,Active
+T20,Dinesh Nakrani,DM Nakrani,Punit's XI,auto,4,4,96,16.0,116,3,7.25,38.67,32.0,Uganda,Male,Active
 T20,DM Parwani,DM Parwani,Player coverage A · T20,auto,52,52,545,90.83,768,34,8.46,22.59,16.03,India,Male,Active
 T20,DM Parwani,DM Parwani,Player coverage B · T20,auto,49,49,478,79.67,753,25,9.45,30.12,19.12,India,Male,Active
 T20,DM Parwani,DM Parwani,Vidarbha,auto,18,18,158,26.33,262,9,9.95,29.11,17.56,India,Male,Active
@@ -23695,7 +23762,7 @@ T20,Dhawal Kulkarni,DS Kulkarni,Player coverage A · T20,auto,306,306,7076,1179.
 T20,Dhawal Kulkarni,DS Kulkarni,Player coverage B · T20,auto,300,300,7103,1183.83,9476,334,8.0,28.37,21.27,India,Male,Retired
 T20,Darren Lehmann,DS Lehmann,Player coverage A · T20,auto,138,138,2519,419.83,2938,168,7.0,17.49,14.99,Australia,Male,Retired
 T20,Darren Lehmann,DS Lehmann,Player coverage B · T20,auto,160,160,2853,475.5,3378,168,7.1,20.11,16.98,Australia,Male,Retired
-T20,Digvesh Rathi,DS Rathi,Lucknow Super Giants,auto,266,266,6242,1040.33,9592,268,9.22,35.79,23.29,India,Male,Active
+T20,Digvesh Rathi,DS Rathi,Lucknow Super Giants,auto,280,280,6578,1096.33,10097,278,9.21,36.32,23.66,India,Male,Active
 T20,Digvesh Rathi,DS Rathi,Player coverage A · T20,auto,156,156,3611,601.83,4533,165,7.53,27.47,21.88,India,Male,Active
 T20,Digvesh Rathi,DS Rathi,Player coverage B · T20,auto,187,187,4400,733.33,5825,187,7.94,31.15,23.53,India,Male,Active
 T20,DS Robinson,DS Robinson,Player coverage A · T20,auto,94,94,1252,208.67,1535,81,7.36,18.95,15.46,New Zealand,Male,Retired
@@ -23900,7 +23967,7 @@ T20,Eathan Bosch,E Bosch,Durban's Super Giants,auto,117,117,1969,328.17,3155,90,
 T20,Eathan Bosch,E Bosch,Middlesex,auto,121,121,2293,382.17,3874,85,10.14,45.58,26.98,South Africa,Male,Active
 T20,Eathan Bosch,E Bosch,Player coverage A · T20,auto,188,188,4325,720.83,5953,198,8.26,30.07,21.84,South Africa,Male,Active
 T20,Eathan Bosch,E Bosch,Player coverage B · T20,auto,184,184,4113,685.5,5544,178,8.09,31.15,23.11,South Africa,Male,Active
-T20,Eathan Bosch,E Bosch,South Africa,balanced,1,1,18,3.0,22,1,7.33,22.0,18.0,South Africa,Male,Active
+T20,Eathan Bosch,E Bosch,South Africa,balanced,2,2,36,6.0,38,1,6.33,38.0,36.0,South Africa,Male,Active
 T20,Eboni Brathwaite,E Brathwaite,Player coverage A · T20,auto,13,13,137,22.83,188,14,8.23,13.43,9.79,West Indies,Female,Active
 T20,Eboni Brathwaite,E Brathwaite,Player coverage B · T20,auto,17,17,183,30.5,225,15,7.38,15.0,12.2,West Indies,Female,Active
 T20,Ella Briscoe,E Briscoe,Player coverage A · T20,auto,33,33,423,70.5,487,32,6.91,15.22,13.22,Australia,Female,Active
@@ -23981,7 +24048,8 @@ T20,Kiribathgala Dharmasena,E Malinga,Bloomfield Cricket and Athletic Club,auto,
 T20,Kiribathgala Dharmasena,E Malinga,Galle Gallants,auto,104,104,2351,391.83,4093,155,10.45,26.41,15.17,Sri Lanka,Male,Active
 T20,Kiribathgala Dharmasena,E Malinga,Player coverage A · T20,auto,94,94,2147,357.83,3018,160,8.43,18.86,13.42,Sri Lanka,Male,Active
 T20,Kiribathgala Dharmasena,E Malinga,Player coverage B · T20,auto,80,80,1850,308.33,2580,127,8.37,20.31,14.57,Sri Lanka,Male,Active
-T20,Kiribathgala Dharmasena,E Malinga,Sunrisers Hyderabad,auto,270,270,6286,1047.67,11858,331,11.32,35.82,18.99,Sri Lanka,Male,Active
+T20,Kiribathgala Dharmasena,E Malinga,Sri Lanka,auto,1,1,24,4.0,29,0,7.25,,,Sri Lanka,Male,Active
+T20,Kiribathgala Dharmasena,E Malinga,Sunrisers Hyderabad,auto,284,284,6613,1102.17,12519,344,11.36,36.39,19.22,Sri Lanka,Male,Active
 T20,Emma Manix-Geeves,E Manix-Geeves,Player coverage A · T20,auto,78,78,1265,210.83,1266,103,6.0,12.29,12.28,Australia,Female,Active
 T20,Emma Manix-Geeves,E Manix-Geeves,Player coverage B · T20,auto,74,74,1164,194.0,1265,81,6.52,15.62,14.37,Australia,Female,Active
 T20,Eliz-Mari Marx,E Marx,Player coverage A · T20,auto,141,141,3293,548.83,3309,148,6.03,22.36,22.25,South Africa,Female,Active
@@ -24674,7 +24742,7 @@ T20,G McClintock,G McClintock,Player coverage B · T20,auto,76,76,1028,171.33,13
 T20,Gudakesh Motie,G Motie,Barbados Royals,auto,111,111,2630,438.33,3909,131,8.92,29.84,20.08,West Indies,Male,Active
 T20,Gudakesh Motie,G Motie,Player coverage A · T20,auto,237,237,5643,940.5,5885,377,6.26,15.61,14.97,West Indies,Male,Active
 T20,Gudakesh Motie,G Motie,Player coverage B · T20,auto,258,258,6119,1019.83,6450,382,6.32,16.88,16.02,West Indies,Male,Active
-T20,Gudakesh Motie,G Motie,West Indies,auto,1,1,18,3.0,23,1,7.67,23.0,18.0,West Indies,Male,Active
+T20,Gudakesh Motie,G Motie,West Indies,auto,2,2,36,6.0,43,2,7.17,21.5,18.0,West Indies,Male,Active
 T20,Gerald Mubiru,G Mubiru,Player coverage A · T20,auto,304,304,6928,1154.67,8934,329,7.74,27.16,21.06,Uganda,Male,Retired
 T20,Gerald Mubiru,G Mubiru,Player coverage B · T20,auto,304,304,6924,1154.0,8859,348,7.68,25.46,19.9,Uganda,Male,Retired
 T20,Grace Mugwaneza,G Mugwaneza,Player coverage A · T20,auto,79,79,1115,185.83,1130,63,6.08,17.94,17.7,Rwanda,Female,Active
@@ -24854,6 +24922,7 @@ T20,George Dockrell,GH Dockrell,Dublin Guardians,auto,76,76,1214,202.33,1469,60,
 T20,George Dockrell,GH Dockrell,Leinster Lightning,auto,31,31,554,92.33,592,36,6.41,16.44,15.39,Ireland,Male,Active
 T20,George Dockrell,GH Dockrell,Player coverage A · T20,auto,223,223,4846,807.67,5672,296,7.02,19.16,16.37,Ireland,Male,Active
 T20,George Dockrell,GH Dockrell,Player coverage B · T20,auto,244,244,5288,881.33,6113,325,6.94,18.81,16.27,Ireland,Male,Active
+T20,George Dockrell,GH Dockrell,Punit's XI,auto,4,4,66,11.0,72,5,6.55,14.4,13.2,Ireland,Male,Active
 T20,Gaby Lewis,GH Lewis,Player coverage A · T20,auto,7,7,74,12.33,68,5,5.51,13.6,14.8,Ireland,Female,Active
 T20,Gaby Lewis,GH Lewis,Player coverage B · T20,auto,11,11,121,20.17,112,4,5.55,28.0,30.25,Ireland,Female,Active
 T20,GH Maybury,GH Maybury,Player coverage A · T20,auto,43,43,489,81.5,731,41,8.97,17.83,11.93,Bermuda,Male,Retired
@@ -24913,7 +24982,7 @@ T20,Glenn Maxwell,GJ Maxwell,Hyderabad Kingsmen,auto,85,85,1410,235.0,1965,68,8.
 T20,Glenn Maxwell,GJ Maxwell,Melbourne Stars,auto,144,144,2247,374.5,2991,104,7.99,28.76,21.61,Australia,Male,Active
 T20,Glenn Maxwell,GJ Maxwell,Player coverage A · T20,auto,14,14,312,52.0,428,14,8.23,30.57,22.29,Australia,Male,Active
 T20,Glenn Maxwell,GJ Maxwell,Player coverage B · T20,auto,14,14,306,51.0,413,14,8.1,29.5,21.86,Australia,Male,Active
-T20,Glenn Maxwell,GJ Maxwell,Punit's XI,auto,14,14,214,35.67,306,16,8.58,19.13,13.38,Australia,Male,Active
+T20,Glenn Maxwell,GJ Maxwell,Punit's XI,auto,18,18,268,44.67,387,17,8.66,22.76,15.76,Australia,Male,Active
 T20,Glenn Maxwell,GJ Maxwell,Washington Freedom,auto,97,97,1653,275.5,2415,102,8.77,23.68,16.21,Australia,Male,Active
 T20,Glenn Maxwell,GJ Maxwell,alltime nurul,auto,23,23,398,66.33,658,20,9.92,32.9,19.9,Australia,Male,Active
 T20,Graeme McCarter,GJ McCarter,Player coverage A · T20,auto,302,302,6472,1078.67,8327,321,7.72,25.94,20.16,Ireland,Male,Retired
@@ -25169,7 +25238,7 @@ T20,Gurdeep Bhagat,Gurdeep Singh,Player coverage A · T20,auto,27,27,256,42.67,2
 T20,Gurdeep Bhagat,Gurdeep Singh,Player coverage B · T20,auto,32,32,397,66.17,412,30,6.23,13.73,13.23,Kenya,Male,Active
 T20,Gurinder Singh,Gurinder Singh,Player coverage A · T20,auto,293,293,6876,1146.0,8518,341,7.43,24.98,20.16,India,Male,Retired
 T20,Gurinder Singh,Gurinder Singh,Player coverage B · T20,auto,311,311,7308,1218.0,8833,353,7.25,25.02,20.7,India,Male,Retired
-T20,Gurjapneet Singh,Gurjapneet Singh,Chennai Super Kings,auto,289,289,5277,879.5,8302,211,9.44,39.35,25.01,India,Male,Active
+T20,Gurjapneet Singh,Gurjapneet Singh,Chennai Super Kings,auto,303,303,5530,921.67,8821,219,9.57,40.28,25.25,India,Male,Active
 T20,Gurjapneet Singh,Gurjapneet Singh,Chennai Super Kings,flat,1,1,18,3.0,10,1,3.33,10.0,18.0,India,Male,Active
 T20,Gurjapneet Singh,Gurjapneet Singh,Chennai Super Kings,green,1,1,18,3.0,36,0,12.0,,,India,Male,Active
 T20,Gurjapneet Singh,Gurjapneet Singh,Chennai Super Kings,slow,2,2,40,6.67,34,3,5.1,11.33,13.33,India,Male,Active
@@ -25441,14 +25510,23 @@ T20,Herschelle Gibbs,HH Gibbs,Player coverage A · T20,auto,75,75,886,147.67,130
 T20,Herschelle Gibbs,HH Gibbs,Player coverage B · T20,auto,76,76,906,151.0,1295,57,8.58,22.72,15.89,South Africa,Male,Retired
 T20,HH Khadiwale,HH Khadiwale,Player coverage A · T20,auto,104,104,1432,238.67,2034,91,8.52,22.35,15.74,India,Male,Retired
 T20,HH Khadiwale,HH Khadiwale,Player coverage B · T20,auto,87,87,1217,202.83,1630,79,8.04,20.63,15.41,India,Male,Retired
-T20,Hardik Pandya,HH Pandya,BSDK GRenin,auto,12,12,177,29.5,250,5,8.47,50.0,35.4,India,Male,Active
+T20,Hardik Pandya,HH Pandya,BSDK GRenin,auto,13,13,195,32.5,289,6,8.89,48.17,32.5,India,Male,Active
+T20,Hardik Pandya,HH Pandya,BSDK GRenin,flat,5,5,73,12.17,113,6,9.29,18.83,12.17,India,Male,Active
+T20,Hardik Pandya,HH Pandya,BSDK GRenin,green,1,1,12,2.0,24,1,12.0,24.0,12.0,India,Male,Active
+T20,Hardik Pandya,HH Pandya,BSDK GRenin,slow,2,2,30,5.0,62,1,12.4,62.0,30.0,India,Male,Active
+T20,Hardik Pandya,HH Pandya,BSDK GRenin,turner,2,2,36,6.0,79,0,13.17,,,India,Male,Active
 T20,Hardik Pandya,HH Pandya,Baroda,auto,37,37,665,110.83,844,39,7.62,21.64,17.05,India,Male,Active
 T20,Hardik Pandya,HH Pandya,IndiaODI,auto,10,10,240,40.0,438,18,10.95,24.33,13.33,India,Male,Active
-T20,Hardik Pandya,HH Pandya,Mumbai Indians,auto,302,302,5245,874.17,8495,259,9.72,32.8,20.25,India,Male,Active
+T20,Hardik Pandya,HH Pandya,Mumbai Indians,auto,320,320,5559,926.5,8989,280,9.7,32.1,19.85,India,Male,Active
 T20,Hardik Pandya,HH Pandya,Mumbai Indians,slow,1,1,18,3.0,14,2,4.67,7.0,9.0,India,Male,Active
 T20,Hardik Pandya,HH Pandya,Mumbai Indians All-time,auto,2,2,30,5.0,37,0,7.4,,,India,Male,Active
+T20,Hardik Pandya,HH Pandya,Nurul Huda Sourov's XI,auto,2,2,30,5.0,36,2,7.2,18.0,15.0,India,Male,Active
 T20,Hardik Pandya,HH Pandya,Player coverage A · T20,auto,132,132,2898,483.0,3602,142,7.46,25.37,20.41,India,Male,Active
 T20,Hardik Pandya,HH Pandya,Player coverage B · T20,auto,142,142,3084,514.0,4039,159,7.86,25.4,19.4,India,Male,Active
+T20,Hardik Pandya,HH Pandya,SatkarXI,auto,6,6,120,20.0,207,5,10.35,41.4,24.0,India,Male,Active
+T20,Hardik Pandya,HH Pandya,SatkarXI,flat,2,2,42,7.0,58,4,8.29,14.5,10.5,India,Male,Active
+T20,Hardik Pandya,HH Pandya,SatkarXI,green,1,1,18,3.0,24,3,8.0,8.0,6.0,India,Male,Active
+T20,Hardik Pandya,HH Pandya,dev1,auto,6,6,84,14.0,139,2,9.93,69.5,42.0,India,Male,Active
 T20,Himesh Ramanayake,HH Ramanayake,Player coverage A · T20,auto,295,295,6684,1114.0,9841,351,8.83,28.04,19.04,Sri Lanka,Male,Active
 T20,Himesh Ramanayake,HH Ramanayake,Player coverage B · T20,auto,311,311,6965,1160.83,10113,383,8.71,26.4,18.19,Sri Lanka,Male,Active
 T20,Heath Streak,HH Streak,Player coverage A · T20,auto,294,294,6349,1058.17,8009,349,7.57,22.95,18.19,Zimbabwe,Male,Retired
@@ -25768,6 +25846,7 @@ T20,Harsh Singh,Harsh Vikram Singh,Player coverage A · T20,auto,289,289,5473,91
 T20,Harsh Singh,Harsh Vikram Singh,Player coverage B · T20,auto,316,316,6014,1002.33,8293,328,8.27,25.28,18.34,India,Male,Retired
 T20,Harshit Bisht,Harshit Bisht,Player coverage A · T20,auto,110,110,1503,250.5,1957,97,7.81,20.18,15.49,India,Male,Retired
 T20,Harshit Bisht,Harshit Bisht,Player coverage B · T20,auto,121,121,1787,297.83,2323,120,7.8,19.36,14.89,India,Male,Retired
+T20,Harshit Rana,Harshit Rana,Amrit,flat,4,4,72,12.0,137,2,11.42,68.5,36.0,India,Male,Active
 T20,Harshit Rana,Harshit Rana,Player coverage A · T20,auto,293,293,6908,1151.33,9452,417,8.21,22.67,16.57,India,Male,Active
 T20,Harshit Rana,Harshit Rana,Player coverage B · T20,auto,315,315,7422,1237.0,10045,439,8.12,22.88,16.91,India,Male,Active
 T20,Harshit Rathod,Harshit Rathod,Player coverage A · T20,auto,49,49,666,111.0,750,54,6.76,13.89,12.33,India,Male,Retired
@@ -26353,9 +26432,11 @@ T20,Judit Peter,J Cleetus,Player coverage A · T20,auto,45,45,604,100.67,632,37,
 T20,Judit Peter,J Cleetus,Player coverage B · T20,auto,39,39,479,79.83,528,37,6.61,14.27,12.95,United Arab Emirates,Female,Retired
 T20,Jandre Coetzee,J Coetzee,Player coverage A · T20,auto,249,249,5912,985.33,5725,396,5.81,14.46,14.93,Thailand,Male,Active
 T20,Jandre Coetzee,J Coetzee,Player coverage B · T20,auto,252,252,5951,991.83,5650,410,5.7,13.78,14.51,Thailand,Male,Active
-T20,Jandre Coetzee,J Coetzee,Punit,auto,105,105,2267,377.83,2852,169,7.55,16.88,13.41,Thailand,Male,Active
-T20,Jandre Coetzee,J Coetzee,Punit,flat,1,1,24,4.0,20,2,5.0,10.0,12.0,Thailand,Male,Active
-T20,Jandre Coetzee,J Coetzee,Punit,slow,1,1,24,4.0,24,2,6.0,12.0,12.0,Thailand,Male,Active
+T20,Jandre Coetzee,J Coetzee,Punit,auto,115,115,2501,416.83,3137,188,7.53,16.69,13.3,Thailand,Male,Active
+T20,Jandre Coetzee,J Coetzee,Punit,flat,10,10,240,40.0,266,21,6.65,12.67,11.43,Thailand,Male,Active
+T20,Jandre Coetzee,J Coetzee,Punit,green,1,1,24,4.0,33,3,8.25,11.0,8.0,Thailand,Male,Active
+T20,Jandre Coetzee,J Coetzee,Punit,slow,3,3,60,10.0,66,2,6.6,33.0,30.0,Thailand,Male,Active
+T20,Jandre Coetzee,J Coetzee,Punit,turner,1,1,18,3.0,22,2,7.33,11.0,9.0,Thailand,Male,Active
 T20,J Coughlin,J Coughlin,Player coverage A · T20,auto,34,34,384,64.0,544,28,8.5,19.43,13.71,England,Male,Retired
 T20,J Coughlin,J Coughlin,Player coverage B · T20,auto,29,29,337,56.17,459,23,8.17,19.96,14.65,England,Male,Retired
 T20,Joshua Da Silva,J Da Silva,Player coverage A · T20,auto,31,31,333,55.5,518,26,9.33,19.92,12.81,West Indies,Male,Active
@@ -26548,16 +26629,20 @@ T20,Abhigyan Kundu,J Ogolla,Player coverage B · T20,auto,23,23,230,38.33,213,14
 T20,Jane Otieno,J Otieno,Player coverage A · T20,auto,74,74,1075,179.17,1069,67,5.97,15.96,16.04,Kenya,Female,Retired
 T20,Jane Otieno,J Otieno,Player coverage B · T20,auto,71,71,1168,194.67,1181,88,6.07,13.42,13.27,Kenya,Female,Retired
 T20,Jamie Overton,J Overton,Adelaide Strikers,auto,115,115,2237,372.83,3136,148,8.41,21.19,15.11,England,Male,Active
-T20,Jamie Overton,J Overton,Chennai Super Kings,auto,289,289,5889,981.5,9499,377,9.68,25.2,15.62,England,Male,Active
+T20,Jamie Overton,J Overton,Chennai Super Kings,auto,303,303,6201,1033.5,10039,395,9.71,25.42,15.7,England,Male,Active
 T20,Jamie Overton,J Overton,Chennai Super Kings,flat,1,1,18,3.0,26,0,8.67,,,England,Male,Active
 T20,Jamie Overton,J Overton,Chennai Super Kings,green,1,1,18,3.0,44,1,14.67,44.0,18.0,England,Male,Active
 T20,Jamie Overton,J Overton,Chennai Super Kings,slow,2,2,36,6.0,42,1,7.0,42.0,36.0,England,Male,Active
 T20,Jamie Overton,J Overton,Chennai Super Kings XI,auto,1,1,24,4.0,57,0,14.25,,,England,Male,Active
 T20,Jamie Overton,J Overton,Chennai Super Kings XI,flat,1,1,24,4.0,64,0,16.0,,,England,Male,Active
 T20,Jamie Overton,J Overton,GreninDraft1,auto,42,42,709,118.17,1111,46,9.4,24.15,15.41,England,Male,Active
+T20,Jamie Overton,J Overton,GreninDraft1,flat,1,1,12,2.0,22,1,11.0,22.0,12.0,England,Male,Active
+T20,Jamie Overton,J Overton,Kasii CC,auto,7,7,129,21.5,183,11,8.51,16.64,11.73,England,Male,Active
+T20,Jamie Overton,J Overton,Kasii CC,flat,3,3,48,8.0,75,0,9.38,,,England,Male,Active
 T20,Jamie Overton,J Overton,London Spirit,auto,101,101,1709,284.83,2622,124,9.21,21.15,13.78,England,Male,Active
 T20,Jamie Overton,J Overton,Player coverage A · T20,auto,21,21,480,80.0,628,34,7.85,18.47,14.12,England,Male,Active
 T20,Jamie Overton,J Overton,Player coverage B · T20,auto,24,24,522,87.0,738,28,8.48,26.36,18.64,England,Male,Active
+T20,Jamie Overton,J Overton,kasi1,flat,2,2,48,8.0,68,3,8.5,22.67,16.0,England,Male,Active
 T20,Jirasak Pakhiaokajee,J Pakhiaokajee,Player coverage A · T20,auto,17,17,202,33.67,278,13,8.26,21.38,15.54,Thailand,Male,Retired
 T20,Jirasak Pakhiaokajee,J Pakhiaokajee,Player coverage B · T20,auto,30,30,308,51.33,478,27,9.31,17.7,11.41,Thailand,Male,Retired
 T20,Jyoti Pandey,J Pandey,Player coverage A · T20,auto,12,12,114,19.0,93,10,4.89,9.3,11.4,Nepal,Female,Retired
@@ -26688,7 +26773,7 @@ T20,Jafer Chohan,JA Chohan,Player coverage B · T20,auto,254,254,6041,1006.83,73
 T20,Jafer Chohan,JA Chohan,Yorkshire,auto,108,108,2178,363.0,3019,113,8.32,26.72,19.27,England,Male,Active
 T20,Joshua Clarkson,JA Clarkson,Central Districts,auto,103,103,1478,246.33,2395,77,9.72,31.1,19.19,New Zealand,Male,Active
 T20,Joshua Clarkson,JA Clarkson,New Zealand,auto,1,1,12,2.0,34,0,17.0,,,New Zealand,Male,Active
-T20,Joshua Clarkson,JA Clarkson,New Zealand,balanced,1,1,12,2.0,5,1,2.5,5.0,12.0,New Zealand,Male,Active
+T20,Joshua Clarkson,JA Clarkson,New Zealand,balanced,2,2,30,5.0,11,2,2.2,5.5,15.0,New Zealand,Male,Active
 T20,Joshua Clarkson,JA Clarkson,Player coverage A · T20,auto,205,205,3893,648.83,5724,194,8.82,29.51,20.07,New Zealand,Male,Active
 T20,Joshua Clarkson,JA Clarkson,Player coverage B · T20,auto,202,202,3875,645.83,5882,179,9.11,32.86,21.65,New Zealand,Male,Active
 T20,Joel Davies,JA Davies,Player coverage A · T20,auto,248,248,5850,975.0,7140,305,7.32,23.41,19.18,Australia,Male,Active
@@ -26792,7 +26877,10 @@ T20,Jofra Archer,JC Archer,England,auto,1,1,18,3.0,34,1,11.33,34.0,18.0,England,
 T20,Jofra Archer,JC Archer,Hobart Hurricanes All-time,auto,1,1,24,4.0,29,3,7.25,9.67,8.0,England,Male,Active
 T20,Jofra Archer,JC Archer,Player coverage A · T20,auto,74,74,1728,288.0,2247,98,7.8,22.93,17.63,England,Male,Active
 T20,Jofra Archer,JC Archer,Player coverage B · T20,auto,65,65,1541,256.83,1928,76,7.51,25.37,20.28,England,Male,Active
-T20,Jofra Archer,JC Archer,Rajasthan Royals,auto,287,287,6647,1107.83,10841,333,9.79,32.56,19.96,England,Male,Active
+T20,Jofra Archer,JC Archer,Rajasthan Royals,auto,302,302,7004,1167.33,11432,349,9.79,32.76,20.07,England,Male,Active
+T20,Jofra Archer,JC Archer,SatkarXI,auto,6,6,138,23.0,220,8,9.57,27.5,17.25,England,Male,Active
+T20,Jofra Archer,JC Archer,SatkarXI,flat,2,2,36,6.0,71,2,11.83,35.5,18.0,England,Male,Active
+T20,Jofra Archer,JC Archer,SatkarXI,green,1,1,24,4.0,46,2,11.5,23.0,12.0,England,Male,Active
 T20,Jofra Archer,JC Archer,Southern Brave,auto,98,98,2236,372.67,3265,138,8.76,23.66,16.2,England,Male,Active
 T20,Jofra Archer,JC Archer,grenin bkl,auto,30,30,602,100.33,1062,44,10.58,24.14,13.68,England,Male,Active
 T20,Jan Balt,JC Balt,Player coverage A · T20,auto,305,305,7095,1182.5,8034,384,6.79,20.92,18.48,Namibia,Male,Active
@@ -26886,7 +26974,7 @@ T20,James Neesham,JDS Neesham,Colombo Kaps,auto,96,96,1591,265.17,2630,88,9.92,2
 T20,James Neesham,JDS Neesham,Dubai Capitals,auto,61,61,944,157.33,1465,53,9.31,27.64,17.81,New Zealand,Male,Active
 T20,James Neesham,JDS Neesham,Glamorgan,auto,122,122,2102,350.33,3352,107,9.57,31.33,19.64,New Zealand,Male,Active
 T20,James Neesham,JDS Neesham,New Zealand,auto,1,1,18,3.0,35,1,11.67,35.0,18.0,New Zealand,Male,Active
-T20,James Neesham,JDS Neesham,New Zealand,balanced,1,1,12,2.0,21,1,10.5,21.0,12.0,New Zealand,Male,Active
+T20,James Neesham,JDS Neesham,New Zealand,balanced,2,2,28,4.67,48,2,10.29,24.0,14.0,New Zealand,Male,Active
 T20,James Neesham,JDS Neesham,Player coverage A · T20,auto,72,72,1603,267.17,2302,85,8.62,27.08,18.86,New Zealand,Male,Active
 T20,James Neesham,JDS Neesham,Player coverage B · T20,auto,72,72,1588,264.67,2355,83,8.9,28.37,19.13,New Zealand,Male,Active
 T20,James Neesham,JDS Neesham,Rajshahi Warriors,auto,108,108,1788,298.0,2445,101,8.2,24.21,17.7,New Zealand,Male,Active
@@ -27001,7 +27089,7 @@ T20,JJ Bohannon,JJ Bohannon,Player coverage B · T20,auto,312,312,7320,1220.0,98
 T20,JJ Boult,JJ Boult,Player coverage A · T20,auto,127,127,2222,370.33,2853,138,7.7,20.67,16.1,New Zealand,Male,Retired
 T20,JJ Boult,JJ Boult,Player coverage B · T20,auto,136,136,2313,385.5,3011,117,7.81,25.74,19.77,New Zealand,Male,Retired
 T20,Jasprit Bumrah,JJ Bumrah,IndiaODI,auto,10,10,238,39.67,312,10,7.87,31.2,23.8,India,Male,Active
-T20,Jasprit Bumrah,JJ Bumrah,Mumbai Indians,auto,302,302,6896,1149.33,8985,325,7.82,27.65,21.22,India,Male,Active
+T20,Jasprit Bumrah,JJ Bumrah,Mumbai Indians,auto,320,320,7303,1217.17,9548,344,7.84,27.76,21.23,India,Male,Active
 T20,Jasprit Bumrah,JJ Bumrah,Mumbai Indians,green,1,1,24,4.0,41,0,10.25,,,India,Male,Active
 T20,Jasprit Bumrah,JJ Bumrah,Mumbai Indians,slow,1,1,24,4.0,21,2,5.25,10.5,12.0,India,Male,Active
 T20,Jasprit Bumrah,JJ Bumrah,Mumbai Indians All-time,auto,2,2,48,8.0,47,3,5.88,15.67,16.0,India,Male,Active
@@ -27010,6 +27098,7 @@ T20,Jasprit Bumrah,JJ Bumrah,Player coverage B · T20,auto,124,124,2836,472.67,3
 T20,Jasprit Bumrah,JJ Bumrah,Selectors's XI,auto,17,17,390,65.0,485,26,7.46,18.65,15.0,India,Male,Active
 T20,Jasprit Bumrah,JJ Bumrah,Testing,auto,3,3,64,10.67,34,7,3.19,4.86,9.14,India,Male,Active
 T20,Jasprit Bumrah,JJ Bumrah,Testing,flat,1,1,24,4.0,28,0,7.0,,,India,Male,Active
+T20,Jasprit Bumrah,JJ Bumrah,blue moon1,auto,3,3,72,12.0,90,4,7.5,22.5,18.0,India,Male,Active
 T20,Jasprit Bumrah,JJ Bumrah,grenin bkl,auto,30,30,689,114.83,897,31,7.81,28.94,22.23,India,Male,Active
 T20,JJ Bushnell,JJ Bushnell,Player coverage A · T20,auto,291,291,6556,1092.67,8499,327,7.78,25.99,20.05,England,Male,Retired
 T20,JJ Bushnell,JJ Bushnell,Player coverage B · T20,auto,300,300,6654,1109.0,8688,336,7.83,25.86,19.8,England,Male,Retired
@@ -27288,9 +27377,10 @@ T20,JO Alumbro,JO Alumbro,Player coverage B · T20,auto,4,4,26,4.33,17,4,3.92,4.
 T20,JO Baker,JO Baker,Player coverage A · T20,auto,290,290,5660,943.33,6765,269,7.17,25.15,21.04,England,Male,Retired
 T20,JO Baker,JO Baker,Player coverage B · T20,auto,279,279,5489,914.83,6795,280,7.43,24.27,19.6,England,Male,Retired
 T20,Jason Holder,JO Holder,Abu Dhabi Knight Riders,auto,115,115,2522,420.33,3631,113,8.64,32.13,22.32,West Indies,Male,Active
-T20,Jason Holder,JO Holder,Gujarat Titans,auto,285,285,5800,966.67,9450,334,9.78,28.29,17.37,West Indies,Male,Active
+T20,Jason Holder,JO Holder,Gujarat Titans,auto,301,301,6120,1020.0,10043,361,9.85,27.82,16.95,West Indies,Male,Active
 T20,Jason Holder,JO Holder,Los Angeles Knight Riders,auto,105,105,2407,401.17,3576,135,8.91,26.49,17.83,West Indies,Male,Active
 T20,Jason Holder,JO Holder,Player coverage A · T20,auto,1,1,18,3.0,23,2,7.67,11.5,9.0,West Indies,Male,Active
+T20,Jason Holder,JO Holder,Shillong Dragons,auto,3,3,70,11.67,94,3,8.06,31.33,23.33,West Indies,Male,Active
 T20,Jason Holder,JO Holder,St Kitts and Nevis Patriots,auto,120,120,2568,428.0,3784,151,8.84,25.06,17.01,West Indies,Male,Active
 T20,James Ngoche,JO Ngoche,Player coverage A · T20,auto,268,268,5579,929.83,6760,240,7.27,28.17,23.25,Kenya,Male,Retired
 T20,James Ngoche,JO Ngoche,Player coverage B · T20,auto,269,269,5630,938.33,6873,262,7.32,26.23,21.49,Kenya,Male,Retired
@@ -27368,14 +27458,16 @@ T20,JR Eckland,JR Eckland,Player coverage A · T20,auto,138,138,2206,367.67,2922
 T20,JR Eckland,JR Eckland,Player coverage B · T20,auto,152,152,2424,404.0,3320,157,8.22,21.15,15.44,England,Male,Active
 T20,JR Hansen,JR Hansen,Player coverage A · T20,auto,41,41,474,79.0,578,27,7.32,21.41,17.56,Denmark,Male,Retired
 T20,JR Hansen,JR Hansen,Player coverage B · T20,auto,41,41,469,78.17,633,33,8.1,19.18,14.21,Denmark,Male,Retired
+T20,Josh Hazlewood,JR Hazlewood,Amrit,flat,4,4,96,16.0,175,10,10.94,17.5,9.6,Australia,Male,Active
 T20,Josh Hazlewood,JR Hazlewood,Australia Goat,auto,12,12,276,46.0,415,20,9.02,20.75,13.8,Australia,Male,Active
 T20,Josh Hazlewood,JR Hazlewood,Australia Goat,slow,1,1,24,4.0,27,3,6.75,9.0,8.0,Australia,Male,Active
 T20,Josh Hazlewood,JR Hazlewood,Nurul wala team,auto,1,1,24,4.0,52,2,13.0,26.0,12.0,Australia,Male,Active
 T20,Josh Hazlewood,JR Hazlewood,Player coverage A · T20,auto,138,138,3254,542.33,3807,202,7.02,18.85,16.11,Australia,Male,Active
 T20,Josh Hazlewood,JR Hazlewood,Player coverage B · T20,auto,143,143,3372,562.0,3889,210,6.92,18.52,16.06,Australia,Male,Active
-T20,Josh Hazlewood,JR Hazlewood,Royal Challengers Bengaluru,auto,302,302,6969,1161.5,10865,403,9.35,26.96,17.29,Australia,Male,Active
+T20,Josh Hazlewood,JR Hazlewood,Royal Challengers Bengaluru,auto,318,318,7347,1224.5,11558,418,9.44,27.65,17.58,Australia,Male,Active
 T20,Josh Hazlewood,JR Hazlewood,Royal Challengers Bengaluru,flat,2,2,42,7.0,55,1,7.86,55.0,42.0,Australia,Male,Active
 T20,Josh Hazlewood,JR Hazlewood,Royal Challengers Bengaluru,slow,1,1,24,4.0,24,1,6.0,24.0,24.0,Australia,Male,Active
+T20,Josh Hazlewood,JR Hazlewood,Shillong Dragons,auto,3,3,72,12.0,157,2,13.08,78.5,36.0,Australia,Male,Active
 T20,Josh Hazlewood,JR Hazlewood,vamps,auto,9,9,201,33.5,276,9,8.24,30.67,22.33,Australia,Male,Active
 T20,James Hopes,JR Hopes,Player coverage A · T20,auto,279,279,6300,1050.0,7900,304,7.52,25.99,20.72,Australia,Male,Retired
 T20,James Hopes,JR Hopes,Player coverage B · T20,auto,317,317,7171,1195.17,8928,376,7.47,23.74,19.07,Australia,Male,Retired
@@ -27919,10 +28011,12 @@ T20,K Pope,K Pope,Player coverage A · T20,auto,225,225,4171,695.17,5361,202,7.7
 T20,K Pope,K Pope,Player coverage B · T20,auto,205,205,3767,627.83,4853,166,7.73,29.23,22.69,Australia,Male,Retired
 T20,K Povey,K Povey,Player coverage A · T20,auto,155,155,2277,379.5,2791,130,7.35,21.47,17.52,,Male,Active
 T20,K Povey,K Povey,Player coverage B · T20,auto,135,135,1901,316.83,2344,125,7.4,18.75,15.21,,Male,Active
-T20,Kagiso Rabada,K Rabada,Gujarat Titans,auto,285,285,5762,960.33,9576,374,9.97,25.6,15.41,South Africa,Male,Active
+T20,Kagiso Rabada,K Rabada,Gujarat Titans,auto,301,301,6086,1014.33,10170,394,10.03,25.81,15.45,South Africa,Male,Active
 T20,Kagiso Rabada,K Rabada,MI Cape Town,auto,130,130,2884,480.67,4501,150,9.36,30.01,19.23,South Africa,Male,Active
 T20,Kagiso Rabada,K Rabada,Player coverage A · T20,auto,99,99,2364,394.0,2857,138,7.25,20.7,17.13,South Africa,Male,Active
 T20,Kagiso Rabada,K Rabada,Player coverage B · T20,auto,104,104,2484,414.0,3043,148,7.35,20.56,16.78,South Africa,Male,Active
+T20,Kagiso Rabada,K Rabada,Tanmay,auto,6,6,144,24.0,257,6,10.71,42.83,24.0,South Africa,Male,Active
+T20,Kagiso Rabada,K Rabada,Tanmay,flat,3,3,72,12.0,124,5,10.33,24.8,14.4,South Africa,Male,Active
 T20,K Ragoobar,K Ragoobar,Player coverage A · T20,auto,163,163,3676,612.67,3810,178,6.22,21.4,20.65,West Indies,Female,Retired
 T20,K Ragoobar,K Ragoobar,Player coverage B · T20,auto,137,137,3077,512.83,3154,144,6.15,21.9,21.37,West Indies,Female,Retired
 T20,Karishma Ramharack,K Ramharack,Player coverage A · T20,auto,126,126,2939,489.83,2758,148,5.63,18.64,19.86,West Indies,Female,Active
@@ -28046,7 +28140,7 @@ T20,Kate Heffernan,KA Heffernan,Player coverage B · T20,auto,9,9,132,22.0,122,8
 T20,Kyle Hope,KA Hope,Player coverage A · T20,auto,82,82,1107,184.5,1224,68,6.63,18.0,16.28,West Indies,Male,Retired
 T20,Kyle Hope,KA Hope,Player coverage B · T20,auto,83,83,960,160.0,1212,65,7.58,18.65,14.77,West Indies,Male,Retired
 T20,Kyle Jamieson,KA Jamieson,New Zealand,auto,1,1,24,4.0,35,1,8.75,35.0,24.0,New Zealand,Male,Active
-T20,Kyle Jamieson,KA Jamieson,New Zealand,balanced,1,1,18,3.0,27,2,9.0,13.5,9.0,New Zealand,Male,Active
+T20,Kyle Jamieson,KA Jamieson,New Zealand,balanced,2,2,42,7.0,78,2,11.14,39.0,21.0,New Zealand,Male,Active
 T20,Kyle Jamieson,KA Jamieson,Player coverage A · T20,auto,326,326,7494,1249.0,10593,363,8.48,29.18,20.64,New Zealand,Male,Active
 T20,Kyle Jamieson,KA Jamieson,Player coverage B · T20,auto,281,281,6447,1074.5,9084,317,8.45,28.66,20.34,New Zealand,Male,Active
 T20,KA Jones,KA Jones,Player coverage A · T20,auto,6,6,72,12.0,92,2,7.67,46.0,36.0,England,Female,Active
@@ -28189,7 +28283,7 @@ T20,Krunal Pandya,KH Pandya,Baroda,auto,37,37,761,126.83,869,30,6.85,28.97,25.37
 T20,Krunal Pandya,KH Pandya,Mumbai Indians All-time,auto,2,2,36,6.0,42,2,7.0,21.0,18.0,India,Male,Active
 T20,Krunal Pandya,KH Pandya,Player coverage A · T20,auto,154,154,3290,548.33,3670,141,6.69,26.03,23.33,India,Male,Active
 T20,Krunal Pandya,KH Pandya,Player coverage B · T20,auto,146,146,3255,542.5,3641,137,6.71,26.58,23.76,India,Male,Active
-T20,Krunal Pandya,KH Pandya,Royal Challengers Bengaluru,auto,302,302,5527,921.17,7790,203,8.46,38.37,27.23,India,Male,Active
+T20,Krunal Pandya,KH Pandya,Royal Challengers Bengaluru,auto,318,318,5833,972.17,8230,213,8.47,38.64,27.38,India,Male,Active
 T20,Krunal Pandya,KH Pandya,Royal Challengers Bengaluru,flat,2,2,30,5.0,45,3,9.0,15.0,10.0,India,Male,Active
 T20,Krunal Pandya,KH Pandya,Royal Challengers Bengaluru,slow,1,1,18,3.0,26,2,8.67,13.0,9.0,India,Male,Active
 T20,Kashyap Prajapati,KH Prajapati,Player coverage A · T20,auto,51,51,543,90.5,569,44,6.29,12.93,12.34,Oman,Male,Retired
@@ -28472,7 +28566,7 @@ T20,Kevin Kasuza,KT Kasuza,Player coverage B · T20,auto,64,64,788,131.33,950,57
 T20,Kwena Maphaka,KT Maphaka,Durban's Super Giants,auto,108,108,2011,335.17,3318,92,9.9,36.07,21.86,South Africa,Male,Active
 T20,Kwena Maphaka,KT Maphaka,Player coverage A · T20,auto,254,254,5841,973.5,8877,234,9.12,37.94,24.96,South Africa,Male,Active
 T20,Kwena Maphaka,KT Maphaka,Player coverage B · T20,auto,241,241,5482,913.67,8149,210,8.92,38.8,26.1,South Africa,Male,Active
-T20,Kwena Maphaka,KT Maphaka,South Africa,balanced,1,1,18,3.0,30,0,10.0,,,South Africa,Male,Active
+T20,Kwena Maphaka,KT Maphaka,South Africa,balanced,2,2,36,6.0,63,0,10.5,,,South Africa,Male,Active
 T20,Katie Perkins,KT Perkins,Player coverage A · T20,auto,29,29,356,59.33,408,22,6.88,18.55,16.18,New Zealand,Female,Retired
 T20,Katie Perkins,KT Perkins,Player coverage B · T20,auto,25,25,334,55.67,348,27,6.25,12.89,12.37,New Zealand,Female,Retired
 T20,Kevin Sandher,KT Sandher,Player coverage A · T20,auto,159,159,2742,457.0,3265,184,7.14,17.74,14.9,Canada,Male,Retired
@@ -28583,8 +28677,8 @@ T20,Karan Shinde,Karan Shinde,Player coverage B · T20,auto,154,154,2406,401.0,2
 T20,Karan Thakur,Karan Thakur,Player coverage A · T20,auto,20,20,165,27.5,254,12,9.24,21.17,13.75,India,Male,Retired
 T20,Karan Thakur,Karan Thakur,Player coverage B · T20,auto,11,11,86,14.33,137,7,9.56,19.57,12.29,India,Male,Retired
 T20,Karanbir Singh,Karanbir Singh,Best,auto,11,11,131,21.83,215,8,9.85,26.88,16.38,Austria,Male,Active
-T20,Karanbir Singh,Karanbir Singh,Grenin,auto,2,2,30,5.0,47,2,9.4,23.5,15.0,Austria,Male,Active
-T20,Karanbir Singh,Karanbir Singh,Grenin is lodi bodhi,auto,26,26,415,69.17,682,28,9.86,24.36,14.82,Austria,Male,Active
+T20,Karanbir Singh,Karanbir Singh,Grenin,auto,3,3,54,9.0,110,2,12.22,55.0,27.0,Austria,Male,Active
+T20,Karanbir Singh,Karanbir Singh,Grenin is lodi bodhi,auto,34,34,547,91.17,984,36,10.79,27.33,15.19,Austria,Male,Active
 T20,Karanbir Singh,Karanbir Singh,Player coverage A · T20,auto,217,217,4318,719.67,5544,297,7.7,18.67,14.54,Austria,Male,Active
 T20,Karanbir Singh,Karanbir Singh,Player coverage B · T20,auto,209,209,4039,673.17,5272,253,7.83,20.84,15.96,Austria,Male,Active
 T20,Karanbir Singh,Karanbir Singh,Punit,auto,6,6,70,11.67,131,4,11.23,32.75,17.5,Austria,Male,Active
@@ -28606,7 +28700,7 @@ T20,Karthik Raman,Karthik Raman,Player coverage A · T20,auto,308,308,7137,1189.
 T20,Karthik Raman,Karthik Raman,Player coverage B · T20,auto,297,297,6923,1153.83,9854,381,8.54,25.86,18.17,India,Male,Retired
 T20,Kartik Sharma,Kartik Sharma,Player coverage A · T20,auto,44,44,574,95.67,788,42,8.24,18.76,13.67,India,Male,Active
 T20,Kartik Sharma,Kartik Sharma,Player coverage B · T20,auto,50,50,714,119.0,962,53,8.08,18.15,13.47,India,Male,Active
-T20,Kartik Tyagi,Kartik Tyagi,Kolkata Knight Riders,auto,277,277,5585,930.83,9460,283,10.16,33.43,19.73,India,Male,Active
+T20,Kartik Tyagi,Kartik Tyagi,Kolkata Knight Riders,auto,291,291,5836,972.67,9921,294,10.2,33.74,19.85,India,Male,Active
 T20,Kartik Tyagi,Kartik Tyagi,Player coverage A · T20,auto,151,151,3458,576.33,5028,181,8.72,27.78,19.1,India,Male,Active
 T20,Kartik Tyagi,Kartik Tyagi,Player coverage B · T20,auto,179,179,4131,688.5,5854,201,8.5,29.12,20.55,India,Male,Active
 T20,Kartikeya Kak,Kartikeya Kak,Player coverage A · T20,auto,318,318,7403,1233.83,10557,386,8.56,27.35,19.18,India,Male,Retired
@@ -28774,8 +28868,13 @@ T20,Kukna Singh,Kukna Ajay Singh,Player coverage A · T20,auto,55,55,813,135.5,1
 T20,Kukna Singh,Kukna Ajay Singh,Player coverage B · T20,auto,51,51,545,90.83,747,36,8.22,20.75,15.14,India,Male,Retired
 T20,Kuldeep Gehi,Kuldeep Gehi,Player coverage A · T20,auto,59,59,778,129.67,1038,64,8.01,16.22,12.16,India,Male,Retired
 T20,Kuldeep Gehi,Kuldeep Gehi,Player coverage B · T20,auto,51,51,545,90.83,753,43,8.29,17.51,12.67,India,Male,Retired
-T20,Kuldeep Yadav,Kuldeep Yadav,Delhi Capitals,auto,282,282,6721,1120.17,9945,361,8.88,27.55,18.62,India,Male,Active
+T20,Kuldeep Yadav,Kuldeep Yadav,Delhi Capitals,auto,299,299,7129,1188.17,10638,382,8.95,27.85,18.66,India,Male,Active
 T20,Kuldeep Yadav,Kuldeep Yadav,GreninDraft1,auto,46,46,1007,167.83,1472,57,8.77,25.82,17.67,India,Male,Active
+T20,Kuldeep Yadav,Kuldeep Yadav,GreninDraft1,flat,1,1,24,4.0,27,1,6.75,27.0,24.0,India,Male,Active
+T20,Kuldeep Yadav,Kuldeep Yadav,GreninDraft1,turner,1,1,18,3.0,37,0,12.33,,,India,Male,Active
+T20,Kuldeep Yadav,Kuldeep Yadav,Kasii CC,auto,8,8,192,32.0,298,8,9.31,37.25,24.0,India,Male,Active
+T20,Kuldeep Yadav,Kuldeep Yadav,Kasii CC,flat,3,3,59,9.83,70,1,7.12,70.0,59.0,India,Male,Active
+T20,Kuldeep Yadav,Kuldeep Yadav,Nurul Huda Sourov's XI,auto,4,4,84,14.0,127,1,9.07,127.0,84.0,India,Male,Active
 T20,Kuldeep Yadav,Kuldeep Yadav,Player coverage A · T20,auto,123,123,2850,475.0,3318,171,6.99,19.4,16.67,India,Male,Active
 T20,Kuldeep Yadav,Kuldeep Yadav,Player coverage B · T20,auto,148,148,3468,578.0,4300,207,7.44,20.77,16.75,India,Male,Active
 T20,Kuldeep Yadav,Kuldeep Yadav,Testing,auto,6,6,132,22.0,128,10,5.82,12.8,13.2,India,Male,Active
@@ -28978,7 +29077,7 @@ T20,Lara Moisés,L Moises,Player coverage A · T20,auto,171,171,3926,654.33,3470
 T20,Lara Moisés,L Moises,Player coverage B · T20,auto,125,125,2864,477.33,2533,139,5.31,18.22,20.6,Brazil,Female,Active
 T20,L Neil-Smith,L Neil-Smith,Player coverage A · T20,auto,315,315,6810,1135.0,9487,370,8.36,25.64,18.41,Australia,Male,Active
 T20,L Neil-Smith,L Neil-Smith,Player coverage B · T20,auto,278,278,6051,1008.5,8173,331,8.1,24.69,18.28,Australia,Male,Active
-T20,Lungisani Ngidi,L Ngidi,Delhi Capitals,auto,282,282,6457,1076.17,10900,340,10.13,32.06,18.99,South Africa,Male,Active
+T20,Lungisani Ngidi,L Ngidi,Delhi Capitals,auto,299,299,6863,1143.83,11538,364,10.09,31.7,18.85,South Africa,Male,Active
 T20,Lungisani Ngidi,L Ngidi,Glasgow Cosmic,auto,100,100,2203,367.17,3336,141,9.09,23.66,15.62,South Africa,Male,Active
 T20,Lungisani Ngidi,L Ngidi,Player coverage A · T20,auto,69,69,1644,274.0,2186,92,7.98,23.76,17.87,South Africa,Male,Active
 T20,Lungisani Ngidi,L Ngidi,Player coverage B · T20,auto,54,54,1245,207.5,1578,78,7.6,20.23,15.96,South Africa,Male,Active
@@ -29190,6 +29289,7 @@ T20,Lauren Smith,LG Smith,Player coverage A · T20,auto,46,46,1019,169.83,966,65
 T20,Lauren Smith,LG Smith,Player coverage B · T20,auto,48,48,1065,177.5,968,58,5.45,16.69,18.36,Australia,Female,Active
 T20,Lachlan Ferguson,LH Ferguson,Player coverage A · T20,auto,273,273,6470,1078.33,7460,392,6.92,19.03,16.51,New Zealand,Male,Active
 T20,Lachlan Ferguson,LH Ferguson,Player coverage B · T20,auto,233,233,5509,918.17,6304,327,6.87,19.28,16.85,New Zealand,Male,Active
+T20,Lachlan Ferguson,LH Ferguson,Punit's XI,auto,4,4,96,16.0,159,4,9.94,39.75,24.0,New Zealand,Male,Active
 T20,Lachlan Ferguson,LH Ferguson,Welsh Fire,auto,103,103,2372,395.33,3165,137,8.01,23.1,17.31,New Zealand,Male,Active
 T20,LH Heaps,LH Heaps,Player coverage A · T20,auto,159,159,3317,552.83,3767,182,6.81,20.7,18.23,New Zealand,Female,Retired
 T20,LH Heaps,LH Heaps,Player coverage B · T20,auto,134,134,2722,453.67,3022,135,6.66,22.39,20.16,New Zealand,Female,Retired
@@ -29394,6 +29494,7 @@ T20,Liam Livingstone,LS Livingstone,London Spirit,auto,100,100,1513,252.17,2290,
 T20,Liam Livingstone,LS Livingstone,Player coverage A · T20,auto,64,64,1536,256.0,2113,81,8.25,26.09,18.96,England,Male,Active
 T20,Liam Livingstone,LS Livingstone,Player coverage B · T20,auto,77,77,1848,308.0,2631,91,8.54,28.91,20.31,England,Male,Active
 T20,Liam Livingstone,LS Livingstone,grenin bkl,auto,26,26,384,64.0,558,22,8.72,25.36,17.45,England,Male,Active
+T20,Liam Livingstone,LS Livingstone,kasi1,flat,1,1,6,1.0,10,0,10.0,,,England,Male,Active
 T20,Leroy Lugg,LS Lugg,Player coverage A · T20,auto,44,44,552,92.0,724,40,7.87,18.1,13.8,West Indies,Male,Retired
 T20,Leroy Lugg,LS Lugg,Player coverage B · T20,auto,46,46,627,104.5,802,39,7.67,20.56,16.08,West Indies,Male,Retired
 T20,Lily Mulivai,LS Mulivai,Player coverage A · T20,auto,147,147,3319,553.17,3722,172,6.73,21.64,19.3,Samoa,Female,Retired
@@ -29499,8 +29600,10 @@ T20,Lujaina,Lujaina,Player coverage A · T20,auto,42,42,604,100.67,673,38,6.69,1
 T20,Lujaina,Lujaina,Player coverage B · T20,auto,56,56,831,138.5,898,46,6.48,19.52,18.07,Oman,Female,Active
 T20,Luka Woods,Luka Woods,Player coverage A · T20,auto,246,246,5620,936.67,6808,271,7.27,25.12,20.74,Serbia,Male,Active
 T20,Luka Woods,Luka Woods,Player coverage B · T20,auto,247,247,5625,937.5,6787,273,7.24,24.86,20.6,Serbia,Male,Active
-T20,Luka Woods,Luka Woods,Punit,auto,86,86,1401,233.5,2016,58,8.63,34.76,24.16,Serbia,Male,Active
-T20,Luka Woods,Luka Woods,Punit,slow,1,1,12,2.0,5,2,2.5,2.5,6.0,Serbia,Male,Active
+T20,Luka Woods,Luka Woods,Punit,auto,96,96,1569,261.5,2270,63,8.68,36.03,24.9,Serbia,Male,Active
+T20,Luka Woods,Luka Woods,Punit,flat,8,8,122,20.33,161,3,7.92,53.67,40.67,Serbia,Male,Active
+T20,Luka Woods,Luka Woods,Punit,green,1,1,12,2.0,22,0,11.0,,,Serbia,Male,Active
+T20,Luka Woods,Luka Woods,Punit,slow,3,3,48,8.0,78,3,9.75,26.0,16.0,Serbia,Male,Active
 T20,Lyu Yihan,Lyu Yihan,Player coverage A · T20,auto,36,36,467,77.83,511,29,6.57,17.62,16.1,China,Female,Active
 T20,Lyu Yihan,Lyu Yihan,Player coverage B · T20,auto,40,40,514,85.67,608,28,7.1,21.71,18.36,China,Female,Active
 T20,M Mathew,M Abin Mathew,Player coverage A · T20,auto,89,89,1257,209.5,1677,94,8.0,17.84,13.37,India,Male,Retired
@@ -29675,11 +29778,17 @@ T20,M Home,M Home,Player coverage A · T20,auto,39,39,530,88.33,538,41,6.09,13.1
 T20,M Home,M Home,Player coverage B · T20,auto,29,29,418,69.67,442,22,6.34,20.09,19.0,England,Female,Retired
 T20,Miracle Imimole,M Imimole,Player coverage A · T20,auto,157,157,3201,533.5,3589,131,6.73,27.4,24.44,Nigeria,Female,Retired
 T20,Miracle Imimole,M Imimole,Player coverage B · T20,auto,136,136,2823,470.5,3175,126,6.75,25.2,22.4,Nigeria,Female,Retired
-T20,Marco Jansen,M Jansen,BSDK GRenin,auto,12,12,218,36.33,379,8,10.43,47.38,27.25,South Africa,Male,Active
+T20,Marco Jansen,M Jansen,BSDK GRenin,auto,13,13,236,39.33,406,10,10.32,40.6,23.6,South Africa,Male,Active
+T20,Marco Jansen,M Jansen,BSDK GRenin,flat,5,5,102,17.0,220,4,12.94,55.0,25.5,South Africa,Male,Active
+T20,Marco Jansen,M Jansen,BSDK GRenin,green,1,1,18,3.0,62,0,20.67,,,South Africa,Male,Active
+T20,Marco Jansen,M Jansen,BSDK GRenin,slow,2,2,36,6.0,84,1,14.0,84.0,36.0,South Africa,Male,Active
+T20,Marco Jansen,M Jansen,BSDK GRenin,turner,2,2,36,6.0,70,5,11.67,14.0,7.2,South Africa,Male,Active
 T20,Marco Jansen,M Jansen,Player coverage A · T20,auto,48,48,1116,186.0,1376,71,7.4,19.38,15.72,South Africa,Male,Active
 T20,Marco Jansen,M Jansen,Player coverage B · T20,auto,47,47,1110,185.0,1562,45,8.44,34.71,24.67,South Africa,Male,Active
-T20,Marco Jansen,M Jansen,Punjab Kings,auto,278,278,5598,933.0,9743,247,10.44,39.45,22.66,South Africa,Male,Active
+T20,Marco Jansen,M Jansen,Punjab Kings,auto,292,292,5874,979.0,10228,259,10.45,39.49,22.68,South Africa,Male,Active
 T20,Marco Jansen,M Jansen,Sunrisers Eastern Cape,auto,135,135,2930,488.33,4442,170,9.1,26.13,17.24,South Africa,Male,Active
+T20,Marco Jansen,M Jansen,Tanmay,auto,6,6,144,24.0,274,11,11.42,24.91,13.09,South Africa,Male,Active
+T20,Marco Jansen,M Jansen,Tanmay,flat,3,3,72,12.0,106,5,8.83,21.2,14.4,South Africa,Male,Active
 T20,Marco Jansen,M Jansen,Welsh Fire,auto,79,79,1578,263.0,2472,97,9.4,25.48,16.27,South Africa,Male,Active
 T20,Mahuta Jayphert,M Jayphert,Player coverage A · T20,auto,13,13,114,19.0,118,7,6.21,16.86,16.29,Papua New Guinea,Female,Retired
 T20,Mahuta Jayphert,M Jayphert,Player coverage B · T20,auto,9,9,84,14.0,88,9,6.29,9.78,9.33,Papua New Guinea,Female,Retired
@@ -29849,7 +29958,7 @@ T20,Maria Polimeri,M Polimeri,Player coverage A · T20,auto,10,10,98,16.33,107,4
 T20,Maria Polimeri,M Polimeri,Player coverage B · T20,auto,12,12,124,20.67,142,5,6.87,28.4,24.8,Greece,Female,Active
 T20,M Pranith,M Pranith,Player coverage A · T20,auto,24,24,218,36.33,241,18,6.63,13.39,12.11,India,Male,Retired
 T20,M Pranith,M Pranith,Player coverage B · T20,auto,28,28,278,46.33,299,24,6.45,12.46,11.58,India,Male,Retired
-T20,Muralikrishna Krishna,M Prasidh Krishna,Gujarat Titans,auto,285,285,5738,956.33,8899,324,9.31,27.47,17.71,India,Male,Active
+T20,Muralikrishna Krishna,M Prasidh Krishna,Gujarat Titans,auto,301,301,6074,1012.33,9444,335,9.33,28.19,18.13,India,Male,Active
 T20,Muralikrishna Krishna,M Prasidh Krishna,Karnataka,auto,37,37,845,140.83,1049,58,7.45,18.09,14.57,India,Male,Active
 T20,Muralikrishna Krishna,M Prasidh Krishna,Player coverage A · T20,auto,166,166,3900,650.0,5049,190,7.77,26.57,20.53,India,Male,Active
 T20,Muralikrishna Krishna,M Prasidh Krishna,Player coverage B · T20,auto,156,156,3688,614.67,4691,197,7.63,23.81,18.72,India,Male,Active
@@ -29939,6 +30048,7 @@ T20,Malsha Tharupathi,M Tharupathi,Player coverage B · T20,auto,201,201,4291,71
 T20,Morawakage Theekshana,M Theekshana,Dambulla Sixers,auto,107,107,2546,424.33,3798,103,8.95,36.87,24.72,Sri Lanka,Male,Active
 T20,Morawakage Theekshana,M Theekshana,Player coverage A · T20,auto,197,197,4623,770.5,5776,230,7.5,25.11,20.1,Sri Lanka,Male,Active
 T20,Morawakage Theekshana,M Theekshana,Player coverage B · T20,auto,196,196,4602,767.0,5611,259,7.32,21.66,17.77,Sri Lanka,Male,Active
+T20,Morawakage Theekshana,M Theekshana,Sri Lanka,auto,1,1,24,4.0,21,2,5.25,10.5,12.0,Sri Lanka,Male,Active
 T20,Morawakage Theekshana,M Theekshana,St Lucia Kings,auto,117,117,2651,441.83,3419,140,7.74,24.42,18.94,Sri Lanka,Male,Active
 T20,M Thilina,M Thilina,Kurunegala Youth Cricket Club,auto,60,60,1363,227.17,1733,76,7.63,22.8,17.93,,Male,Active
 T20,M Thilina,M Thilina,Player coverage A · T20,auto,275,275,6565,1094.17,8467,323,7.74,26.21,20.33,,Male,Active
@@ -30055,11 +30165,14 @@ T20,MA Sharma,MA Sharma,Player coverage A · T20,auto,90,90,1192,198.67,1536,89,
 T20,MA Sharma,MA Sharma,Player coverage B · T20,auto,86,86,1197,199.5,1618,84,8.11,19.26,14.25,India,Male,Retired
 T20,Mason Sherry,MA Sherry,Player coverage A · T20,auto,45,45,532,88.67,727,30,8.2,24.23,17.73,Singapore,Male,Active
 T20,Mason Sherry,MA Sherry,Player coverage B · T20,auto,45,45,525,87.5,720,37,8.23,19.46,14.19,Singapore,Male,Active
-T20,Mitchell Starc,MA Starc,Delhi Capitals,auto,282,282,6565,1094.17,10700,374,9.78,28.61,17.55,Australia,Male,Active
+T20,Mitchell Starc,MA Starc,Delhi Capitals,auto,299,299,6966,1161.0,11348,398,9.77,28.51,17.5,Australia,Male,Active
 T20,Mitchell Starc,MA Starc,Nurul wala team,auto,5,5,113,18.83,167,7,8.87,23.86,16.14,Australia,Male,Active
 T20,Mitchell Starc,MA Starc,Nurul wala team,turner,4,4,70,11.67,90,5,7.71,18.0,14.0,Australia,Male,Active
 T20,Mitchell Starc,MA Starc,Player coverage A · T20,auto,144,144,3333,555.5,4505,186,8.11,24.22,17.92,Australia,Male,Active
 T20,Mitchell Starc,MA Starc,Player coverage B · T20,auto,143,143,3308,551.33,4635,186,8.41,24.92,17.78,Australia,Male,Active
+T20,Mitchell Starc,MA Starc,cloud.9,flat,3,3,54,9.0,105,4,11.67,26.25,13.5,Australia,Male,Active
+T20,Mitchell Starc,MA Starc,cloud.9,green,1,1,24,4.0,27,5,6.75,5.4,4.8,Australia,Male,Active
+T20,Mitchell Starc,MA Starc,dev1,auto,6,6,126,21.0,228,6,10.86,38.0,21.0,Australia,Male,Active
 T20,Mitchell Starc,MA Starc,grenin bkl,auto,30,30,526,87.67,846,30,9.65,28.2,17.53,Australia,Male,Active
 T20,Mitchell Starc,MA Starc,testing-xi-1,auto,1,1,24,4.0,25,1,6.25,25.0,24.0,Australia,Male,Active
 T20,Martin Suji,MA Suji,Player coverage A · T20,auto,301,301,6996,1166.0,9541,334,8.18,28.57,20.95,Kenya,Male,Retired
@@ -30178,9 +30291,11 @@ T20,MD Rao,MD Rao,Player coverage B · T20,auto,68,68,919,153.17,1137,64,7.42,17
 T20,Madagamagamage Shanaka,MD Shanaka,Galle Gallants,auto,24,24,273,45.5,449,22,9.87,20.41,12.41,Sri Lanka,Male,Active
 T20,Madagamagamage Shanaka,MD Shanaka,Player coverage A · T20,auto,5,5,114,19.0,157,5,8.26,31.4,22.8,Sri Lanka,Male,Active
 T20,Madagamagamage Shanaka,MD Shanaka,Player coverage B · T20,auto,5,5,114,19.0,130,6,6.84,21.67,19.0,Sri Lanka,Male,Active
-T20,Madagamagamage Shanaka,MD Shanaka,Rajasthan Royals,auto,252,252,3164,527.33,5490,184,10.41,29.84,17.2,Sri Lanka,Male,Active
+T20,Madagamagamage Shanaka,MD Shanaka,Rajasthan Royals,auto,267,267,3362,560.33,5801,196,10.35,29.6,17.15,Sri Lanka,Male,Active
 T20,Madagamagamage Shanaka,MD Shanaka,Seattle Orcas,auto,39,39,537,89.5,915,17,10.22,53.82,31.59,Sri Lanka,Male,Active
+T20,Madagamagamage Shanaka,MD Shanaka,Sri Lanka,auto,1,1,12,2.0,15,0,7.5,,,Sri Lanka,Male,Active
 T20,Madagamagamage Shanaka,MD Shanaka,St Kitts and Nevis Patriots,auto,6,6,72,12.0,138,2,11.5,69.0,36.0,Sri Lanka,Male,Active
+T20,Madagamagamage Shanaka,MD Shanaka,dev1,auto,1,1,12,2.0,19,1,9.5,19.0,12.0,Sri Lanka,Male,Active
 T20,MD Sonawane,MD Sonawane,Player coverage A · T20,auto,90,90,1320,220.0,1446,85,6.57,17.01,15.53,India,Female,Retired
 T20,MD Sonawane,MD Sonawane,Player coverage B · T20,auto,84,84,1211,201.83,1315,83,6.52,15.84,14.59,India,Female,Retired
 T20,Mark Stoneman,MD Stoneman,Player coverage A · T20,auto,184,184,3338,556.33,4229,170,7.6,24.88,19.64,England,Male,Active
@@ -30248,6 +30363,7 @@ T20,Michael Bracewell,MG Bracewell,Player coverage B · T20,auto,188,188,4223,70
 T20,Merwe Erasmus,MG Erasmus,Kathmandu Gorkhas,auto,74,74,1594,265.67,1597,113,6.01,14.13,14.11,Namibia,Male,Active
 T20,Merwe Erasmus,MG Erasmus,Player coverage A · T20,auto,280,280,6346,1057.67,6475,383,6.12,16.91,16.57,Namibia,Male,Active
 T20,Merwe Erasmus,MG Erasmus,Player coverage B · T20,auto,245,245,5523,920.5,5449,361,5.92,15.09,15.3,Namibia,Male,Active
+T20,Merwe Erasmus,MG Erasmus,Punit's XI,auto,4,4,72,12.0,71,5,5.92,14.2,14.4,Namibia,Male,Active
 T20,MG Finan,MG Finan,Player coverage A · T20,auto,312,312,6973,1162.17,9855,372,8.48,26.49,18.74,England,Male,Retired
 T20,MG Finan,MG Finan,Player coverage B · T20,auto,286,286,6369,1061.5,8940,336,8.42,26.61,18.96,England,Male,Retired
 T20,Matthew Gale,MG Gale,Player coverage A · T20,auto,244,244,4355,725.83,5825,217,8.03,26.84,20.07,Australia,Male,Retired
@@ -30394,7 +30510,7 @@ T20,Martin Saggers,MJ Saggers,Player coverage A · T20,auto,118,118,1538,256.33,
 T20,Martin Saggers,MJ Saggers,Player coverage B · T20,auto,111,111,1518,253.0,1919,96,7.58,19.99,15.81,England,Male,Retired
 T20,Mitchell Santner,MJ Santner,Edinburgh Castle Rockers,auto,104,104,2387,397.83,2999,92,7.54,32.6,25.95,New Zealand,Male,Active
 T20,Mitchell Santner,MJ Santner,New Zealand,auto,1,1,24,4.0,61,1,15.25,61.0,24.0,New Zealand,Male,Active
-T20,Mitchell Santner,MJ Santner,New Zealand,balanced,1,1,18,3.0,16,2,5.33,8.0,9.0,New Zealand,Male,Active
+T20,Mitchell Santner,MJ Santner,New Zealand,balanced,2,2,42,7.0,51,2,7.29,25.5,21.0,New Zealand,Male,Active
 T20,Mitchell Santner,MJ Santner,Player coverage A · T20,auto,185,185,4386,731.0,4935,199,6.75,24.8,22.04,New Zealand,Male,Active
 T20,Mitchell Santner,MJ Santner,Player coverage B · T20,auto,198,198,4686,781.0,5284,217,6.77,24.35,21.59,New Zealand,Male,Active
 T20,Mitchell Santner,MJ Santner,Trent Rockets,auto,116,116,2610,435.0,3514,114,8.08,30.82,22.89,New Zealand,Male,Active
@@ -30606,17 +30722,17 @@ T20,Malusi Siboto,MP Siboto,Player coverage B · T20,auto,308,308,6940,1156.67,9
 T20,MP Singh,MP Singh,Player coverage A · T20,auto,139,139,3284,547.33,3274,153,5.98,21.4,21.46,New Zealand,Female,Retired
 T20,MP Singh,MP Singh,Player coverage B · T20,auto,161,161,3804,634.0,3627,173,5.72,20.97,21.99,New Zealand,Female,Retired
 T20,Marcus Stoinis,MP Stoinis,AusODI,auto,2,2,48,8.0,77,0,9.63,,,Australia,Male,Active
-T20,Marcus Stoinis,MP Stoinis,Australia,auto,10,10,174,29.0,283,13,9.76,21.77,13.38,Australia,Male,Active
+T20,Marcus Stoinis,MP Stoinis,Australia,auto,11,11,186,31.0,302,15,9.74,20.13,12.4,Australia,Male,Active
 T20,Marcus Stoinis,MP Stoinis,Australia,slow,1,1,18,3.0,20,2,6.67,10.0,9.0,Australia,Male,Active
 T20,Marcus Stoinis,MP Stoinis,Australia Goat,auto,12,12,204,34.0,334,12,9.82,27.83,17.0,Australia,Male,Active
 T20,Marcus Stoinis,MP Stoinis,Australia Goat,slow,1,1,12,2.0,23,0,11.5,,,Australia,Male,Active
 T20,Marcus Stoinis,MP Stoinis,Melbourne Stars,auto,144,144,2546,424.33,3720,134,8.77,27.76,19.0,Australia,Male,Active
-T20,Marcus Stoinis,MP Stoinis,Punjab Kings,auto,251,251,4243,707.17,7621,174,10.78,43.8,24.39,Australia,Male,Active
+T20,Marcus Stoinis,MP Stoinis,Punjab Kings,auto,264,264,4471,745.17,7988,189,10.72,42.26,23.66,Australia,Male,Active
 T20,Marcus Stoinis,MP Stoinis,Seattle Orcas,auto,86,86,1436,239.33,2262,72,9.45,31.42,19.94,Australia,Male,Active
 T20,Marcus Stoinis,MP Stoinis,Southern Brave,auto,70,70,1206,201.0,1840,75,9.15,24.53,16.08,Australia,Male,Active
 T20,Michael Vaughan,MP Vaughan,Player coverage A · T20,auto,199,199,3651,608.5,4329,209,7.11,20.71,17.47,England,Male,Retired
 T20,Michael Vaughan,MP Vaughan,Player coverage B · T20,auto,200,200,3697,616.17,4480,207,7.27,21.64,17.86,England,Male,Retired
-T20,Mayank Yadav,MP Yadav,India,auto,59,59,1298,216.33,2147,72,9.92,29.82,18.03,India,Male,Active
+T20,Mayank Yadav,MP Yadav,India,auto,60,60,1316,219.33,2179,72,9.93,30.26,18.28,India,Male,Active
 T20,Mayank Yadav,MP Yadav,India,flat,9,9,216,36.0,370,9,10.28,41.11,24.0,India,Male,Active
 T20,Mayank Yadav,MP Yadav,Player coverage A · T20,auto,276,276,6343,1057.17,8969,282,8.48,31.8,22.49,India,Male,Active
 T20,Mayank Yadav,MP Yadav,Player coverage B · T20,auto,280,280,6518,1086.33,9375,298,8.63,31.46,21.87,India,Male,Active
@@ -30804,7 +30920,7 @@ T20,Michael Edwards,MW Edwards,Player coverage B · T20,auto,310,310,6955,1159.1
 T20,Matthew Forde,MW Forde,Player coverage A · T20,auto,239,239,5658,943.0,7163,294,7.6,24.36,19.24,West Indies,Male,Active
 T20,Matthew Forde,MW Forde,Player coverage B · T20,auto,250,250,5875,979.17,7712,293,7.88,26.32,20.05,West Indies,Male,Active
 T20,Matthew Forde,MW Forde,St Lucia Kings,auto,117,117,2308,384.67,3389,113,8.81,29.99,20.42,West Indies,Male,Active
-T20,Matthew Forde,MW Forde,West Indies,auto,1,1,18,3.0,20,1,6.67,20.0,18.0,West Indies,Male,Active
+T20,Matthew Forde,MW Forde,West Indies,auto,2,2,36,6.0,35,3,5.83,11.67,12.0,West Indies,Male,Active
 T20,MW Goodwin,MW Goodwin,Player coverage A · T20,auto,174,174,2774,462.33,3259,173,7.05,18.84,16.03,Zimbabwe,Male,Retired
 T20,MW Goodwin,MW Goodwin,Player coverage B · T20,auto,162,162,2648,441.33,3081,188,6.98,16.39,14.09,Zimbabwe,Male,Retired
 T20,Mackenzie Harvey,MW Harvey,Player coverage A · T20,auto,41,41,442,73.67,671,30,9.11,22.37,14.73,Australia,Male,Active
@@ -31203,6 +31319,7 @@ T20,Mohammad Mohsin,Mohammad Mohsin,Player coverage A · T20,auto,315,315,7406,1
 T20,Mohammad Mohsin,Mohammad Mohsin,Player coverage B · T20,auto,287,287,6761,1126.83,7898,378,7.01,20.89,17.89,United States of America,Male,Active
 T20,Mohammad Nabi,Mohammad Nabi,Dubai Capitals,auto,130,130,2441,406.83,2835,116,6.97,24.44,21.04,Afghanistan,Male,Active
 T20,Mohammad Nabi,Mohammad Nabi,Noakhali Express,auto,125,125,2835,472.5,2884,108,6.1,26.7,26.25,Afghanistan,Male,Active
+T20,Mohammad Nabi,Mohammad Nabi,Nurul Huda Sourov's XI,auto,4,4,72,12.0,99,3,8.25,33.0,24.0,Afghanistan,Male,Active
 T20,Mohammad Nabi,Mohammad Nabi,Player coverage A · T20,auto,162,162,3846,641.0,4172,179,6.51,23.31,21.49,Afghanistan,Male,Active
 T20,Mohammad Nabi,Mohammad Nabi,Player coverage B · T20,auto,188,188,4453,742.17,5114,223,6.89,22.93,19.97,Afghanistan,Male,Active
 T20,Mohammad Nadeem,Mohammad Nadeem,Player coverage A · T20,auto,287,287,6648,1108.0,8674,326,7.83,26.61,20.39,Oman,Male,Active
@@ -31296,12 +31413,16 @@ T20,Mohammed Qasim,Mohammed Qasim,Player coverage B · T20,auto,296,296,6883,114
 T20,Mohammed Sameer,Mohammed Sameer,Player coverage A · T20,auto,76,76,865,144.17,1131,59,7.85,19.17,14.66,Bahrain,Male,Active
 T20,Mohammed Sameer,Mohammed Sameer,Player coverage B · T20,auto,77,77,914,152.33,1237,68,8.12,18.19,13.44,Bahrain,Male,Active
 T20,Mohammed Ahmed,Mohammed Shami,Bengal,auto,37,37,859,143.17,1051,55,7.34,19.11,15.62,India,Male,Active
-T20,Mohammed Ahmed,Mohammed Shami,Lucknow Super Giants,auto,266,266,6213,1035.5,10313,286,9.96,36.06,21.72,India,Male,Active
+T20,Mohammed Ahmed,Mohammed Shami,Kasii CC,auto,8,8,168,28.0,321,0,11.46,,,India,Male,Active
+T20,Mohammed Ahmed,Mohammed Shami,Kasii CC,flat,3,3,54,9.0,91,4,10.11,22.75,13.5,India,Male,Active
+T20,Mohammed Ahmed,Mohammed Shami,Lucknow Super Giants,auto,280,280,6543,1090.5,10842,306,9.94,35.43,21.38,India,Male,Active
 T20,Mohammed Ahmed,Mohammed Shami,Player coverage A · T20,auto,176,176,3947,657.83,4798,243,7.29,19.74,16.24,India,Male,Active
 T20,Mohammed Ahmed,Mohammed Shami,Player coverage B · T20,auto,165,165,3750,625.0,4565,238,7.3,19.18,15.76,India,Male,Active
-T20,Mohammed Siraj,Mohammed Siraj,Gujarat Titans,auto,285,285,5335,889.17,8206,271,9.23,30.28,19.69,India,Male,Active
+T20,Mohammed Siraj,Mohammed Siraj,Gujarat Titans,auto,301,301,5635,939.17,8669,289,9.23,30.0,19.5,India,Male,Active
 T20,Mohammed Siraj,Mohammed Siraj,Player coverage A · T20,auto,160,160,3789,631.5,4403,196,6.97,22.46,19.33,India,Male,Active
 T20,Mohammed Siraj,Mohammed Siraj,Player coverage B · T20,auto,164,164,3903,650.5,4589,188,7.05,24.41,20.76,India,Male,Active
+T20,Mohammed Siraj,Mohammed Siraj,cloud.9,flat,3,3,54,9.0,137,4,15.22,34.25,13.5,India,Male,Active
+T20,Mohammed Siraj,Mohammed Siraj,cloud.9,green,1,1,24,4.0,44,0,11.0,,,India,Male,Active
 T20,Mohammed Taha,Mohammed Taha,Player coverage A · T20,auto,87,87,1219,203.17,1435,84,7.06,17.08,14.51,India,Male,Retired
 T20,Mohammed Taha,Mohammed Taha,Player coverage B · T20,auto,92,92,1183,197.17,1367,90,6.93,15.19,13.14,India,Male,Retired
 T20,Mohd Israr,Mohd Israr,Player coverage A · T20,auto,107,107,1481,246.83,1884,114,7.63,16.53,12.99,India,Male,Retired
@@ -31328,7 +31449,7 @@ T20,Mohor Sheikh,Mohor Sheikh,Player coverage A · T20,auto,293,293,5692,948.67,
 T20,Mohor Sheikh,Mohor Sheikh,Player coverage B · T20,auto,311,311,6189,1031.5,8597,340,8.33,25.29,18.2,Bangladesh,Male,Active
 T20,Mohsin Khan,Mohsin Khan,Player coverage A · T20,auto,308,308,6751,1125.17,8932,356,7.94,25.09,18.96,Hong Kong,Male,Retired
 T20,Mohsin Khan,Mohsin Khan,Player coverage B · T20,auto,300,300,6649,1108.17,9097,327,8.21,27.82,20.33,Hong Kong,Male,Retired
-T20,Mohsin Khan,Mohsin Khan,Lucknow Super Giants,auto,266,266,6267,1044.5,10537,339,10.09,31.08,18.49,India,Male,Active
+T20,Mohsin Khan,Mohsin Khan,Lucknow Super Giants,auto,280,280,6602,1100.33,11170,361,10.15,30.94,18.29,India,Male,Active
 T20,Mohsin Khan,Mohsin Khan,Player coverage A · T20,auto,164,164,3870,645.0,4782,277,7.41,17.26,13.97,India,Male,Active
 T20,Mohsin Khan,Mohsin Khan,Player coverage B · T20,auto,177,177,4186,697.67,5099,311,7.31,16.4,13.46,India,Male,Active
 T20,Mohsin Khan,Mohsin Khan,Uttar Pradesh,auto,37,37,871,145.17,1109,69,7.64,16.07,12.62,India,Male,Active
@@ -31476,7 +31597,7 @@ T20,Mujibur Ali,Mujibur Ali,Player coverage A · T20,auto,280,280,5967,994.5,675
 T20,Mujibur Ali,Mujibur Ali,Player coverage B · T20,auto,267,267,5807,967.83,6580,297,6.8,22.15,19.55,Oman,Male,Active
 T20,Mujtaba Yousuf,Mujtaba Yousuf,Player coverage A · T20,auto,305,305,7012,1168.67,9058,319,7.75,28.39,21.98,India,Male,Retired
 T20,Mujtaba Yousuf,Mujtaba Yousuf,Player coverage B · T20,auto,297,297,6745,1124.17,8675,325,7.72,26.69,20.75,India,Male,Retired
-T20,Mukesh Choudhary,Mukesh Choudhary,Chennai Super Kings,auto,289,289,5714,952.33,9310,254,9.78,36.65,22.5,India,Male,Active
+T20,Mukesh Choudhary,Mukesh Choudhary,Chennai Super Kings,auto,303,303,5994,999.0,9788,264,9.8,37.08,22.7,India,Male,Active
 T20,Mukesh Choudhary,Mukesh Choudhary,Chennai Super Kings,flat,1,1,18,3.0,31,1,10.33,31.0,18.0,India,Male,Active
 T20,Mukesh Choudhary,Mukesh Choudhary,Chennai Super Kings,green,1,1,18,3.0,35,1,11.67,35.0,18.0,India,Male,Active
 T20,Mukesh Choudhary,Mukesh Choudhary,Chennai Super Kings,slow,2,2,48,8.0,68,3,8.5,22.67,16.0,India,Male,Active
@@ -31485,7 +31606,7 @@ T20,Mukesh Choudhary,Mukesh Choudhary,Chennai Super Kings XI,flat,1,1,24,4.0,48,
 T20,Mukesh Choudhary,Mukesh Choudhary,Maharashtra,auto,37,37,784,130.67,1138,44,8.71,25.86,17.82,India,Male,Active
 T20,Mukesh Choudhary,Mukesh Choudhary,Player coverage A · T20,auto,166,166,3733,622.17,5099,219,8.2,23.28,17.05,India,Male,Active
 T20,Mukesh Choudhary,Mukesh Choudhary,Player coverage B · T20,auto,148,148,3268,544.67,4495,175,8.25,25.69,18.67,India,Male,Active
-T20,Mukesh Kumar,Mukesh Kumar,Delhi Capitals,auto,282,282,6500,1083.33,10844,270,10.01,40.16,24.07,India,Male,Active
+T20,Mukesh Kumar,Mukesh Kumar,Delhi Capitals,auto,299,299,6901,1150.17,11501,290,10.0,39.66,23.8,India,Male,Active
 T20,Mukesh Kumar,Mukesh Kumar,Player coverage A · T20,auto,164,164,3653,608.83,4757,211,7.81,22.55,17.31,India,Male,Active
 T20,Mukesh Kumar,Mukesh Kumar,Player coverage B · T20,auto,163,163,3678,613.0,5020,192,8.19,26.15,19.16,India,Male,Active
 T20,Mukhtar Ahmed,Mukhtar Ahmed,Player coverage A · T20,auto,28,28,311,51.83,439,28,8.47,15.68,11.11,United States of America,Male,Active
@@ -31536,6 +31657,7 @@ T20,Mustafizur Rahman,Mustafizur Rahman,Bangladesh,auto,3,3,60,10.0,62,1,6.2,62.
 T20,Mustafizur Rahman,Mustafizur Rahman,Bangladesh,balanced,1,1,18,3.0,19,0,6.33,,,Bangladesh,Male,Active
 T20,Mustafizur Rahman,Mustafizur Rahman,Bangladesh,turner,1,1,24,4.0,34,1,8.5,34.0,24.0,Bangladesh,Male,Active
 T20,Mustafizur Rahman,Mustafizur Rahman,Dubai Capitals,auto,134,134,3028,504.67,3861,178,7.65,21.69,17.01,Bangladesh,Male,Active
+T20,Mustafizur Rahman,Mustafizur Rahman,Nurul Huda Sourov's XI,auto,4,4,96,16.0,111,5,6.94,22.2,19.2,Bangladesh,Male,Active
 T20,Mustafizur Rahman,Mustafizur Rahman,Player coverage A · T20,auto,168,168,3963,660.5,4510,201,6.83,22.44,19.72,Bangladesh,Male,Active
 T20,Mustafizur Rahman,Mustafizur Rahman,Player coverage B · T20,auto,146,146,3428,571.33,3965,173,6.94,22.92,19.82,Bangladesh,Male,Active
 T20,Mustafizur Rahman,Mustafizur Rahman,Rangpur Riders,auto,147,147,3298,549.67,3719,248,6.77,15.0,13.3,Bangladesh,Male,Active
@@ -31580,9 +31702,12 @@ T20,Neil Brand,N Brand,Player coverage B · T20,auto,310,310,7074,1179.0,8470,40
 T20,Natalie Brown,N Brown,Player coverage A · T20,auto,154,154,2858,476.33,3255,141,6.83,23.09,20.27,England,Female,Retired
 T20,Natalie Brown,N Brown,Player coverage B · T20,auto,145,145,2754,459.0,3174,132,6.92,24.05,20.86,England,Female,Retired
 T20,Nandre Burger,N Burger,Joburg Super Kings,auto,119,119,2358,393.0,3378,116,8.6,29.12,20.33,South Africa,Male,Active
+T20,Nandre Burger,N Burger,Kasii CC,auto,8,8,150,25.0,288,10,11.52,28.8,15.0,South Africa,Male,Active
+T20,Nandre Burger,N Burger,Kasii CC,flat,3,3,42,7.0,62,2,8.86,31.0,21.0,South Africa,Male,Active
 T20,Nandre Burger,N Burger,Player coverage A · T20,auto,115,115,2581,430.17,3320,132,7.72,25.15,19.55,South Africa,Male,Active
 T20,Nandre Burger,N Burger,Player coverage B · T20,auto,98,98,2206,367.67,2770,119,7.53,23.28,18.54,South Africa,Male,Active
-T20,Nandre Burger,N Burger,Rajasthan Royals,auto,287,287,6271,1045.17,10179,327,9.74,31.13,19.18,South Africa,Male,Active
+T20,Nandre Burger,N Burger,Rajasthan Royals,auto,302,302,6616,1102.67,10834,351,9.83,30.87,18.85,South Africa,Male,Active
+T20,Nandre Burger,N Burger,kasi1,flat,2,2,48,8.0,58,2,7.25,29.0,24.0,South Africa,Male,Active
 T20,Nannaphat Chaihan,N Chaihan,Player coverage A · T20,auto,42,42,522,87.0,539,41,6.2,13.15,12.73,Thailand,Female,Active
 T20,Nannaphat Chaihan,N Chaihan,Player coverage B · T20,auto,38,38,473,78.83,550,27,6.98,20.37,17.52,Thailand,Female,Active
 T20,Naruemol Chaiwai,N Chaiwai,Player coverage A · T20,auto,30,30,354,59.0,447,22,7.58,20.32,16.09,Thailand,Female,Active
@@ -31677,7 +31802,7 @@ T20,Nonkululeko Mlaba,N Mlaba,Player coverage B · T20,auto,137,137,3261,543.5,2
 T20,Nqobani Mokoena,N Mokoena,Paarl Royals,auto,118,118,2388,398.0,4027,105,10.12,38.35,22.74,South Africa,Male,Active
 T20,Nqobani Mokoena,N Mokoena,Player coverage A · T20,auto,244,244,5650,941.67,8573,260,9.1,32.97,21.73,South Africa,Male,Active
 T20,Nqobani Mokoena,N Mokoena,Player coverage B · T20,auto,256,256,5873,978.83,8746,279,8.94,31.35,21.05,South Africa,Male,Active
-T20,Nqobani Mokoena,N Mokoena,South Africa,balanced,1,1,18,3.0,30,0,10.0,,,South Africa,Male,Active
+T20,Nqobani Mokoena,N Mokoena,South Africa,balanced,2,2,36,6.0,57,1,9.5,57.0,36.0,South Africa,Male,Active
 T20,Neil Mugabe,N Mugabe,Player coverage A · T20,auto,67,67,801,133.5,911,53,6.82,17.19,15.11,Kenya,Male,Active
 T20,Neil Mugabe,N Mugabe,Player coverage B · T20,auto,44,44,515,85.83,618,39,7.2,15.85,13.21,Kenya,Male,Active
 T20,Nomatter Mutasa,N Mutasa,Player coverage A · T20,auto,144,144,3010,501.67,3663,172,7.3,21.3,17.5,Zimbabwe,Female,Retired
@@ -31764,6 +31889,7 @@ T20,Naveen Thailappan,N Thailappan,Player coverage B · T20,auto,78,78,954,159.0
 T20,Ilandari Thushara,N Thushara,Kandy Royals,auto,104,104,2153,358.83,3678,120,10.25,30.65,17.94,Sri Lanka,Male,Active
 T20,Ilandari Thushara,N Thushara,Player coverage A · T20,auto,248,248,5813,968.83,8386,326,8.66,25.72,17.83,Sri Lanka,Male,Active
 T20,Ilandari Thushara,N Thushara,Player coverage B · T20,auto,265,265,6173,1028.83,9044,333,8.79,27.16,18.54,Sri Lanka,Male,Active
+T20,Ilandari Thushara,N Thushara,Sri Lanka,auto,1,1,24,4.0,34,2,8.5,17.0,12.0,Sri Lanka,Male,Active
 T20,Neil Timmers,N Timmers,Player coverage A · T20,auto,35,35,363,60.5,508,32,8.4,15.88,11.34,South Africa,Male,Active
 T20,Neil Timmers,N Timmers,Player coverage B · T20,auto,45,45,431,71.83,608,27,8.46,22.52,15.96,South Africa,Male,Active
 T20,Nao Tokizawa,N Tokizawa,Player coverage A · T20,auto,156,156,3597,599.5,4036,186,6.73,21.7,19.34,Japan,Female,Retired
@@ -32134,9 +32260,13 @@ T20,Nandani Sharma,NSS Sharma,Player coverage A · T20,auto,89,89,1992,332.0,204
 T20,Nandani Sharma,NSS Sharma,Player coverage B · T20,auto,87,87,1876,312.67,2080,112,6.65,18.57,16.75,India,Female,Active
 T20,Neil Broom,NT Broom,Player coverage A · T20,auto,28,28,269,44.83,362,28,8.07,12.93,9.61,New Zealand,Male,Retired
 T20,Neil Broom,NT Broom,Player coverage B · T20,auto,23,23,219,36.5,315,18,8.63,17.5,12.17,New Zealand,Male,Retired
-T20,Nathan Ellis,NT Ellis,Australia,auto,9,9,204,34.0,314,9,9.24,34.89,22.67,Australia,Male,Active
+T20,Nathan Ellis,NT Ellis,Australia,auto,10,10,228,38.0,368,10,9.68,36.8,22.8,Australia,Male,Active
 T20,Nathan Ellis,NT Ellis,Australia,slow,1,1,24,4.0,21,1,5.25,21.0,24.0,Australia,Male,Active
-T20,Nathan Ellis,NT Ellis,BSDK GRenin,auto,12,12,258,43.0,388,19,9.02,20.42,13.58,Australia,Male,Active
+T20,Nathan Ellis,NT Ellis,BSDK GRenin,auto,13,13,282,47.0,425,21,9.04,20.24,13.43,Australia,Male,Active
+T20,Nathan Ellis,NT Ellis,BSDK GRenin,flat,5,5,105,17.5,142,7,8.11,20.29,15.0,Australia,Male,Active
+T20,Nathan Ellis,NT Ellis,BSDK GRenin,green,1,1,24,4.0,37,1,9.25,37.0,24.0,Australia,Male,Active
+T20,Nathan Ellis,NT Ellis,BSDK GRenin,slow,2,2,48,8.0,87,3,10.88,29.0,16.0,Australia,Male,Active
+T20,Nathan Ellis,NT Ellis,BSDK GRenin,turner,2,2,48,8.0,45,2,5.63,22.5,24.0,Australia,Male,Active
 T20,Nathan Ellis,NT Ellis,Chennai Super Kings XI,auto,1,1,24,4.0,40,1,10.0,40.0,24.0,Australia,Male,Active
 T20,Nathan Ellis,NT Ellis,Chennai Super Kings XI,flat,1,1,24,4.0,39,0,9.75,,,Australia,Male,Active
 T20,Nathan Ellis,NT Ellis,Hobart Hurricanes,auto,124,124,2776,462.67,3719,147,8.04,25.3,18.88,Australia,Male,Active
@@ -32147,6 +32277,9 @@ T20,Nathan Ellis,NT Ellis,Nurul wala team,turner,4,4,79,13.17,111,2,8.43,55.5,39
 T20,Nathan Ellis,NT Ellis,Player coverage A · T20,auto,166,166,3957,659.5,4711,246,7.14,19.15,16.09,Australia,Male,Active
 T20,Nathan Ellis,NT Ellis,Player coverage B · T20,auto,177,177,4203,700.5,4792,245,6.84,19.56,17.16,Australia,Male,Active
 T20,Nathan Ellis,NT Ellis,Sunrisers Leeds,auto,104,104,2310,385.0,3057,152,7.94,20.11,15.2,Australia,Male,Active
+T20,Nathan Ellis,NT Ellis,Tanmay,auto,6,6,144,24.0,211,4,8.79,52.75,36.0,Australia,Male,Active
+T20,Nathan Ellis,NT Ellis,Tanmay,flat,3,3,72,12.0,108,4,9.0,27.0,18.0,Australia,Male,Active
+T20,Nathan Ellis,NT Ellis,dev1,auto,6,6,133,22.17,184,3,8.3,61.33,44.33,Australia,Male,Active
 T20,NT Gamage,NT Gamage,Player coverage A · T20,auto,282,282,5825,970.83,8191,289,8.44,28.34,20.16,,Male,Active
 T20,NT Gamage,NT Gamage,Player coverage B · T20,auto,270,270,5689,948.17,7963,277,8.4,28.75,20.54,,Male,Active
 T20,Nadia Gruny,NT Gruny,Player coverage A · T20,auto,42,42,624,104.0,680,41,6.54,16.59,15.22,United States of America,Female,Retired
@@ -32409,9 +32542,10 @@ T20,Nitesh Lohchab,Nitesh Lohchab,Player coverage A · T20,auto,9,9,73,12.17,108
 T20,Nitesh Lohchab,Nitesh Lohchab,Player coverage B · T20,auto,11,11,108,18.0,155,10,8.61,15.5,10.8,India,Male,Retired
 T20,Nitesh Sedai,Nitesh Sedai,Player coverage A · T20,auto,270,270,5557,926.17,7260,249,7.84,29.16,22.32,India,Male,Retired
 T20,Nitesh Sedai,Nitesh Sedai,Player coverage B · T20,auto,265,265,5439,906.5,6908,213,7.62,32.43,25.54,India,Male,Retired
+T20,Kaki Reddy,Nithish Kumar Reddy,Amrit,flat,4,4,54,9.0,113,5,12.56,22.6,10.8,India,Male,Active
 T20,Kaki Reddy,Nithish Kumar Reddy,Player coverage A · T20,auto,155,155,3165,527.5,4529,189,8.59,23.96,16.75,India,Male,Active
 T20,Kaki Reddy,Nithish Kumar Reddy,Player coverage B · T20,auto,163,163,3425,570.83,5054,188,8.85,26.88,18.22,India,Male,Active
-T20,Kaki Reddy,Nithish Kumar Reddy,Sunrisers Hyderabad,auto,270,270,4146,691.0,7268,195,10.52,37.27,21.26,India,Male,Active
+T20,Kaki Reddy,Nithish Kumar Reddy,Sunrisers Hyderabad,auto,284,284,4356,726.0,7705,204,10.61,37.77,21.35,India,Male,Active
 T20,Nitin Tanwar,Nitin Tanwar,Player coverage A · T20,auto,315,315,7387,1231.17,9198,366,7.47,25.13,20.18,India,Male,Retired
 T20,Nitin Tanwar,Nitin Tanwar,Player coverage B · T20,auto,289,289,6763,1127.17,8117,362,7.2,22.42,18.68,India,Male,Retired
 T20,Nitin Tanwar,Nitin Tanwar,Services,auto,37,37,838,139.67,1109,39,7.94,28.44,21.49,India,Male,Retired
@@ -32429,7 +32563,7 @@ T20,Nongthombam Sarojkumar,Nongthombam Sarojkumar,Player coverage A · T20,auto,
 T20,Nongthombam Sarojkumar,Nongthombam Sarojkumar,Player coverage B · T20,auto,62,62,888,148.0,1060,58,7.16,18.28,15.31,India,Male,Retired
 T20,Nonoha Yasumoto,Nonoha Yasumoto,Player coverage A · T20,auto,155,155,3398,566.33,3470,191,6.13,18.17,17.79,Japan,Female,Active
 T20,Nonoha Yasumoto,Nonoha Yasumoto,Player coverage B · T20,auto,143,143,3092,515.33,3222,180,6.25,17.9,17.18,Japan,Female,Active
-T20,Noor Lakanwal,Noor Ahmad,Chennai Super Kings,auto,289,289,6847,1141.17,8606,363,7.54,23.71,18.86,Afghanistan,Male,Active
+T20,Noor Lakanwal,Noor Ahmad,Chennai Super Kings,auto,303,303,7183,1197.17,9097,380,7.6,23.94,18.9,Afghanistan,Male,Active
 T20,Noor Lakanwal,Noor Ahmad,Chennai Super Kings,flat,1,1,24,4.0,42,1,10.5,42.0,24.0,Afghanistan,Male,Active
 T20,Noor Lakanwal,Noor Ahmad,Chennai Super Kings,green,1,1,24,4.0,35,1,8.75,35.0,24.0,Afghanistan,Male,Active
 T20,Noor Lakanwal,Noor Ahmad,Chennai Super Kings,slow,2,2,48,8.0,40,2,5.0,20.0,24.0,Afghanistan,Male,Active
@@ -32439,6 +32573,8 @@ T20,Noor Lakanwal,Noor Ahmad,Durban's Super Giants,auto,131,131,3097,516.17,3742
 T20,Noor Lakanwal,Noor Ahmad,Manchester Super Giants,auto,100,100,2348,391.33,2916,137,7.45,21.28,17.14,Afghanistan,Male,Active
 T20,Noor Lakanwal,Noor Ahmad,Player coverage A · T20,auto,47,47,1120,186.67,1247,60,6.68,20.78,18.67,Afghanistan,Male,Active
 T20,Noor Lakanwal,Noor Ahmad,Player coverage B · T20,auto,39,39,931,155.17,979,64,6.31,15.3,14.55,Afghanistan,Male,Active
+T20,Noor Lakanwal,Noor Ahmad,Tanmay,auto,6,6,144,24.0,243,13,10.13,18.69,11.08,Afghanistan,Male,Active
+T20,Noor Lakanwal,Noor Ahmad,Tanmay,flat,3,3,72,12.0,89,6,7.42,14.83,12.0,Afghanistan,Male,Active
 T20,Noor Lakanwal,Noor Ahmad,vamps,auto,9,9,216,36.0,274,17,7.61,16.12,12.71,Afghanistan,Male,Active
 T20,Noor Zakaria,Noor Hayati Zakaria,Player coverage A · T20,auto,5,5,48,8.0,54,4,6.75,13.5,12.0,Malaysia,Female,Active
 T20,Noor Zakaria,Noor Hayati Zakaria,Player coverage B · T20,auto,7,7,78,13.0,87,2,6.69,43.5,39.0,Malaysia,Female,Active
@@ -32876,7 +33012,7 @@ T20,Phiriyapong Suanchuai,P Suanchuai,Player coverage B · T20,auto,66,66,651,10
 T20,Prenelan Subrayen,P Subrayen,Joburg Super Kings,auto,120,120,2678,446.33,3313,119,7.42,27.84,22.5,South Africa,Male,Active
 T20,Prenelan Subrayen,P Subrayen,Player coverage A · T20,auto,248,248,5911,985.17,6745,275,6.85,24.53,21.49,South Africa,Male,Active
 T20,Prenelan Subrayen,P Subrayen,Player coverage B · T20,auto,252,252,5999,999.83,6744,274,6.75,24.61,21.89,South Africa,Male,Active
-T20,Prenelan Subrayen,P Subrayen,South Africa,balanced,1,1,24,4.0,36,1,9.0,36.0,24.0,South Africa,Male,Active
+T20,Prenelan Subrayen,P Subrayen,South Africa,balanced,2,2,42,7.0,51,1,7.29,51.0,42.0,South Africa,Male,Active
 T20,P Sungnard,P Sungnard,Player coverage A · T20,auto,40,40,461,76.83,467,34,6.08,13.74,13.56,Thailand,Male,Retired
 T20,P Sungnard,P Sungnard,Player coverage B · T20,auto,24,24,252,42.0,310,20,7.38,15.5,12.6,Thailand,Male,Retired
 T20,Pawan Suyal,P Suyal,Player coverage A · T20,auto,309,309,7029,1171.5,8834,327,7.54,27.02,21.5,India,Male,Retired
@@ -33029,7 +33165,7 @@ T20,Patrick Cummins,PJ Cummins,Australia Goat,slow,1,1,12,2.0,21,0,10.5,,,Austra
 T20,Patrick Cummins,PJ Cummins,Flappy's Taskforce,auto,2,2,48,8.0,81,3,10.13,27.0,16.0,Australia,Male,Active
 T20,Patrick Cummins,PJ Cummins,Player coverage A · T20,auto,168,168,3944,657.33,5107,196,7.77,26.06,20.12,Australia,Male,Active
 T20,Patrick Cummins,PJ Cummins,Player coverage B · T20,auto,154,154,3672,612.0,4557,181,7.45,25.18,20.29,Australia,Male,Active
-T20,Patrick Cummins,PJ Cummins,Sunrisers Hyderabad,auto,270,270,6331,1055.17,10404,244,9.86,42.64,25.95,Australia,Male,Active
+T20,Patrick Cummins,PJ Cummins,Sunrisers Hyderabad,auto,284,284,6661,1110.17,10892,261,9.81,41.73,25.52,Australia,Male,Active
 T20,Peter Forrest,PJ Forrest,Player coverage A · T20,auto,58,58,645,107.5,888,50,8.26,17.76,12.9,Australia,Male,Retired
 T20,Peter Forrest,PJ Forrest,Player coverage B · T20,auto,55,55,694,115.67,889,49,7.69,18.14,14.16,Australia,Male,Retired
 T20,PJ Grieshaber,PJ Grieshaber,Player coverage A · T20,auto,96,96,1234,205.67,1592,78,7.74,20.41,15.82,England,Male,Retired
@@ -33197,6 +33333,7 @@ T20,PV Thanawala,PV Thanawala,Player coverage B · T20,auto,10,10,90,15.0,84,6,5
 T20,Pathira Chameera,PVD Chameera,Dambulla Sixers,auto,107,107,2473,412.17,4329,126,10.5,34.36,19.63,Sri Lanka,Male,Active
 T20,Pathira Chameera,PVD Chameera,Player coverage A · T20,auto,247,247,5761,960.17,8033,356,8.37,22.56,16.18,Sri Lanka,Male,Active
 T20,Pathira Chameera,PVD Chameera,Player coverage B · T20,auto,266,266,6216,1036.0,8437,345,8.14,24.46,18.02,Sri Lanka,Male,Active
+T20,Pathira Chameera,PVD Chameera,Sri Lanka,auto,1,1,24,4.0,31,1,7.75,31.0,24.0,Sri Lanka,Male,Active
 T20,Penumatsa Raju,PVSN Raju,Player coverage A · T20,auto,3,3,18,3.0,23,1,7.67,23.0,18.0,India,Male,Active
 T20,Penumatsa Raju,PVSN Raju,Player coverage B · T20,auto,6,6,58,9.67,73,4,7.55,18.25,14.5,India,Male,Active
 T20,PVSS Raja,PVSS Raja,Player coverage A · T20,auto,85,85,993,165.5,1227,75,7.41,16.36,13.24,Singapore,Male,Retired
@@ -33388,7 +33525,7 @@ T20,Preeti Bose,Preeti Bose,Player coverage B · T20,auto,157,157,3556,592.67,38
 T20,Premraj Rajavelu,Premraj Rajavelu,Player coverage A · T20,auto,67,67,854,142.33,1150,63,8.08,18.25,13.56,India,Male,Retired
 T20,Premraj Rajavelu,Premraj Rajavelu,Player coverage B · T20,auto,80,80,1011,168.5,1317,85,7.82,15.49,11.89,India,Male,Retired
 T20,Prince Yadav,Prince Yadav,Delhi,auto,37,37,887,147.83,1136,65,7.68,17.48,13.65,India,Male,Active
-T20,Prince Yadav,Prince Yadav,Lucknow Super Giants,auto,266,266,6092,1015.33,9004,299,8.87,30.11,20.37,India,Male,Active
+T20,Prince Yadav,Prince Yadav,Lucknow Super Giants,auto,280,280,6410,1068.33,9524,316,8.91,30.14,20.28,India,Male,Active
 T20,Prince Yadav,Prince Yadav,Player coverage A · T20,auto,152,152,3544,590.67,4288,209,7.26,20.52,16.96,India,Male,Active
 T20,Prince Yadav,Prince Yadav,Player coverage B · T20,auto,190,190,4426,737.67,5361,255,7.27,21.02,17.36,India,Male,Active
 T20,Pritam Das,Pritam Das,Player coverage A · T20,auto,303,303,6299,1049.83,8333,358,7.94,23.28,17.59,India,Male,Retired
@@ -33500,9 +33637,11 @@ T20,Ravichandran Ashwin,R Ashwin,Chennai Super Kings All-time,auto,2,2,48,8.0,58
 T20,Ravichandran Ashwin,R Ashwin,Dublin Guardians,auto,102,102,2270,378.33,2682,71,7.09,37.77,31.97,India,Male,Active
 T20,Ravichandran Ashwin,R Ashwin,Player coverage A · T20,auto,208,208,4755,792.5,5352,222,6.75,24.11,21.42,India,Male,Active
 T20,Ravichandran Ashwin,R Ashwin,Player coverage B · T20,auto,187,187,4340,723.33,4904,206,6.78,23.81,21.07,India,Male,Active
-T20,Ravichandran Ashwin,R Ashwin,Punit,auto,105,105,2309,384.83,3556,73,9.24,48.71,31.63,India,Male,Active
-T20,Ravichandran Ashwin,R Ashwin,Punit,flat,1,1,24,4.0,41,2,10.25,20.5,12.0,India,Male,Active
-T20,Ravichandran Ashwin,R Ashwin,Punit,slow,1,1,24,4.0,29,2,7.25,14.5,12.0,India,Male,Active
+T20,Ravichandran Ashwin,R Ashwin,Punit,auto,115,115,2519,419.83,3901,81,9.29,48.16,31.1,India,Male,Active
+T20,Ravichandran Ashwin,R Ashwin,Punit,flat,10,10,234,39.0,330,11,8.46,30.0,21.27,India,Male,Active
+T20,Ravichandran Ashwin,R Ashwin,Punit,green,1,1,24,4.0,19,1,4.75,19.0,24.0,India,Male,Active
+T20,Ravichandran Ashwin,R Ashwin,Punit,slow,3,3,72,12.0,101,2,8.42,50.5,36.0,India,Male,Active
+T20,Ravichandran Ashwin,R Ashwin,Punit,turner,1,1,24,4.0,31,1,7.75,31.0,24.0,India,Male,Active
 T20,Rajat Bhatia,R Bhatia,Player coverage A · T20,auto,289,289,6733,1122.17,7996,368,7.13,21.73,18.3,India,Male,Retired
 T20,Rajat Bhatia,R Bhatia,Player coverage B · T20,auto,318,318,7340,1223.33,9025,417,7.38,21.64,17.6,India,Male,Retired
 T20,Rajesh Bishnoi,R Bishnoi,Player coverage A · T20,auto,33,33,300,50.0,421,17,8.42,24.76,17.65,India,Male,Retired
@@ -33701,6 +33840,9 @@ T20,Riyan Parag,R Parag,Best,auto,1,1,18,3.0,26,0,8.67,,,India,Male,Active
 T20,Riyan Parag,R Parag,Player coverage A · T20,auto,151,151,3336,556.0,3970,164,7.14,24.21,20.34,India,Male,Active
 T20,Riyan Parag,R Parag,Player coverage B · T20,auto,156,156,3497,582.83,4192,180,7.19,23.29,19.43,India,Male,Active
 T20,Riyan Parag,R Parag,Rajasthan Royals,auto,20,20,234,39.0,332,9,8.51,36.89,26.0,India,Male,Active
+T20,Riyan Parag,R Parag,SatkarXI,auto,3,3,36,6.0,63,1,10.5,63.0,36.0,India,Male,Active
+T20,Riyan Parag,R Parag,SatkarXI,flat,1,1,18,3.0,24,0,8.0,,,India,Male,Active
+T20,Riyan Parag,R Parag,SatkarXI,green,1,1,12,2.0,17,0,8.5,,,India,Male,Active
 T20,Runyararo Pasipanodya,R Pasipanodya,Player coverage A · T20,auto,42,42,544,90.67,569,30,6.28,18.97,18.13,Zimbabwe,Female,Active
 T20,Runyararo Pasipanodya,R Pasipanodya,Player coverage B · T20,auto,34,34,395,65.83,455,21,6.91,21.67,18.81,Zimbabwe,Female,Active
 T20,R Pasupathy,R Pasupathy,Player coverage A · T20,auto,26,26,371,61.83,447,30,7.23,14.9,12.37,Singapore,Female,Retired
@@ -33775,7 +33917,8 @@ T20,Rahul Sharma,R Sharma,Player coverage B · T20,auto,299,299,6902,1150.33,757
 T20,Romario Shepherd,R Shepherd,Guyana Amazon Warriors,auto,121,121,2117,352.83,3483,127,9.87,27.43,16.67,West Indies,Male,Active
 T20,Romario Shepherd,R Shepherd,MI Emirates,auto,105,105,1736,289.33,2869,106,9.92,27.07,16.38,West Indies,Male,Active
 T20,Romario Shepherd,R Shepherd,MI New York,auto,109,109,1899,316.5,3356,100,10.6,33.56,18.99,West Indies,Male,Active
-T20,Romario Shepherd,R Shepherd,Royal Challengers Bengaluru,auto,300,300,4537,756.17,8166,244,10.8,33.47,18.59,West Indies,Male,Active
+T20,Romario Shepherd,R Shepherd,Nurul Huda Sourov's XI,auto,2,2,30,5.0,31,1,6.2,31.0,30.0,West Indies,Male,Active
+T20,Romario Shepherd,R Shepherd,Royal Challengers Bengaluru,auto,315,315,4752,792.0,8601,255,10.86,33.73,18.64,West Indies,Male,Active
 T20,Romario Shepherd,R Shepherd,Royal Challengers Bengaluru,flat,2,2,24,4.0,32,4,8.0,8.0,6.0,West Indies,Male,Active
 T20,Romario Shepherd,R Shepherd,Royal Challengers Bengaluru,slow,1,1,12,2.0,19,2,9.5,9.5,6.0,West Indies,Male,Active
 T20,Romario Shepherd,R Shepherd,vamps,auto,9,9,142,23.67,224,11,9.46,20.36,12.91,West Indies,Male,Active
@@ -33871,13 +34014,20 @@ T20,Rubin Hermann,RA Herman,Player coverage A · T20,auto,23,23,213,35.5,284,17,
 T20,Rubin Hermann,RA Herman,Player coverage B · T20,auto,27,27,260,43.33,390,14,9.0,27.86,18.57,South Africa,Male,Active
 T20,RA Hunter,RA Hunter,Player coverage A · T20,auto,80,80,936,156.0,1266,57,8.12,22.21,16.42,Ireland,Male,Retired
 T20,RA Hunter,RA Hunter,Player coverage B · T20,auto,84,84,1048,174.67,1517,56,8.69,27.09,18.71,Ireland,Male,Retired
-T20,Ravindrasinh Jadeja,RA Jadeja,BSDK GRenin,auto,12,12,228,38.0,347,9,9.13,38.56,25.33,India,Male,Active
+T20,Ravindrasinh Jadeja,RA Jadeja,BSDK GRenin,auto,13,13,240,40.0,364,9,9.1,40.44,26.67,India,Male,Active
+T20,Ravindrasinh Jadeja,RA Jadeja,BSDK GRenin,flat,5,5,84,14.0,94,4,6.71,23.5,21.0,India,Male,Active
+T20,Ravindrasinh Jadeja,RA Jadeja,BSDK GRenin,green,1,1,18,3.0,18,0,6.0,,,India,Male,Active
+T20,Ravindrasinh Jadeja,RA Jadeja,BSDK GRenin,slow,2,2,42,7.0,53,0,7.57,,,India,Male,Active
+T20,Ravindrasinh Jadeja,RA Jadeja,BSDK GRenin,turner,2,2,36,6.0,43,1,7.17,43.0,36.0,India,Male,Active
 T20,Ravindrasinh Jadeja,RA Jadeja,Chennai Super Kings All-time,auto,2,2,36,6.0,37,2,6.17,18.5,18.0,India,Male,Active
 T20,Ravindrasinh Jadeja,RA Jadeja,Flappy's Taskforce,auto,2,2,42,7.0,61,1,8.71,61.0,42.0,India,Male,Active
 T20,Ravindrasinh Jadeja,RA Jadeja,IndiaODI,auto,10,10,240,40.0,303,7,7.58,43.29,34.29,India,Male,Active
 T20,Ravindrasinh Jadeja,RA Jadeja,Player coverage A · T20,auto,145,145,3211,535.17,3820,148,7.14,25.81,21.7,India,Male,Active
 T20,Ravindrasinh Jadeja,RA Jadeja,Player coverage B · T20,auto,147,147,3263,543.83,3807,147,7.0,25.9,22.2,India,Male,Active
-T20,Ravindrasinh Jadeja,RA Jadeja,Rajasthan Royals,auto,287,287,5015,835.83,7062,169,8.45,41.79,29.67,India,Male,Active
+T20,Ravindrasinh Jadeja,RA Jadeja,Rajasthan Royals,auto,302,302,5261,876.83,7406,179,8.45,41.37,29.39,India,Male,Active
+T20,Ravindrasinh Jadeja,RA Jadeja,Shillong Dragons,auto,3,3,72,12.0,123,1,10.25,123.0,72.0,India,Male,Active
+T20,Ravindrasinh Jadeja,RA Jadeja,Tanmay,auto,6,6,144,24.0,209,6,8.71,34.83,24.0,India,Male,Active
+T20,Ravindrasinh Jadeja,RA Jadeja,Tanmay,flat,3,3,69,11.5,130,1,11.3,130.0,69.0,India,Male,Active
 T20,Ravindrasinh Jadeja,RA Jadeja,Testing,auto,3,3,72,12.0,62,5,5.17,12.4,14.4,India,Male,Active
 T20,Ravindrasinh Jadeja,RA Jadeja,Testing,flat,1,1,24,4.0,23,2,5.75,11.5,12.0,India,Male,Active
 T20,Ravindrasinh Jadeja,RA Jadeja,Testing,turner,1,1,24,4.0,20,5,5.0,4.0,4.8,India,Male,Active
@@ -34169,7 +34319,7 @@ T20,Roston Chase,RL Chase,Player coverage A · T20,auto,200,200,4782,797.0,5601,
 T20,Roston Chase,RL Chase,Player coverage B · T20,auto,189,189,4494,749.0,5086,241,6.79,21.1,18.65,West Indies,Male,Active
 T20,Roston Chase,RL Chase,Pretoria Capitals,auto,112,112,2255,375.83,3008,111,8.0,27.1,20.32,West Indies,Male,Active
 T20,Roston Chase,RL Chase,St Lucia Kings,auto,117,117,2500,416.67,3156,131,7.57,24.09,19.08,West Indies,Male,Active
-T20,Roston Chase,RL Chase,West Indies,auto,1,1,24,4.0,25,1,6.25,25.0,24.0,West Indies,Male,Active
+T20,Roston Chase,RL Chase,West Indies,auto,2,2,48,8.0,60,1,7.5,60.0,48.0,West Indies,Male,Active
 T20,RL Dougherty,RL Dougherty,Player coverage A · T20,auto,50,50,528,88.0,744,36,8.45,20.67,14.67,Ireland,Male,Retired
 T20,RL Dougherty,RL Dougherty,Player coverage B · T20,auto,45,45,535,89.17,738,30,8.28,24.6,17.83,Ireland,Male,Retired
 T20,RL Evitts,RL Evitts,Player coverage A · T20,auto,58,58,664,110.67,887,43,8.02,20.63,15.44,England,Male,Retired
@@ -34515,7 +34665,7 @@ T20,Rafiullah,Rafiullah,Player coverage A · T20,auto,291,291,5925,987.5,8248,29
 T20,Rafiullah,Rafiullah,Player coverage B · T20,auto,286,286,5925,987.5,8040,306,8.14,26.27,19.36,Oman,Male,Retired
 T20,Raghav Dhawan,Raghav Dhawan,Player coverage A · T20,auto,21,21,224,37.33,326,17,8.73,19.18,13.18,Uganda,Male,Active
 T20,Raghav Dhawan,Raghav Dhawan,Player coverage B · T20,auto,22,22,231,38.5,375,15,9.74,25.0,15.4,Uganda,Male,Active
-T20,Raghu Sharma,Raghu Sharma,Mumbai Indians,auto,302,302,5585,930.83,8576,190,9.21,45.14,29.39,India,Male,Active
+T20,Raghu Sharma,Raghu Sharma,Mumbai Indians,auto,320,320,5921,986.83,9129,201,9.25,45.42,29.46,India,Male,Active
 T20,Raghu Sharma,Raghu Sharma,Mumbai Indians,green,1,1,24,4.0,32,1,8.0,32.0,24.0,India,Male,Active
 T20,Raghu Sharma,Raghu Sharma,Mumbai Indians,slow,1,1,18,3.0,29,0,9.67,,,India,Male,Active
 T20,Raghu Sharma,Raghu Sharma,Player coverage A · T20,auto,140,140,2913,485.5,3517,127,7.24,27.69,22.94,India,Male,Active
@@ -34650,13 +34800,16 @@ T20,Rashid Ahad,Rashid Ahad,Player coverage A · T20,auto,102,102,1356,226.0,175
 T20,Rashid Ahad,Rashid Ahad,Player coverage B · T20,auto,99,99,1433,238.83,1803,102,7.55,17.68,14.05,Malaysia,Male,Retired
 T20,Rashid Hussain,Rashid Hussain,Player coverage A · T20,auto,92,92,1148,191.33,1640,89,8.57,18.43,12.9,Bahrain,Male,Retired
 T20,Rashid Hussain,Rashid Hussain,Player coverage B · T20,auto,96,96,1325,220.83,1764,88,7.99,20.05,15.06,Bahrain,Male,Retired
-T20,Rashid Arman,Rashid Khan,Gujarat Titans,auto,285,285,6472,1078.67,8624,377,8.0,22.88,17.17,Afghanistan,Male,Active
+T20,Rashid Arman,Rashid Khan,Gujarat Titans,auto,301,301,6844,1140.67,9134,394,8.01,23.18,17.37,Afghanistan,Male,Active
 T20,Rashid Arman,Rashid Khan,MI Cape Town,auto,130,130,3060,510.0,3611,185,7.08,19.52,16.54,Afghanistan,Male,Active
 T20,Rashid Arman,Rashid Khan,MI London,auto,101,101,2336,389.33,2947,103,7.57,28.61,22.68,Afghanistan,Male,Active
 T20,Rashid Arman,Rashid Khan,Player coverage A · T20,auto,27,27,642,107.0,693,30,6.48,23.1,21.4,Afghanistan,Male,Active
 T20,Rashid Arman,Rashid Khan,Player coverage B · T20,auto,39,39,936,156.0,1017,56,6.52,18.16,16.71,Afghanistan,Male,Active
 T20,Rashid Arman,Rashid Khan,Selectors's XI,auto,17,17,402,67.0,527,20,7.87,26.35,20.1,Afghanistan,Male,Active
+T20,Rashid Arman,Rashid Khan,Shillong Dragons,auto,3,3,72,12.0,116,3,9.67,38.67,24.0,Afghanistan,Male,Active
 T20,Rashid Arman,Rashid Khan,Trent Rockets All-time,auto,7,7,168,28.0,174,6,6.21,29.0,28.0,Afghanistan,Male,Active
+T20,Rashid Arman,Rashid Khan,cloud.9,flat,3,3,59,9.83,84,3,8.54,28.0,19.67,Afghanistan,Male,Active
+T20,Rashid Arman,Rashid Khan,cloud.9,green,1,1,24,4.0,35,1,8.75,35.0,24.0,Afghanistan,Male,Active
 T20,Rashid Arman,Rashid Khan,grenin bkl,auto,30,30,700,116.67,924,31,7.92,29.81,22.58,Afghanistan,Male,Active
 T20,Rashid Khan,Rashid Khan,Kathmandu Gorkhas,auto,75,75,1345,224.17,1825,78,8.14,23.4,17.24,Nepal,Male,Active
 T20,Rashid Khan,Rashid Khan,Player coverage A · T20,auto,255,255,5420,903.33,7291,326,8.07,22.37,16.63,Nepal,Male,Active
@@ -34670,7 +34823,7 @@ T20,Rashmeka Narayanan,Rashmeka Badri Narayanan,Player coverage B · T20,auto,15
 T20,Rasikh Dar,Rasikh Salam,Jammu & Kashmir,auto,38,38,853,142.17,1102,57,7.75,19.33,14.96,India,Male,Active
 T20,Rasikh Dar,Rasikh Salam,Player coverage A · T20,auto,157,157,3553,592.17,4906,199,8.28,24.65,17.85,India,Male,Active
 T20,Rasikh Dar,Rasikh Salam,Player coverage B · T20,auto,144,144,3289,548.17,4586,181,8.37,25.34,18.17,India,Male,Active
-T20,Rasikh Dar,Rasikh Salam,Royal Challengers Bengaluru,auto,302,302,5394,899.0,9235,330,10.27,27.98,16.35,India,Male,Active
+T20,Rasikh Dar,Rasikh Salam,Royal Challengers Bengaluru,auto,318,318,5680,946.67,9700,347,10.25,27.95,16.37,India,Male,Active
 T20,Rasikh Dar,Rasikh Salam,Royal Challengers Bengaluru,flat,2,2,24,4.0,41,2,10.25,20.5,12.0,India,Male,Active
 T20,Rasikh Dar,Rasikh Salam,Royal Challengers Bengaluru,slow,1,1,18,3.0,17,1,5.67,17.0,18.0,India,Male,Active
 T20,Raunaq Kapur,Raunaq Kapur,Player coverage A · T20,auto,12,12,158,26.33,196,13,7.44,15.08,12.15,New Zealand,Male,Active
@@ -34678,11 +34831,13 @@ T20,Raunaq Kapur,Raunaq Kapur,Player coverage B · T20,auto,11,11,96,16.0,141,10
 T20,Raushan Raj,Raushan Raj,Player coverage A · T20,auto,323,323,7052,1175.33,8608,430,7.32,20.02,16.4,India,Male,Retired
 T20,Raushan Raj,Raushan Raj,Player coverage B · T20,auto,277,277,6239,1039.83,8017,370,7.71,21.67,16.86,India,Male,Retired
 T20,Ravi Bishnoi,Ravi Bishnoi,Gujarat,auto,44,44,1035,172.5,1274,68,7.39,18.74,15.22,India,Male,Active
-T20,Ravi Bishnoi,Ravi Bishnoi,India,auto,59,59,1379,229.83,1855,72,8.07,25.76,19.15,India,Male,Active
+T20,Ravi Bishnoi,Ravi Bishnoi,India,auto,60,60,1397,232.83,1891,73,8.12,25.9,19.14,India,Male,Active
 T20,Ravi Bishnoi,Ravi Bishnoi,India,flat,9,9,210,35.0,260,10,7.43,26.0,21.0,India,Male,Active
 T20,Ravi Bishnoi,Ravi Bishnoi,Player coverage A · T20,auto,274,274,6535,1089.17,7780,329,7.14,23.65,19.86,India,Male,Active
 T20,Ravi Bishnoi,Ravi Bishnoi,Player coverage B · T20,auto,278,278,6649,1108.17,8009,337,7.23,23.77,19.73,India,Male,Active
 T20,Ravi Bishnoi,Ravi Bishnoi,Rajasthan,auto,37,37,864,144.0,920,45,6.39,20.44,19.2,India,Male,Active
+T20,Ravi Bishnoi,Ravi Bishnoi,cloud.9,flat,3,3,48,8.0,84,1,10.5,84.0,48.0,India,Male,Active
+T20,Ravi Bishnoi,Ravi Bishnoi,cloud.9,green,1,1,24,4.0,40,1,10.0,40.0,24.0,India,Male,Active
 T20,Ravi Chauhan,Ravi Chauhan,Player coverage A · T20,auto,73,73,955,159.17,1032,63,6.48,16.38,15.16,India,Male,Retired
 T20,Ravi Chauhan,Ravi Chauhan,Player coverage B · T20,auto,60,60,698,116.33,759,47,6.52,16.15,14.85,India,Male,Retired
 T20,Ravi Kiran,Ravi Kiran,Player coverage A · T20,auto,306,306,7156,1192.67,9108,372,7.64,24.48,19.24,India,Male,Retired
@@ -35052,14 +35207,16 @@ T20,S Disanayaka,S Disanayaka,Player coverage B · T20,auto,294,294,6873,1145.5,
 T20,S Dixit,S Dixit,Auckland,auto,105,105,1838,306.33,2593,122,8.46,21.25,15.07,New Zealand,Male,Active
 T20,S Dixit,S Dixit,Player coverage A · T20,auto,244,244,5439,906.5,7226,297,7.97,24.33,18.31,New Zealand,Male,Active
 T20,S Dixit,S Dixit,Player coverage B · T20,auto,237,237,5277,879.5,7364,271,8.37,27.17,19.47,New Zealand,Male,Active
-T20,Shivam Dube,S Dube,Chennai Super Kings,auto,274,274,3988,664.67,6638,150,9.99,44.25,26.59,India,Male,Active
+T20,Shivam Dube,S Dube,Amrit,flat,3,3,42,7.0,109,2,15.57,54.5,21.0,India,Male,Active
+T20,Shivam Dube,S Dube,Chennai Super Kings,auto,287,287,4168,694.67,6929,159,9.97,43.58,26.21,India,Male,Active
 T20,Shivam Dube,S Dube,Chennai Super Kings,flat,1,1,18,3.0,38,2,12.67,19.0,9.0,India,Male,Active
 T20,Shivam Dube,S Dube,Chennai Super Kings,green,1,1,18,3.0,16,1,5.33,16.0,18.0,India,Male,Active
 T20,Shivam Dube,S Dube,Chennai Super Kings,slow,1,1,12,2.0,18,2,9.0,9.0,6.0,India,Male,Active
 T20,Shivam Dube,S Dube,Chennai Super Kings XI,auto,1,1,24,4.0,40,0,10.0,,,India,Male,Active
 T20,Shivam Dube,S Dube,Chennai Super Kings XI,flat,1,1,24,4.0,36,1,9.0,36.0,24.0,India,Male,Active
 T20,Shivam Dube,S Dube,GreninDraft1,auto,8,8,102,17.0,186,3,10.94,62.0,34.0,India,Male,Active
-T20,Shivam Dube,S Dube,India,auto,59,59,867,144.5,1539,41,10.65,37.54,21.15,India,Male,Active
+T20,Shivam Dube,S Dube,GreninDraft1,turner,1,1,18,3.0,38,1,12.67,38.0,18.0,India,Male,Active
+T20,Shivam Dube,S Dube,India,auto,60,60,891,148.5,1578,43,10.63,36.7,20.72,India,Male,Active
 T20,Shivam Dube,S Dube,India,flat,9,9,132,22.0,236,5,10.73,47.2,26.4,India,Male,Active
 T20,Shivam Dube,S Dube,Mumbai,auto,44,44,633,105.5,999,32,9.47,31.22,19.78,India,Male,Active
 T20,Shivam Dube,S Dube,Player coverage A · T20,auto,100,100,2330,388.33,3394,99,8.74,34.28,23.54,India,Male,Active
@@ -35183,7 +35340,7 @@ T20,Sundeep Jora,S Jora,Player coverage B · T20,auto,28,28,290,48.33,367,27,7.5
 T20,Shamar Joseph,S Joseph,Guyana Amazon Warriors,auto,123,123,2149,358.17,3198,138,8.93,23.17,15.57,West Indies,Male,Active
 T20,Shamar Joseph,S Joseph,Player coverage A · T20,auto,248,248,5856,976.0,9211,233,9.44,39.53,25.13,West Indies,Male,Active
 T20,Shamar Joseph,S Joseph,Player coverage B · T20,auto,235,235,5492,915.33,8555,249,9.35,34.36,22.06,West Indies,Male,Active
-T20,Shamar Joseph,S Joseph,West Indies,auto,1,1,18,3.0,23,1,7.67,23.0,18.0,West Indies,Male,Active
+T20,Shamar Joseph,S Joseph,West Indies,auto,2,2,36,6.0,53,2,8.83,26.5,18.0,West Indies,Male,Active
 T20,Sharon Juma,S Juma,Player coverage A · T20,auto,22,22,169,28.17,191,15,6.78,12.73,11.27,Kenya,Female,Retired
 T20,Sharon Juma,S Juma,Player coverage B · T20,auto,20,20,300,50.0,323,14,6.46,23.07,21.43,Kenya,Female,Retired
 T20,Sandeep Jyoti,S Jyoti,Player coverage A · T20,auto,22,22,319,53.17,355,22,6.68,16.14,14.5,Canada,Male,Retired
@@ -35257,7 +35414,7 @@ T20,Kumarage Fernando,S Lakshan,Player coverage B · T20,auto,287,287,6582,1097.
 T20,Sandeep Lamichhane,S Lamichhane,Biratnagar Kings,auto,82,82,1889,314.83,2018,135,6.41,14.95,13.99,Nepal,Male,Active
 T20,Sandeep Lamichhane,S Lamichhane,Player coverage A · T20,auto,253,253,5982,997.0,6444,421,6.46,15.31,14.21,Nepal,Male,Active
 T20,Sandeep Lamichhane,S Lamichhane,Player coverage B · T20,auto,272,272,6409,1068.17,6825,405,6.39,16.85,15.82,Nepal,Male,Active
-T20,Sandeep Lamichhane,S Lamichhane,Punit's XI,auto,17,17,393,65.5,484,26,7.39,18.62,15.12,Nepal,Male,Active
+T20,Sandeep Lamichhane,S Lamichhane,Punit's XI,auto,21,21,484,80.67,580,30,7.19,19.33,16.13,Nepal,Male,Active
 T20,S Langa,S Langa,Player coverage A · T20,auto,298,298,6917,1152.83,8899,434,7.72,20.5,15.94,South Africa,Male,Active
 T20,S Langa,S Langa,Player coverage B · T20,auto,307,307,7189,1198.17,9387,468,7.83,20.06,15.36,South Africa,Male,Active
 T20,Suleeporn Laomi,S Laomi,Player coverage A · T20,auto,165,165,3874,645.67,3322,250,5.15,13.29,15.5,Thailand,Female,Active
@@ -35754,6 +35911,7 @@ T20,Sylvester Joseph,SC Joseph,Player coverage B · T20,auto,102,102,1366,227.67
 T20,Simon Kerrigan,SC Kerrigan,Player coverage A · T20,auto,275,275,5831,971.83,7129,274,7.34,26.02,21.28,England,Male,Retired
 T20,Simon Kerrigan,SC Kerrigan,Player coverage B · T20,auto,258,258,5363,893.83,6629,260,7.42,25.5,20.63,England,Male,Retired
 T20,Scott Kuggeleijn,SC Kuggeleijn,Northern Districts,auto,111,111,2377,396.17,2908,211,7.34,13.78,11.27,New Zealand,Male,Active
+T20,Scott Kuggeleijn,SC Kuggeleijn,Nurul Huda Sourov's XI,auto,4,4,72,12.0,67,7,5.58,9.57,10.29,New Zealand,Male,Active
 T20,Scott Kuggeleijn,SC Kuggeleijn,Player coverage A · T20,auto,203,203,4843,807.17,5774,344,7.15,16.78,14.08,New Zealand,Male,Active
 T20,Scott Kuggeleijn,SC Kuggeleijn,Player coverage B · T20,auto,206,206,4921,820.17,5474,374,6.67,14.64,13.16,New Zealand,Male,Active
 T20,Scott Kuggeleijn,SC Kuggeleijn,Sudur Paschim Royals,auto,87,87,2013,335.5,2578,190,7.68,13.57,10.59,New Zealand,Male,Active
@@ -36052,7 +36210,7 @@ T20,Sanika Sonpethkar,SK Sonpethkar,Player coverage B · T20,auto,18,18,203,33.8
 T20,Shamar Springer,SK Springer,Antigua and Barbuda Falcons,auto,75,75,1105,184.17,1766,70,9.59,25.23,15.79,West Indies,Male,Active
 T20,Shamar Springer,SK Springer,Player coverage A · T20,auto,276,276,6185,1030.83,8811,411,8.55,21.44,15.05,West Indies,Male,Active
 T20,Shamar Springer,SK Springer,Player coverage B · T20,auto,220,220,4917,819.5,7005,331,8.55,21.16,14.85,West Indies,Male,Active
-T20,Shamar Springer,SK Springer,West Indies,auto,1,1,18,3.0,40,0,13.33,,,West Indies,Male,Active
+T20,Shamar Springer,SK Springer,West Indies,auto,2,2,36,6.0,60,2,10.0,30.0,18.0,West Indies,Male,Active
 T20,Siddharth Trivedi,SK Trivedi,Player coverage A · T20,auto,280,280,6513,1085.5,8058,329,7.42,24.49,19.8,India,Male,Retired
 T20,Siddharth Trivedi,SK Trivedi,Player coverage B · T20,auto,329,329,7662,1277.0,9280,463,7.27,20.04,16.55,India,Male,Retired
 T20,Shane Warne,SK Warne,Player coverage A · T20,auto,304,304,6840,1140.0,7929,327,6.96,24.25,20.92,Australia,Male,Retired
@@ -36114,6 +36272,7 @@ T20,Samuel Curran,SM Curran,England,auto,1,1,18,3.0,41,0,13.67,,,England,Male,Ac
 T20,Samuel Curran,SM Curran,MI London,auto,66,66,1064,177.33,1555,71,8.77,21.9,14.99,England,Male,Active
 T20,Samuel Curran,SM Curran,Player coverage A · T20,auto,191,191,4098,683.0,5971,193,8.74,30.94,21.23,England,Male,Active
 T20,Samuel Curran,SM Curran,Player coverage B · T20,auto,184,184,3927,654.5,5331,185,8.15,28.82,21.23,England,Male,Active
+T20,Samuel Curran,SM Curran,blue moon1,auto,3,3,54,9.0,102,1,11.33,102.0,54.0,England,Male,Active
 T20,Steven Davies,SM Davies,Player coverage A · T20,auto,66,66,666,111.0,878,56,7.91,15.68,11.89,England,Male,Retired
 T20,Steven Davies,SM Davies,Player coverage B · T20,auto,59,59,683,113.83,871,55,7.65,15.84,12.42,England,Male,Retired
 T20,Shyam Dhakal,SM Dhakal,Player coverage A · T20,auto,323,323,6607,1101.17,8361,326,7.59,25.65,20.27,Nepal,Male,Active
@@ -36208,6 +36367,8 @@ T20,SN Smidt,SN Smidt,Player coverage B · T20,auto,102,102,1368,228.0,1872,81,8
 T20,Shardul Thakur,SN Thakur,Mumbai,auto,44,44,930,155.0,1391,76,8.97,18.3,12.24,India,Male,Active
 T20,Shardul Thakur,SN Thakur,Player coverage A · T20,auto,276,276,6050,1008.33,8589,364,8.52,23.6,16.62,India,Male,Active
 T20,Shardul Thakur,SN Thakur,Player coverage B · T20,auto,323,323,7062,1177.0,9834,404,8.36,24.34,17.48,India,Male,Active
+T20,Shardul Thakur,SN Thakur,cloud.9,flat,3,3,48,8.0,102,5,12.75,20.4,9.6,India,Male,Active
+T20,Shardul Thakur,SN Thakur,cloud.9,green,1,1,24,4.0,50,2,12.5,25.0,12.0,India,Male,Active
 T20,SNA Nethmika,SNA Nethmika,Player coverage A · T20,auto,87,87,1215,202.5,1440,99,7.11,14.55,12.27,,Male,Active
 T20,SNA Nethmika,SNA Nethmika,Player coverage B · T20,auto,103,103,1391,231.83,1574,119,6.79,13.23,11.69,,Male,Active
 T20,Stephen O'Keefe,SNJ O'Keefe,Player coverage A · T20,auto,316,316,7533,1255.5,7238,495,5.77,14.62,15.22,Australia,Male,Retired
@@ -36249,12 +36410,18 @@ T20,Sunil Narine,SP Narine,Best,auto,52,52,1230,205.0,1497,37,7.3,40.46,33.24,We
 T20,Sunil Narine,SP Narine,Best,flat,1,1,24,4.0,37,1,9.25,37.0,24.0,West Indies,Male,Active
 T20,Sunil Narine,SP Narine,Durban's Super Giants,auto,131,131,3124,520.67,3336,124,6.41,26.9,25.19,West Indies,Male,Active
 T20,Sunil Narine,SP Narine,GreninDraft1,auto,47,47,1089,181.5,1236,37,6.81,33.41,29.43,West Indies,Male,Active
-T20,Sunil Narine,SP Narine,Kolkata Knight Riders,auto,278,278,6570,1095.0,7641,247,6.98,30.94,26.6,West Indies,Male,Active
+T20,Sunil Narine,SP Narine,GreninDraft1,flat,1,1,24,4.0,18,3,4.5,6.0,8.0,West Indies,Male,Active
+T20,Sunil Narine,SP Narine,GreninDraft1,turner,1,1,24,4.0,23,2,5.75,11.5,12.0,West Indies,Male,Active
+T20,Sunil Narine,SP Narine,Kolkata Knight Riders,auto,292,292,6888,1148.0,8057,253,7.02,31.85,27.23,West Indies,Male,Active
 T20,Sunil Narine,SP Narine,Los Angeles Knight Riders,auto,105,105,2484,414.0,2769,89,6.69,31.11,27.91,West Indies,Male,Active
 T20,Sunil Narine,SP Narine,Nurul wala team,auto,4,4,96,16.0,91,2,5.69,45.5,48.0,West Indies,Male,Active
 T20,Sunil Narine,SP Narine,Nurul wala team,turner,4,4,90,15.0,100,3,6.67,33.33,30.0,West Indies,Male,Active
+T20,Sunil Narine,SP Narine,SatkarXI,auto,6,6,133,22.17,207,8,9.34,25.88,16.63,West Indies,Male,Active
+T20,Sunil Narine,SP Narine,SatkarXI,flat,2,2,48,8.0,46,4,5.75,11.5,12.0,West Indies,Male,Active
+T20,Sunil Narine,SP Narine,SatkarXI,green,1,1,24,4.0,42,0,10.5,,,West Indies,Male,Active
 T20,Sunil Narine,SP Narine,Trinbago Knight Riders,auto,133,133,3155,525.83,3244,175,6.17,18.54,18.03,West Indies,Male,Active
 T20,Sunil Narine,SP Narine,alltime nurul,auto,26,26,617,102.83,735,30,7.15,24.5,20.57,West Indies,Male,Active
+T20,Sunil Narine,SP Narine,dev1,auto,6,6,140,23.33,183,5,7.84,36.6,28.0,West Indies,Male,Active
 T20,SP Patel,SP Patel,Player coverage A · T20,auto,36,36,421,70.17,561,41,8.0,13.68,10.27,United States of America,Male,Retired
 T20,SP Patel,SP Patel,Player coverage B · T20,auto,50,50,511,85.17,592,45,6.95,13.16,11.36,United States of America,Male,Retired
 T20,Swapnil Patil,SP Patil,Player coverage A · T20,auto,38,38,435,72.5,637,23,8.79,27.7,18.91,United Arab Emirates,Male,Retired
@@ -36423,6 +36590,7 @@ T20,Sahan Arachchige,SSD Arachchige,Galle Gallants,auto,39,39,654,109.0,1004,49,
 T20,Sahan Arachchige,SSD Arachchige,Nondescripts Cricket Club,auto,79,79,1565,260.83,1834,130,7.03,14.11,12.04,Sri Lanka,Male,Active
 T20,Sahan Arachchige,SSD Arachchige,Player coverage A · T20,auto,208,208,4383,730.5,5608,365,7.68,15.36,12.01,Sri Lanka,Male,Active
 T20,Sahan Arachchige,SSD Arachchige,Player coverage B · T20,auto,204,204,4264,710.67,5326,339,7.49,15.71,12.58,Sri Lanka,Male,Active
+T20,Sahan Arachchige,SSD Arachchige,Sri Lanka,auto,1,1,12,2.0,8,1,4.0,8.0,12.0,Sri Lanka,Male,Active
 T20,SSE Gumbs,SSE Gumbs,Player coverage A · T20,auto,85,85,1124,187.33,1481,83,7.91,17.84,13.54,England,Male,Active
 T20,SSE Gumbs,SSE Gumbs,Player coverage B · T20,auto,89,89,1246,207.67,1585,98,7.63,16.17,12.71,England,Male,Active
 T20,Shamarh Brooks,SSJ Brooks,Player coverage A · T20,auto,164,164,2838,473.0,3131,200,6.62,15.65,14.19,West Indies,Male,Active
@@ -36508,6 +36676,7 @@ T20,Samuel Billings,SW Billings,Player coverage A · T20,auto,12,12,92,15.33,124
 T20,Samuel Billings,SW Billings,Player coverage B · T20,auto,10,10,138,23.0,160,11,6.96,14.55,12.55,England,Male,Active
 T20,Scott Currie,SW Currie,Birmingham Phoenix,auto,101,101,2174,362.33,2955,179,8.16,16.51,12.15,England,Male,Active
 T20,Scott Currie,SW Currie,Hampshire,auto,135,135,3047,507.83,4123,276,8.12,14.94,11.04,England,Male,Active
+T20,Scott Currie,SW Currie,Nurul Huda Sourov's XI,auto,4,4,93,15.5,121,5,7.81,24.2,18.6,England,Male,Active
 T20,Scott Currie,SW Currie,Player coverage A · T20,auto,165,165,3775,629.17,4841,263,7.69,18.41,14.35,England,Male,Active
 T20,Scott Currie,SW Currie,Player coverage B · T20,auto,205,205,4843,807.17,6170,348,7.64,17.73,13.92,England,Male,Active
 T20,SW Eathorne,SW Eathorne,Player coverage A · T20,auto,44,44,535,89.17,702,40,7.87,17.55,13.38,New Zealand,Male,Retired
@@ -36556,7 +36725,7 @@ T20,MD Hosan,Sabbir Hossain,Player coverage A · T20,auto,237,237,5130,855.0,707
 T20,MD Hosan,Sabbir Hossain,Player coverage B · T20,auto,240,240,5312,885.33,7199,249,8.13,28.91,21.33,Bangladesh,Male,Active
 T20,Mohammad Rahman,Sabbir Rahman,Player coverage A · T20,auto,128,128,2093,348.83,2436,131,6.98,18.6,15.98,Bangladesh,Male,Active
 T20,Mohammad Rahman,Sabbir Rahman,Player coverage B · T20,auto,151,151,2555,425.83,2952,173,6.93,17.06,14.77,Bangladesh,Male,Active
-T20,Saber Zakhil,Saber Zakhil,Grenin is lodi bodhi,auto,29,29,571,95.17,907,27,9.53,33.59,21.15,Belgium,Male,Active
+T20,Saber Zakhil,Saber Zakhil,Grenin is lodi bodhi,auto,37,37,713,118.83,1172,34,9.86,34.47,20.97,Belgium,Male,Active
 T20,Saber Zakhil,Saber Zakhil,Player coverage A · T20,auto,271,271,6131,1021.83,8362,272,8.18,30.74,22.54,Belgium,Male,Active
 T20,Saber Zakhil,Saber Zakhil,Player coverage B · T20,auto,308,308,6930,1155.0,9324,322,8.07,28.96,21.52,Belgium,Male,Active
 T20,Sabikun Jesmin,Sabikun Nahar Jesmin,Player coverage A · T20,auto,148,148,3458,576.33,3609,172,6.26,20.98,20.1,Bangladesh,Female,Retired
@@ -36608,8 +36777,8 @@ T20,Sahban Khan,Sahban Khan,Player coverage A · T20,auto,26,26,279,46.5,329,21,
 T20,Sahban Khan,Sahban Khan,Player coverage B · T20,auto,19,19,211,35.17,291,15,8.27,19.4,14.07,India,Male,Retired
 T20,Sahibzada Farhan,Sahibzada Farhan,Player coverage A · T20,auto,6,6,72,12.0,90,8,7.5,11.25,9.0,Pakistan,Male,Active
 T20,Sahibzada Farhan,Sahibzada Farhan,Player coverage B · T20,auto,7,7,78,13.0,126,5,9.69,25.2,15.6,Pakistan,Male,Active
-T20,Sahil Chauhan,Sahil Chauhan,Grenin,auto,3,3,42,7.0,87,2,12.43,43.5,21.0,Estonia,Male,Active
-T20,Sahil Chauhan,Sahil Chauhan,Grenin is lodi bodhi,auto,20,20,270,45.0,455,10,10.11,45.5,27.0,Estonia,Male,Active
+T20,Sahil Chauhan,Sahil Chauhan,Grenin,auto,4,4,66,11.0,130,5,11.82,26.0,13.2,Estonia,Male,Active
+T20,Sahil Chauhan,Sahil Chauhan,Grenin is lodi bodhi,auto,25,25,342,57.0,571,11,10.02,51.91,31.09,Estonia,Male,Active
 T20,Sahil Chauhan,Sahil Chauhan,Player coverage A · T20,auto,127,127,2373,395.5,3230,125,8.17,25.84,18.98,Estonia,Male,Active
 T20,Sahil Chauhan,Sahil Chauhan,Player coverage B · T20,auto,134,134,2402,400.33,3261,129,8.15,25.28,18.62,Estonia,Male,Active
 T20,Sahil Chauhan,Sahil Chauhan,Punit,auto,6,6,72,12.0,130,2,10.83,65.0,36.0,Estonia,Male,Active
@@ -36659,7 +36828,7 @@ T20,Saying Datta,Saju Datta,Player coverage B · T20,auto,148,148,1823,303.83,21
 T20,Sakib Hussain,Sakib Hussain,Bihar,auto,37,37,836,139.33,1231,44,8.83,27.98,19.0,India,Male,Active
 T20,Sakib Hussain,Sakib Hussain,Player coverage A · T20,auto,176,176,4035,672.5,5160,276,7.67,18.7,14.62,India,Male,Active
 T20,Sakib Hussain,Sakib Hussain,Player coverage B · T20,auto,163,163,3749,624.83,4927,219,7.89,22.5,17.12,India,Male,Active
-T20,Sakib Hussain,Sakib Hussain,Sunrisers Hyderabad,auto,270,270,6196,1032.67,9605,350,9.3,27.44,17.7,India,Male,Active
+T20,Sakib Hussain,Sakib Hussain,Sunrisers Hyderabad,auto,284,284,6514,1085.67,10123,371,9.32,27.29,17.56,India,Male,Active
 T20,Salauddin Sakil,Salauddin Sakil,Player coverage A · T20,auto,295,295,6592,1098.67,8681,366,7.9,23.72,18.01,Bangladesh,Male,Retired
 T20,Salauddin Sakil,Salauddin Sakil,Player coverage B · T20,auto,312,312,6930,1155.0,9511,377,8.23,25.23,18.38,Bangladesh,Male,Retired
 T20,Saleem Elahi,Saleem Elahi,Player coverage A · T20,auto,62,62,754,125.67,865,53,6.88,16.32,14.23,Pakistan,Male,Retired
@@ -37149,7 +37318,7 @@ T20,Shivam Singh,Shivam Singh,Player coverage A · T20,auto,66,66,783,130.5,957,
 T20,Shivam Singh,Shivam Singh,Player coverage B · T20,auto,62,62,793,132.17,1002,47,7.58,21.32,16.87,India,Male,Retired
 T20,Shivang Kumar,Shivang Kumar,Player coverage A · T20,auto,161,161,3700,616.67,4894,174,7.94,28.13,21.26,India,Male,Active
 T20,Shivang Kumar,Shivang Kumar,Player coverage B · T20,auto,177,177,4090,681.67,5350,186,7.85,28.76,21.99,India,Male,Active
-T20,Shivang Kumar,Shivang Kumar,Sunrisers Hyderabad,auto,270,270,5042,840.33,7942,181,9.45,43.88,27.86,India,Male,Active
+T20,Shivang Kumar,Shivang Kumar,Sunrisers Hyderabad,auto,284,284,5300,883.33,8370,187,9.48,44.76,28.34,India,Male,Active
 T20,Shivani Singh,Shivani Singh,Player coverage A · T20,auto,94,94,1417,236.17,1427,81,6.04,17.62,17.49,India,Female,Active
 T20,Shivani Singh,Shivani Singh,Player coverage B · T20,auto,104,104,1656,276.0,1789,89,6.48,20.1,18.61,India,Female,Active
 T20,Shivank Vashisth,Shivank Vashisth,Player coverage A · T20,auto,312,312,7431,1238.5,8962,428,7.24,20.94,17.36,India,Male,Retired
@@ -37499,13 +37668,13 @@ T20,Suryansh Raina,Suryansh Raina,Player coverage B · T20,auto,78,78,772,128.67
 T20,Suryansh Shedge,Suryansh Shedge,Mumbai,auto,43,43,706,117.67,1028,38,8.74,27.05,18.58,India,Male,Active
 T20,Suryansh Shedge,Suryansh Shedge,Player coverage A · T20,auto,173,173,3938,656.33,5781,187,8.81,30.91,21.06,India,Male,Active
 T20,Suryansh Shedge,Suryansh Shedge,Player coverage B · T20,auto,171,171,3839,639.83,5517,188,8.62,29.35,20.42,India,Male,Active
-T20,Suryansh Shedge,Suryansh Shedge,Punjab Kings,auto,107,107,1640,273.33,2801,56,10.25,50.02,29.29,India,Male,Active
+T20,Suryansh Shedge,Suryansh Shedge,Punjab Kings,auto,111,111,1706,284.33,2920,58,10.27,50.34,29.41,India,Male,Active
 T20,Susheel Kumar,Susheel Kumar,Player coverage A · T20,auto,306,306,6838,1139.67,8976,344,7.88,26.09,19.88,India,Male,Retired
 T20,Susheel Kumar,Susheel Kumar,Player coverage B · T20,auto,289,289,6467,1077.83,8585,331,7.97,25.94,19.54,India,Male,Retired
 T20,Suyash Sharma,Suyash Sharma,Delhi,auto,37,37,888,148.0,1068,48,7.22,22.25,18.5,India,Male,Active
 T20,Suyash Sharma,Suyash Sharma,Player coverage A · T20,auto,147,147,3453,575.5,4102,192,7.13,21.36,17.98,India,Male,Active
 T20,Suyash Sharma,Suyash Sharma,Player coverage B · T20,auto,155,155,3669,611.5,4208,215,6.88,19.57,17.07,India,Male,Active
-T20,Suyash Sharma,Suyash Sharma,Royal Challengers Bengaluru,auto,302,302,6397,1066.17,9979,258,9.36,38.68,24.79,India,Male,Active
+T20,Suyash Sharma,Suyash Sharma,Royal Challengers Bengaluru,auto,318,318,6751,1125.17,10566,271,9.39,38.99,24.91,India,Male,Active
 T20,Suyash Sharma,Suyash Sharma,Royal Challengers Bengaluru,flat,2,2,36,6.0,41,1,6.83,41.0,36.0,India,Male,Active
 T20,Suyash Sharma,Suyash Sharma,Royal Challengers Bengaluru,slow,1,1,24,4.0,20,3,5.0,6.67,8.0,India,Male,Active
 T20,Swapnil Singh,Swapnil Singh,Player coverage A · T20,auto,308,308,6677,1112.83,8358,384,7.51,21.77,17.39,India,Male,Retired
@@ -38754,7 +38923,7 @@ T20,Vincent Adewoye,VD Adewoye,Player coverage B · T20,auto,223,223,4752,792.0,
 T20,Vernon Philander,VD Philander,Player coverage A · T20,auto,321,321,7627,1271.17,10241,324,8.06,31.61,23.54,South Africa,Male,Retired
 T20,Vernon Philander,VD Philander,Player coverage B · T20,auto,286,286,6781,1130.17,9235,290,8.17,31.84,23.38,South Africa,Male,Retired
 T20,Vaibhav Arora,VG Arora,Himachal Pradesh,auto,37,37,837,139.5,1226,55,8.79,22.29,15.22,India,Male,Active
-T20,Vaibhav Arora,VG Arora,Kolkata Knight Riders,auto,278,278,5887,981.17,10233,293,10.43,34.92,20.09,India,Male,Active
+T20,Vaibhav Arora,VG Arora,Kolkata Knight Riders,auto,292,292,6165,1027.5,10712,309,10.43,34.67,19.95,India,Male,Active
 T20,Vaibhav Arora,VG Arora,Player coverage A · T20,auto,158,158,3595,599.17,5094,202,8.5,25.22,17.8,India,Male,Active
 T20,Vaibhav Arora,VG Arora,Player coverage B · T20,auto,168,168,3878,646.33,5436,260,8.41,20.91,14.92,India,Male,Active
 T20,Vijay Zol,VH Zol,Player coverage A · T20,auto,68,68,919,153.17,1040,61,6.79,17.05,15.07,India,Male,Retired
@@ -38866,7 +39035,7 @@ T20,Vijay Sharma,Vijay Sharma,Player coverage B · T20,auto,103,103,1292,215.33,
 T20,Vijaykumar Vyshak,Vijaykumar Vyshak,Karnataka,auto,37,37,821,136.83,1110,54,8.11,20.56,15.2,India,Male,Active
 T20,Vijaykumar Vyshak,Vijaykumar Vyshak,Player coverage A · T20,auto,176,176,4099,683.17,5446,202,7.97,26.96,20.29,India,Male,Active
 T20,Vijaykumar Vyshak,Vijaykumar Vyshak,Player coverage B · T20,auto,154,154,3593,598.83,4778,204,7.98,23.42,17.61,India,Male,Active
-T20,Vijaykumar Vyshak,Vijaykumar Vyshak,Punjab Kings,auto,276,276,5795,965.83,9913,256,10.26,38.72,22.64,India,Male,Active
+T20,Vijaykumar Vyshak,Vijaykumar Vyshak,Punjab Kings,auto,290,290,6083,1013.83,10446,268,10.3,38.98,22.7,India,Male,Active
 T20,Vijesh Prabhudessai,Vijesh Prabhudessai,Player coverage A · T20,auto,322,322,7379,1229.83,11508,389,9.36,29.58,18.97,India,Male,Retired
 T20,Vijesh Prabhudessai,Vijesh Prabhudessai,Player coverage B · T20,auto,284,284,6483,1080.5,10234,306,9.47,33.44,21.19,India,Male,Retired
 T20,Vikas Hathwala,Vikas Hathwala,Player coverage A · T20,auto,22,22,227,37.83,255,14,6.74,18.21,16.21,India,Male,Retired
@@ -39062,8 +39231,10 @@ T20,William Bosisto,WG Bosisto,Karnali Yaks,auto,59,59,1102,183.67,1399,50,7.62,
 T20,William Bosisto,WG Bosisto,Player coverage A · T20,auto,258,258,6091,1015.17,7012,312,6.91,22.47,19.52,Australia,Male,Active
 T20,William Bosisto,WG Bosisto,Player coverage B · T20,auto,274,274,6395,1065.83,7795,318,7.31,24.51,20.11,Australia,Male,Active
 T20,William Jacks,WG Jacks,England,auto,1,1,6,1.0,9,1,9.0,9.0,6.0,England,Male,Active
+T20,William Jacks,WG Jacks,Kasii CC,auto,2,2,36,6.0,63,1,10.5,63.0,36.0,England,Male,Active
+T20,William Jacks,WG Jacks,Kasii CC,flat,1,1,13,2.17,19,1,8.77,19.0,13.0,England,Male,Active
 T20,William Jacks,WG Jacks,MI London,auto,57,57,819,136.5,1156,45,8.47,25.69,18.2,England,Male,Active
-T20,William Jacks,WG Jacks,Mumbai Indians,auto,301,301,5101,850.17,7881,247,9.27,31.91,20.65,England,Male,Active
+T20,William Jacks,WG Jacks,Mumbai Indians,auto,319,319,5405,900.83,8470,264,9.4,32.08,20.47,England,Male,Active
 T20,William Jacks,WG Jacks,Mumbai Indians,green,1,1,24,4.0,53,0,13.25,,,England,Male,Active
 T20,William Jacks,WG Jacks,Mumbai Indians,slow,1,1,18,3.0,27,1,9.0,27.0,18.0,England,Male,Active
 T20,William Jacks,WG Jacks,Player coverage A · T20,auto,93,93,2112,352.0,2456,118,6.98,20.81,17.9,England,Male,Active
@@ -39209,8 +39380,11 @@ T20,Waseem Raza,Waseem Raza,Player coverage A · T20,auto,304,304,6524,1087.33,8
 T20,Waseem Raza,Waseem Raza,Player coverage B · T20,auto,294,294,6153,1025.5,7846,325,7.65,24.14,18.93,India,Male,Retired
 T20,Waseeq Ahmed,Waseeq Ahmed,Player coverage A · T20,auto,298,298,6314,1052.33,7328,344,6.96,21.3,18.35,Bahrain,Male,Retired
 T20,Waseeq Ahmed,Waseeq Ahmed,Player coverage B · T20,auto,290,290,6317,1052.83,7294,352,6.93,20.72,17.95,Bahrain,Male,Retired
+T20,Washington Sundar,Washington Sundar,Amrit,flat,1,1,12,2.0,25,0,12.5,,,India,Male,Active
 T20,Washington Sundar,Washington Sundar,GreninDraft1,auto,41,41,606,101.0,839,25,8.31,33.56,24.24,India,Male,Active
-T20,Washington Sundar,Washington Sundar,Gujarat Titans,auto,279,279,4044,674.0,6084,146,9.03,41.67,27.7,India,Male,Active
+T20,Washington Sundar,Washington Sundar,GreninDraft1,flat,1,1,12,2.0,13,1,6.5,13.0,12.0,India,Male,Active
+T20,Washington Sundar,Washington Sundar,GreninDraft1,turner,1,1,18,3.0,23,1,7.67,23.0,18.0,India,Male,Active
+T20,Washington Sundar,Washington Sundar,Gujarat Titans,auto,294,294,4266,711.0,6432,157,9.05,40.97,27.17,India,Male,Active
 T20,Washington Sundar,Washington Sundar,Player coverage A · T20,auto,121,121,2697,449.5,3350,134,7.45,25.0,20.13,India,Male,Active
 T20,Washington Sundar,Washington Sundar,Player coverage B · T20,auto,141,141,3168,528.0,3977,164,7.53,24.25,19.32,India,Male,Active
 T20,Washington Sundar,Washington Sundar,Tamil Nadu,auto,37,37,661,110.17,783,29,7.11,27.0,22.79,India,Male,Active
@@ -39247,7 +39421,7 @@ T20,Xavier Crone,XA Crone,Player coverage B · T20,auto,269,269,5001,833.5,6709,
 T20,XA Jetly,XA Jetly,Player coverage A · T20,auto,95,95,2119,353.17,2119,119,6.0,17.81,17.81,New Zealand,Female,Active
 T20,XA Jetly,XA Jetly,Player coverage B · T20,auto,91,91,2074,345.67,2220,126,6.42,17.62,16.46,New Zealand,Female,Active
 T20,XA Jetly,XA Jetly,Wellington Women,auto,113,113,2520,420.0,2645,165,6.3,16.03,15.27,New Zealand,Female,Active
-T20,Xavier Bartlett,XC Bartlett,Australia,auto,10,10,203,33.83,343,14,10.14,24.5,14.5,Australia,Male,Active
+T20,Xavier Bartlett,XC Bartlett,Australia,auto,11,11,227,37.83,390,14,10.31,27.86,16.21,Australia,Male,Active
 T20,Xavier Bartlett,XC Bartlett,Australia,slow,1,1,24,4.0,30,2,7.5,15.0,12.0,Australia,Male,Active
 T20,Xavier Bartlett,XC Bartlett,Brisbane Heat,auto,132,132,3027,504.5,4581,177,9.08,25.88,17.1,Australia,Male,Active
 T20,Xavier Bartlett,XC Bartlett,Player coverage A · T20,auto,173,173,3931,655.17,5419,257,8.27,21.09,15.3,Australia,Male,Active
@@ -39351,7 +39525,10 @@ T20,YR Sharma,YR Sharma,Player coverage B · T20,auto,171,171,2919,486.5,3594,16
 T20,Yuzvendra Chahal,YS Chahal,Haryana,auto,37,37,869,144.83,1162,53,8.02,21.92,16.4,India,Male,Active
 T20,Yuzvendra Chahal,YS Chahal,Player coverage A · T20,auto,176,176,4184,697.33,5236,238,7.51,22.0,17.58,India,Male,Active
 T20,Yuzvendra Chahal,YS Chahal,Player coverage B · T20,auto,155,155,3634,605.67,4619,223,7.63,20.71,16.3,India,Male,Active
-T20,Yuzvendra Chahal,YS Chahal,Punjab Kings,auto,278,278,6236,1039.33,9567,322,9.2,29.71,19.37,India,Male,Active
+T20,Yuzvendra Chahal,YS Chahal,Punjab Kings,auto,292,292,6560,1093.33,10180,338,9.31,30.12,19.41,India,Male,Active
+T20,Yuzvendra Chahal,YS Chahal,SatkarXI,auto,6,6,138,23.0,237,10,10.3,23.7,13.8,India,Male,Active
+T20,Yuzvendra Chahal,YS Chahal,SatkarXI,flat,2,2,42,7.0,52,0,7.43,,,India,Male,Active
+T20,Yuzvendra Chahal,YS Chahal,SatkarXI,green,1,1,18,3.0,28,1,9.33,28.0,18.0,India,Male,Active
 T20,Yuvraaj Samra,YS Samra,Player coverage A · T20,auto,54,54,661,110.17,975,42,8.85,23.21,15.74,Canada,Male,Active
 T20,Yuvraaj Samra,YS Samra,Player coverage B · T20,auto,51,51,657,109.5,911,53,8.32,17.19,12.4,Canada,Male,Active
 T20,Yee To,YS To,Player coverage A · T20,auto,50,50,894,149.0,953,52,6.4,18.33,17.19,Hong Kong,Female,Active
@@ -39395,7 +39572,7 @@ T20,Yash Nahar,Yash Nahar,Player coverage A · T20,auto,51,51,596,99.33,754,32,7
 T20,Yash Nahar,Yash Nahar,Player coverage B · T20,auto,65,65,731,121.83,812,40,6.66,20.3,18.27,India,Male,Retired
 T20,Yash Punja,Yash Raj Punja,Player coverage A · T20,auto,172,172,4101,683.5,5226,221,7.65,23.65,18.56,India,Male,Active
 T20,Yash Punja,Yash Raj Punja,Player coverage B · T20,auto,150,150,3578,596.33,4354,198,7.3,21.99,18.07,India,Male,Active
-T20,Yash Punja,Yash Raj Punja,Rajasthan Royals,auto,287,287,6022,1003.67,9786,233,9.75,42.0,25.85,India,Male,Active
+T20,Yash Punja,Yash Raj Punja,Rajasthan Royals,auto,302,302,6328,1054.67,10216,246,9.69,41.53,25.72,India,Male,Active
 T20,Yash Talati,Yash Talati,Player coverage A · T20,auto,88,88,1114,185.67,1308,68,7.04,19.24,16.38,Kenya,Male,Retired
 T20,Yash Talati,Yash Talati,Player coverage B · T20,auto,79,79,1130,188.33,1347,62,7.15,21.73,18.23,Kenya,Male,Retired
 T20,Yash Thakur,Yash Thakur,Player coverage A · T20,auto,315,315,7545,1257.5,9636,463,7.66,20.81,16.3,India,Male,Active
@@ -39621,7 +39798,7 @@ T20,Zeeshan Ashraf,Zeeshan Ashraf,Player coverage A · T20,auto,110,110,1360,226
 T20,Zeeshan Ashraf,Zeeshan Ashraf,Player coverage B · T20,auto,133,133,1815,302.5,2222,113,7.35,19.66,16.06,Pakistan,Male,Retired
 T20,Zeeshan Haider,Zeeshan Haider,Player coverage A · T20,auto,9,9,114,19.0,116,7,6.11,16.57,16.29,Qatar,Male,Active
 T20,Zeeshan Haider,Zeeshan Haider,Player coverage B · T20,auto,7,7,66,11.0,87,7,7.91,12.43,9.43,Qatar,Male,Active
-T20,Zeeshan Kukihel,Zeeshan Kukikhel,Grenin is lodi bodhi,auto,13,13,222,37.0,378,9,10.22,42.0,24.67,Hungary,Male,Active
+T20,Zeeshan Kukihel,Zeeshan Kukikhel,Grenin is lodi bodhi,auto,16,16,276,46.0,485,10,10.54,48.5,27.6,Hungary,Male,Active
 T20,Zeeshan Kukihel,Zeeshan Kukikhel,Player coverage A · T20,auto,295,295,6775,1129.17,9577,327,8.48,29.29,20.72,Hungary,Male,Active
 T20,Zeeshan Kukihel,Zeeshan Kukikhel,Player coverage B · T20,auto,277,277,6271,1045.17,8988,339,8.6,26.51,18.5,Hungary,Male,Active
 T20,Zeeshan Maqsood,Zeeshan Maqsood,Player coverage A · T20,auto,274,274,5805,967.5,6356,272,6.57,23.37,21.34,Oman,Male,Active
@@ -40089,7 +40266,7 @@ TEST,Aruesanan Wichakam,A Wichakam,Player coverage A · TEST,auto,4,3,192,32.0,9
 TEST,A Wijewardhana,A Wijewardhana,Player coverage B · TEST,auto,2,2,150,25.0,87,5,3.48,17.4,30.0,,Male,Active
 TEST,A Yadav,A Yadav,Player coverage A · TEST,auto,1,1,120,20.0,64,0,3.2,,,Nepal,Male,Active
 TEST,Amy Yates,A Yates,Player coverage A · TEST,auto,3,3,102,17.0,49,0,2.88,,,Australia,Male,Retired
-TEST,Adam Zampa,A Zampa,Australia Goat,auto,1,1,156,26.0,117,1,4.5,117.0,156.0,Australia,Male,Active
+TEST,Adam Zampa,A Zampa,Australia Goat,auto,3,2,302,50.33,219,3,4.35,73.0,100.67,Australia,Male,Active
 TEST,Adam Zampa,A Zampa,Player coverage A · TEST,auto,25,13,4553,758.83,2433,68,3.21,35.78,66.96,Australia,Male,Active
 TEST,Adam Zampa,A Zampa,Player coverage B · TEST,auto,19,10,2899,483.17,1491,55,3.09,27.11,52.71,Australia,Male,Active
 TEST,Adam Zampa,A Zampa,Testing1,green,1,1,75,12.5,39,2,3.12,19.5,37.5,Australia,Male,Active
@@ -42909,6 +43086,7 @@ TEST,DW Sayer,DW Sayer,Player coverage B · TEST,auto,4,2,240,40.0,143,4,3.58,35
 TEST,Dale Steyn,DW Steyn,Flappy's Taskforce,auto,8,4,847,141.17,411,12,2.91,34.25,70.58,South Africa,Male,Retired
 TEST,Dale Steyn,DW Steyn,Player coverage A · TEST,auto,22,11,2443,407.17,1145,45,2.81,25.44,54.29,South Africa,Male,Retired
 TEST,Dale Steyn,DW Steyn,Player coverage B · TEST,auto,17,9,1929,321.5,811,42,2.52,19.31,45.93,South Africa,Male,Retired
+TEST,Dale Steyn,DW Steyn,alltime nurul,auto,2,1,246,41.0,137,8,3.34,17.13,30.75,South Africa,Male,Retired
 TEST,Dale Steyn,DW Steyn,testing-xi-1,auto,9,5,1222,203.67,557,21,2.73,26.52,58.19,South Africa,Male,Retired
 TEST,Dillon Pennington,DY Pennington,Nottinghamshire,auto,258,140,26218,4369.67,13834,431,3.17,32.1,60.83,England,Male,Active
 TEST,Derone Davis,DYA Davis,Player coverage A · TEST,auto,15,9,2278,379.67,1150,37,3.03,31.08,61.57,United States of America,Male,Retired
@@ -43675,10 +43853,11 @@ TEST,GJ Harte,GJ Harte,Player coverage A · TEST,auto,19,11,3166,527.67,1708,42,
 TEST,GJ Harte,GJ Harte,Player coverage B · TEST,auto,26,14,3608,601.33,1775,49,2.95,36.22,73.63,South Africa,Male,Retired
 TEST,Gareth Hopkins,GJ Hopkins,Player coverage A · TEST,auto,3,2,24,4.0,23,0,5.75,,,New Zealand,Male,Retired
 TEST,Gareth Hopkins,GJ Hopkins,Player coverage B · TEST,auto,2,2,90,15.0,60,1,4.0,60.0,90.0,New Zealand,Male,Retired
-TEST,Glenn Maxwell,GJ Maxwell,Australia Goat,auto,2,1,162,27.0,127,0,4.7,,,Australia,Male,Active
+TEST,Glenn Maxwell,GJ Maxwell,Australia Goat,auto,3,2,276,46.0,222,0,4.83,,,Australia,Male,Active
 TEST,Glenn Maxwell,GJ Maxwell,Player coverage A · TEST,auto,28,15,5294,882.33,2924,78,3.31,37.49,67.87,Australia,Male,Active
 TEST,Glenn Maxwell,GJ Maxwell,Player coverage B · TEST,auto,16,8,2880,480.0,1558,45,3.25,34.62,64.0,Australia,Male,Active
 TEST,Glenn Maxwell,GJ Maxwell,Testing1,green,2,1,102,17.0,72,3,4.24,24.0,34.0,Australia,Male,Active
+TEST,Glenn Maxwell,GJ Maxwell,alltime nurul,auto,2,1,178,29.67,99,4,3.34,24.75,44.5,Australia,Male,Active
 TEST,Graeme McCarter,GJ McCarter,Player coverage A · TEST,auto,29,15,5009,834.83,2604,90,3.12,28.93,55.66,Ireland,Male,Retired
 TEST,Graeme McCarter,GJ McCarter,Player coverage B · TEST,auto,20,10,3419,569.83,1775,56,3.11,31.7,61.05,Ireland,Male,Retired
 TEST,GJ Muchall,GJ Muchall,Player coverage B · TEST,auto,3,2,179,29.83,71,5,2.38,14.2,35.8,England,Male,Retired
@@ -45225,7 +45404,7 @@ TEST,Jackson Coleman,JR Coleman,Player coverage B · TEST,auto,20,11,1974,329.0,
 TEST,JR Eckland,JR Eckland,Player coverage A · TEST,auto,5,4,294,49.0,134,5,2.73,26.8,58.8,England,Male,Active
 TEST,JR Hansen,JR Hansen,Player coverage A · TEST,auto,1,1,42,7.0,11,1,1.57,11.0,42.0,Denmark,Male,Retired
 TEST,Josh Hazlewood,JR Hazlewood,Australia,auto,6,3,636,106.0,291,6,2.75,48.5,106.0,Australia,Male,Active
-TEST,Josh Hazlewood,JR Hazlewood,Australia Goat,auto,2,1,240,40.0,123,2,3.08,61.5,120.0,Australia,Male,Active
+TEST,Josh Hazlewood,JR Hazlewood,Australia Goat,auto,4,2,468,78.0,218,7,2.79,31.14,66.86,Australia,Male,Active
 TEST,Josh Hazlewood,JR Hazlewood,Player coverage A · TEST,auto,23,12,3725,620.83,1597,69,2.57,23.14,53.99,Australia,Male,Active
 TEST,Josh Hazlewood,JR Hazlewood,Player coverage B · TEST,auto,18,9,2300,383.33,1058,49,2.76,21.59,46.94,Australia,Male,Active
 TEST,James Hopes,JR Hopes,Player coverage A · TEST,auto,18,11,1938,323.0,994,21,3.08,47.33,92.29,Australia,Male,Retired
@@ -46746,6 +46925,7 @@ TEST,Modester Mupachikwa,M Mupachikwa,Player coverage A · TEST,auto,1,1,96,16.0
 TEST,Modester Mupachikwa,M Mupachikwa,Player coverage B · TEST,auto,1,1,54,9.0,39,1,4.33,39.0,54.0,Zimbabwe,Female,Active
 TEST,Muthiah Muralidaran,M Muralitharan,Player coverage A · TEST,auto,26,13,5321,886.83,2380,124,2.68,19.19,42.91,Sri Lanka,Male,Retired
 TEST,Muthiah Muralidaran,M Muralitharan,Player coverage B · TEST,auto,15,8,3076,512.67,1237,65,2.41,19.03,47.32,Sri Lanka,Male,Retired
+TEST,Muthiah Muralidaran,M Muralitharan,alltime nurul,auto,2,1,282,47.0,134,4,2.85,33.5,70.5,Sri Lanka,Male,Retired
 TEST,Muthiah Muralidaran,M Muralitharan,testing-xi-1,auto,8,4,1128,188.0,480,16,2.55,30.0,70.5,Sri Lanka,Male,Retired
 TEST,Matthew Musinguzi,M Musinguzi,Player coverage B · TEST,auto,2,2,90,15.0,30,1,2.0,30.0,90.0,Uganda,Male,Active
 TEST,Mary-Anne Musonda,M Musonda,Player coverage A · TEST,auto,3,2,312,52.0,170,11,3.27,15.45,28.36,Zimbabwe,Female,Retired
@@ -47275,7 +47455,7 @@ TEST,Malusi Siboto,MP Siboto,Player coverage A · TEST,auto,22,11,3126,521.0,148
 TEST,Malusi Siboto,MP Siboto,Player coverage B · TEST,auto,27,14,3086,514.33,1661,46,3.23,36.11,67.09,South Africa,Male,Active
 TEST,MP Singh,MP Singh,Player coverage A · TEST,auto,11,6,923,153.83,563,20,3.66,28.15,46.15,New Zealand,Female,Retired
 TEST,MP Singh,MP Singh,Player coverage B · TEST,auto,13,7,1161,193.5,607,7,3.14,86.71,165.86,New Zealand,Female,Retired
-TEST,Marcus Stoinis,MP Stoinis,Australia Goat,auto,2,1,165,27.5,88,3,3.2,29.33,55.0,Australia,Male,Active
+TEST,Marcus Stoinis,MP Stoinis,Australia Goat,auto,4,2,327,54.5,182,5,3.34,36.4,65.4,Australia,Male,Active
 TEST,Marcus Stoinis,MP Stoinis,Player coverage A · TEST,auto,22,12,2499,416.5,1473,47,3.54,31.34,53.17,Australia,Male,Active
 TEST,Marcus Stoinis,MP Stoinis,Player coverage B · TEST,auto,21,12,2524,420.67,1465,41,3.48,35.73,61.56,Australia,Male,Active
 TEST,Michael Vaughan,MP Vaughan,Player coverage A · TEST,auto,15,8,912,152.0,437,10,2.88,43.7,91.2,England,Male,Retired
@@ -48787,7 +48967,7 @@ TEST,PJ Bhati,PJ Bhati,Player coverage B · TEST,auto,2,1,204,34.0,101,2,2.97,50
 TEST,Phoebe Brett,PJ Brett,Player coverage A · TEST,auto,24,12,5835,972.5,2932,108,3.01,27.15,54.03,England,Female,Active
 TEST,Phoebe Brett,PJ Brett,Player coverage B · TEST,auto,25,13,5810,968.33,2975,97,3.07,30.67,59.9,England,Female,Active
 TEST,Patrick Cummins,PJ Cummins,Australia,auto,6,3,600,100.0,271,9,2.71,30.11,66.67,Australia,Male,Active
-TEST,Patrick Cummins,PJ Cummins,Australia Goat,auto,2,1,252,42.0,121,8,2.88,15.13,31.5,Australia,Male,Active
+TEST,Patrick Cummins,PJ Cummins,Australia Goat,auto,4,2,486,81.0,301,13,3.72,23.15,37.38,Australia,Male,Active
 TEST,Patrick Cummins,PJ Cummins,Flappy's Taskforce,auto,8,4,960,160.0,449,13,2.81,34.54,73.85,Australia,Male,Active
 TEST,Patrick Cummins,PJ Cummins,Player coverage A · TEST,auto,15,8,2479,413.17,1188,36,2.88,33.0,68.86,Australia,Male,Active
 TEST,Patrick Cummins,PJ Cummins,Player coverage B · TEST,auto,18,9,2418,403.0,973,53,2.41,18.36,45.62,Australia,Male,Active
@@ -50524,6 +50704,7 @@ TEST,Sarah Aley,SE Aley,Player coverage A · TEST,auto,29,15,6090,1015.0,3554,96
 TEST,Sarah Aley,SE Aley,Player coverage B · TEST,auto,17,10,3696,616.0,1949,61,3.16,31.95,60.59,Australia,Female,Retired
 TEST,Shane Bond,SE Bond,Player coverage A · TEST,auto,18,10,3074,512.33,1686,57,3.29,29.58,53.93,New Zealand,Male,Retired
 TEST,Shane Bond,SE Bond,Player coverage B · TEST,auto,27,15,4615,769.17,2506,111,3.26,22.58,41.58,New Zealand,Male,Retired
+TEST,Shane Bond,SE Bond,alltime nurul,auto,2,1,258,43.0,169,4,3.93,42.25,64.5,New Zealand,Male,Retired
 TEST,SE Bowden,SE Bowden,Player coverage A · TEST,auto,1,1,19,3.17,13,1,4.11,13.0,19.0,New Zealand,Female,Active
 TEST,SE Bowden,SE Bowden,Player coverage B · TEST,auto,1,1,2,0.33,0,1,0.0,0.0,2.0,New Zealand,Female,Active
 TEST,Shawn Findlay,SE Findlay,Player coverage A · TEST,auto,5,3,291,48.5,194,5,4.0,38.8,58.2,West Indies,Male,Retired
@@ -50841,7 +51022,7 @@ TEST,Stuart Thompson,SR Thompson,Player coverage A · TEST,auto,22,11,3409,568.1
 TEST,Stuart Thompson,SR Thompson,Player coverage B · TEST,auto,26,14,3550,591.67,1752,67,2.96,26.15,52.99,Ireland,Male,Retired
 TEST,Seren Waters,SR Waters,Player coverage A · TEST,auto,9,6,447,74.5,209,11,2.81,19.0,40.64,Kenya,Male,Retired
 TEST,Seren Waters,SR Waters,Player coverage B · TEST,auto,5,5,445,74.17,244,8,3.29,30.5,55.63,Kenya,Male,Retired
-TEST,Shane Watson,SR Watson,Australia Goat,auto,2,1,174,29.0,96,1,3.31,96.0,174.0,Australia,Male,Retired
+TEST,Shane Watson,SR Watson,Australia Goat,auto,4,2,330,55.0,184,4,3.35,46.0,82.5,Australia,Male,Retired
 TEST,Shane Watson,SR Watson,Flappy's Taskforce,auto,7,4,596,99.33,203,8,2.04,25.38,74.5,Australia,Male,Retired
 TEST,Shane Watson,SR Watson,Player coverage A · TEST,auto,19,10,1726,287.67,785,20,2.73,39.25,86.3,Australia,Male,Retired
 TEST,Shane Watson,SR Watson,Player coverage B · TEST,auto,18,9,1887,314.5,851,39,2.71,21.82,48.38,Australia,Male,Retired
