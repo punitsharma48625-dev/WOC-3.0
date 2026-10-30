@@ -13,13 +13,12 @@
   const text = (value) => String(value ?? "");
   // ICC Full Members (12): Afghanistan, Australia, Bangladesh, England,
   // India, Ireland, New Zealand, Pakistan, South Africa, Sri Lanka,
-  // West Indies and Zimbabwe. Country names are normalized for common aliases.
+  // West Indies and Zimbabwe.
   const FULL_MEMBER_COUNTRIES = new Set([
     "afghanistan", "australia", "bangladesh", "england", "india", "ireland",
     "new zealand", "pakistan", "south africa", "sri lanka", "west indies", "zimbabwe",
   ]);
-  const normalizedCountry = (value) => text(value).trim().toLocaleLowerCase()
-    .replace(/[’']/g, "'").replace(/\s+/g, " ");
+  const normalizedCountry = (value) => text(value).trim().toLocaleLowerCase().replace(/\s+/g, " ");
   const isFullMemberCountry = (value) => FULL_MEMBER_COUNTRIES.has(normalizedCountry(value));
   const columnLabel = (column) => {
     const labels = { name: "Name", sim_name: "Sim name", teams: "Teams" };
@@ -87,7 +86,10 @@
     try {
       const response = await fetch(`./data/${encodeURIComponent(tab.file)}?v=${encodeURIComponent(window.archiveVersion || "")}`);
       if (!response.ok) throw new Error(`Could not load ${tab.file} (${response.status})`);
-      const parsed = parseCSV(await response.text());
+      const csvText = tab.file.endsWith(".gz")
+        ? await new Response(response.body.pipeThrough(new DecompressionStream("gzip"))).text()
+        : await response.text();
+      const parsed = parseCSV(csvText);
       if (state.tab?.id !== tab.id) return;
       // Keep player identity at the left edge and team fields at the far right,
       // including tabs whose export calls the field "team" rather than "teams".
@@ -99,7 +101,9 @@
         ...trailing,
       ];
       state.rows = parsed.records; inferNumericColumns();
-      $("download").href = `./data/${encodeURIComponent(tab.file)}`; $("download").download = tab.file;
+      $("download").href = `./data/${encodeURIComponent(tab.file)}?v=${encodeURIComponent(window.archiveVersion || "")}`;
+      $("download").download = tab.file;
+      $("download").querySelector("span").textContent = tab.file.endsWith(".gz") ? "Download CSV.GZ" : "Download CSV";
       populateFormatFilter(); populateCountryFilter(); renderTable();
     } catch (error) {
       $("row-count").textContent = "Load failed";
@@ -168,7 +172,7 @@
         if (n === null) return false;
         if (filter.min !== "" && n < Number(filter.min)) return false;
         if (filter.max !== "" && n > Number(filter.max)) return false;
-      } else if (filter.value && !value.toLocaleLowerCase().includes(filter.value.toLocaleLowerCase())) return false;
+      } else if (filter.value && (column === "format" ? value !== filter.value : !value.toLocaleLowerCase().includes(filter.value.toLocaleLowerCase()))) return false;
     }
     return true;
   }
@@ -220,6 +224,20 @@
           range.append(input);
         }
         cell.append(range);
+      } else if (column === "format") {
+        const select = document.createElement("select"); select.className = "column-filter-select";
+        select.dataset.filterColumn = column; select.dataset.filterBound = "value";
+        select.setAttribute("aria-label", "Filter by format");
+        const any = document.createElement("option"); any.value = ""; any.textContent = "All formats"; select.append(any);
+        const formats = [...new Set(state.rows.map((record) => text(record.format).trim()).filter(Boolean))]
+          .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }));
+        for (const format of formats) { const option = document.createElement("option"); option.value = format; option.textContent = format; select.append(option); }
+        select.value = current.value;
+        select.addEventListener("change", () => {
+          const value = state.filters.get(column) || { value: "", min: "", max: "" };
+          value.value = select.value; state.filters.set(column, value); state.page = 0; renderTable();
+        });
+        cell.append(select);
       } else {
         const input = document.createElement("input"); input.type = "search"; input.value = current.value;
         input.dataset.filterColumn = column; input.dataset.filterBound = "value";
