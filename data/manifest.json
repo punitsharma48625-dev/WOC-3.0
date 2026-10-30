@@ -1,8 +1,8 @@
 {
   "title": "WOC Simulated Cricket Stats",
-  "export_version": 7,
+  "export_version": 8,
   "venue_min_matches": 5,
-  "generated_at_utc": "2026-10-27T22:49:23Z",
+  "generated_at_utc": "2026-10-30T20:45:10Z",
   "match_count": 401565,
   "max_match_id": 401565,
   "scope": "Global simulated player stats for the curated country, franchise/domestic, international-veteran, and saved-team pool; no server or user identifiers are exported.",
@@ -25,7 +25,7 @@
       "label": "Bowling career",
       "description": "Global simulated bowling career totals by format",
       "file": "bowling_career.csv",
-      "rows": 29285
+      "rows": 9720
     },
     {
       "id": "career_batting",
@@ -53,7 +53,7 @@
       "label": "Bowling by phase",
       "description": "Overs, runs, wickets, economy, average and strike rate by phase",
       "file": "bowling_phase.csv",
-      "rows": 139628
+      "rows": 59483
     },
     {
       "id": "bat_phase_type",
@@ -74,7 +74,7 @@
       "label": "Bowling vs handedness",
       "description": "Bowling splits against left- and right-handed batters",
       "file": "bowling_vs_batter_hand.csv",
-      "rows": 106179
+      "rows": 40696
     },
     {
       "id": "bat_position",
@@ -95,7 +95,7 @@
       "label": "Bowling by team",
       "description": "Player bowling record for each team represented in saved matches",
       "file": "bowling_by_team.csv",
-      "rows": 55339
+      "rows": 20757
     },
     {
       "id": "bat_opp",
@@ -109,7 +109,7 @@
       "label": "Bowling vs opposition",
       "description": "Player bowling record against each opponent",
       "file": "bowling_vs_opposition.csv",
-      "rows": 75473
+      "rows": 34790
     },
     {
       "id": "bat_venue",
@@ -123,7 +123,7 @@
       "label": "Bowling by venue",
       "description": "Player bowling record at each venue (minimum 5 matches)",
       "file": "bowling_by_venue.csv",
-      "rows": 266408
+      "rows": 157928
     },
     {
       "id": "bat_pitch",
@@ -137,7 +137,7 @@
       "label": "Bowling by pitch",
       "description": "Player bowling record by the selected pitch profile",
       "file": "bowling_by_pitch.csv",
-      "rows": 55645
+      "rows": 21043
     },
     {
       "id": "bat_innings_context",
@@ -151,7 +151,7 @@
       "label": "Bowling by innings",
       "description": "Player bowling record in each innings number",
       "file": "bowling_by_innings.csv",
-      "rows": 124895
+      "rows": 52851
     },
     {
       "id": "bat_form",
@@ -165,9 +165,19 @@
       "label": "Recent bowling form",
       "description": "Last ten saved bowling innings per player and format",
       "file": "recent_bowling_form.csv",
-      "rows": 247794
+      "rows": 94438
     }
   ],
   "metadata_version": 1,
-  "career_sheets_version": 1
+  "career_sheets_version": 1,
+  "bowling_role_filter": {
+    "version": 1,
+    "included_roles": [
+      "bowler",
+      "allrounder"
+    ],
+    "excluded_wicketkeepers": true,
+    "eligible_players": 3353,
+    "fingerprint": "6852fe72453dcfda47610ee4ffe65d106fec773aa9759cec11f8e3a879f70a2e"
+  }
 }
