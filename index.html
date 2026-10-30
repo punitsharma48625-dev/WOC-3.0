@@ -3,17 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#111418">
-  <meta name="description" content="WOC 3.0 simulation archive — searchable cricket player and match statistics.">
-  <title>WOC 3.0 · Simulation Stats</title>
-  <link rel="stylesheet" href="./assets/site.css?v=20261024-venue-gzip-8">
-  <script src="./assets/site.js?v=20261024-venue-gzip-8" defer></script>
+  <meta name="theme-color" content="#253944">
+  <title>WOC · Simulation Stats</title>
+  <link rel="stylesheet" href="./assets/site.css?v=20261031-icc-filter">
+  <script src="./assets/site.js?v=20261031-icc-filter" defer></script>
 </head>
 <body>
   <header class="hero">
-    <div class="hero-inner">
-      <div class="brand" aria-label="WOC 3.0"><span>WOC</span><span class="brand-version">3.0</span></div>
-    </div>
+    <div class="hero-inner"><div class="brand">WOC 3.0</div></div>
   </header>
 
   <main class="shell">
@@ -29,6 +26,7 @@
       </details>
       <label class="filter-wrap"><span>GENDER</span><select id="gender-filter"><option value="">All genders</option><option value="Male">Male</option><option value="Female">Female</option></select></label>
       <label class="filter-wrap"><span>CAREER STATUS</span><select id="status-filter"><option value="">All statuses</option><option value="Active">Active</option><option value="Retired">Retired</option><option value="Unknown">Unknown</option></select></label>
+      <label class="filter-wrap"><span>ICC MEMBERSHIP</span><select id="membership-filter"><option value="">All memberships</option><option value="full">Full Members</option><option value="associate">Associates</option></select></label>
       <button id="clear-filters" class="clear-filters" type="button" title="Clear search, format and all column filters">Clear filters</button>
       <a id="download" class="download" href="#" download>↓ <span>Download CSV</span></a>
     </div>

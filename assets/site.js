@@ -6,11 +6,21 @@
   const $ = (id) => document.getElementById(id);
   const state = {
     tabs: [], tab: null, rows: [], columns: [], numeric: new Set(), sort: null,
-    direction: 1, page: 0, query: "", format: "", countries: new Set(), gender: "", careerStatus: "",
+    direction: 1, page: 0, query: "", format: "", countries: new Set(), gender: "", careerStatus: "", membership: "",
     filters: new Map(), loading: false,
   };
   const tabsEl = $("tabs"), table = $("stats-table"), thead = table.querySelector("thead"), tbody = table.querySelector("tbody");
   const text = (value) => String(value ?? "");
+  // ICC Full Members (12): Afghanistan, Australia, Bangladesh, England,
+  // India, Ireland, New Zealand, Pakistan, South Africa, Sri Lanka,
+  // West Indies and Zimbabwe. Country names are normalized for common aliases.
+  const FULL_MEMBER_COUNTRIES = new Set([
+    "afghanistan", "australia", "bangladesh", "england", "india", "ireland",
+    "new zealand", "pakistan", "south africa", "sri lanka", "west indies", "zimbabwe",
+  ]);
+  const normalizedCountry = (value) => text(value).trim().toLocaleLowerCase()
+    .replace(/[’']/g, "'").replace(/\s+/g, " ");
+  const isFullMemberCountry = (value) => FULL_MEMBER_COUNTRIES.has(normalizedCountry(value));
   const columnLabel = (column) => {
     const labels = { name: "Name", sim_name: "Sim name", teams: "Teams" };
     return labels[column] || column.replaceAll("_", " ").replace(/\b\w/g, (letter) => letter.toUpperCase());
@@ -77,10 +87,7 @@
     try {
       const response = await fetch(`./data/${encodeURIComponent(tab.file)}?v=${encodeURIComponent(window.archiveVersion || "")}`);
       if (!response.ok) throw new Error(`Could not load ${tab.file} (${response.status})`);
-      const csvText = tab.file.endsWith(".gz")
-        ? await new Response(response.body.pipeThrough(new DecompressionStream("gzip"))).text()
-        : await response.text();
-      const parsed = parseCSV(csvText);
+      const parsed = parseCSV(await response.text());
       if (state.tab?.id !== tab.id) return;
       // Keep player identity at the left edge and team fields at the far right,
       // including tabs whose export calls the field "team" rather than "teams".
@@ -92,9 +99,7 @@
         ...trailing,
       ];
       state.rows = parsed.records; inferNumericColumns();
-      $("download").href = `./data/${encodeURIComponent(tab.file)}?v=${encodeURIComponent(window.archiveVersion || "")}`;
-      $("download").download = tab.file;
-      $("download").querySelector("span").textContent = tab.file.endsWith(".gz") ? "Download CSV.GZ" : "Download CSV";
+      $("download").href = `./data/${encodeURIComponent(tab.file)}`; $("download").download = tab.file;
       populateFormatFilter(); populateCountryFilter(); renderTable();
     } catch (error) {
       $("row-count").textContent = "Load failed";
@@ -151,6 +156,9 @@
     if (state.countries.size && !state.countries.has(text(row.country))) return false;
     if (state.gender && text(row.gender).toLocaleLowerCase() !== state.gender.toLocaleLowerCase()) return false;
     if (state.careerStatus && text(row.career_status) !== state.careerStatus) return false;
+    const country = normalizedCountry(row.country);
+    if (state.membership === "full" && !isFullMemberCountry(country)) return false;
+    if (state.membership === "associate" && (!country || isFullMemberCountry(country))) return false;
     if (query && !state.columns.some((column) => text(row[column]).toLocaleLowerCase().includes(query))) return false;
     for (const [column, filter] of state.filters) {
       if (state.numeric.has(column) && filter.min === "" && filter.max === "") continue;
@@ -160,7 +168,7 @@
         if (n === null) return false;
         if (filter.min !== "" && n < Number(filter.min)) return false;
         if (filter.max !== "" && n > Number(filter.max)) return false;
-      } else if (filter.value && (column === "format" ? value !== filter.value : !value.toLocaleLowerCase().includes(filter.value.toLocaleLowerCase()))) return false;
+      } else if (filter.value && !value.toLocaleLowerCase().includes(filter.value.toLocaleLowerCase())) return false;
     }
     return true;
   }
@@ -186,7 +194,7 @@
   function activeFilterCount() {
     return [...state.filters.values()].filter((filter) => filter.value || filter.min !== "" || filter.max !== "").length +
       Number(Boolean(state.query.trim())) + Number(Boolean(state.format)) + Number(state.countries.size > 0) +
-      Number(Boolean(state.gender)) + Number(Boolean(state.careerStatus));
+      Number(Boolean(state.gender)) + Number(Boolean(state.careerStatus)) + Number(Boolean(state.membership));
   }
 
   function renderFilterRow() {
@@ -212,20 +220,6 @@
           range.append(input);
         }
         cell.append(range);
-      } else if (column === "format") {
-        const select = document.createElement("select"); select.className = "column-filter-select";
-        select.dataset.filterColumn = column; select.dataset.filterBound = "value";
-        select.setAttribute("aria-label", "Filter by format");
-        const any = document.createElement("option"); any.value = ""; any.textContent = "All formats"; select.append(any);
-        const formats = [...new Set(state.rows.map((record) => text(record.format).trim()).filter(Boolean))]
-          .sort((a, b) => a.localeCompare(b, undefined, { sensitivity: "base" }));
-        for (const format of formats) { const option = document.createElement("option"); option.value = format; option.textContent = format; select.append(option); }
-        select.value = current.value;
-        select.addEventListener("change", () => {
-          const value = state.filters.get(column) || { value: "", min: "", max: "" };
-          value.value = select.value; state.filters.set(column, value); state.page = 0; renderTable();
-        });
-        cell.append(select);
       } else {
         const input = document.createElement("input"); input.type = "search"; input.value = current.value;
         input.dataset.filterColumn = column; input.dataset.filterBound = "value";
@@ -313,10 +307,10 @@
   let renderTimer;
   function scheduleRender() { clearTimeout(renderTimer); renderTimer = setTimeout(renderTable, 180); }
   function clearFilters() {
-    state.query = ""; state.format = ""; state.countries.clear(); state.gender = ""; state.careerStatus = "";
+    state.query = ""; state.format = ""; state.countries.clear(); state.gender = ""; state.careerStatus = ""; state.membership = "";
     state.filters.clear(); state.page = 0;
     $("search").value = ""; $("format-filter").value = ""; $("gender-filter").value = "";
-    $("status-filter").value = ""; $("country-search").value = ""; updateCountrySummary();
+    $("status-filter").value = ""; $("membership-filter").value = ""; $("country-search").value = ""; updateCountrySummary();
     populateCountryFilter(); renderTable();
   }
 
@@ -344,6 +338,7 @@
   $("format-filter").addEventListener("change", (event) => { state.format = event.target.value; state.page = 0; renderTable(); });
   $("gender-filter").addEventListener("change", (event) => { state.gender = event.target.value; state.page = 0; renderTable(); });
   $("status-filter").addEventListener("change", (event) => { state.careerStatus = event.target.value; state.page = 0; renderTable(); });
+  $("membership-filter").addEventListener("change", (event) => { state.membership = event.target.value; state.page = 0; renderTable(); });
   $("country-search").addEventListener("input", filterCountryOptions);
   $("clear-filters").addEventListener("click", clearFilters);
   $("prev").addEventListener("click", () => { state.page--; renderTable(); });
